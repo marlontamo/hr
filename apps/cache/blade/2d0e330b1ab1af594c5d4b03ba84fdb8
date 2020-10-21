@@ -1,0 +1,2 @@
+<?php echo "<?php if (!defined('BASEPATH')) exit('No direct script access allowed');\r\n"; ?>
+<?php echo $string; ?>

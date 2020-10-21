@@ -1,0 +1,6 @@
+2020-09-10 10:21:17 --> authentication --> login --> login -->  --> 
+2020-09-10 10:21:37 --> authentication --> login --> login -->  --> 
+2020-09-10 10:22:08 --> authentication --> logout --> logout -->  --> 
+2020-09-10 13:28:02 --> authentication --> login --> login -->  --> 
+2020-09-10 13:48:45 --> authentication --> logout --> logout -->  --> 
+2020-09-10 13:51:04 --> authentication --> login --> login -->  --> 

@@ -1,0 +1,98 @@
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> profile_id -->  --> 24
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> mod_id -->  --> 43
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> action_id -->  --> 5
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> profile_id -->  --> 24
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> mod_id -->  --> 43
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> action_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> profile_id -->  --> 24
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> mod_id -->  --> 43
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> action_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> profile_id -->  --> 24
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> mod_id -->  --> 43
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> action_id -->  --> 8
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> profile_id -->  --> 24
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> mod_id -->  --> 143
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> profile_id -->  --> 24
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> mod_id -->  --> 143
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> profile_id -->  --> 24
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> mod_id -->  --> 143
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> action_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> profile_id -->  --> 24
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> mod_id -->  --> 143
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> action_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> profile_id -->  --> 24
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> mod_id -->  --> 143
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> action_id -->  --> 5
+Admin, Teemworx (admin) --> 2017-11-15 09:54:47 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-11-15 09:55:28 --> roles --> insert --> role -->  --> ICT Admin
+Admin, Teemworx (admin) --> 2017-11-15 09:57:43 --> roles --> update --> profile_id -->  --> 5,12,14,24
+Admin, Teemworx (admin) --> 2017-11-15 09:57:43 --> roles --> update --> description -->  --> ICT Administrator
+Admin, Teemworx (admin) --> 2017-11-15 09:58:17 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-11-15 09:58:33 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-11-15 02:09:51 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+Admin, Teemworx (admin) --> 2017-11-15 02:09:51 --> applicants --> insert --> recruit_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-15 02:09:51 --> applicants --> insert --> key_id -->  --> 69
+Admin, Teemworx (admin) --> 2017-11-15 02:09:51 --> applicants --> insert --> key -->  --> skill-name
+Admin, Teemworx (admin) --> 2017-11-15 02:09:51 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-15 02:09:51 --> applicants --> insert --> key_name -->  --> Name
+Admin, Teemworx (admin) --> 2017-11-15 02:09:51 --> applicants --> insert --> key_value -->  --> Magsasaka
+Admin, Teemworx (admin) --> 2017-11-15 02:09:51 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+Admin, Teemworx (admin) --> 2017-11-15 02:09:51 --> applicants --> insert --> recruit_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-15 02:09:51 --> applicants --> insert --> key_id -->  --> 71
+Admin, Teemworx (admin) --> 2017-11-15 02:09:51 --> applicants --> insert --> key -->  --> skill-level
+Admin, Teemworx (admin) --> 2017-11-15 02:09:51 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-15 02:09:51 --> applicants --> insert --> key_name -->  --> Proficiency Level
+Admin, Teemworx (admin) --> 2017-11-15 02:09:51 --> applicants --> insert --> key_value -->  --> Advance
+Admin, Teemworx (admin) --> 2017-11-15 02:09:51 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+Admin, Teemworx (admin) --> 2017-11-15 02:09:51 --> applicants --> insert --> recruit_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-15 02:09:51 --> applicants --> insert --> key_id -->  --> 72
+Admin, Teemworx (admin) --> 2017-11-15 02:09:51 --> applicants --> insert --> key -->  --> skill-remarks
+Admin, Teemworx (admin) --> 2017-11-15 02:09:51 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-15 02:09:51 --> applicants --> insert --> key_name -->  --> Remarks
+Admin, Teemworx (admin) --> 2017-11-15 02:09:51 --> applicants --> insert --> key_value -->  --> test
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> recruit_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> key_id -->  --> 33
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> key -->  --> education-type
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> key_name -->  --> Type
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> key_value -->  --> Graduate Studies
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> recruit_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> key_id -->  --> 34
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> key -->  --> education-school
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> key_name -->  --> School
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> key_value -->  --> fggsdfd
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> recruit_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> key_id -->  --> 35
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> key -->  --> education-year-from
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> key_name -->  --> Year From
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> key_value -->  --> 1990
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> recruit_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> key_id -->  --> 36
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> key -->  --> education-year-to
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> key_name -->  --> Year To
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> key_value -->  --> 1994
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> recruit_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> key_id -->  --> 37
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> key -->  --> education-degree
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> sequence -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> key_name -->  --> Degree
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> insert --> key_value -->  --> bs
+Admin, Teemworx (admin) --> 2017-11-15 02:10:01 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 

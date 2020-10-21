@@ -1,0 +1,14 @@
+Admin, Teemworx (admin) --> 2019-11-05 09:50:07 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2019-11-05 10:13:41 --> users --> update --> hash --> $2a$08$9WK4qhuSlrAOg9/pDoFN8OjZ9IqJIRJECmY2D2jDxgzbPPxJQLV6. --> $2a$08$lQMUHJb7rl6C.okvtZ/Ow.584JDABOV9aPBNdK9RdkcZbblUKcNXu
+Admin, Teemworx (admin) --> 2019-11-05 10:13:41 --> users --> update --> active --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2019-11-05 10:13:45 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2019-11-05 10:13:53 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2019-11-05 10:15:28 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2019-11-05 10:19:34 --> users --> update --> hash --> $2a$08$f5WEU9C9u2HbXNMUMsLFg.K1ceg1GdH4ULNPHO5Kdh8Rv4JhiJ3om --> $2a$08$matHlVmWGxMDuibVBbFyEuwrRMMxwSgyOohKnk3jbLNeukBQAo3JS
+Admin, Teemworx (admin) --> 2019-11-05 10:19:34 --> users --> update --> active --> 1 --> 1 else 0
+ALICANTE, LISSA (30991) --> 2019-11-05 10:19:42 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2019-11-05 10:19:50 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2019-11-05 12:11:05 --> authentication --> logout --> logout -->  --> 
+() --> 2019-11-05 12:11:09 --> authentication --> logout --> logout -->  --> 
+() --> 2019-11-05 12:11:13 --> authentication --> logout --> logout -->  --> 
+() --> 2019-11-05 12:11:16 --> authentication --> logout --> logout -->  --> 

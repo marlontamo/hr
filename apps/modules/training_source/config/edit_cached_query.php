@@ -1,0 +1,4 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["edit_cached_query"] = 'SELECT `ww_training_source`.`source_id` as record_id, `ww_training_source`.`created_on` as "training_source.created_on", `ww_training_source`.`created_by` as "training_source.created_by", `ww_training_source`.`modified_on` as "training_source.modified_on", `ww_training_source`.`modified_by` as "training_source.modified_by", ww_training_source.description as "training_source.description", ww_training_source.source as "training_source.source", ww_training_source.source_code as "training_source.source_code"
+FROM (`ww_training_source`)
+WHERE `ww_training_source`.`source_id` = "{$record_id}"';

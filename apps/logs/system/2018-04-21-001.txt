@@ -1,0 +1,35 @@
+Admin, Teemworx (admin) --> 2018-04-21 10:39:53 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-04-21 10:40:06 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-04-21 10:48:29 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2018-04-21 10:48:43 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2018-04-21 10:50:48 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-04-21 10:50:56 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-04-21 11:51:39 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2018-04-21 15:26:42 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2018-04-21 15:36:44 --> authentication --> logout --> logout -->  --> 
+DE CASTRO, CHRISTINA ELENA (01713) --> 2018-04-21 15:36:56 --> authentication --> login --> login -->  --> 
+DE CASTRO, CHRISTINA ELENA (01713) --> 2018-04-21 15:41:13 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-04-21 15:41:28 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-04-21 15:46:26 --> authentication --> logout --> logout -->  --> 
+FUENTEBELLA JR., EDUARDO (32765) --> 2018-04-21 15:46:37 --> authentication --> login --> login -->  --> 
+FUENTEBELLA JR., EDUARDO (32765) --> 2018-04-21 15:51:52 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-04-21 15:52:03 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-04-21 16:00:12 --> users --> update --> hash --> $2a$08$Ei6PY9Ios5WxTXUVsIwKWu1jQpT5y6gKrrzMrU6uTG2UrLHyU37EC --> $2a$08$fwQQuKwrF0g.ZQO6d.xXy.oUGDAhlyK5O9JltsesrjvYGkiiLc4Fy
+Admin, Teemworx (admin) --> 2018-04-21 16:00:12 --> users --> update --> active --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2018-04-21 16:42:39 --> authentication --> logout --> logout -->  --> 
+ORBESO, JOSEPH IAN (33061) --> 2018-04-21 16:42:47 --> authentication --> login --> login -->  --> 
+ORBESO, JOSEPH IAN (33061) --> 2018-04-21 16:56:18 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-04-21 16:57:30 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-04-21 16:59:37 --> authentication --> logout --> logout -->  --> 
+SIGUA, MARK LOUIE (32584) --> 2018-04-21 17:02:50 --> authentication --> login --> login -->  --> 
+SIGUA, MARK LOUIE (32584) --> 2018-04-21 17:11:26 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2018-04-21 17:11:57 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2018-04-21 17:14:32 --> authentication --> logout --> logout -->  --> 
+ORBESO, JOSEPH IAN (33061) --> 2018-04-21 17:14:51 --> authentication --> login --> login -->  --> 
+ORBESO, JOSEPH IAN (33061) --> 2018-04-21 17:16:17 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-21 17:16:29 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-21 17:16:48 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-21 17:17:11 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-04-21 17:20:01 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-21 17:20:16 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-21 17:54:07 --> authentication --> logout --> logout -->  --> 

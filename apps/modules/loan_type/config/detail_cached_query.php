@@ -1,0 +1,4 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["detail_cached_query"] = 'SELECT `ww_payroll_loan_type`.`loan_type_id` as record_id, `ww_payroll_loan_type`.`created_on` as "payroll_loan_type.created_on", `ww_payroll_loan_type`.`created_by` as "payroll_loan_type.created_by", `ww_payroll_loan_type`.`modified_on` as "payroll_loan_type.modified_on", `ww_payroll_loan_type`.`modified_by` as "payroll_loan_type.modified_by", ww_payroll_loan_type.loan_type as "payroll_loan_type.loan_type", ww_payroll_loan_type.description as "payroll_loan_type.description"
+FROM (`ww_payroll_loan_type`)
+WHERE `ww_payroll_loan_type`.`loan_type_id` = "{$record_id}"';

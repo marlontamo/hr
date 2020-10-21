@@ -1,0 +1,27 @@
+<?php
+$lang['location'] = array(
+	'user_manager' => 'User Manager',
+	'location_information' => 'Location Information',
+	'location' => 'Location',
+	'p_location' => 'Enter Location',
+	'location_code' => 'Location Code',
+	'p_location_code' => 'Enter Location Code',
+	'minimum_wage' => 'Minimum Wage',
+	'p_minimum_wage' => 'Enter Minimum Wage',
+	'ecola_per_day' => 'Ecola Per Day',
+	'p_ecola_per_day' => 'Enter Ecola Per Day',
+	'ecola_per_month' => 'Ecola Per Month',
+	'p_ecola_per_month' => 'Enter Ecola Per Month',
+	'active' => 'Active',
+	'option_yes' => 'Yes',
+	'option_no' => 'No',
+	'edit' => 'Edit',
+	'options' => 'Options',
+	'active' => 'Active',
+	'inactive' => 'Inactive',
+	'home' => 'Home',
+	'refresh' => 'Refresh',
+	'back' => 'Back',
+	'list_of' => 'List of',
+	'status' => 'Status'
+);

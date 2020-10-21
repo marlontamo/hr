@@ -1,0 +1,7 @@
+2017-11-22 09:02:57 --> authentication --> login --> login -->  --> 
+2017-11-22 09:03:41 --> authentication --> logout --> logout -->  --> 
+2017-11-22 09:04:07 --> authentication --> login --> login -->  --> 
+2017-11-22 09:04:44 --> users --> update --> hash --> $2a$08$Mz.msntHwsdGech/3Q3P3.cbqo3UsCILCmA41rmDgM85dCRBtc4ia --> $2a$08$9y8XOy6cZ7oQv92RtxRHheb0DwPDoKl9hNaZe4tGtpX6v/iQhaFpi
+2017-11-22 09:04:44 --> users --> update --> active --> 1 --> 1 else 0
+2017-11-22 09:04:44 --> users --> update --> birth_date --> 0000-00-00 --> 1970-01-01
+2017-11-22 09:04:50 --> authentication --> logout --> logout -->  --> 

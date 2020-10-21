@@ -1,0 +1,6 @@
+2018-02-22 07:59:13 --> authentication --> login --> login -->  --> 
+2018-02-22 08:00:24 --> authentication --> update --> users - hash --> $2a$08$1qd53ZPTffiGub9P12xNqunBctl7237bqTv.UxqkOwRn1wtgyNE2a --> $2a$08$mLQkBEORsgFU0lYkdOVkIuXmK4HweNJqN6IYDdcEz7u5TnAwwqfRG
+2018-02-22 08:01:34 --> authentication --> logout --> logout -->  --> 
+2018-02-22 11:59:49 --> authentication --> login --> login -->  --> 
+2018-02-22 12:02:28 --> authentication --> logout --> logout -->  --> 
+2018-02-22 14:38:41 --> authentication --> login --> login -->  --> 

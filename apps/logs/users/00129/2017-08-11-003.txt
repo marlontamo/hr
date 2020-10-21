@@ -1,0 +1,127 @@
+2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> illness_injuries
+2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Have you have any major illnesses/injuries in the past?
+2017-08-11 05:35:10 --> applicants --> insert --> key_value -->  --> 0
+2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 189
+2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> illness_injuries_desc
+2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Illness/Injuries Descriptio
+2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 190
+2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> illness_compensated
+2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Did you receive compensation for these illnesses/injuries?
+2017-08-11 05:35:10 --> applicants --> insert --> key_value -->  --> 0
+2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 191
+2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> willing_to_relocate
+2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Are you willing to be relocated
+2017-08-11 05:35:10 --> applicants --> insert --> key_value -->  --> 0
+2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 192
+2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> days_notice_to_work
+2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> How many days notice do you need to be available for work?
+2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 27
+2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> height
+2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Height
+2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 28
+2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> weight
+2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Weight
+2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 29
+2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> interests_hobbies
+2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Interests/Hobbies
+2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 30
+2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> language
+2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Language Known
+2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 31
+2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> dialect
+2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Dialect Known
+2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 32
+2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> dependents_count
+2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Number of Dependents
+2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 163
+2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> solo_parent
+2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Is Solo Parent
+2017-08-11 05:35:10 --> applicants --> insert --> key_value -->  --> 0
+2017-08-11 05:35:33 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+2017-08-11 05:35:33 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:33 --> applicants --> insert --> key_id -->  --> 132
+2017-08-11 05:35:33 --> applicants --> insert --> key -->  --> family-relationship
+2017-08-11 05:35:33 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:33 --> applicants --> insert --> key_name -->  --> Relationship
+2017-08-11 05:35:33 --> applicants --> insert --> key_value -->  --> Father
+2017-08-11 05:35:33 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+2017-08-11 05:35:33 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:33 --> applicants --> insert --> key_id -->  --> 133
+2017-08-11 05:35:33 --> applicants --> insert --> key -->  --> family-name
+2017-08-11 05:35:33 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:33 --> applicants --> insert --> key_name -->  --> Name
+2017-08-11 05:35:33 --> applicants --> insert --> key_value -->  --> Tirso
+2017-08-11 05:35:33 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+2017-08-11 05:35:33 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:33 --> applicants --> insert --> key_id -->  --> 134
+2017-08-11 05:35:33 --> applicants --> insert --> key -->  --> family-birthdate
+2017-08-11 05:35:33 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:33 --> applicants --> insert --> key_name -->  --> Birthday
+2017-08-11 05:35:33 --> applicants --> insert --> key_value -->  --> February 01, 2010
+2017-08-11 05:35:33 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+2017-08-11 05:35:33 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:33 --> applicants --> insert --> key_id -->  --> 135
+2017-08-11 05:35:33 --> applicants --> insert --> key -->  --> family-occupation
+2017-08-11 05:35:33 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:33 --> applicants --> insert --> key_name -->  --> Occupation
+2017-08-11 05:35:33 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+2017-08-11 05:35:33 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:33 --> applicants --> insert --> key_id -->  --> 136
+2017-08-11 05:35:33 --> applicants --> insert --> key -->  --> family-employer
+2017-08-11 05:35:33 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:33 --> applicants --> insert --> key_name -->  --> Employer
+2017-08-11 05:35:40 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+2017-08-11 05:35:40 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:40 --> applicants --> insert --> key_id -->  --> 132
+2017-08-11 05:35:40 --> applicants --> insert --> key -->  --> family-relationship
+2017-08-11 05:35:40 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:40 --> applicants --> insert --> key_name -->  --> Relationship
+2017-08-11 05:35:40 --> applicants --> insert --> key_value -->  --> Father
+2017-08-11 05:35:40 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+2017-08-11 05:35:40 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:40 --> applicants --> insert --> key_id -->  --> 133
+2017-08-11 05:35:40 --> applicants --> insert --> key -->  --> family-name
+2017-08-11 05:35:40 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:40 --> applicants --> insert --> key_name -->  --> Name
+2017-08-11 05:35:40 --> applicants --> insert --> key_value -->  --> Tirso
+2017-08-11 05:35:40 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+2017-08-11 05:35:40 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:40 --> applicants --> insert --> key_id -->  --> 134
+2017-08-11 05:35:40 --> applicants --> insert --> key -->  --> family-birthdate
+2017-08-11 05:35:40 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:40 --> applicants --> insert --> key_name -->  --> Birthday
+2017-08-11 05:35:40 --> applicants --> insert --> key_value -->  --> February 01, 2010
+2017-08-11 05:35:40 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+2017-08-11 05:35:40 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:40 --> applicants --> insert --> key_id -->  --> 135
+2017-08-11 05:35:40 --> applicants --> insert --> key -->  --> family-occupation
+2017-08-11 05:35:40 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:40 --> applicants --> insert --> key_name -->  --> Occupation
+2017-08-11 05:35:40 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+2017-08-11 05:35:40 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:40 --> applicants --> insert --> key_id -->  --> 136
+2017-08-11 05:35:40 --> applicants --> insert --> key -->  --> family-employer
+2017-08-11 05:35:40 --> applicants --> insert --> sequence -->  --> 1

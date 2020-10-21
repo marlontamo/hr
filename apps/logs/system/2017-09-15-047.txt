@@ -1,0 +1,24 @@
+Admin, Teemworx (admin) --> 2017-09-15 11:51:09 --> profiles --> edit --> mod_id -->  --> 46
+Admin, Teemworx (admin) --> 2017-09-15 11:51:09 --> profiles --> edit --> action_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-09-15 11:51:09 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-09-15 11:51:21 --> roles --> update --> profile_id --> 2,5,12,14,22 --> 2,5,12,14,22,23
+Admin, Teemworx (admin) --> 2017-09-15 11:59:00 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-09-15 11:59:14 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-09-15 12:00:04 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-09-15 12:00:24 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-09-15 12:01:32 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-09-15 12:02:18 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-09-15 12:12:38 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-09-15 12:12:53 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-09-15 12:13:08 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-09-15 12:13:27 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-09-15 12:14:23 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-09-15 12:14:35 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-09-15 12:16:23 --> authentication --> logout --> logout -->  --> 
+JAMORA, JIMELYN (32581) --> 2017-09-15 12:16:31 --> authentication --> login --> login -->  --> 
+JAMORA, JIMELYN (32581) --> 2017-09-15 12:16:55 --> authentication --> logout --> logout -->  --> 
+MANALO, ADRIAN (32824) --> 2017-09-15 12:17:31 --> authentication --> login --> login -->  --> 
+MANALO, ADRIAN (32824) --> 2017-09-15 12:17:58 --> authentication --> logout --> logout -->  --> 
+SOLLANO, ALBERTO (01125) --> 2017-09-15 12:18:13 --> authentication --> login --> login -->  --> 
+SOLLANO, ALBERTO (01125) --> 2017-09-15 12:18:35 --> authentication --> logout --> logout -->  --> 
+NAVARRO, ARNOLD (01661) --> 2017-09-15 12:18:44 --> authentication --> login --> login -->  --> 

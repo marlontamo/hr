@@ -1,0 +1,6 @@
+2018-01-01 23:27:12 --> authentication --> login --> login -->  --> 
+2018-01-01 23:28:00 --> authentication --> logout --> logout -->  --> 
+2018-01-01 23:35:12 --> authentication --> login --> login -->  --> 
+2018-01-01 23:35:36 --> authentication --> logout --> logout -->  --> 
+2018-01-01 23:58:23 --> authentication --> login --> login -->  --> 
+2018-01-01 23:59:19 --> authentication --> logout --> logout -->  --> 

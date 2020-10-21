@@ -1,0 +1,132 @@
+2017-09-15 10:33:01 --> profiles --> edit --> profile_id -->  --> 12
+2017-09-15 10:33:01 --> profiles --> edit --> mod_id -->  --> 122
+2017-09-15 10:33:01 --> profiles --> edit --> action_id -->  --> 3
+2017-09-15 10:33:01 --> profiles --> edit --> grant -->  --> on
+2017-09-15 10:33:01 --> profiles --> edit --> profile_id -->  --> 12
+2017-09-15 10:33:01 --> profiles --> edit --> mod_id -->  --> 122
+2017-09-15 10:33:01 --> profiles --> edit --> action_id -->  --> 4
+2017-09-15 10:33:01 --> profiles --> edit --> grant -->  --> on
+2017-09-15 10:33:01 --> profiles --> edit --> profile_id -->  --> 12
+2017-09-15 10:33:01 --> profiles --> edit --> mod_id -->  --> 122
+2017-09-15 10:33:01 --> profiles --> edit --> action_id -->  --> 5
+2017-09-15 10:33:01 --> profiles --> edit --> grant -->  --> on
+2017-09-15 10:33:01 --> profiles --> edit --> profile_id -->  --> 12
+2017-09-15 10:33:01 --> profiles --> edit --> mod_id -->  --> 122
+2017-09-15 10:33:01 --> profiles --> edit --> action_id -->  --> 7
+2017-09-15 10:33:01 --> profiles --> edit --> grant -->  --> on
+2017-09-15 10:33:01 --> profiles --> edit --> profile_id -->  --> 12
+2017-09-15 10:33:01 --> profiles --> edit --> mod_id -->  --> 122
+2017-09-15 10:33:01 --> profiles --> edit --> action_id -->  --> 8
+2017-09-15 10:33:01 --> profiles --> edit --> grant -->  --> on
+2017-09-15 10:33:01 --> profiles --> edit --> profile_id -->  --> 12
+2017-09-15 10:33:01 --> profiles --> edit --> mod_id -->  --> 44
+2017-09-15 10:33:01 --> profiles --> edit --> action_id -->  --> 1
+2017-09-15 10:33:01 --> profiles --> edit --> grant -->  --> on
+2017-09-15 10:33:01 --> profiles --> edit --> profile_id -->  --> 12
+2017-09-15 10:33:01 --> profiles --> edit --> mod_id -->  --> 44
+2017-09-15 10:33:01 --> profiles --> edit --> action_id -->  --> 2
+2017-09-15 10:33:01 --> profiles --> edit --> grant -->  --> on
+2017-09-15 10:33:01 --> profiles --> edit --> profile_id -->  --> 12
+2017-09-15 10:33:01 --> profiles --> edit --> mod_id -->  --> 44
+2017-09-15 10:33:01 --> profiles --> edit --> action_id -->  --> 7
+2017-09-15 10:33:01 --> profiles --> edit --> grant -->  --> on
+2017-09-15 10:33:01 --> profiles --> edit --> profile_id -->  --> 12
+2017-09-15 10:33:01 --> profiles --> edit --> mod_id -->  --> 44
+2017-09-15 10:33:01 --> profiles --> edit --> action_id -->  --> 8
+2017-09-15 10:33:01 --> profiles --> edit --> grant -->  --> on
+2017-09-15 10:33:01 --> profiles --> edit --> profile_id -->  --> 12
+2017-09-15 10:33:01 --> profiles --> edit --> mod_id -->  --> 136
+2017-09-15 10:33:01 --> profiles --> edit --> action_id -->  --> 1
+2017-09-15 10:33:01 --> profiles --> edit --> grant -->  --> on
+2017-09-15 10:33:01 --> profiles --> edit --> profile_id -->  --> 12
+2017-09-15 10:33:01 --> profiles --> edit --> mod_id -->  --> 136
+2017-09-15 10:33:01 --> profiles --> edit --> action_id -->  --> 2
+2017-09-15 10:33:01 --> profiles --> edit --> grant -->  --> on
+2017-09-15 10:33:01 --> profiles --> edit --> profile_id -->  --> 12
+2017-09-15 10:33:01 --> profiles --> edit --> mod_id -->  --> 136
+2017-09-15 10:33:01 --> profiles --> edit --> action_id -->  --> 3
+2017-09-15 10:33:01 --> profiles --> edit --> grant -->  --> on
+2017-09-15 10:33:01 --> profiles --> edit --> profile_id -->  --> 12
+2017-09-15 10:33:01 --> profiles --> edit --> mod_id -->  --> 136
+2017-09-15 10:33:01 --> profiles --> edit --> action_id -->  --> 4
+2017-09-15 10:33:01 --> profiles --> edit --> grant -->  --> on
+2017-09-15 10:33:01 --> profiles --> edit --> profile_id -->  --> 12
+2017-09-15 10:33:01 --> profiles --> edit --> mod_id -->  --> 136
+2017-09-15 10:33:01 --> profiles --> edit --> action_id -->  --> 5
+2017-09-15 10:33:01 --> profiles --> edit --> grant -->  --> on
+2017-09-15 10:33:01 --> profiles --> edit --> profile_id -->  --> 12
+2017-09-15 10:33:01 --> profiles --> edit --> mod_id -->  --> 80
+2017-09-15 10:33:01 --> profiles --> edit --> action_id -->  --> 1
+2017-09-15 10:33:01 --> profiles --> edit --> grant -->  --> on
+2017-09-15 10:33:01 --> profiles --> edit --> profile_id -->  --> 12
+2017-09-15 10:33:01 --> profiles --> edit --> mod_id -->  --> 80
+2017-09-15 10:33:01 --> profiles --> edit --> action_id -->  --> 2
+2017-09-15 10:33:01 --> profiles --> edit --> grant -->  --> on
+2017-09-15 10:33:01 --> profiles --> edit --> profile_id -->  --> 12
+2017-09-15 10:33:01 --> profiles --> edit --> mod_id -->  --> 77
+2017-09-15 10:33:01 --> profiles --> edit --> action_id -->  --> 1
+2017-09-15 10:33:01 --> profiles --> edit --> grant -->  --> on
+2017-09-15 10:33:01 --> profiles --> edit --> profile_id -->  --> 12
+2017-09-15 10:33:01 --> profiles --> edit --> mod_id -->  --> 77
+2017-09-15 10:33:01 --> profiles --> edit --> action_id -->  --> 2
+2017-09-15 10:33:01 --> profiles --> edit --> grant -->  --> on
+2017-09-15 10:33:01 --> profiles --> edit --> profile_id -->  --> 12
+2017-09-15 10:33:01 --> profiles --> edit --> mod_id -->  --> 27
+2017-09-15 10:33:01 --> profiles --> edit --> action_id -->  --> 1
+2017-09-15 10:33:01 --> profiles --> edit --> grant -->  --> on
+2017-09-15 10:33:01 --> profiles --> edit --> profile_id -->  --> 12
+2017-09-15 10:33:01 --> profiles --> edit --> mod_id -->  --> 27
+2017-09-15 10:33:01 --> profiles --> edit --> action_id -->  --> 2
+2017-09-15 10:33:01 --> profiles --> edit --> grant -->  --> on
+2017-09-15 10:33:01 --> profiles --> edit --> profile_id -->  --> 12
+2017-09-15 10:33:01 --> profiles --> edit --> mod_id -->  --> 27
+2017-09-15 10:33:01 --> profiles --> edit --> action_id -->  --> 3
+2017-09-15 10:33:01 --> profiles --> edit --> grant -->  --> on
+2017-09-15 10:33:01 --> profiles --> edit --> profile_id -->  --> 12
+2017-09-15 10:33:01 --> profiles --> edit --> mod_id -->  --> 27
+2017-09-15 10:33:01 --> profiles --> edit --> action_id -->  --> 4
+2017-09-15 10:33:01 --> profiles --> edit --> grant -->  --> on
+2017-09-15 10:33:01 --> profiles --> edit --> profile_id -->  --> 12
+2017-09-15 10:33:01 --> profiles --> edit --> mod_id -->  --> 27
+2017-09-15 10:33:01 --> profiles --> edit --> action_id -->  --> 5
+2017-09-15 10:33:01 --> profiles --> edit --> grant -->  --> on
+2017-09-15 10:33:04 --> authentication --> logout --> logout -->  --> 
+2017-09-15 10:38:39 --> authentication --> login --> login -->  --> 
+2017-09-15 11:02:34 --> authentication --> login --> login -->  --> 
+2017-09-15 11:09:40 --> profiles --> insert --> profile -->  --> Employement Certificate
+2017-09-15 11:09:40 --> profiles --> insert --> description -->  --> Employement Certificate Printing
+2017-09-15 11:09:40 --> profiles --> edit --> profile_id -->  --> 23
+2017-09-15 11:09:40 --> profiles --> edit --> mod_id -->  --> 261
+2017-09-15 11:09:40 --> profiles --> edit --> action_id -->  --> 1
+2017-09-15 11:09:40 --> profiles --> edit --> grant -->  --> on
+2017-09-15 11:09:40 --> profiles --> edit --> profile_id -->  --> 23
+2017-09-15 11:09:40 --> profiles --> edit --> mod_id -->  --> 261
+2017-09-15 11:09:40 --> profiles --> edit --> action_id -->  --> 6
+2017-09-15 11:09:40 --> profiles --> edit --> grant -->  --> on
+2017-09-15 11:09:41 --> profiles --> edit --> profile_id -->  --> 23
+2017-09-15 11:09:41 --> profiles --> edit --> mod_id -->  --> 261
+2017-09-15 11:09:41 --> profiles --> edit --> action_id -->  --> 1
+2017-09-15 11:09:41 --> profiles --> edit --> grant -->  --> on
+2017-09-15 11:09:41 --> profiles --> edit --> profile_id -->  --> 23
+2017-09-15 11:09:41 --> profiles --> edit --> mod_id -->  --> 261
+2017-09-15 11:09:41 --> profiles --> edit --> action_id -->  --> 6
+2017-09-15 11:09:41 --> profiles --> edit --> grant -->  --> on
+2017-09-15 11:24:21 --> users --> update --> hash --> $2a$08$wbeIAUEwQyWunl6U2JVxwOQ.g.fDoD8.Ivt7lhO2dvkBrXL7N/JRa --> $2a$08$k3JcvEGiBuvGCO4i8VBgvOpDkUc4SD9alZ8zBHf5LXcKapYrX/dd2
+2017-09-15 11:24:21 --> users --> update --> active --> 1 --> 1 else 0
+2017-09-15 11:25:02 --> users --> update --> hash --> $2a$08$yKt1.Hs6p7ORdHfrF4HKQupQx.hFTefUauZa3pH.BhB90u9DqtYRu --> $2a$08$aP14/VbjdAFu6.D1B76pZO/8WKEYI6gQYqCMxxqS3Cs63RVVgDgrO
+2017-09-15 11:25:02 --> users --> update --> active --> 1 --> 1 else 0
+2017-09-15 11:25:04 --> users --> update --> hash --> $2a$08$aP14/VbjdAFu6.D1B76pZO/8WKEYI6gQYqCMxxqS3Cs63RVVgDgrO --> $2a$08$iLzdpNxXLCGHuhbc.LOOoesheZtSyZWsJSMcrqM1uVnNZy5Pty0Ae
+2017-09-15 11:25:04 --> users --> update --> active --> 1 --> 1 else 0
+2017-09-15 11:25:40 --> users --> update --> hash --> $2a$08$iLzdpNxXLCGHuhbc.LOOoesheZtSyZWsJSMcrqM1uVnNZy5Pty0Ae --> $2a$08$J3.ip70eUtAxf743oXLQju.JNeKALqQUpk5GvFegPe.rSRPEFpcDq
+2017-09-15 11:25:40 --> users --> update --> active --> 1 --> 1 else 0
+2017-09-15 11:26:08 --> users --> update --> hash --> $2a$08$J3.ip70eUtAxf743oXLQju.JNeKALqQUpk5GvFegPe.rSRPEFpcDq --> $2a$08$I/R48Lv.RUFTD6Dh5ZkQvO2ernglUihhcpzIjhZXvOhqM3VzbbVKy
+2017-09-15 11:26:08 --> users --> update --> active --> 1 --> 1 else 0
+2017-09-15 11:27:02 --> users --> update --> hash --> $2a$08$hGg4iqJReC57eb5/Aox//.mf5rVhsyR2Gghej83PGjFuyA1l2okyS --> $2a$08$WL4rJnn0YT09GmPGZClS1uT1IXih9uUKHppufYmonHj7Q2b.s4mmu
+2017-09-15 11:27:02 --> users --> update --> active --> 1 --> 1 else 0
+2017-09-15 11:27:03 --> users --> update --> hash --> $2a$08$WL4rJnn0YT09GmPGZClS1uT1IXih9uUKHppufYmonHj7Q2b.s4mmu --> $2a$08$1MLjPL4bikdcRFfmlmH4OOOTyObu/MSGfJ7MVmDD3D6eg5UCFLLTS
+2017-09-15 11:27:03 --> users --> update --> active --> 1 --> 1 else 0
+2017-09-15 11:27:41 --> users --> update --> hash --> $2a$08$zNwmD17jQuLKKib1DYkjFOILBK1CIHDCFDJodDaih/ifN1sxIqw9q --> $2a$08$n36UqI1Tc3qrRHSzVRUgOuIV4tDJTwAf8t/47neu668q6U8dIvB.S
+2017-09-15 11:27:41 --> users --> update --> active --> 1 --> 1 else 0
+2017-09-15 11:27:41 --> users --> update --> birth_date --> 0000-00-00 --> 1970-01-01
+2017-09-15 11:28:36 --> users --> update --> hash --> $2a$08$u/1zOs4WHCHgFm7KW5rrJeFhFKWpjJ9idxrXeXwnSszopmtYQpXWK --> $2a$08$g9rz8QpQKD6eHymBvunUGufgFkQMItEMYt5tcmqtLBFoaD6VlYBnm
+2017-09-15 11:28:36 --> users --> update --> active --> 1 --> 1 else 0

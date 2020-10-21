@@ -1,0 +1,25 @@
+<?php
+$lang['memo'] = array(
+	'list_memo' => 'List of Memo',
+	'memo_title' => 'Memo Title',
+	'memo_type' => 'Memo Type',
+	'publish_date' => 'Publish Date',
+	'memo_info' => 'Memo Information',
+	'memo' => 'Memorandum',
+	'basic_memo_info' => 'Basic memorandum information',
+	'memo_type' => 'Memo Type',
+	'recipient' => 'Recipient',
+	'from' => 'Publish From',
+	'to' => 'Publish To',
+	'publish' => 'Publish',
+	'allow_comments' => 'Allow Comments',
+	'email_recipients' => 'Email Recipients',
+	'resend_email' => 'Resend Email',
+	'memo_details' => 'Memorandum Detail',
+	'enter_memo_detail' => 'Enter memorandum details',
+	'memo_body' => 'Memo Body',
+	'attachment' => 'Attachment',
+	'allow_files' => 'Allow only image and pdf files.',
+	'select_file' => 'Select File',
+	'file_del' => 'File attached is already deleted.'
+);

@@ -1,0 +1,3 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["list_cached_query"] = 'SELECT `ww_payroll_closed_summary`.`id` as record_id, `ww_payroll_closed_summary`.`created_on` as "payroll_closed_summary_created_on", `ww_payroll_closed_summary`.`created_by` as "payroll_closed_summary_created_by", `ww_payroll_closed_summary`.`modified_on` as "payroll_closed_summary_modified_on", `ww_payroll_closed_summary`.`modified_by` as "payroll_closed_summary_modified_by"
+FROM (`ww_payroll_closed_summary`)';

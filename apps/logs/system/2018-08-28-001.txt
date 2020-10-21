@@ -1,0 +1,16 @@
+Admin, Teemworx (admin) --> 2018-08-28 06:25:59 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-08-28 06:26:06 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-08-28 06:26:53 --> authentication --> logout --> logout -->  --> 
+() --> 2018-08-28 06:33:37 --> authentication --> logout --> logout -->  --> 
+PRESBITERO, EDEN (00377) --> 2018-08-28 06:37:48 --> authentication --> login --> login -->  --> 
+PRESBITERO, EDEN (00377) --> 2018-08-28 07:14:44 --> authentication --> logout --> logout -->  --> 
+CARMEN, MA RITA (00108) --> 2018-08-28 07:14:49 --> authentication --> login --> login -->  --> 
+CARMEN, MA RITA (00108) --> 2018-08-28 07:16:00 --> authentication --> logout --> logout -->  --> 
+PRESBITERO, EDEN (00377) --> 2018-08-28 07:16:18 --> authentication --> login --> login -->  --> 
+GARCES, JOCELYN (00451) --> 2018-08-28 08:08:57 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2018-08-28 09:18:55 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2018-08-28 09:19:30 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2018-08-28 09:21:03 --> authentication --> login --> login -->  --> 
+SELGA, YESTER (33382) --> 2018-08-28 09:22:19 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2018-08-28 09:29:28 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2018-08-28 13:02:32 --> authentication --> logout --> logout -->  --> 

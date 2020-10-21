@@ -1,0 +1,66 @@
+<meta charset="utf-8" />
+<title><?php echo $mod->short_name ?></title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="<?php echo $system['description']; ?>" name="description" />
+<meta content="<?php echo $system['author']; ?>" name="author" />
+<meta name="keywords" content="<?php echo $system['keywords']; ?>" />
+<meta name="copyright" content="<?php echo $system['copyright']; ?>" />
+<meta name="MobileOptimized" content="320">
+<link rel="shortcut icon" href="<?php echo base_url(); ?>favicon.ico" />
+
+<?php $__env->startSection('mandatory_styles'); ?>
+	<!-- BEGIN GLOBAL MANDATORY STYLES -->          
+	<link href="<?php echo theme_path(); ?>plugins/jquery-ui/jquery-ui-1.10.3.custom.min.css" rel="stylesheet" type="text/css"/>
+	<link href="<?php echo theme_path(); ?>plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+	<link href="<?php echo theme_path(); ?>plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+	<link href="<?php echo theme_path(); ?>plugins/bootstrap-toastr/toastr.min.css" rel="stylesheet" type="text/css"/>
+	<link href="<?php echo theme_path(); ?>plugins/uniform/css/uniform.default.css" rel="stylesheet" type="text/css"/>
+	<link href="<?php echo theme_path(); ?>plugins/bootstrap-modal/css/bootstrap-modal-bs3patch.css" rel="stylesheet" type="text/css"/>
+	<link href="<?php echo theme_path(); ?>plugins/bootstrap-modal/css/bootstrap-modal.css" rel="stylesheet" type="text/css"/>
+	<link type="text/css" rel="stylesheet" href="<?php echo theme_path(); ?>plugins/fancybox/source/jquery.fancybox.css">
+	<?php if( get_system_config('other_settings', 'enable_chat') ): ?>
+	<link href="<?php echo theme_path(); ?>plugins/chat/css/jquery.chatjs.css" rel="stylesheet" type="text/css"/>
+	<?php endif; ?>
+
+	<!-- link rel="stylesheet" type="text/css" href="<?php echo theme_path(); ?>css/emoji_one_area2/emojionearea.min.css" / -->
+	<!-- link rel="stylesheet" type="text/css" href="<?php echo theme_path(); ?>css/emoji_one_area2/emojione.min.css" / -->
+	<!-- link rel="stylesheet" type="text/css" href="<?php echo theme_path(); ?>scripts/facemocion/faceMocion.css" / -->
+	
+	<style type="text/css">
+		/*.emojione {
+		    font-size: inherit;
+		    height: 2ex;
+		    width: 2.1ex;
+		    min-height: 20px;
+		    min-width: 20px;
+		    display: inline-block;
+		    margin: -.2ex .15em .2ex;
+		    line-height: normal;
+		    vertical-align: middle;
+		    max-width: 100%;
+		    top: 0;
+		    background-image: none;
+		}*/
+		.chat-form .btn-cont{
+			z-index: 11000;
+		}
+	</style>
+	<!-- END GLOBAL MANDATORY STYLES -->
+<?php echo $__env->yieldSection(); ?>
+
+<?php $__env->startSection('page_styles'); ?>
+<?php echo $__env->yieldSection(); ?>
+
+<?php $__env->startSection('theme_styles'); ?>
+	<!-- BEGIN THEME STYLES --> 
+	<link href="<?php echo theme_path(); ?>css/style-metronic.css" rel="stylesheet" type="text/css"/>
+	<link href="<?php echo theme_path(); ?>css/style.css" rel="stylesheet" type="text/css"/>
+	<link href="<?php echo theme_path(); ?>css/style-responsive.css" rel="stylesheet" type="text/css"/>
+	<link href="<?php echo theme_path(); ?>css/plugins.css" rel="stylesheet" type="text/css"/>
+	<link href="<?php echo theme_path(); ?>css/pages/tasks.css" rel="stylesheet" type="text/css"/>
+	<link href="<?php echo theme_path(); ?>css/themes/grey.css" rel="stylesheet" type="text/css" id="style_color"/>
+	<link href="<?php echo theme_path(); ?>css/custom.css" rel="stylesheet" type="text/css"/>
+	<link href="<?php echo theme_path(); ?>css/game.css" rel="stylesheet" type="text/css"/>
+	<!-- END THEME STYLES -->
+<?php echo $__env->yieldSection(); ?>

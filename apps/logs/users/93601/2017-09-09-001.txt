@@ -1,0 +1,15 @@
+2017-09-09 09:27:53 --> authentication --> logout --> logout -->  --> 
+2017-09-09 09:35:01 --> authentication --> login --> login -->  --> 
+2017-09-09 09:35:44 --> authentication --> logout --> logout -->  --> 
+2017-09-09 09:37:41 --> authentication --> login --> login -->  --> 
+2017-09-09 09:38:36 --> authentication --> logout --> logout -->  --> 
+2017-09-09 09:38:43 --> authentication --> login --> login -->  --> 
+2017-09-09 09:40:01 --> authentication --> logout --> logout -->  --> 
+2017-09-09 09:48:10 --> authentication --> login --> login -->  --> 
+2017-09-09 09:48:54 --> authentication --> logout --> logout -->  --> 
+2017-09-09 10:14:20 --> authentication --> login --> login -->  --> 
+2017-09-09 10:16:16 --> authentication --> logout --> logout -->  --> 
+2017-09-09 10:33:37 --> authentication --> login --> login -->  --> 
+2017-09-09 10:34:42 --> authentication --> logout --> logout -->  --> 
+2017-09-09 15:59:42 --> authentication --> login --> login -->  --> 
+2017-09-09 16:01:06 --> authentication --> logout --> logout -->  --> 

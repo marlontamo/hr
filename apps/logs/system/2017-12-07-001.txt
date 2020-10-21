@@ -1,0 +1,6 @@
+GARCES, JOCELYN (00451) --> 2017-12-07 11:38:56 --> authentication --> login --> login -->  --> 
+GARCES, JOCELYN (00451) --> 2017-12-07 11:39:06 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-12-07 13:06:57 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-12-07 13:07:36 --> authentication --> logout --> logout -->  --> 
+VELOSO, ROBERTO RAFAEL (01642) --> 2017-12-07 13:09:24 --> authentication --> login --> login -->  --> 
+VELOSO, ROBERTO RAFAEL (01642) --> 2017-12-07 13:10:00 --> authentication --> logout --> logout -->  --> 

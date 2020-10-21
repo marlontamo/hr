@@ -1,0 +1,12 @@
+CHAVEZ, NELSON (00129) --> 2017-08-11 15:03:32 --> applicant_monitoring --> insert --> work_schedule -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 15:03:32 --> applicant_monitoring --> insert --> shift_id -->  --> 50
+CHAVEZ, NELSON (00129) --> 2017-08-11 15:03:32 --> applicant_monitoring --> insert --> lunch_break -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 15:03:32 --> applicant_monitoring --> insert --> accept_offer -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 15:03:32 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 15:03:32 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 1 --> 
+CHAVEZ, NELSON (00129) --> 2017-08-11 15:05:13 --> applicant_monitoring --> update --> status_id --> 4 --> 5
+CHAVEZ, NELSON (00129) --> 2017-08-11 15:05:13 --> applicant_monitoring --> update --> status_id --> 4 --> 5
+CHAVEZ, NELSON (00129) --> 2017-08-11 15:45:39 --> applicant_monitoring --> update --> submitted --> 0 --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 15:45:41 --> applicant_monitoring --> update --> submitted --> 0 --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 15:45:41 --> applicant_monitoring --> update --> submitted --> 0 --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 15:45:42 --> applicant_monitoring --> update --> submitted --> 0 --> 1

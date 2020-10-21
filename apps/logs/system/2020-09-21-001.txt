@@ -1,0 +1,4 @@
+Admin, Teemworx (admin) --> 2020-09-21 09:04:59 --> authentication --> login --> login -->  --> 
+TAMO, MARLON (33866) --> 2020-09-21 10:11:58 --> authentication --> login --> login -->  --> 
+TAMO, MARLON (33866) --> 2020-09-21 10:13:15 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2020-09-21 10:13:32 --> authentication --> login --> login -->  --> 

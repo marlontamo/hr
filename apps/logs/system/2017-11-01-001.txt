@@ -1,0 +1,47 @@
+Admin, Teemworx (admin) --> 2017-11-01 08:17:24 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-11-01 10:28:16 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-11-01 10:28:27 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-11-01 10:29:46 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-01 10:30:04 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-01 10:32:07 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-11-01 10:32:25 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-11-01 10:36:46 --> authentication --> logout --> logout -->  --> 
+DE CASTRO, CHRISTINA ELENA (01713) --> 2017-11-01 10:37:15 --> authentication --> login --> login -->  --> 
+DE CASTRO, CHRISTINA ELENA (01713) --> 2017-11-01 11:10:08 --> authentication --> logout --> logout -->  --> 
+FUENTEBELLA JR., EDUARDO (32765) --> 2017-11-01 11:10:35 --> authentication --> login --> login -->  --> 
+FUENTEBELLA JR., EDUARDO (32765) --> 2017-11-01 11:11:59 --> authentication --> logout --> logout -->  --> 
+DE CASTRO, CHRISTINA ELENA (01713) --> 2017-11-01 11:12:11 --> authentication --> login --> login -->  --> 
+DE CASTRO, CHRISTINA ELENA (01713) --> 2017-11-01 11:13:16 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-11-01 11:14:20 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-11-01 11:15:30 --> authentication --> logout --> logout -->  --> 
+DE CASTRO, CHRISTINA ELENA (01713) --> 2017-11-01 11:15:45 --> authentication --> login --> login -->  --> 
+DE CASTRO, CHRISTINA ELENA (01713) --> 2017-11-01 11:16:07 --> authentication --> logout --> logout -->  --> 
+FUENTEBELLA JR., EDUARDO (32765) --> 2017-11-01 11:16:20 --> authentication --> login --> login -->  --> 
+FUENTEBELLA JR., EDUARDO (32765) --> 2017-11-01 11:17:47 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-11-01 11:18:11 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-11-01 11:18:57 --> authentication --> logout --> logout -->  --> 
+SIGUA, MARK LOUIE (32584) --> 2017-11-01 11:19:18 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-11-01 12:43:46 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-11-01 12:45:34 --> authentication --> logout --> logout -->  --> 
+DE CASTRO, CHRISTINA ELENA (01713) --> 2017-11-01 12:45:40 --> authentication --> login --> login -->  --> 
+DE CASTRO, CHRISTINA ELENA (01713) --> 2017-11-01 12:46:12 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-11-01 12:46:22 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-11-01 12:46:57 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-11-01 12:47:10 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-11-01 12:47:45 --> authentication --> logout --> logout -->  --> 
+FUENTEBELLA JR., EDUARDO (32765) --> 2017-11-01 12:47:53 --> authentication --> login --> login -->  --> 
+FUENTEBELLA JR., EDUARDO (32765) --> 2017-11-01 12:49:06 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-11-01 12:49:18 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-11-01 12:49:42 --> authentication --> logout --> logout -->  --> 
+FUENTEBELLA JR., EDUARDO (32765) --> 2017-11-01 12:51:42 --> authentication --> login --> login -->  --> 
+FUENTEBELLA JR., EDUARDO (32765) --> 2017-11-01 12:52:16 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-11-01 12:52:28 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-11-01 12:54:49 --> authentication --> logout --> logout -->  --> 
+FUENTEBELLA JR., EDUARDO (32765) --> 2017-11-01 12:54:54 --> authentication --> login --> login -->  --> 
+FUENTEBELLA JR., EDUARDO (32765) --> 2017-11-01 12:55:25 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-11-01 12:55:36 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-11-01 12:56:15 --> authentication --> logout --> logout -->  --> 
+FUENTEBELLA JR., EDUARDO (32765) --> 2017-11-01 12:56:21 --> authentication --> login --> login -->  --> 
+FUENTEBELLA JR., EDUARDO (32765) --> 2017-11-01 12:56:53 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-11-01 12:57:04 --> authentication --> login --> login -->  --> 
+SIGUA, MARK LOUIE (32584) --> 2017-11-01 13:42:24 --> authentication --> logout --> logout -->  --> 

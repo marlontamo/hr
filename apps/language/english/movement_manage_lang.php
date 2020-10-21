@@ -1,0 +1,20 @@
+<?php
+$lang['movement_manage'] = array(
+	'employee' => 'Partners',
+	'select' => 'Select',
+	'date_filed' => 'Date Filed',
+	'date_cancelled' => 'Date Cancelled',
+	'cancel_by' => 'Cancel By',
+	'by' => 'by',
+	'back_tolist' => 'Back to list',
+	'for_approval' => 'For Approval',
+	'cancelled' => 'Cancelled',
+	'decline' => 'Decline',
+	'approve' => 'Approve',
+	'cancelled' => 'Cancelled',
+	'disapprove' => 'Disapprove',
+	'close' => 'Close',
+	'approver_remarks' => 'Approver Remarks',
+	'remarks' => 'Remarks',
+	'required_decline' => 'Required if you choose to decline',
+);

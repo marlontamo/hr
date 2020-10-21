@@ -1,0 +1,23 @@
+KOE, ERLINDA (10012) --> 2017-08-18 10:57:33 --> applicant_monitoring --> insert --> id_number -->  --> 123456
+KOE, ERLINDA (10012) --> 2017-08-18 10:57:33 --> applicant_monitoring --> insert --> effectivity_date -->  --> 2017-10-01
+KOE, ERLINDA (10012) --> 2017-08-18 10:57:33 --> applicant_monitoring --> insert --> alias -->  --> Bautista, Pedro
+KOE, ERLINDA (10012) --> 2017-08-18 10:57:33 --> applicant_monitoring --> insert --> company_id -->  --> 1
+KOE, ERLINDA (10012) --> 2017-08-18 10:57:33 --> applicant_monitoring --> insert --> department_id -->  --> 1
+KOE, ERLINDA (10012) --> 2017-08-18 10:57:33 --> applicant_monitoring --> insert --> reports_to_id -->  --> 10
+KOE, ERLINDA (10012) --> 2017-08-18 10:57:33 --> applicant_monitoring --> insert --> location_id -->  --> 1
+KOE, ERLINDA (10012) --> 2017-08-18 10:57:33 --> applicant_monitoring --> insert --> user_id -->  --> 703
+KOE, ERLINDA (10012) --> 2017-08-18 10:57:33 --> applicant_monitoring --> insert --> partner_id -->  --> 702
+KOE, ERLINDA (10012) --> 2017-08-18 10:57:33 --> applicant_monitoring --> insert --> recruit_id -->  --> 4
+KOE, ERLINDA (10012) --> 2017-08-18 10:57:33 --> applicant_monitoring --> insert --> lastname -->  --> Bautista
+KOE, ERLINDA (10012) --> 2017-08-18 10:57:33 --> applicant_monitoring --> insert --> firstname -->  --> Pedro
+KOE, ERLINDA (10012) --> 2017-08-18 10:57:33 --> applicant_monitoring --> insert --> position_id -->  --> 3
+KOE, ERLINDA (10012) --> 2017-08-18 10:57:33 --> applicant_monitoring --> insert --> title -->  --> Mr.
+KOE, ERLINDA (10012) --> 2017-08-18 10:57:33 --> applicant_monitoring --> insert --> birth_date -->  --> 1985-06-04
+KOE, ERLINDA (10012) --> 2017-08-18 10:57:33 --> applicant_monitoring --> update --> hired --> 0 --> 1
+KOE, ERLINDA (10012) --> 2017-08-18 10:57:33 --> applicant_monitoring --> update --> partner_id -->  --> 702
+KOE, ERLINDA (10012) --> 2017-08-18 10:58:22 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-08-18 10:58:35 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-08-18 11:28:51 --> mrf_admin --> update --> closing_remarks -->  --> dsasdadsa
+POLONAN, MARIA LEE (31002) --> 2017-08-18 11:28:51 --> mrf_admin --> update --> closed_by --> 9 --> 39
+POLONAN, MARIA LEE (31002) --> 2017-08-18 11:28:51 --> mrf_admin --> update --> closed_on --> 2017-08-17 08:28:20 --> 2017-08-18 11:28:51
+POLONAN, MARIA LEE (31002) --> 2017-08-18 13:10:13 --> authentication --> logout --> logout -->  --> 

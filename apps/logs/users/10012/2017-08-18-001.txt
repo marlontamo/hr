@@ -1,0 +1,90 @@
+2017-08-18 02:11:44 --> authentication --> login --> login -->  --> 
+2017-08-18 02:12:32 --> authentication --> logout --> logout -->  --> 
+2017-08-18 02:22:52 --> authentication --> login --> login -->  --> 
+2017-08-18 02:53:04 --> applicant_monitoring --> insert --> process_id -->  --> 2
+2017-08-18 02:53:04 --> applicant_monitoring --> insert --> date -->  --> 2017-08-21 10:00:00
+2017-08-18 02:53:04 --> applicant_monitoring --> insert --> user_id -->  --> 39
+2017-08-18 02:53:04 --> applicant_monitoring --> insert --> location_id -->  --> 1
+2017-08-18 02:53:04 --> applicant_monitoring --> insert --> schedule_id -->  --> 4
+2017-08-18 03:29:20 --> authentication --> logout --> logout -->  --> 
+2017-08-18 05:42:50 --> authentication --> login --> login -->  --> 
+2017-08-18 05:43:43 --> applicant_monitoring --> update --> process_id --> 0 --> 2
+2017-08-18 05:43:43 --> applicant_monitoring --> update --> result_id --> 0 --> 1
+2017-08-18 05:43:43 --> applicant_monitoring --> update --> result -->  --> Passed
+2017-08-18 05:43:51 --> applicant_monitoring --> update --> status_id --> 3 --> 4
+2017-08-18 05:43:51 --> applicant_monitoring --> update --> status_id --> 3 --> 4
+2017-08-18 07:08:03 --> applicant_monitoring --> insert --> template_id -->  --> 29
+2017-08-18 07:08:03 --> applicant_monitoring --> insert --> reports_to -->  --> 16
+2017-08-18 07:08:03 --> applicant_monitoring --> insert --> employment_status_id -->  --> 2
+2017-08-18 07:08:03 --> applicant_monitoring --> insert --> no_months -->  --> 5
+2017-08-18 07:08:03 --> applicant_monitoring --> insert --> start_date -->  --> 2017-10-01
+2017-08-18 07:08:03 --> applicant_monitoring --> insert --> end_date -->  --> 2018-03-01
+2017-08-18 07:08:03 --> applicant_monitoring --> insert --> work_schedule -->  --> 1
+2017-08-18 07:08:03 --> applicant_monitoring --> insert --> shift_id -->  --> 48
+2017-08-18 07:08:03 --> applicant_monitoring --> insert --> lunch_break -->  --> 1
+2017-08-18 07:08:03 --> applicant_monitoring --> insert --> accept_offer -->  --> 1
+2017-08-18 07:08:03 --> applicant_monitoring --> insert --> process_id -->  --> 2
+2017-08-18 07:08:03 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 2 --> 
+2017-08-18 07:08:03 --> applicant_monitoring --> insert --> process_id -->  --> 2
+2017-08-18 07:08:08 --> applicant_monitoring --> update --> status_id --> 6 --> 5
+2017-08-18 07:08:08 --> applicant_monitoring --> update --> status_id --> 4 --> 5
+2017-08-18 07:08:08 --> applicant_monitoring --> insert --> process_id -->  --> 2
+2017-08-18 07:08:08 --> applicant_monitoring --> insert --> checklist_id -->  --> 1
+2017-08-18 07:08:08 --> applicant_monitoring --> insert --> submitted -->  --> 1
+2017-08-18 07:08:08 --> applicant_monitoring --> insert --> process_id -->  --> 2
+2017-08-18 07:08:08 --> applicant_monitoring --> insert --> checklist_id -->  --> 2
+2017-08-18 07:08:08 --> applicant_monitoring --> insert --> submitted -->  --> 1
+2017-08-18 07:08:08 --> applicant_monitoring --> insert --> process_id -->  --> 2
+2017-08-18 07:08:08 --> applicant_monitoring --> insert --> checklist_id -->  --> 3
+2017-08-18 07:08:08 --> applicant_monitoring --> insert --> submitted -->  --> 1
+2017-08-18 07:08:08 --> applicant_monitoring --> insert --> process_id -->  --> 2
+2017-08-18 07:08:08 --> applicant_monitoring --> insert --> checklist_id -->  --> 4
+2017-08-18 07:08:08 --> applicant_monitoring --> insert --> process_id -->  --> 2
+2017-08-18 07:08:08 --> applicant_monitoring --> insert --> checklist_id -->  --> 5
+2017-08-18 07:08:08 --> applicant_monitoring --> insert --> process_id -->  --> 2
+2017-08-18 07:08:08 --> applicant_monitoring --> insert --> checklist_id -->  --> 6
+2017-08-18 07:08:08 --> applicant_monitoring --> insert --> process_id -->  --> 2
+2017-08-18 07:08:08 --> applicant_monitoring --> insert --> checklist_id -->  --> 7
+2017-08-18 07:08:08 --> applicant_monitoring --> insert --> process_id -->  --> 2
+2017-08-18 07:08:08 --> applicant_monitoring --> insert --> checklist_id -->  --> 8
+2017-08-18 07:08:08 --> applicant_monitoring --> insert --> process_id -->  --> 2
+2017-08-18 07:08:08 --> applicant_monitoring --> insert --> checklist_id -->  --> 9
+2017-08-18 07:12:04 --> authentication --> logout --> logout -->  --> 
+2017-08-18 07:13:06 --> authentication --> login --> login -->  --> 
+2017-08-18 07:13:41 --> authentication --> logout --> logout -->  --> 
+2017-08-18 07:14:40 --> authentication --> login --> login -->  --> 
+2017-08-18 07:15:40 --> authentication --> logout --> logout -->  --> 
+2017-08-18 07:16:54 --> authentication --> login --> login -->  --> 
+2017-08-18 07:18:28 --> applicant_monitoring --> update --> submitted --> 0 --> 1
+2017-08-18 07:18:30 --> applicant_monitoring --> update --> submitted --> 1 --> 0
+2017-08-18 08:57:53 --> applicant_monitoring --> update --> status_id --> 5 --> 6
+2017-08-18 08:57:53 --> applicant_monitoring --> update --> status_id --> 5 --> 6
+2017-08-18 08:57:53 --> applicant_monitoring --> insert --> process_id -->  --> 2
+2017-08-18 08:57:53 --> applicant_monitoring --> insert --> accepted -->  --> 1
+2017-08-18 10:38:51 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+2017-08-18 10:38:51 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+2017-08-18 10:57:33 --> applicant_monitoring --> insert --> login -->  --> 123456
+2017-08-18 10:57:33 --> applicant_monitoring --> insert --> email -->  --> pebdrobautista@yahoo.com
+2017-08-18 10:57:33 --> applicant_monitoring --> insert --> role_id -->  --> 12
+2017-08-18 10:57:33 --> applicant_monitoring --> insert --> full_name -->  --> Bautista, Pedro
+2017-08-18 10:57:33 --> applicant_monitoring --> insert --> display_name -->  --> Bautista, Pedro
+2017-08-18 10:57:33 --> applicant_monitoring --> insert --> shift_id -->  --> 76
+2017-08-18 10:57:33 --> applicant_monitoring --> insert --> user_id -->  --> 703
+2017-08-18 10:57:33 --> applicant_monitoring --> insert --> id_number -->  --> 123456
+2017-08-18 10:57:33 --> applicant_monitoring --> insert --> effectivity_date -->  --> 2017-10-01
+2017-08-18 10:57:33 --> applicant_monitoring --> insert --> alias -->  --> Bautista, Pedro
+2017-08-18 10:57:33 --> applicant_monitoring --> insert --> company_id -->  --> 1
+2017-08-18 10:57:33 --> applicant_monitoring --> insert --> department_id -->  --> 1
+2017-08-18 10:57:33 --> applicant_monitoring --> insert --> reports_to_id -->  --> 10
+2017-08-18 10:57:33 --> applicant_monitoring --> insert --> location_id -->  --> 1
+2017-08-18 10:57:33 --> applicant_monitoring --> insert --> user_id -->  --> 703
+2017-08-18 10:57:33 --> applicant_monitoring --> insert --> partner_id -->  --> 702
+2017-08-18 10:57:33 --> applicant_monitoring --> insert --> recruit_id -->  --> 4
+2017-08-18 10:57:33 --> applicant_monitoring --> insert --> lastname -->  --> Bautista
+2017-08-18 10:57:33 --> applicant_monitoring --> insert --> firstname -->  --> Pedro
+2017-08-18 10:57:33 --> applicant_monitoring --> insert --> position_id -->  --> 3
+2017-08-18 10:57:33 --> applicant_monitoring --> insert --> title -->  --> Mr.
+2017-08-18 10:57:33 --> applicant_monitoring --> insert --> birth_date -->  --> 1985-06-04
+2017-08-18 10:57:33 --> applicant_monitoring --> update --> hired --> 0 --> 1
+2017-08-18 10:57:33 --> applicant_monitoring --> update --> partner_id -->  --> 702
+2017-08-18 10:58:22 --> authentication --> logout --> logout -->  --> 

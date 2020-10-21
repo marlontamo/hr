@@ -1,0 +1,93 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+
+$config['fields'] = array();
+$config['fields'][1]['users_location.ecola_amt_month'] = array(
+	'f_id' => 6,
+	'fg_id' => 1,
+	'label' => 'Ecola Per Month',
+	'description' => '',
+	'table' => 'users_location',
+	'column' => 'ecola_amt_month',
+	'uitype_id' => 1,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 5,
+	'datatype' => 'V',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][1]['users_location.ecola_amt'] = array(
+	'f_id' => 5,
+	'fg_id' => 1,
+	'label' => 'Ecola Per Day',
+	'description' => '',
+	'table' => 'users_location',
+	'column' => 'ecola_amt',
+	'uitype_id' => 1,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 4,
+	'datatype' => 'V',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][1]['users_location.min_wage_amt'] = array(
+	'f_id' => 4,
+	'fg_id' => 1,
+	'label' => 'Minimum Wage',
+	'description' => '',
+	'table' => 'users_location',
+	'column' => 'min_wage_amt',
+	'uitype_id' => 1,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 3,
+	'datatype' => 'V',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][1]['users_location.status_id'] = array(
+	'f_id' => 3,
+	'fg_id' => 1,
+	'label' => 'Active',
+	'description' => '',
+	'table' => 'users_location',
+	'column' => 'status_id',
+	'uitype_id' => 3,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 6,
+	'datatype' => 'V',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][1]['users_location.location_code'] = array(
+	'f_id' => 2,
+	'fg_id' => 1,
+	'label' => 'Location Code',
+	'description' => '',
+	'table' => 'users_location',
+	'column' => 'location_code',
+	'uitype_id' => 1,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 2,
+	'datatype' => 'V',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][1]['users_location.location'] = array(
+	'f_id' => 1,
+	'fg_id' => 1,
+	'label' => 'Location',
+	'description' => '',
+	'table' => 'users_location',
+	'column' => 'location',
+	'uitype_id' => 1,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 1,
+	'datatype' => 'V',
+	'active' => '1',
+	'encrypt' => 0
+);

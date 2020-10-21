@@ -1,0 +1,41 @@
+BAGUI, MARIA LUZ (33396) --> 2019-12-13 10:14:56 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2019-12-13 10:49:36 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2019-12-13 10:50:46 --> authentication --> logout --> logout -->  --> 
+INOFERIO, GEORGE (33716) --> 2019-12-13 10:50:51 --> authentication --> login --> login -->  --> 
+INOFERIO, GEORGE (33716) --> 2019-12-13 10:51:01 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2019-12-13 10:51:11 --> authentication --> login --> login -->  --> 
+VITASA, CRISTOBAL (33719) --> 2019-12-13 10:55:50 --> authentication --> login --> login -->  --> 
+AMOSCO, SHAIRA (33268) --> 2019-12-13 10:58:25 --> authentication --> login --> login -->  --> 
+BUNAGAN, APOLONIO (33714) --> 2019-12-13 11:02:52 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2019-12-13 11:02:52 --> authentication --> logout --> logout -->  --> 
+DELA CRUZ, JUAN (33731) --> 2019-12-13 11:03:43 --> authentication --> login --> login -->  --> 
+BIÑALET, MIGUEL JR. (33713) --> 2019-12-13 11:04:19 --> authentication --> login --> login -->  --> 
+LAZ, RANDY (33717) --> 2019-12-13 11:04:38 --> authentication --> login --> login -->  --> 
+URAYAN, MA. CHRISTINA (33706) --> 2019-12-13 11:05:06 --> authentication --> login --> login -->  --> 
+INOFERIO, GEORGE (33716) --> 2019-12-13 11:05:22 --> authentication --> login --> login -->  --> 
+INOFERIO, GEORGE (33716) --> 2019-12-13 11:05:32 --> authentication --> login --> login -->  --> 
+INOFERIO, GEORGE (33716) --> 2019-12-13 11:05:41 --> authentication --> logout --> logout -->  --> 
+DELA CRUZ, JUAN (33731) --> 2019-12-13 11:05:49 --> authentication --> login --> login -->  --> 
+DELA CRUZ, JUAN (33731) --> 2019-12-13 11:05:57 --> authentication --> logout --> logout -->  --> 
+LAZ, RANDY (33717) --> 2019-12-13 11:05:59 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2019-12-13 11:06:04 --> authentication --> login --> login -->  --> 
+LAZ, RANDY (33717) --> 2019-12-13 11:06:08 --> authentication --> logout --> logout -->  --> 
+CASTRO, JOEFEL (33710) --> 2019-12-13 11:06:17 --> authentication --> login --> login -->  --> 
+BIÑALET, MIGUEL JR. (33713) --> 2019-12-13 11:06:19 --> authentication --> logout --> logout -->  --> 
+CASTRO, JOEFEL (33710) --> 2019-12-13 11:06:27 --> authentication --> logout --> logout -->  --> 
+ALDINO, BOBBY (33712) --> 2019-12-13 11:06:34 --> authentication --> login --> login -->  --> 
+LAZ, RANDY (33717) --> 2019-12-13 11:06:36 --> authentication --> login --> login -->  --> 
+URAYAN, MA. CHRISTINA (33706) --> 2019-12-13 11:08:21 --> authentication --> login --> login -->  --> 
+VITASA, CRISTOBAL (33719) --> 2019-12-13 11:08:38 --> authentication --> login --> login -->  --> 
+VITASA, CRISTOBAL (33719) --> 2019-12-13 11:09:41 --> authentication --> login --> login -->  --> 
+INOFERIO, GEORGE (33716) --> 2019-12-13 11:40:34 --> authentication --> login --> login -->  --> 
+BIÑALET, MIGUEL JR. (33713) --> 2019-12-13 11:53:04 --> authentication --> login --> login -->  --> 
+INOFERIO, GEORGE (33716) --> 2019-12-13 11:55:39 --> authentication --> update --> users - hash --> $2a$08$hRV4eko18h6qPQ0gn7.f.eKk9O9Dv7nPKfZbN1mhregMrBYi3sR6i --> $2a$08$QqZ7zTEA9gXjOs5t16pSo.xw2uGbS6o5KdGq96QxjCR8qToQRZydS
+VITASA, CRISTOBAL (33719) --> 2019-12-13 11:57:07 --> authentication --> logout --> logout -->  --> 
+INOFERIO, GEORGE (33716) --> 2019-12-13 12:01:33 --> authentication --> login --> login -->  --> 
+ALDINO, BOBBY (33712) --> 2019-12-13 12:02:32 --> authentication --> logout --> logout -->  --> 
+ABULENCIA, AMYRA (33176) --> 2019-12-13 12:02:56 --> authentication --> logout --> logout -->  --> 
+ABULENCIA, AMYRA (33176) --> 2019-12-13 12:04:55 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2019-12-13 12:05:11 --> authentication --> logout --> logout -->  --> 
+INOFERIO, GEORGE (33716) --> 2019-12-13 13:40:05 --> authentication --> login --> login -->  --> 
+INOFERIO, GEORGE (33716) --> 2019-12-13 21:52:55 --> authentication --> logout --> logout -->  --> 

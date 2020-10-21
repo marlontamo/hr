@@ -1,0 +1,3 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["list_cached_query"] = 'SELECT `ww_performance_planning`.`planning_id` as record_id, `ww_performance_planning`.`created_on` as "performance_planning_created_on", `ww_performance_planning`.`created_by` as "performance_planning_created_by", `ww_performance_planning`.`modified_on` as "performance_planning_modified_on", `ww_performance_planning`.`modified_by` as "performance_planning_modified_by"
+FROM (`ww_performance_planning`)';

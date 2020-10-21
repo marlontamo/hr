@@ -1,0 +1,96 @@
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> height
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Height
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 28
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> weight
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Weight
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 29
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> interests_hobbies
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Interests/Hobbies
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 30
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> language
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Language Known
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 31
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> dialect
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Dialect Known
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 32
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> dependents_count
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Number of Dependents
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 163
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> solo_parent
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Is Solo Parent
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_value -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> key_id -->  --> 132
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> key -->  --> family-relationship
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> key_name -->  --> Relationship
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> key_value -->  --> Father
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> key_id -->  --> 133
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> key -->  --> family-name
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> key_name -->  --> Name
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> key_value -->  --> Tirso
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> key_id -->  --> 134
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> key -->  --> family-birthdate
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> key_name -->  --> Birthday
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> key_value -->  --> February 01, 2010
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> key_id -->  --> 135
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> key -->  --> family-occupation
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> key_name -->  --> Occupation
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> key_id -->  --> 136
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> key -->  --> family-employer
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:33 --> applicants --> insert --> key_name -->  --> Employer
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> insert --> key_id -->  --> 132
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> insert --> key -->  --> family-relationship
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> insert --> key_name -->  --> Relationship
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> insert --> key_value -->  --> Father
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> insert --> key_id -->  --> 133
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> insert --> key -->  --> family-name
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> insert --> key_name -->  --> Name
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> insert --> key_value -->  --> Tirso
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> insert --> key_id -->  --> 134
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> insert --> key -->  --> family-birthdate
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> insert --> key_name -->  --> Birthday
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> insert --> key_value -->  --> February 01, 2010
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> insert --> key_id -->  --> 135
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> insert --> key -->  --> family-occupation
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> insert --> key_name -->  --> Occupation
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:40 --> applicants --> insert --> recruit_id -->  --> 2

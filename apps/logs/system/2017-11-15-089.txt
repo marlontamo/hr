@@ -1,0 +1,185 @@
+DE LEON, LISSA (30991) --> 2017-11-15 17:14:27 --> mrf_admin --> update --> hr_remarks -->  --> fdsfdsdasffda
+DE LEON, LISSA (30991) --> 2017-11-15 17:14:27 --> mrf_admin --> update --> hr_remarks_by --> 0 --> 38
+DE LEON, LISSA (30991) --> 2017-11-15 17:14:27 --> mrf_admin --> update --> hr_remarks_on -->  --> 2017-11-15 17:14:27
+DE LEON, LISSA (30991) --> 2017-11-15 17:36:34 --> applicant_monitoring --> update --> request_id --> 0 --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 17:36:34 --> applicant_monitoring --> update --> status_id --> 11 --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 17:36:34 --> applicant_monitoring --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 17:36:34 --> applicant_monitoring --> insert --> key_id -->  --> 196
+DE LEON, LISSA (30991) --> 2017-11-15 17:36:34 --> applicant_monitoring --> insert --> key -->  --> sourcing_free_sites
+DE LEON, LISSA (30991) --> 2017-11-15 17:36:34 --> applicant_monitoring --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 17:36:34 --> applicant_monitoring --> insert --> key_name -->  --> Recruitment Sourcing Free Sites
+DE LEON, LISSA (30991) --> 2017-11-15 17:36:34 --> applicant_monitoring --> insert --> request_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 17:36:34 --> applicant_monitoring --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 17:36:34 --> applicant_monitoring --> insert --> status_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 17:37:10 --> applicant_monitoring --> insert --> process_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 17:37:10 --> applicant_monitoring --> insert --> date -->  --> 2017-11-15 17:54:00
+DE LEON, LISSA (30991) --> 2017-11-15 17:37:10 --> applicant_monitoring --> insert --> user_id -->  --> 38
+DE LEON, LISSA (30991) --> 2017-11-15 17:37:10 --> applicant_monitoring --> insert --> location_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 17:37:10 --> applicant_monitoring --> insert --> schedule_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 17:37:10 --> applicant_monitoring --> insert --> to -->  --> lissa_d@abrahamholdings.ph
+DE LEON, LISSA (30991) --> 2017-11-15 17:37:10 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+DE LEON, LISSA (30991) --> 2017-11-15 17:37:10 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>
+	Hi LISSA DE LEON,</p>
+<p>
+	Good day!</p>
+
+<p>
+	This is to inform you that you are scheduled for an interview of janet Vicedo, for the position of ACCOUNTING CLERK. Below are the details and schedule:</p>
+<p>
+	Applicant Name: janet Vicedo
+	<br>
+	Position: ACCOUNTING CLERK
+	<br>
+	Date: November 15, 2017
+	<br>
+	Time: 05:54 pm
+</p>
+<p>
+	In case you are not available on the said dates, please do not hesitate to contact one of our HR-Recruitment Team.</p>
+<p>
+	Thank you and Regards,</p>
+<p>
+	HR-Recruitment Team</p>
+
+<br>
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+DE LEON, LISSA (30991) --> 2017-11-15 17:37:10 --> applicant_monitoring --> insert --> to -->  --> janet@yahoo.com
+DE LEON, LISSA (30991) --> 2017-11-15 17:37:10 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+DE LEON, LISSA (30991) --> 2017-11-15 17:37:10 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>Dear janet Vicedo,</p>
+<p>
+	Thank you for your interest in applying for the ACCOUNTING CLERK position. We would like to invite you for an interview at Abraham Holdings, Inc.. Please see information below:</p>
+<p>
+	Date: November 15, 2017
+	<br>
+	Time: 05:54 pm
+	<br>
+	Venue: 770 E. Rodriguez Ext., Malibay, Pasay City</p>
+
+<p>
+	Kindly look for LISSA DE LEON</p>
+
+<p>
+	Should you have queries, please do not hesitate to contact us on 8893935</p>
+
+<p>
+	Sincerely,</p>
+<p>
+	HR- Recruitment Team &ndash; ABHI</p>
+<br>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+DE LEON, LISSA (30991) --> 2017-11-15 17:37:10 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+DE LEON, LISSA (30991) --> 2017-11-15 17:37:10 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+DE LEON, LISSA (30991) --> 2017-11-15 17:41:10 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-11-15 17:41:20 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-11-15 17:41:47 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-15 17:41:55 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-15 17:53:06 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-11-15 17:53:15 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-11-15 17:55:35 --> authentication --> logout --> logout -->  --> 
+GENER, FRANCIA (00212) --> 2017-11-15 17:55:54 --> authentication --> login --> login -->  --> 
+GENER, FRANCIA (00212) --> 2017-11-15 17:58:10 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-11-15 18:28:00 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-15 18:29:30 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-15 18:57:45 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-15 19:12:34 --> applicant_monitoring --> insert --> process_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 19:12:34 --> applicant_monitoring --> insert --> date -->  --> 2017-11-15 19:14:00
+DE LEON, LISSA (30991) --> 2017-11-15 19:12:34 --> applicant_monitoring --> insert --> user_id -->  --> 38
+DE LEON, LISSA (30991) --> 2017-11-15 19:12:34 --> applicant_monitoring --> insert --> location_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 19:12:34 --> applicant_monitoring --> insert --> schedule_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 19:12:34 --> applicant_monitoring --> insert --> to -->  --> lissa_d@abrahamholdings.ph
+DE LEON, LISSA (30991) --> 2017-11-15 19:12:34 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+DE LEON, LISSA (30991) --> 2017-11-15 19:12:34 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>
+	Hi LISSA DE LEON,</p>
+<p>
+	Good day!</p>
+
+<p>
+	This is to inform you that you are scheduled for an interview of janet Vicedo, for the position of ACCOUNTING CLERK. Below are the details and schedule:</p>
+<p>
+	Applicant Name: janet Vicedo
+	<br>
+	Position: ACCOUNTING CLERK
+	<br>
+	Date: November 15, 2017
+	<br>
+	Time: 07:14 pm
+</p>
+<p>
+	In case you are not available on the said dates, please do not hesitate to contact one of our HR-Recruitment Team.</p>
+<p>
+	Thank you and Regards,</p>
+<p>
+	HR-Recruitment Team</p>
+
+<br>
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+DE LEON, LISSA (30991) --> 2017-11-15 19:12:34 --> applicant_monitoring --> insert --> to -->  --> janet@yahoo.com
+DE LEON, LISSA (30991) --> 2017-11-15 19:12:34 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+DE LEON, LISSA (30991) --> 2017-11-15 19:12:34 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>Dear janet Vicedo,</p>
+<p>
+	Thank you for your interest in applying for the ACCOUNTING CLERK position. We would like to invite you for an interview at Abraham Holdings, Inc.. Please see information below:</p>
+<p>
+	Date: November 15, 2017
+	<br>
+	Time: 07:14 pm
+	<br>
+	Venue: 770 E. Rodriguez Ext., Malibay, Pasay City</p>
+
+<p>
+	Kindly look for LISSA DE LEON</p>
+
+<p>
+	Should you have queries, please do not hesitate to contact us on 8893935</p>
+
+<p>
+	Sincerely,</p>
+<p>
+	HR- Recruitment Team &ndash; ABHI</p>
+<br>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>

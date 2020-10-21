@@ -1,0 +1,91 @@
+2017-08-11 05:35:40 --> applicants --> insert --> key_name -->  --> Employer
+2017-08-11 05:35:48 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+2017-08-11 05:35:48 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:48 --> applicants --> insert --> key_id -->  --> 132
+2017-08-11 05:35:48 --> applicants --> insert --> key -->  --> family-relationship
+2017-08-11 05:35:48 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:48 --> applicants --> insert --> key_name -->  --> Relationship
+2017-08-11 05:35:48 --> applicants --> insert --> key_value -->  --> Father
+2017-08-11 05:35:48 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+2017-08-11 05:35:48 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:48 --> applicants --> insert --> key_id -->  --> 133
+2017-08-11 05:35:48 --> applicants --> insert --> key -->  --> family-name
+2017-08-11 05:35:48 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:48 --> applicants --> insert --> key_name -->  --> Name
+2017-08-11 05:35:48 --> applicants --> insert --> key_value -->  --> Tirso
+2017-08-11 05:35:48 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+2017-08-11 05:35:48 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:48 --> applicants --> insert --> key_id -->  --> 134
+2017-08-11 05:35:48 --> applicants --> insert --> key -->  --> family-birthdate
+2017-08-11 05:35:48 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:48 --> applicants --> insert --> key_name -->  --> Birthday
+2017-08-11 05:35:48 --> applicants --> insert --> key_value -->  --> February 01, 2010
+2017-08-11 05:35:48 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+2017-08-11 05:35:48 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:48 --> applicants --> insert --> key_id -->  --> 135
+2017-08-11 05:35:48 --> applicants --> insert --> key -->  --> family-occupation
+2017-08-11 05:35:48 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:48 --> applicants --> insert --> key_name -->  --> Occupation
+2017-08-11 05:35:48 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 2 --> 
+2017-08-11 05:35:48 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:48 --> applicants --> insert --> key_id -->  --> 136
+2017-08-11 05:35:48 --> applicants --> insert --> key -->  --> family-employer
+2017-08-11 05:35:48 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:48 --> applicants --> insert --> key_name -->  --> Employer
+2017-08-11 13:38:55 --> applicant_monitoring --> insert --> recruit_id -->  --> 2
+2017-08-11 13:38:55 --> applicant_monitoring --> insert --> key_id -->  --> 196
+2017-08-11 13:38:55 --> applicant_monitoring --> insert --> key -->  --> sourcing_free_sites
+2017-08-11 13:38:55 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-08-11 13:38:55 --> applicant_monitoring --> insert --> key_name -->  --> Recruitment Sourcing Free Sites
+2017-08-11 13:54:59 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-08-11 13:54:59 --> applicant_monitoring --> insert --> date -->  --> 2017-08-14 13:00:00
+2017-08-11 13:54:59 --> applicant_monitoring --> insert --> user_id -->  --> 38
+2017-08-11 13:54:59 --> applicant_monitoring --> insert --> location_id -->  --> 1
+2017-08-11 13:54:59 --> applicant_monitoring --> insert --> schedule_id -->  --> 1
+2017-08-11 13:54:59 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+2017-08-11 13:54:59 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+2017-08-11 14:01:43 --> authentication --> logout --> logout -->  --> 
+2017-08-11 14:18:36 --> authentication --> login --> login -->  --> 
+2017-08-11 14:45:39 --> applicant_monitoring --> update --> status_id --> 3 --> 4
+2017-08-11 14:45:39 --> applicant_monitoring --> update --> status_id --> 2 --> 4
+2017-08-11 14:52:41 --> applicant_monitoring --> update --> status_id --> 4 --> 5
+2017-08-11 14:52:41 --> applicant_monitoring --> update --> status_id --> 4 --> 5
+2017-08-11 14:52:41 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-08-11 14:52:41 --> applicant_monitoring --> insert --> checklist_id -->  --> 1
+2017-08-11 14:52:41 --> applicant_monitoring --> insert --> submitted -->  --> 1
+2017-08-11 14:52:41 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-08-11 14:52:41 --> applicant_monitoring --> insert --> checklist_id -->  --> 2
+2017-08-11 14:52:41 --> applicant_monitoring --> insert --> submitted -->  --> 1
+2017-08-11 14:52:41 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-08-11 14:52:41 --> applicant_monitoring --> insert --> checklist_id -->  --> 3
+2017-08-11 14:52:41 --> applicant_monitoring --> insert --> submitted -->  --> 1
+2017-08-11 14:52:41 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-08-11 14:52:41 --> applicant_monitoring --> insert --> checklist_id -->  --> 4
+2017-08-11 14:52:41 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-08-11 14:52:41 --> applicant_monitoring --> insert --> checklist_id -->  --> 5
+2017-08-11 14:52:41 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-08-11 14:52:41 --> applicant_monitoring --> insert --> checklist_id -->  --> 6
+2017-08-11 14:52:41 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-08-11 14:52:41 --> applicant_monitoring --> insert --> checklist_id -->  --> 7
+2017-08-11 14:52:41 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-08-11 14:52:41 --> applicant_monitoring --> insert --> checklist_id -->  --> 8
+2017-08-11 14:52:41 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-08-11 14:52:41 --> applicant_monitoring --> insert --> checklist_id -->  --> 9
+2017-08-11 15:03:32 --> applicant_monitoring --> insert --> template_id -->  --> 29
+2017-08-11 15:03:32 --> applicant_monitoring --> insert --> reports_to -->  --> 207
+2017-08-11 15:03:32 --> applicant_monitoring --> insert --> employment_status_id -->  --> 6
+2017-08-11 15:03:32 --> applicant_monitoring --> insert --> no_months -->  --> 5
+2017-08-11 15:03:32 --> applicant_monitoring --> insert --> start_date -->  --> 2017-08-31
+2017-08-11 15:03:32 --> applicant_monitoring --> insert --> end_date -->  --> 2018-02-03
+2017-08-11 15:03:32 --> applicant_monitoring --> insert --> work_schedule -->  --> 1
+2017-08-11 15:03:32 --> applicant_monitoring --> insert --> shift_id -->  --> 50
+2017-08-11 15:03:32 --> applicant_monitoring --> insert --> lunch_break -->  --> 1
+2017-08-11 15:03:32 --> applicant_monitoring --> insert --> accept_offer -->  --> 1
+2017-08-11 15:03:32 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-08-11 15:03:32 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 1 --> 
+2017-08-11 15:05:13 --> applicant_monitoring --> update --> status_id --> 4 --> 5
+2017-08-11 15:05:13 --> applicant_monitoring --> update --> status_id --> 4 --> 5
+2017-08-11 15:45:39 --> applicant_monitoring --> update --> submitted --> 0 --> 1
+2017-08-11 15:45:41 --> applicant_monitoring --> update --> submitted --> 0 --> 1
+2017-08-11 15:45:41 --> applicant_monitoring --> update --> submitted --> 0 --> 1
+2017-08-11 15:45:42 --> applicant_monitoring --> update --> submitted --> 0 --> 1

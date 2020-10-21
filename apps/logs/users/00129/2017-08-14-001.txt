@@ -1,0 +1,2 @@
+2017-08-14 15:21:20 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+2017-08-14 15:21:20 --> applicant_monitoring --> update --> status_id --> 6 --> 7

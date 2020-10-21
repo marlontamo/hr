@@ -1,0 +1,39 @@
+SELGA, YESTER (33382) --> 2020-01-24 09:14:45 --> authentication --> login --> login -->  --> 
+SELGA, YESTER (33382) --> 2020-01-24 09:45:02 --> authentication --> logout --> logout -->  --> 
+SELGA, YESTER (33382) --> 2020-01-24 09:45:11 --> authentication --> login --> login -->  --> 
+SELGA, YESTER (33382) --> 2020-01-24 10:17:48 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2020-01-24 10:25:24 --> authentication --> login --> login -->  --> 
+GARCES, JOCELYN (00451) --> 2020-01-24 10:27:56 --> batch_transaction --> insert --> document_no -->  --> 20200124 tax refund 2019
+GARCES, JOCELYN (00451) --> 2020-01-24 10:27:56 --> batch_transaction --> insert --> transaction_id -->  --> 134
+GARCES, JOCELYN (00451) --> 2020-01-24 10:27:56 --> batch_transaction --> insert --> payroll_date -->  --> 2020-01-25
+GARCES, JOCELYN (00451) --> 2020-01-24 10:27:56 --> batch_transaction --> insert --> unit_rate_main -->  --> ®ÒV†<K3—[¢>[‰
+GARCES, JOCELYN (00451) --> 2020-01-24 10:27:56 --> batch_transaction --> insert --> remarks -->  --> abhi 2019 tax rate
+GARCES, JOCELYN (00451) --> 2020-01-24 10:27:56 --> batch_transaction --> delete --> payroll_entry_batch_employee - batch_entry_id --> 3079 --> 
+GARCES, JOCELYN (00451) --> 2020-01-24 10:27:56 --> batch_transaction --> insert --> batch_entry_id -->  --> 3079
+GARCES, JOCELYN (00451) --> 2020-01-24 10:27:56 --> batch_transaction --> insert --> id_number -->  --> 01967
+GARCES, JOCELYN (00451) --> 2020-01-24 10:27:56 --> batch_transaction --> insert --> employee_id -->  --> 28
+GARCES, JOCELYN (00451) --> 2020-01-24 10:27:56 --> batch_transaction --> insert --> unit_rate -->  --> ª0Zî/Gðá÷¬hK¥ÿ¸h
+GARCES, JOCELYN (00451) --> 2020-01-24 10:27:56 --> batch_transaction --> insert --> quantity -->  --> +¬Ì`à[ÆœÿN48ô
+GARCES, JOCELYN (00451) --> 2020-01-24 10:27:56 --> batch_transaction --> insert --> amount -->  --> Ÿj<–0ú8HÍýqüu™K
+GARCES, JOCELYN (00451) --> 2020-01-24 10:29:18 --> payroll_period --> insert --> date_from -->  --> 2020-01-24
+GARCES, JOCELYN (00451) --> 2020-01-24 10:29:18 --> payroll_period --> insert --> date_to -->  --> 2020-01-24
+GARCES, JOCELYN (00451) --> 2020-01-24 10:29:18 --> payroll_period --> insert --> payroll_date -->  --> 2020-01-25
+GARCES, JOCELYN (00451) --> 2020-01-24 10:29:18 --> payroll_period --> insert --> posting_date -->  --> 2020-01-25
+GARCES, JOCELYN (00451) --> 2020-01-24 10:29:18 --> payroll_period --> insert --> apply_to_id -->  --> 1
+GARCES, JOCELYN (00451) --> 2020-01-24 10:29:18 --> payroll_period --> insert --> period_processing_type_id -->  --> 2
+GARCES, JOCELYN (00451) --> 2020-01-24 10:29:18 --> payroll_period --> insert --> include_basic_and_allowances -->  --> 0
+GARCES, JOCELYN (00451) --> 2020-01-24 10:29:18 --> payroll_period --> insert --> include_13th_month_pay -->  --> 0
+GARCES, JOCELYN (00451) --> 2020-01-24 10:29:18 --> payroll_period --> insert --> payroll_schedule_id -->  --> 4
+GARCES, JOCELYN (00451) --> 2020-01-24 10:29:18 --> payroll_period --> insert --> week -->  --> 2
+GARCES, JOCELYN (00451) --> 2020-01-24 10:29:18 --> payroll_period --> insert --> remarks -->  --> abhi 2019 tax refund
+GARCES, JOCELYN (00451) --> 2020-01-24 10:29:18 --> payroll_period --> insert --> period_status_id -->  --> 1
+GARCES, JOCELYN (00451) --> 2020-01-24 10:32:14 --> payroll_period --> update --> week --> 2 --> 4
+GARCES, JOCELYN (00451) --> 2020-01-24 10:36:17 --> payroll_period --> update --> week --> 4 --> 2
+GARCES, JOCELYN (00451) --> 2020-01-24 10:37:52 --> batch_transaction --> delete --> payroll_entry_batch_employee - batch_entry_id --> 3079 --> 
+GARCES, JOCELYN (00451) --> 2020-01-24 10:37:52 --> batch_transaction --> insert --> batch_entry_id -->  --> 3079
+GARCES, JOCELYN (00451) --> 2020-01-24 10:37:52 --> batch_transaction --> insert --> id_number -->  --> 32948
+GARCES, JOCELYN (00451) --> 2020-01-24 10:37:52 --> batch_transaction --> insert --> employee_id -->  --> 92
+GARCES, JOCELYN (00451) --> 2020-01-24 10:37:52 --> batch_transaction --> insert --> unit_rate -->  --> òv¯1„„l2h„SßbÁ,
+GARCES, JOCELYN (00451) --> 2020-01-24 10:37:52 --> batch_transaction --> insert --> quantity -->  --> +¬Ì`à[ÆœÿN48ô
+GARCES, JOCELYN (00451) --> 2020-01-24 10:37:52 --> batch_transaction --> insert --> amount -->  --> |#/§äM{5>¼3Bw¢ñ
+GARCES, JOCELYN (00451) --> 2020-01-24 10:39:21 --> authentication --> logout --> logout -->  --> 

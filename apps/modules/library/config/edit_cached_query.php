@@ -1,0 +1,4 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["edit_cached_query"] = 'SELECT `ww_performance_setup_library`.`library_id` as record_id, `ww_performance_setup_library`.`created_on` as "performance_setup_library.created_on", `ww_performance_setup_library`.`created_by` as "performance_setup_library.created_by", `ww_performance_setup_library`.`modified_on` as "performance_setup_library.modified_on", `ww_performance_setup_library`.`modified_by` as "performance_setup_library.modified_by", ww_performance_setup_library.status_id as "performance_setup_library.status_id", ww_performance_setup_library.description as "performance_setup_library.description", ww_performance_setup_library.library as "performance_setup_library.library"
+FROM (`ww_performance_setup_library`)
+WHERE `ww_performance_setup_library`.`library_id` = "{$record_id}"';

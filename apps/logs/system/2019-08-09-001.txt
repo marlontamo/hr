@@ -1,0 +1,12 @@
+Admin, Teemworx (admin) --> 2019-08-09 09:19:56 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2019-08-09 09:49:23 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2019-08-09 09:49:36 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2019-08-09 09:54:16 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2019-08-09 09:55:07 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2019-08-09 09:59:40 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2019-08-09 10:00:07 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2019-08-09 10:06:02 --> authentication --> logout --> logout -->  --> 
+ACOSTA, RONALD (33679) --> 2019-08-09 10:06:08 --> authentication --> login --> login -->  --> 
+ACOSTA, RONALD (33679) --> 2019-08-09 10:10:11 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2019-08-09 10:10:16 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2019-08-09 13:48:17 --> authentication --> login --> login -->  --> 

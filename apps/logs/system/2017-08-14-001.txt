@@ -1,0 +1,2 @@
+CHAVEZ, NELSON (00129) --> 2017-08-14 15:21:20 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+CHAVEZ, NELSON (00129) --> 2017-08-14 15:21:20 --> applicant_monitoring --> update --> status_id --> 6 --> 7

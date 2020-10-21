@@ -1,0 +1,4 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["edit_cached_query"] = 'SELECT `ww_performance_setup_rating_group`.`rating_group_id` as record_id, `ww_performance_setup_rating_group`.`created_on` as "performance_setup_rating_group.created_on", `ww_performance_setup_rating_group`.`created_by` as "performance_setup_rating_group.created_by", `ww_performance_setup_rating_group`.`modified_on` as "performance_setup_rating_group.modified_on", `ww_performance_setup_rating_group`.`modified_by` as "performance_setup_rating_group.modified_by", ww_performance_setup_rating_group.status_id as "performance_setup_rating_group.status_id", ww_performance_setup_rating_group.description as "performance_setup_rating_group.description", ww_performance_setup_rating_group.rating_group as "performance_setup_rating_group.rating_group"
+FROM (`ww_performance_setup_rating_group`)
+WHERE `ww_performance_setup_rating_group`.`rating_group_id` = "{$record_id}"';

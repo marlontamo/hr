@@ -1,0 +1,2 @@
+GARCES, JOCELYN (00451) --> 2017-12-30 12:39:19 --> authentication --> login --> login -->  --> 
+GARCES, JOCELYN (00451) --> 2017-12-30 12:48:58 --> authentication --> logout --> logout -->  --> 

@@ -1,0 +1,108 @@
+<div class="portlet">
+	<div class="portlet-title">
+		<div class="caption"><?php echo lang('permissions.basic_info'); ?></div>
+		<div class="tools"><a class="collapse" href="javascript:;"></a></div>
+	</div>
+	<div class="portlet-body form">			<div class="form-group">
+				<label class="control-label col-md-3"><span class="required">* </span><?php echo lang('permissions.profile_name'); ?></label>
+				<div class="col-md-7">							<input type="text" class="form-control" name="profiles[profile]" id="profiles-profile" value="<?php echo $record['profiles.profile']; ?>" placeholder="<?php echo lang('permissions.p_profile_name'); ?>"/> 				</div>	
+			</div>			<div class="form-group">
+				<label class="control-label col-md-3"><?php echo lang('permissions.description'); ?></label>
+				<div class="col-md-7">							<input type="text" class="form-control" name="profiles[description]" id="profiles-description" value="<?php echo $record['profiles.description']; ?>" placeholder="<?php echo lang('permissions.p_description'); ?>"/> 				</div>	
+			</div>	</div>
+</div>
+<div class="portlet">
+	<div class="portlet-title">
+		<div class="caption"><?php echo lang('permissions.data_access'); ?></div>
+		<div class="tools"><a class="expand" href="javascript:;"></a></div>
+	</div>
+	<div class="portlet-body form" style="display: none;">
+		<table class="table table-bordered table-hover">
+			<thead>
+				<tr>
+					<th width="36%"><?php echo lang('permissions.module'); ?></th>
+					<th width="16%" class="text-center"><?php echo lang('permissions.low'); ?></th>
+					<th width="16%" class="text-center"><?php echo lang('permissions.medium'); ?></th>
+					<th width="16%" class="text-center"><?php echo lang('permissions.high'); ?></th>
+					<th width="16%" class="text-center"><?php echo lang('permissions.critical'); ?></th>
+				</tr>
+			</thead>
+			<tbody>
+			<?php foreach ($modules as $mod_id => $module): ?>
+				<?php if($module->sensitivity_filter): ?>
+				<tr>
+					<td>
+						<span class="text-success"><?php echo $module->short_name; ?></span><br/>
+						<span class="small muted"><?php echo $module->mod_code; ?></span>
+					</td>
+					<td class="text-center"><input type="checkbox" name="sensitivity[<?php echo $module->mod_id?>][1]" <?php echo isset($sensitivity[$mod_id][1]) ? 'checked="checked"' : '' ?>></td>
+					<td class="text-center"><input type="checkbox" name="sensitivity[<?php echo $module->mod_id?>][2]" <?php echo isset($sensitivity[$mod_id][2]) ? 'checked="checked"' : '' ?>></td>
+					<td class="text-center"><input type="checkbox" name="sensitivity[<?php echo $module->mod_id?>][3]" <?php echo isset($sensitivity[$mod_id][3]) ? 'checked="checked"' : '' ?>></td>
+					<td class="text-center"><input type="checkbox" name="sensitivity[<?php echo $module->mod_id?>][4]" <?php echo isset($sensitivity[$mod_id][4]) ? 'checked="checked"' : '' ?>></td>
+				</tr>
+				<?php endif; ?>
+			<?php endforeach; ?>
+			</tbody>
+		</table>
+
+	</div>
+	<div class="portlet-body form">	</div>
+</div>
+
+<div class="portlet">
+	<div class="portlet-title">
+		<div class="caption"><?php echo lang('permissions.module_permission'); ?></div>
+		<div class="tools"><a class="expand" href="javascript:;"></a></div>
+	</div>
+	<div class="portlet-body form" style="display: none;">
+		<table class="table table-bordered table-striped table-condensed flip-content">
+			<thead class="flip-content">
+				<tr>
+					<th class="text-center" style="width:50%"><?php echo lang('permissions.module'); ?></th>
+					<?php foreach( $actions as $action_id => $action ): ?>
+					<th class="text-center" style="width:10%"><?php echo $action->action; ?></th>
+					<?php endforeach; ?>
+				</tr>
+			</thead>
+			<tbody>
+				<?php 
+				$parent_group = ''; 
+				$sub_group = '';
+				?>
+				<?php foreach ($modules as $mod_id => $module): ?>
+				<?php if(!empty($module->parent_group)): ?>
+					<?php if($parent_group != $module->parent_group): ?>
+						<tr>
+							<td style="font-size:14px; font-weight: 600">
+								<?php echo $module->parent_group; ?>
+							</td>
+						</tr>
+						<?php $parent_group = $module->parent_group; ?>
+					<?php endif; ?>
+				<?php endif; ?>
+				<?php if(!empty($module->sub_group)): ?>
+					<?php if($sub_group != $module->sub_group): ?>
+						<tr>
+							<td style="font-size:14px; font-weight: 600">
+								<?php echo $module->parent_group.'-'.$module->sub_group; ?>
+							</td>
+						</tr>
+						<?php $sub_group = $module->sub_group; ?>
+					<?php endif; ?>
+				<?php endif; ?>
+					<tr class="module">
+						<td>
+							<!-- <span class="text-success"><?php echo lang('permissions.route'); ?>: </span>
+							<span class=""><?php echo $module->route; ?></span><br/> -->
+							<!-- <span class=""></span> -->
+							<span class="text-success tooltips" data-placement="right" data-original-title="<?php echo lang('permissions.route').': '.$module->route; ?>"><?php echo $module->long_name; ?></span><br/>
+						</td>
+						<?php foreach( $actions as $action_id => $action ): ?>
+							<td class="text-center"><input type="checkbox" name="permissions[<?php echo $mod_id; ?>][<?php echo $action_id; ?>]" <?php echo isset($permission[$mod_id][$action_id]) && $permission[$mod_id][$action_id] ? 'checked="checked"' : '' ?>></td>
+						<?php endforeach; ?>	
+					</tr>
+				<?php endforeach; ?>	
+			</tbody>
+		</table>
+	</div>
+</div>

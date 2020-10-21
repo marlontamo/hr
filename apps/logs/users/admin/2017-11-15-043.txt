@@ -1,0 +1,135 @@
+2017-11-15 12:28:53 --> profiles --> edit --> grant -->  --> on
+2017-11-15 12:28:53 --> profiles --> edit --> profile_id -->  --> 25
+2017-11-15 12:28:53 --> profiles --> edit --> mod_id -->  --> 126
+2017-11-15 12:28:53 --> profiles --> edit --> action_id -->  --> 2
+2017-11-15 12:28:53 --> profiles --> edit --> grant -->  --> on
+2017-11-15 12:28:53 --> profiles --> edit --> profile_id -->  --> 25
+2017-11-15 12:28:53 --> profiles --> edit --> mod_id -->  --> 43
+2017-11-15 12:28:53 --> profiles --> edit --> action_id -->  --> 1
+2017-11-15 12:28:53 --> profiles --> edit --> grant -->  --> on
+2017-11-15 12:28:53 --> profiles --> edit --> profile_id -->  --> 25
+2017-11-15 12:28:53 --> profiles --> edit --> mod_id -->  --> 43
+2017-11-15 12:28:53 --> profiles --> edit --> action_id -->  --> 2
+2017-11-15 12:28:53 --> profiles --> edit --> grant -->  --> on
+2017-11-15 12:28:53 --> profiles --> edit --> profile_id -->  --> 25
+2017-11-15 12:28:53 --> profiles --> edit --> mod_id -->  --> 43
+2017-11-15 12:28:53 --> profiles --> edit --> action_id -->  --> 6
+2017-11-15 12:28:53 --> profiles --> edit --> grant -->  --> on
+2017-11-15 12:28:53 --> profiles --> edit --> profile_id -->  --> 25
+2017-11-15 12:28:53 --> profiles --> edit --> mod_id -->  --> 143
+2017-11-15 12:28:53 --> profiles --> edit --> action_id -->  --> 1
+2017-11-15 12:28:53 --> profiles --> edit --> grant -->  --> on
+2017-11-15 12:28:53 --> profiles --> edit --> profile_id -->  --> 25
+2017-11-15 12:28:53 --> profiles --> edit --> mod_id -->  --> 143
+2017-11-15 12:28:53 --> profiles --> edit --> action_id -->  --> 2
+2017-11-15 12:28:53 --> profiles --> edit --> grant -->  --> on
+2017-11-15 12:34:41 --> roles --> update --> profile_id --> 2,5,6,12,14,22,23 --> 2,4,5,6,7,12,14,22,23
+2017-11-15 12:38:39 --> roles --> update --> profile_id --> 2,4,5,6,7,12,14,22,23 --> 2,4,5,6,7,12,14,22,23,26
+2017-11-15 12:40:57 --> roles --> update --> profile_id --> 2,4,5,6,7,12,14,23 --> 5,6,12,14,25
+2017-11-15 12:42:13 --> authentication --> logout --> logout -->  --> 
+2017-11-15 12:54:08 --> authentication --> login --> login -->  --> 
+2017-11-15 12:55:16 --> authentication --> logout --> logout -->  --> 
+2017-11-15 12:57:02 --> authentication --> login --> login -->  --> 
+2017-11-15 12:58:00 --> authentication --> logout --> logout -->  --> 
+2017-11-15 13:00:46 --> authentication --> login --> login -->  --> 
+2017-11-15 13:03:40 --> authentication --> logout --> logout -->  --> 
+2017-11-15 13:10:14 --> authentication --> login --> login -->  --> 
+2017-11-15 05:18:35 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+2017-11-15 13:19:41 --> authentication --> logout --> logout -->  --> 
+2017-11-15 13:42:05 --> authentication --> login --> login -->  --> 
+2017-11-15 05:57:32 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+2017-11-15 05:58:04 --> report_generator --> update --> roles --> 1,6,8,24 --> 1,2,6,8,24
+2017-11-15 05:58:29 --> report_generator --> update --> roles --> 1,8,9,24 --> 1,2,8,9,24
+2017-11-15 05:58:58 --> report_generator --> update --> roles --> 1,8,9,24 --> 1,2,8,9,24
+2017-11-15 05:59:09 --> report_generator --> update --> roles --> 1,8,9,24 --> 1,2,8,9,24
+2017-11-15 05:59:33 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+2017-11-15 14:01:36 --> authentication --> logout --> logout -->  --> 
+2017-11-15 14:20:18 --> authentication --> login --> login -->  --> 
+2017-11-15 06:24:26 --> report_generator --> update --> roles --> 1,2,8 --> 1
+2017-11-15 14:28:30 --> authentication --> logout --> logout -->  --> 
+2017-11-15 14:30:00 --> authentication --> login --> login -->  --> 
+2017-11-15 06:30:53 --> report_generator --> update --> roles --> 1,8,9,24 --> 1,2,8,9,24
+2017-11-15 06:32:54 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+2017-11-15 06:33:17 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+2017-11-15 06:33:45 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+2017-11-15 06:34:07 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+2017-11-15 06:34:51 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+2017-11-15 06:35:40 --> report_generator --> update --> roles --> 1,8,9,24 --> 1,2,8,9,24
+2017-11-15 06:35:53 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+2017-11-15 06:36:09 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+2017-11-15 06:38:07 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+2017-11-15 06:38:23 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+2017-11-15 06:38:38 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+2017-11-15 06:39:58 --> report_generator --> update --> roles --> 1,6,8,24 --> 1,2,6,8,24
+2017-11-15 06:40:12 --> report_generator --> update --> roles --> 1,8,9,24 --> 1,2,8,9,24
+2017-11-15 06:42:16 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+2017-11-15 06:42:28 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+2017-11-15 06:42:41 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+2017-11-15 06:42:55 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+2017-11-15 06:43:12 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+2017-11-15 06:43:26 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+2017-11-15 06:44:28 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+2017-11-15 06:44:53 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+2017-11-15 06:46:43 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+2017-11-15 06:46:56 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+2017-11-15 06:47:09 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+2017-11-15 06:47:22 --> report_generator --> update --> roles --> 1,8,9,24 --> 1,2,8,9,24
+2017-11-15 06:47:38 --> report_generator --> update --> roles --> 1,8,9,24 --> 1,2,8,9,24
+2017-11-15 06:47:51 --> report_generator --> update --> roles --> 1,8,9,24 --> 1,2,8,9,24
+2017-11-15 06:48:05 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+2017-11-15 14:50:48 --> authentication --> logout --> logout -->  --> 
+2017-11-15 15:19:05 --> authentication --> login --> login -->  --> 
+2017-11-15 15:21:44 --> profiles --> edit --> profile_id -->  --> 6
+2017-11-15 15:21:44 --> profiles --> edit --> mod_id -->  --> 3
+2017-11-15 15:21:44 --> profiles --> edit --> sensitivity_id -->  --> 1
+2017-11-15 15:21:44 --> profiles --> edit --> value -->  --> on
+2017-11-15 15:21:44 --> profiles --> edit --> profile_id -->  --> 6
+2017-11-15 15:21:44 --> profiles --> edit --> mod_id -->  --> 3
+2017-11-15 15:21:44 --> profiles --> edit --> sensitivity_id -->  --> 2
+2017-11-15 15:21:44 --> profiles --> edit --> value -->  --> on
+2017-11-15 15:21:44 --> profiles --> edit --> profile_id -->  --> 6
+2017-11-15 15:21:44 --> profiles --> edit --> mod_id -->  --> 3
+2017-11-15 15:21:44 --> profiles --> edit --> sensitivity_id -->  --> 3
+2017-11-15 15:21:44 --> profiles --> edit --> value -->  --> on
+2017-11-15 15:21:44 --> profiles --> edit --> profile_id -->  --> 6
+2017-11-15 15:21:44 --> profiles --> edit --> mod_id -->  --> 3
+2017-11-15 15:21:44 --> profiles --> edit --> sensitivity_id -->  --> 4
+2017-11-15 15:21:44 --> profiles --> edit --> value -->  --> on
+2017-11-15 15:21:44 --> profiles --> edit --> profile_id -->  --> 6
+2017-11-15 15:21:44 --> profiles --> edit --> mod_id -->  --> 1
+2017-11-15 15:21:44 --> profiles --> edit --> sensitivity_id -->  --> 1
+2017-11-15 15:21:44 --> profiles --> edit --> value -->  --> on
+2017-11-15 15:21:44 --> profiles --> edit --> profile_id -->  --> 6
+2017-11-15 15:21:44 --> profiles --> edit --> mod_id -->  --> 1
+2017-11-15 15:21:44 --> profiles --> edit --> sensitivity_id -->  --> 2
+2017-11-15 15:21:44 --> profiles --> edit --> value -->  --> on
+2017-11-15 15:21:44 --> profiles --> edit --> profile_id -->  --> 6
+2017-11-15 15:21:44 --> profiles --> edit --> mod_id -->  --> 1
+2017-11-15 15:21:44 --> profiles --> edit --> sensitivity_id -->  --> 3
+2017-11-15 15:21:44 --> profiles --> edit --> value -->  --> on
+2017-11-15 15:21:44 --> profiles --> edit --> profile_id -->  --> 6
+2017-11-15 15:21:44 --> profiles --> edit --> mod_id -->  --> 1
+2017-11-15 15:21:44 --> profiles --> edit --> sensitivity_id -->  --> 4
+2017-11-15 15:21:44 --> profiles --> edit --> value -->  --> on
+2017-11-15 15:21:44 --> profiles --> edit --> profile_id -->  --> 6
+2017-11-15 15:21:44 --> profiles --> edit --> mod_id -->  --> 4
+2017-11-15 15:21:44 --> profiles --> edit --> sensitivity_id -->  --> 1
+2017-11-15 15:21:44 --> profiles --> edit --> value -->  --> on
+2017-11-15 15:21:44 --> profiles --> edit --> profile_id -->  --> 6
+2017-11-15 15:21:44 --> profiles --> edit --> mod_id -->  --> 4
+2017-11-15 15:21:44 --> profiles --> edit --> sensitivity_id -->  --> 2
+2017-11-15 15:21:44 --> profiles --> edit --> value -->  --> on
+2017-11-15 15:21:44 --> profiles --> edit --> profile_id -->  --> 6
+2017-11-15 15:21:44 --> profiles --> edit --> mod_id -->  --> 4
+2017-11-15 15:21:44 --> profiles --> edit --> sensitivity_id -->  --> 3
+2017-11-15 15:21:44 --> profiles --> edit --> value -->  --> on
+2017-11-15 15:21:44 --> profiles --> edit --> profile_id -->  --> 6
+2017-11-15 15:21:44 --> profiles --> edit --> mod_id -->  --> 4
+2017-11-15 15:21:44 --> profiles --> edit --> sensitivity_id -->  --> 4
+2017-11-15 15:21:44 --> profiles --> edit --> value -->  --> on
+2017-11-15 15:21:44 --> profiles --> edit --> profile_id -->  --> 6
+2017-11-15 15:21:44 --> profiles --> edit --> mod_id -->  --> 90
+2017-11-15 15:21:44 --> profiles --> edit --> action_id -->  --> 1
+2017-11-15 15:21:44 --> profiles --> edit --> grant -->  --> on
+2017-11-15 15:21:44 --> profiles --> edit --> profile_id -->  --> 6
+2017-11-15 15:21:44 --> profiles --> edit --> mod_id -->  --> 90

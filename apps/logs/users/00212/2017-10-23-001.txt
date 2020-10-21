@@ -1,0 +1,105 @@
+2017-10-23 13:44:08 --> authentication --> login --> login -->  --> 
+2017-10-23 13:55:10 --> authentication --> logout --> logout -->  --> 
+2017-10-23 13:56:00 --> authentication --> login --> login -->  --> 
+2017-10-23 13:57:54 --> authentication --> logout --> logout -->  --> 
+2017-10-23 13:59:03 --> authentication --> login --> login -->  --> 
+2017-10-23 14:00:53 --> authentication --> logout --> logout -->  --> 
+2017-10-23 14:02:34 --> authentication --> login --> login -->  --> 
+2017-10-23 14:12:14 --> authentication --> logout --> logout -->  --> 
+2017-10-23 14:13:08 --> authentication --> login --> login -->  --> 
+2017-10-23 14:22:20 --> mrf --> insert --> to -->  --> malou_s@legendhotels.com.ph
+2017-10-23 14:22:20 --> mrf --> insert --> subject -->  --> Send email to approver
+2017-10-23 14:22:20 --> mrf --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear SUNIGA, MA. LOURDES ,</p>
+
+        <p>
+            Please review Personnel Requisition Form requested by GENER, FRANCIA  for your approval.
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+2017-10-23 14:23:44 --> authentication --> logout --> logout -->  --> 
+2017-10-23 14:24:58 --> authentication --> login --> login -->  --> 
+2017-10-23 14:25:43 --> authentication --> logout --> logout -->  --> 
+2017-10-23 14:27:28 --> authentication --> login --> login -->  --> 
+2017-10-23 14:28:33 --> authentication --> logout --> logout -->  --> 
+2017-10-23 14:51:10 --> authentication --> login --> login -->  --> 
+2017-10-23 14:58:07 --> mrf --> insert --> to -->  --> malou_s@legendhotels.com.ph
+2017-10-23 14:58:07 --> mrf --> insert --> subject -->  --> Send email to approver
+2017-10-23 14:58:07 --> mrf --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear SUNIGA, MA. LOURDES ,</p>
+
+        <p>
+            Please review Personnel Requisition Form requested by GENER, FRANCIA  for your approval.
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+2017-10-23 14:58:38 --> authentication --> logout --> logout -->  --> 
+2017-10-23 15:01:39 --> authentication --> login --> login -->  --> 
+2017-10-23 15:05:59 --> mrf --> insert --> to -->  --> malou_s@legendhotels.com.ph
+2017-10-23 15:05:59 --> mrf --> insert --> subject -->  --> Send email to approver
+2017-10-23 15:05:59 --> mrf --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear SUNIGA, MA. LOURDES ,</p>
+
+        <p>
+            Please review Personnel Requisition Form requested by GENER, FRANCIA  for your approval.
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+2017-10-23 15:06:20 --> authentication --> logout --> logout -->  --> 
+2017-10-23 15:09:12 --> authentication --> login --> login -->  --> 
+2017-10-23 15:09:47 --> authentication --> logout --> logout -->  --> 
+2017-10-23 20:24:34 --> authentication --> login --> login -->  --> 
+2017-10-23 20:25:03 --> authentication --> logout --> logout -->  --> 
+2017-10-23 20:26:28 --> authentication --> login --> login -->  --> 
+2017-10-23 20:26:49 --> authentication --> logout --> logout -->  --> 
+2017-10-23 20:28:14 --> authentication --> login --> login -->  --> 
+2017-10-23 20:28:30 --> authentication --> logout --> logout -->  --> 
+2017-10-23 20:34:08 --> authentication --> login --> login -->  --> 
+2017-10-23 20:37:08 --> authentication --> logout --> logout -->  --> 
+2017-10-23 20:53:43 --> authentication --> login --> login -->  --> 
+2017-10-23 20:54:42 --> authentication --> logout --> logout -->  --> 
+2017-10-23 21:10:07 --> authentication --> login --> login -->  --> 
+2017-10-23 21:13:56 --> authentication --> logout --> logout -->  --> 
+2017-10-23 21:26:48 --> authentication --> login --> login -->  --> 
+2017-10-23 21:29:53 --> authentication --> logout --> logout -->  --> 
+2017-10-23 21:55:03 --> authentication --> login --> login -->  --> 
+2017-10-23 22:00:31 --> authentication --> logout --> logout -->  --> 

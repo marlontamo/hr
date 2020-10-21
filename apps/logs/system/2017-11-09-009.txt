@@ -1,0 +1,93 @@
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> process_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> checklist_id -->  --> 19
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> process_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> checklist_id -->  --> 20
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> process_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> checklist_id -->  --> 21
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> process_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> checklist_id -->  --> 22
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> process_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> checklist_id -->  --> 23
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> process_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> checklist_id -->  --> 24
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> process_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> checklist_id -->  --> 25
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> process_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> checklist_id -->  --> 26
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> process_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> checklist_id -->  --> 27
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> process_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> checklist_id -->  --> 28
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> process_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> checklist_id -->  --> 29
+DE LEON, LISSA (30991) --> 2017-11-09 12:27:54 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 12:28:34 --> applicant_monitoring --> insert --> login -->  --> 999777
+DE LEON, LISSA (30991) --> 2017-11-09 12:28:34 --> applicant_monitoring --> insert --> email -->  --> jvelasco@yahoo.com
+DE LEON, LISSA (30991) --> 2017-11-09 12:28:34 --> applicant_monitoring --> insert --> role_id -->  --> 12
+DE LEON, LISSA (30991) --> 2017-11-09 12:28:34 --> applicant_monitoring --> insert --> full_name -->  --> Velasco, Jun
+DE LEON, LISSA (30991) --> 2017-11-09 12:28:34 --> applicant_monitoring --> insert --> display_name -->  --> Velasco, Jun
+DE LEON, LISSA (30991) --> 2017-11-09 12:28:34 --> applicant_monitoring --> insert --> shift_id -->  --> 7
+DE LEON, LISSA (30991) --> 2017-11-09 12:28:34 --> applicant_monitoring --> insert --> salary -->  --> ‹:cêQ6‹‚…¡ròœ/¢
+DE LEON, LISSA (30991) --> 2017-11-09 12:28:34 --> applicant_monitoring --> insert --> user_id -->  --> 705
+DE LEON, LISSA (30991) --> 2017-11-09 12:28:34 --> applicant_monitoring --> insert --> id_number -->  --> 999777
+DE LEON, LISSA (30991) --> 2017-11-09 12:28:34 --> applicant_monitoring --> insert --> effectivity_date -->  --> 2017-12-01
+DE LEON, LISSA (30991) --> 2017-11-09 12:28:34 --> applicant_monitoring --> insert --> alias -->  --> Velasco, Jun
+DE LEON, LISSA (30991) --> 2017-11-09 12:28:34 --> applicant_monitoring --> insert --> company_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-09 12:28:34 --> applicant_monitoring --> insert --> department_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-09 12:28:34 --> applicant_monitoring --> insert --> reports_to_id -->  --> 10
+DE LEON, LISSA (30991) --> 2017-11-09 12:28:34 --> applicant_monitoring --> insert --> location_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-09 12:28:34 --> applicant_monitoring --> insert --> user_id -->  --> 705
+DE LEON, LISSA (30991) --> 2017-11-09 12:28:34 --> applicant_monitoring --> insert --> partner_id -->  --> 704
+DE LEON, LISSA (30991) --> 2017-11-09 12:28:34 --> applicant_monitoring --> insert --> recruit_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-09 12:28:34 --> applicant_monitoring --> insert --> lastname -->  --> Velasco
+DE LEON, LISSA (30991) --> 2017-11-09 12:28:34 --> applicant_monitoring --> insert --> firstname -->  --> Jun
+DE LEON, LISSA (30991) --> 2017-11-09 12:28:34 --> applicant_monitoring --> insert --> middlename -->  --> Bautista
+DE LEON, LISSA (30991) --> 2017-11-09 12:28:34 --> applicant_monitoring --> insert --> position_id -->  --> 3
+DE LEON, LISSA (30991) --> 2017-11-09 12:28:34 --> applicant_monitoring --> insert --> title -->  --> Mr.
+DE LEON, LISSA (30991) --> 2017-11-09 12:28:34 --> applicant_monitoring --> insert --> birth_date -->  --> 1989-07-18
+DE LEON, LISSA (30991) --> 2017-11-09 12:28:34 --> applicant_monitoring --> update --> status_id --> 8 --> 7
+DE LEON, LISSA (30991) --> 2017-11-09 12:28:34 --> applicant_monitoring --> update --> hired --> 0 --> 1
+DE LEON, LISSA (30991) --> 2017-11-09 12:28:34 --> applicant_monitoring --> update --> partner_id -->  --> 704
+DE LEON, LISSA (30991) --> 2017-11-09 13:34:26 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-09 14:49:49 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-09 14:51:22 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-09 15:10:37 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-09 15:10:38 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-09 22:10:29 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-09 22:17:47 --> appform --> insert --> lastname -->  --> Alfonso
+DE LEON, LISSA (30991) --> 2017-11-09 22:17:47 --> appform --> insert --> firstname -->  --> Marvin
+DE LEON, LISSA (30991) --> 2017-11-09 22:17:47 --> appform --> insert --> email -->  --> malfonso@yahoo.com
+DE LEON, LISSA (30991) --> 2017-11-09 22:17:47 --> appform --> insert --> status_id -->  --> 11
+DE LEON, LISSA (30991) --> 2017-11-09 22:17:47 --> appform --> insert --> recruitment_date -->  --> 2017-11-09
+DE LEON, LISSA (30991) --> 2017-11-09 22:17:47 --> appform --> insert --> source_id -->  --> 3
+DE LEON, LISSA (30991) --> 2017-11-09 22:17:47 --> appform --> delete --> recruitment_personal - recruit_id --> 3 --> 
+DE LEON, LISSA (30991) --> 2017-11-09 22:17:47 --> appform --> insert --> recruit_id -->  --> 3
+DE LEON, LISSA (30991) --> 2017-11-09 22:17:47 --> appform --> insert --> key_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-09 22:17:47 --> appform --> insert --> key -->  --> phone
+DE LEON, LISSA (30991) --> 2017-11-09 22:17:47 --> appform --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-09 22:17:47 --> appform --> insert --> key_name -->  --> Phone 
+DE LEON, LISSA (30991) --> 2017-11-09 22:17:47 --> appform --> delete --> recruitment_personal - recruit_id --> 3 --> 
+DE LEON, LISSA (30991) --> 2017-11-09 22:17:47 --> appform --> insert --> recruit_id -->  --> 3
+DE LEON, LISSA (30991) --> 2017-11-09 22:17:47 --> appform --> insert --> key_id -->  --> 7
+DE LEON, LISSA (30991) --> 2017-11-09 22:17:47 --> appform --> insert --> key -->  --> mobile
+DE LEON, LISSA (30991) --> 2017-11-09 22:17:47 --> appform --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-09 22:17:47 --> appform --> insert --> key_name -->  --> Mobile
+DE LEON, LISSA (30991) --> 2017-11-09 22:17:47 --> appform --> insert --> recruit_id -->  --> 3
+DE LEON, LISSA (30991) --> 2017-11-09 22:17:47 --> appform --> insert --> key_id -->  --> 164
+DE LEON, LISSA (30991) --> 2017-11-09 22:17:47 --> appform --> insert --> key -->  --> position_sought
+DE LEON, LISSA (30991) --> 2017-11-09 22:17:47 --> appform --> insert --> sequence -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-09 22:17:47 --> appform --> insert --> key_name -->  --> Position Sought
+DE LEON, LISSA (30991) --> 2017-11-09 22:17:47 --> appform --> insert --> key_value -->  --> ACCOUNTING ASSISTANT
+DE LEON, LISSA (30991) --> 2017-11-09 22:17:47 --> appform --> insert --> recruit_id -->  --> 3
+DE LEON, LISSA (30991) --> 2017-11-09 22:17:47 --> appform --> insert --> key_id -->  --> 169
+DE LEON, LISSA (30991) --> 2017-11-09 22:17:47 --> appform --> insert --> key -->  --> resume

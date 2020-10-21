@@ -1,0 +1,9 @@
+2019-12-03 09:42:09 --> authentication --> login --> login -->  --> 
+2019-12-03 09:46:23 --> authentication --> logout --> logout -->  --> 
+2019-12-03 09:46:36 --> authentication --> login --> login -->  --> 
+2019-12-03 09:48:58 --> authentication --> logout --> logout -->  --> 
+2019-12-03 09:49:16 --> authentication --> login --> login -->  --> 
+2019-12-03 11:45:02 --> authentication --> logout --> logout -->  --> 
+2019-12-03 11:46:39 --> authentication --> login --> login -->  --> 
+2019-12-03 11:49:36 --> authentication --> logout --> logout -->  --> 
+2019-12-03 12:05:10 --> authentication --> login --> login -->  --> 

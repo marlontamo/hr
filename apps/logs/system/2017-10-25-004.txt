@@ -1,0 +1,137 @@
+DE LEON, LISSA (30991) --> 2017-10-25 15:51:28 --> appform --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-10-25 15:51:28 --> appform --> insert --> key_name -->  --> Phone 
+DE LEON, LISSA (30991) --> 2017-10-25 15:51:28 --> appform --> delete --> recruitment_personal - recruit_id --> 1 --> 
+DE LEON, LISSA (30991) --> 2017-10-25 15:51:28 --> appform --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-10-25 15:51:28 --> appform --> insert --> key_id -->  --> 7
+DE LEON, LISSA (30991) --> 2017-10-25 15:51:28 --> appform --> insert --> key -->  --> mobile
+DE LEON, LISSA (30991) --> 2017-10-25 15:51:28 --> appform --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-10-25 15:51:28 --> appform --> insert --> key_name -->  --> Mobile
+DE LEON, LISSA (30991) --> 2017-10-25 15:51:28 --> appform --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-10-25 15:51:28 --> appform --> insert --> key_id -->  --> 164
+DE LEON, LISSA (30991) --> 2017-10-25 15:51:28 --> appform --> insert --> key -->  --> position_sought
+DE LEON, LISSA (30991) --> 2017-10-25 15:51:28 --> appform --> insert --> sequence -->  --> 2
+DE LEON, LISSA (30991) --> 2017-10-25 15:51:28 --> appform --> insert --> key_name -->  --> Position Sought
+DE LEON, LISSA (30991) --> 2017-10-25 15:51:28 --> appform --> insert --> key_value -->  --> ACCOUNTING CLERK
+DE LEON, LISSA (30991) --> 2017-10-25 15:51:28 --> appform --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-10-25 15:51:28 --> appform --> insert --> key_id -->  --> 169
+DE LEON, LISSA (30991) --> 2017-10-25 15:51:28 --> appform --> insert --> key -->  --> resume
+DE LEON, LISSA (30991) --> 2017-10-25 15:51:28 --> appform --> insert --> sequence -->  --> 2
+DE LEON, LISSA (30991) --> 2017-10-25 15:51:28 --> appform --> insert --> key_name -->  --> Resume
+DE LEON, LISSA (30991) --> 2017-10-25 15:51:28 --> appform --> insert --> key_value -->  --> uploads/appform/Employee%20Data%20Sheet%20-%20page%201.png
+DE LEON, LISSA (30991) --> 2017-10-25 15:52:53 --> applicant_monitoring --> update --> request_id --> 0 --> 11
+DE LEON, LISSA (30991) --> 2017-10-25 15:52:53 --> applicant_monitoring --> update --> status_id --> 11 --> 1
+DE LEON, LISSA (30991) --> 2017-10-25 15:52:53 --> applicant_monitoring --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-10-25 15:52:53 --> applicant_monitoring --> insert --> key_id -->  --> 196
+DE LEON, LISSA (30991) --> 2017-10-25 15:52:53 --> applicant_monitoring --> insert --> key -->  --> sourcing_free_sites
+DE LEON, LISSA (30991) --> 2017-10-25 15:52:53 --> applicant_monitoring --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-10-25 15:52:53 --> applicant_monitoring --> insert --> key_name -->  --> Recruitment Sourcing Free Sites
+DE LEON, LISSA (30991) --> 2017-10-25 15:52:53 --> applicant_monitoring --> insert --> request_id -->  --> 11
+DE LEON, LISSA (30991) --> 2017-10-25 15:52:53 --> applicant_monitoring --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-10-25 15:52:53 --> applicant_monitoring --> insert --> status_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-10-25 18:00:48 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-10-25 18:45:44 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-10-25 19:00:44 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-10-25 19:01:40 --> applicant_monitoring --> insert --> process_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-10-25 19:01:40 --> applicant_monitoring --> insert --> date -->  --> 2017-10-26 09:00:00
+DE LEON, LISSA (30991) --> 2017-10-25 19:01:40 --> applicant_monitoring --> insert --> user_id -->  --> 38
+DE LEON, LISSA (30991) --> 2017-10-25 19:01:40 --> applicant_monitoring --> insert --> location_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-10-25 19:01:40 --> applicant_monitoring --> insert --> schedule_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-10-25 19:01:40 --> applicant_monitoring --> insert --> to -->  --> lissa_d@abrahamholdings.ph
+DE LEON, LISSA (30991) --> 2017-10-25 19:01:40 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+DE LEON, LISSA (30991) --> 2017-10-25 19:01:40 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>
+	Hi LISSA DE LEON,</p>
+<p>
+	Good day!</p>
+
+<p>
+	This is to inform you that you are scheduled for an interview of Juan Dela Cruz, for the position of ACCOUNTING CLERK. Below are the details and schedule:</p>
+<p>
+	Applicant Name: Juan Dela Cruz
+	<br>
+	Position: ACCOUNTING CLERK
+	<br>
+	Date: October 26, 2017
+	<br>
+	Time: 09:00 am
+</p>
+<p>
+	In case you are not available on the said dates, please do not hesitate to contact one of our HR-Recruitment Team.</p>
+<p>
+	Thank you and Regards,</p>
+<p>
+	HR-Recruitment Team</p>
+
+<br>
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+DE LEON, LISSA (30991) --> 2017-10-25 19:01:40 --> applicant_monitoring --> insert --> to -->  --> jdelacruz@a.com
+DE LEON, LISSA (30991) --> 2017-10-25 19:01:40 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+DE LEON, LISSA (30991) --> 2017-10-25 19:01:40 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>Dear Juan Dela Cruz,</p>
+<p>
+	Thank you for your interest in applying for the ACCOUNTING CLERK position. We would like to invite you for an interview at Abraham Holdings, Inc.. Please see information below:</p>
+<p>
+	Date: October 26, 2017
+	<br>
+	Time: 09:00 am
+	<br>
+	Venue: 770 E. Rodriguez Ext., Malibay, Pasay City</p>
+
+<p>
+	Kindly look for LISSA DE LEON</p>
+
+<p>
+	Should you have queries, please do not hesitate to contact us on 8893935</p>
+
+<p>
+	Sincerely,</p>
+<p>
+	HR- Recruitment Team &ndash; ABHI</p>
+<br>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+DE LEON, LISSA (30991) --> 2017-10-25 19:01:40 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+DE LEON, LISSA (30991) --> 2017-10-25 19:01:40 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+DE LEON, LISSA (30991) --> 2017-10-25 19:08:03 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+DE LEON, LISSA (30991) --> 2017-10-25 19:08:03 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+DE LEON, LISSA (30991) --> 2017-10-25 19:08:03 --> applicant_monitoring --> update --> process_id --> 0 --> 1
+DE LEON, LISSA (30991) --> 2017-10-25 19:08:03 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+DE LEON, LISSA (30991) --> 2017-10-25 19:08:03 --> applicant_monitoring --> update --> result -->  --> Consider
+DE LEON, LISSA (30991) --> 2017-10-25 19:08:03 --> applicant_monitoring --> insert --> interview_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-10-25 19:08:03 --> applicant_monitoring --> insert --> key_id -->  --> 31
+DE LEON, LISSA (30991) --> 2017-10-25 19:08:03 --> applicant_monitoring --> insert --> key -->  --> remarks
+DE LEON, LISSA (30991) --> 2017-10-25 19:08:03 --> applicant_monitoring --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-10-25 19:08:03 --> applicant_monitoring --> insert --> key_name -->  --> Findings/Comments/Impressions
+DE LEON, LISSA (30991) --> 2017-10-25 19:08:03 --> applicant_monitoring --> insert --> key_value -->  --> vcxvzcxczxvvcvzcxvczx
+vcxzvczxvczxvczx
+vcxzvczxcvzxvcxz
+DE LEON, LISSA (30991) --> 2017-10-25 19:08:03 --> applicant_monitoring --> insert --> interview_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-10-25 19:08:03 --> applicant_monitoring --> insert --> key_id -->  --> 66
+DE LEON, LISSA (30991) --> 2017-10-25 19:08:03 --> applicant_monitoring --> insert --> key -->  --> interviewer
+DE LEON, LISSA (30991) --> 2017-10-25 19:08:03 --> applicant_monitoring --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-10-25 19:08:03 --> applicant_monitoring --> insert --> key_name -->  --> Interviewer
+DE LEON, LISSA (30991) --> 2017-10-25 19:08:03 --> applicant_monitoring --> insert --> key_value -->  --> DE LEON, LISSA
+DE LEON, LISSA (30991) --> 2017-10-25 19:08:03 --> applicant_monitoring --> insert --> interview_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-10-25 19:08:03 --> applicant_monitoring --> insert --> key_id -->  --> 64
+DE LEON, LISSA (30991) --> 2017-10-25 19:08:03 --> applicant_monitoring --> insert --> key -->  --> interviewer_date
+DE LEON, LISSA (30991) --> 2017-10-25 19:08:03 --> applicant_monitoring --> insert --> sequence -->  --> 1

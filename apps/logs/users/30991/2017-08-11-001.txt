@@ -1,0 +1,10 @@
+2017-08-11 14:02:03 --> authentication --> login --> login -->  --> 
+2017-08-11 14:03:58 --> applicant_monitoring --> update --> process_id --> 0 --> 1
+2017-08-11 14:04:28 --> applicant_monitoring --> update --> result_id --> 0 --> 1
+2017-08-11 14:04:28 --> applicant_monitoring --> update --> result -->  --> Passed
+2017-08-11 14:04:28 --> applicant_monitoring --> update --> key_value --> Qualified --> Passed
+2017-08-11 14:04:42 --> applicant_monitoring --> update --> key_value --> Passed --> Qualified
+2017-08-11 14:17:20 --> applicant_monitoring --> update --> result_id --> 0 --> 1
+2017-08-11 14:17:20 --> applicant_monitoring --> update --> result -->  --> Passed
+2017-08-11 14:17:20 --> applicant_monitoring --> update --> key_value --> Qualified --> Passed
+2017-08-11 14:18:19 --> authentication --> logout --> logout -->  --> 

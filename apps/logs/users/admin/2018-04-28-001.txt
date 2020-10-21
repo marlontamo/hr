@@ -1,0 +1,8 @@
+2018-04-28 21:37:18 --> authentication --> login --> login -->  --> 
+2018-04-28 21:38:50 --> users --> update --> hash --> $2a$08$aVXuYkgcBlPj8.EMMs7d9e5FP9sscFe9hYgrrlwCH9oU7ZXfSplC. --> $2a$08$w9Lko0y97dg7rT75pHtWKOCwmpzuLMARHH/vJr36YDn4SeCBQsOr.
+2018-04-28 21:38:50 --> users --> update --> active --> 1 --> 1 else 0
+2018-04-28 21:39:23 --> authentication --> logout --> logout -->  --> 
+2018-04-28 22:11:34 --> authentication --> login --> login -->  --> 
+2018-04-28 22:13:27 --> authentication --> logout --> logout -->  --> 
+2018-04-28 22:59:42 --> authentication --> login --> login -->  --> 
+2018-04-28 23:00:38 --> authentication --> logout --> logout -->  --> 

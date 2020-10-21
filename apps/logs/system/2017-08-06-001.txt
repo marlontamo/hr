@@ -1,0 +1,9 @@
+DE LEON, LISSA (30991) --> 2017-08-06 13:38:52 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-08-06 13:43:23 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-08-06 21:09:10 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-08-06 21:50:24 --> authentication --> logout --> logout -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-08-06 21:50:33 --> authentication --> login --> login -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-08-06 22:13:06 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-08-06 22:13:32 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-08-06 22:52:59 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-08-06 22:53:07 --> authentication --> login --> login -->  --> 

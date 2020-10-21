@@ -1,0 +1,159 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html lang="en">
+    <!-- BEGIN HEAD-->
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title></title>
+        <style>
+            body, p
+            {
+                
+
+            font-family:Arial;
+            font-size: 10px;
+
+            
+            }
+
+
+        </style>
+    </head>
+    <!-- END HEAD -->
+    <!-- BEGIN BODY -->
+    <body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" style="-webkit-font-smoothing: antialiased; width: 100% !important; -webkit-text-size-adjust: none;">
+
+        <!-- <table width="100%" cellpadding="0" cellspacing="0" border="0" style="padding: 40px 40px 40px 40px;">
+            <tr>
+                <td width="100%"> -->
+
+                    <table width="755" cellpadding="0" cellspacing="0" border="0" align="center" class="table" style="overflow: wrap;">
+                        <tr>
+                            <td width="755" class="cell">
+                                <!-- BEGIN HEADER CONTAINER -->
+                                <p style="font-size: 11px; margin-bottom: 30px;">{{date}}</p>
+
+                                <br>
+                                <p style="font-size: 12px; margin:0 0 3px 0;"><strong>{{recipients}}</strong></p>
+                                <p style="font-size: 11px; margin: 0 0 3px 0;">{{address1}}</p>
+                                <p style="font-size: 11px; margin: 0 0 3px 0;">{{address2}}</p>
+                                <br>
+                                <br>
+                                
+
+                                <p style="font-size: 11px;">Dear Mr./Ms. &nbsp;{{dear}},</p>
+                                
+                                <br>
+
+                                <p style="font-size: 11px; line-height: 30px;">Your application for employment with HDI &nbsp;<strong>{{company_code}}</strong>&nbsp; for the position of &nbsp;<strong>{{position}}</strong>&nbsp; has been given due consideration and we are pleased to present this <strong><i>OFFER SHEET</i></strong> to you.</p>
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;">Assuming you accept HDI's offer, your engagement with the company will be under the following conditions:</p>
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;"><strong>1. PROBATIONARY ENGAGEMENT</strong><br>
+                                Your probationary period will be for six (6) months from <strong>{{start_date}}</strong> to <strong>{{end_probi_date}}</strong> .
+                                </p>
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;"><strong>2. SALARY AND BENEFITS</strong><br>
+                                Your monthly basic salary shall be <strong>amount in peso {{basicsalary}}</strong>, subject to all government-mandated deductions such as taxes, SSS, etc. You shall be entitiled to all benefits granted to all probationary employees.<br><br>
+                                You will also be entitled to the following benefits:<br>
+                                </p>
+
+                                <br>
+                                <ul style="list-style:none; font-size:11px;">
+                                    {{benefits}}
+                                </ul>
+
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;"><strong>3. HOURS OF WORK</strong><br>
+                                Your normal working hours will be as follows:
+                                </p>
+
+                                <br>
+                                <table style="width:400px; margin-left: 50px; font-size:11px;overflow: wrap;">
+                                    <tr>
+                                        <td>{{daysofwork}}</td>
+                                        <td>:</td>
+                                        <td style="float:right;">{{timeshift}}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>{{breaks}}</td>
+                                        <td>:</td>
+                                        <td style="float:right;">{{breaktime}}</td>
+                                    </tr>
+                                </table>
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;">The company reserves the right to change your work schedule to meet the requirements of your work, subject to local labor law.</p>
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;"><strong>4. DUTIES AND RESPONSIBILITIES</strong><br>
+                                You shall be under the direct supervision of the &nbsp;<strong>{{immediateposition}}</strong>&nbsp;. You shall perform the duties and responsibilities required of yourposition as outlined in the attached job description as well as other tasks which you may be reasonably assigned to perform from time to time.
+                                </p>
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;"><strong>5. REGULARIZATION OF EMPLOYMENT</strong><br>
+                                During probationary employment, your performance shall be subject to a periodic performance appraisal by your superior who shall determine your competencies and contributions to determine your fit for the position. Performance evaluation will be done on your third <strong>(3rd)</strong> and <strong>fifth (5th)</strong> month.
+                                </p>
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;">Upon satisfactory completion of your probationary period and confirmation of regular status, you will then be entitled to other benefits available to regular employees of the Company.</p>
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;">This <strong>OFFER SHEET</strong> is not an employment contract. You will still be subject to the requisite background checks, testing and successful completion of all the pre-employment requirements and other necessary activities as per our hiring policy. Please note that misrepresentation or falsification of anything that you establish as well as failure to complete the required pre-employment requirements within 15 days from start date can be basis for the company to withdraw its offer of employment at any given time. If already commenced employment, a ground for termination.</p>
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;">Kindly sign on the space indicated below to confirm that you fully understand and accept our invitation to join HDI.</p><br>
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;">Very truly yours,</p>
+
+                                <br>
+                                <br>
+
+                                <p style="font-size: 11px; line-height: 16px;"><strong>{{HRmanager}}</strong>
+                                 <br>   HR/OD Manager 
+                                <br>    HDI Group of Companies</p>
+
+                                <table cellpadding='0' cellspacing='0' border='0' width='600px' style=" font-size: 11px; margin: 30px 0 20px 0;overflow: wrap;">
+                                    <tr>
+                                        <td colspan="2" style='height: 30px;'><strong><strong>ACCEPTED BY:</strong> </td>
+                                        <td colspan="2"><strong>AGREED DATE TO START:</strong></td>
+                                    </tr>
+                                     <tr>
+                                        <td colspan="2" style='height: 40px;'></td>
+                                        <td colspan="2">{{start_date}}</td>
+                                    </tr>
+                                    <tr>
+                                        <td style='height: 30px; border-top: 1px solid #000000;'><strong><center>Printed Name/Date/Signature of Employee</center></td>
+                                        <td style='width:50px;'></td>
+                                        <td style='height: 30px; border-top: 1px solid #000000;width:150px;'><center>Date</center></td>
+                                        <td style='width:100px;'></td>
+                                    </tr>
+                                </table>
+
+
+                                
+
+
+                                <!-- BEGIN SECTION 1-->
+                                
+
+
+
+
+
+                            </td>
+                        </tr> 
+                        
+                    </table>
+<!-- 
+                </td>
+            </tr> 
+        </table>  -->
+    </body>
+<!-- BEGIN BODY -->
+</html>

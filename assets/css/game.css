@@ -1,0 +1,31 @@
+/* floating box style */
+.floating-form {
+    max-width: 300px;
+    padding: 30px 30px 10px 30px;
+    font: 13px Arial, Helvetica, sans-serif;
+    background: #F9F9F9;
+    border: 1px solid #ddd;
+    right: 10px;
+    position: fixed;
+    box-shadow: -2px -0px 8px rgba(43, 33, 33, 0.06);
+    -moz-box-shadow: -2px -0px 8px rgba(43, 33, 33, 0.06);
+    -webkit-box-shadow:  -2px -0px 8px rgba(43, 33, 33, 0.06);
+    }
+.contact-opener {
+    position: absolute;
+    left: -88px;
+    transform: rotate(-90deg);
+    top: 100px;
+    background-color: #216288;
+    padding: 9px;
+    color: #fff;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.43);
+    cursor: pointer;
+    border-radius: 5px 5px 0px 0px;
+    -webkit-border-radius: 5px 5px 0px 0px;
+    -moz-border-radius: 5px 5px 0px 0px;
+    box-shadow: -2px -0px 8px rgba(43, 33, 33, 0.06);
+    -moz-box-shadow: -2px -0px 8px rgba(43, 33, 33, 0.06);
+    -webkit-box-shadow:  -2px -0px 8px rgba(43, 33, 33, 0.06);
+
+}

@@ -1,0 +1,10 @@
+Admin, Teemworx (admin) --> 2018-05-09 10:01:32 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-05-09 10:05:03 --> job_grade --> update --> job_level --> Associate Manager --> M1 (Associate Manager)
+Admin, Teemworx (admin) --> 2018-05-09 10:05:21 --> job_grade --> update --> job_level --> Manager --> M2 (Manager)
+Admin, Teemworx (admin) --> 2018-05-09 10:05:48 --> job_grade --> update --> job_level --> Sr. Manager --> M3 (Senior Manager)
+Admin, Teemworx (admin) --> 2018-05-09 10:06:07 --> job_grade --> update --> job_level --> Assistant Vice President --> M4 (AVP)
+Admin, Teemworx (admin) --> 2018-05-09 10:06:29 --> job_grade --> update --> job_level --> Sr. Asst. Vice President --> M5 (SAVP)
+Admin, Teemworx (admin) --> 2018-05-09 10:06:48 --> job_grade --> update --> job_level --> Vice President --> M6 (VP / COO)
+Admin, Teemworx (admin) --> 2018-05-09 10:07:07 --> job_grade --> update --> job_level --> Sr. Vice President --> M7 (Sr. VP / COO)
+Admin, Teemworx (admin) --> 2018-05-09 10:07:41 --> job_grade --> update --> job_level --> Chief Operating Officer --> M8 (CEO)
+Admin, Teemworx (admin) --> 2018-05-09 10:08:52 --> authentication --> logout --> logout -->  --> 

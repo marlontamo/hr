@@ -1,0 +1,3 @@
+ABULENCIA, AMYRA (33176) --> 2020-01-07 14:43:06 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2020-01-07 14:46:46 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2020-01-07 16:06:35 --> authentication --> logout --> logout -->  --> 

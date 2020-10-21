@@ -1,0 +1,4 @@
+BAGUI, MARIA LUZ (33396) --> 2019-11-15 09:42:23 --> authentication --> login --> login -->  --> 
+BAGUI, MARIA LUZ (33396) --> 2019-11-15 09:49:38 --> authentication --> logout --> logout -->  --> 
+BAGUI, MARIA LUZ (33396) --> 2019-11-15 09:49:52 --> authentication --> login --> login -->  --> 
+BAGUI, MARIA LUZ (33396) --> 2019-11-15 09:51:00 --> authentication --> logout --> logout -->  --> 

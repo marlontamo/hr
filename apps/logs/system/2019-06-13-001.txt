@@ -1,0 +1,8 @@
+ABULENCIA, AMYRA (33176) --> 2019-06-13 09:07:48 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2019-06-13 09:14:07 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2019-06-13 09:14:16 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2019-06-13 09:14:54 --> authentication --> logout --> logout -->  --> 
+ABULENCIA, AMYRA (33176) --> 2019-06-13 09:15:06 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2019-06-13 09:15:43 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2019-06-13 09:15:52 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2019-06-13 09:19:32 --> authentication --> logout --> logout -->  --> 

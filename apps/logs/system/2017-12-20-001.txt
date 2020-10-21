@@ -1,0 +1,40 @@
+ORBESO, JOSEPH IAN (33061) --> 2017-12-20 10:05:56 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-12-20 10:43:34 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-12-20 10:47:07 --> authentication --> logout --> logout -->  --> 
+ORBESO, JOSEPH IAN (33061) --> 2017-12-20 10:47:17 --> authentication --> login --> login -->  --> 
+ORBESO, JOSEPH IAN (33061) --> 2017-12-20 10:53:17 --> authentication --> logout --> logout -->  --> 
+ORBESO, JOSEPH IAN (33061) --> 2017-12-20 11:43:30 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-12-20 11:43:55 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-12-20 11:47:07 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-12-20 11:47:57 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-12-20 11:48:08 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> update --> process_id --> 0 --> 2
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> insert --> interview_id -->  --> 4
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> insert --> key_id -->  --> 31
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> insert --> key -->  --> remarks
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> insert --> key_name -->  --> Findings/Comments/Impressions
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> insert --> key_value -->  --> RUUTUTRUTUTUTR
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> insert --> interview_id -->  --> 4
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> insert --> key_id -->  --> 66
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> insert --> key -->  --> interviewer
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> insert --> key_name -->  --> Interviewer
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> insert --> key_value -->  --> FADEROGAO, FELIPE
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> insert --> interview_id -->  --> 4
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> insert --> key_id -->  --> 64
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> insert --> key -->  --> interviewer_date
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> insert --> key_name -->  --> Date of Interviewer
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> insert --> interview_id -->  --> 4
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> insert --> key_id -->  --> 32
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> insert --> key -->  --> technical_recommendation
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> insert --> key_name -->  --> Recommendation
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> insert --> interview_id -->  --> 4
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> insert --> key_id -->  --> 67
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> insert --> key -->  --> hrd_remarks
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-12-20 12:04:21 --> applicant_monitoring --> insert --> key_name -->  --> Remarks
+POLONAN, MARIA LEE (31002) --> 2017-12-20 13:04:43 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-12-20 13:08:49 --> authentication --> logout --> logout -->  --> 

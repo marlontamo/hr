@@ -1,0 +1,186 @@
+/***
+Login page
+***/
+
+/* logo page */
+.rec-kiosk {
+  background-color: #D4D4D4 !important;
+}
+
+.rec-kiosk .logo {
+  margin: 0 auto; 
+  text-align: center;
+}  
+
+.rec-kiosk .content {
+  background-color:#fff; 
+  width: 650px;
+  margin: 0 auto; 
+  margin-bottom: 0px;
+  padding: 30px;  
+  padding-top: 20px;  
+  padding-bottom: 15px; 
+  border-top: 5px solid #3E9DD8; 
+}
+.rec-kiosk .content .kiosk-title {
+    margin-bottom: 15px;
+}
+
+.rec-kiosk-title{
+  border-top: 1px dotted #EEEEEE;
+}
+
+.rec-kiosk .content h3 {
+  color: #000;
+}
+.rec-kiosk .content h4  {
+  color: #555;
+}
+
+.rec-kiosk .content p {
+  color: #222;
+}
+
+.rec-kiosk .content .rec-kiosk-form,
+.rec-kiosk .content .forget-form {
+    padding: 0px;
+    margin: 0px;
+}
+
+.rec-kiosk .content .input-icon {
+  border-left: 2px solid #35aa47 !important;
+}
+
+.rec-kiosk .content .input-icon .form-control {
+  border-left: 0;
+}
+
+.rec-kiosk .content .forget-form {
+  display: none;
+}
+
+.rec-kiosk .content .register-form {
+  display: none;
+}
+
+.rec-kiosk .content .form-title {
+  font-weight: 300;
+  margin-bottom: 25px;
+}
+
+.rec-kiosk .content .form-actions {
+  background-color: #fff;
+  clear: both;
+  border: 0px;
+  border-bottom: 1px solid #eee;
+  padding: 0px 30px 25px 30px;
+  margin-left: -30px;
+  margin-right: -30px;
+}
+
+.rec-kiosk .content .form-actions .checkbox {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.rec-kiosk .content .forget-form .form-actions {
+  border: 0;
+  margin-bottom: 0;
+  padding-bottom: 20px;
+}  
+
+.rec-kiosk .content .register-form .form-actions {
+  border: 0;
+  margin-bottom: 0;
+  padding-bottom: 0px;
+}
+
+.rec-kiosk .content .form-actions .checkbox {
+  margin-top: 8px;
+  display: inline-block;
+}
+
+.rec-kiosk .content .form-actions .btn {
+  margin-top: 1px;
+}
+
+.rec-kiosk .content .forget-password {
+  margin-top: 25px;
+}
+
+.rec-kiosk .content .create-account {
+  border-top: 1px dotted #eee;
+  padding-top: 10px;
+  margin-top: 15px;
+}
+
+.rec-kiosk .content .create-account a {
+  display: inline-block;
+  margin-top: 5px;
+}
+
+/* select2 dropdowns */
+.rec-kiosk .content .select2-container {
+  border-left: 2px solid #35aa47 !important;
+}
+
+.rec-kiosk .content .select2-container .select2-choice {
+  border-left: none !important;
+}
+
+.rec-kiosk .content .select2-container i {
+  display: inline-block;
+  position: relative;
+  color: #ccc;
+  z-index: 1;
+  top:1px;
+  margin: 4px 4px 0px 3px; 
+  width: 16px;
+  height: 16px;
+  font-size: 16px;
+  text-align: center; 
+}
+
+.rec-kiosk .content .has-error .select2-container i {
+  color: #b94a48;
+}
+
+.rec-kiosk .content .select2-container a span {
+  font-size: 13px;
+}
+
+.rec-kiosk .content .select2-container a span img {
+  margin-left: 4px;
+}
+
+/* footer copyright */
+.rec-kiosk .copyright {
+  text-align: center;
+  margin: 0 auto; 
+  padding: 10px;
+  color: #999;
+  font-size: 11px;
+}
+
+@media (max-width: 480px) {
+  /***
+  Login page
+  ***/
+  .rec-kiosk .logo {
+    margin-top:10px;
+  }
+
+  .rec-kiosk .content {
+    padding1: 20px; 
+    width: 280px;
+  }
+
+  .rec-kiosk .content h3 {
+    font-size: 22px;
+  }
+
+
+  .rec-kiosk .checkbox {
+    font-size: 13px;
+  }
+}

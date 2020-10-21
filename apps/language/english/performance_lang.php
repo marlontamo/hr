@@ -1,0 +1,25 @@
+<?php
+$lang['performance'] = array(
+	'performance_master' => 'Performance Master',
+	'create' => 'Create',
+	'view' => 'View',
+	'view_list_button' => 'View List',
+	'layout' => 'Layout',
+	'layout_sub' => 'Content Planning and Appraisal',
+	'layout_desc' => 'A format to define all the sections, columns and rating that will be needed in performing planning and appraisal for the group of partners. We can target a group to use one single template and or layout.',
+	'template' => 'Templates',
+	'template_desc' => 'Here we can create and view per group, employment type, rank or level each section designed by the HR Group for the planning and appraisal form.',
+	'resources' => 'Resources',
+	'resources_sub' => 'Setup and Configurations',
+	'resources_desc' => 'List and definitions of related master tables needed in performance planning and appraisal.',	
+	'balance_scorecard' => 'Balance Scorecard',
+	'balance_scorecard_desc' => 'Strategy performance management tool - a semi-standard structured report, supported by design methods and automation tools, that can be used by managers to keep track of the execution of activities by the staff within their control and to monitor the consequences arising from these actions.',
+	'library_comp' => 'Library of Competencies',
+	'library_comp_desc' => 'Ability of an individual to do a job properly. A competency is a set of defined behaviors that provide a structured guide enabling the identification, evaluation and development of the behaviors in individual employees.',
+	'rating_scale_group' => 'Rating Scale Group',
+	'rating_scale_group_desc' => 'Method that requires the rater to assign a value, sometimes numeric, to the rated object, as a measure of some rated attribute.',
+	'performance_type' => 'Performance Type',
+	'performance_type_desc' => 'Event to monitor and measure relevant performance metrics to assess a contractual, probationary partner. Often times to assess at company-wide level.',
+	'portlet_notif' => 'Portlet Notification',
+	'portlet_notif_desc' => 'Types of schedule when to do notification. Also defining what medium to use.'
+);

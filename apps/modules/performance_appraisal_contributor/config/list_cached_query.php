@@ -1,0 +1,3 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["list_cached_query"] = 'SELECT `ww_performance_appraisal`.`appraisal_id` as record_id, `ww_performance_appraisal`.`created_on` as "performance_appraisal_created_on", `ww_performance_appraisal`.`created_by` as "performance_appraisal_created_by", `ww_performance_appraisal`.`modified_on` as "performance_appraisal_modified_on", `ww_performance_appraisal`.`modified_by` as "performance_appraisal_modified_by"
+FROM (`ww_performance_appraisal`)';

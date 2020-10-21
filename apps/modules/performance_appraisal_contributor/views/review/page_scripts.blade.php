@@ -1,0 +1,1 @@
+<script type="text/javascript" src="{{ theme_path() }}plugins/jquery.textarea_autosize.min.js"></script>

@@ -1,0 +1,160 @@
+2017-10-25 00:01:49 --> authentication --> login --> login -->  --> 
+2017-10-25 00:17:32 --> authentication --> logout --> logout -->  --> 
+2017-10-25 00:31:46 --> authentication --> login --> login -->  --> 
+2017-10-25 00:32:03 --> mrf_admin --> update --> hr_remarks -->  --> ok for sourcing
+2017-10-25 00:32:03 --> mrf_admin --> update --> hr_remarks_by --> 0 --> 38
+2017-10-25 00:32:03 --> mrf_admin --> update --> hr_remarks_on -->  --> 2017-10-25 00:32:03
+2017-10-25 00:32:06 --> authentication --> logout --> logout -->  --> 
+2017-10-25 00:32:39 --> authentication --> login --> login -->  --> 
+2017-10-25 00:36:18 --> mrf_admin --> update --> delivery_date --> 0000-00-00 --> 2017-10-25
+2017-10-25 00:36:18 --> mrf_admin --> update --> closing_remarks -->  --> prf was cancelled
+2017-10-25 00:36:18 --> mrf_admin --> update --> closed_by -->  --> 38
+2017-10-25 00:36:18 --> mrf_admin --> update --> closed_on --> 0000-00-00 00:00:00 --> 2017-10-25 00:36:18
+2017-10-25 00:36:34 --> authentication --> logout --> logout -->  --> 
+2017-10-25 15:49:55 --> authentication --> login --> login -->  --> 
+2017-10-25 15:50:09 --> mrf_admin --> update --> hr_remarks -->  --> kfdsjlfasdkjkjlfadskjkjlfads
+2017-10-25 15:50:09 --> mrf_admin --> update --> hr_remarks_by --> 0 --> 38
+2017-10-25 15:50:09 --> mrf_admin --> update --> hr_remarks_on -->  --> 2017-10-25 15:50:09
+2017-10-25 15:51:28 --> appform --> insert --> lastname -->  --> Dela Cruz
+2017-10-25 15:51:28 --> appform --> insert --> firstname -->  --> Juan
+2017-10-25 15:51:28 --> appform --> insert --> email -->  --> jdelacruz@a.com
+2017-10-25 15:51:28 --> appform --> insert --> status_id -->  --> 11
+2017-10-25 15:51:28 --> appform --> insert --> recruitment_date -->  --> 2017-10-25
+2017-10-25 15:51:28 --> appform --> insert --> source_id -->  --> 3
+2017-10-25 15:51:28 --> appform --> delete --> recruitment_personal - recruit_id --> 1 --> 
+2017-10-25 15:51:28 --> appform --> insert --> recruit_id -->  --> 1
+2017-10-25 15:51:28 --> appform --> insert --> key_id -->  --> 5
+2017-10-25 15:51:28 --> appform --> insert --> key -->  --> phone
+2017-10-25 15:51:28 --> appform --> insert --> sequence -->  --> 1
+2017-10-25 15:51:28 --> appform --> insert --> key_name -->  --> Phone 
+2017-10-25 15:51:28 --> appform --> delete --> recruitment_personal - recruit_id --> 1 --> 
+2017-10-25 15:51:28 --> appform --> insert --> recruit_id -->  --> 1
+2017-10-25 15:51:28 --> appform --> insert --> key_id -->  --> 7
+2017-10-25 15:51:28 --> appform --> insert --> key -->  --> mobile
+2017-10-25 15:51:28 --> appform --> insert --> sequence -->  --> 1
+2017-10-25 15:51:28 --> appform --> insert --> key_name -->  --> Mobile
+2017-10-25 15:51:28 --> appform --> insert --> recruit_id -->  --> 1
+2017-10-25 15:51:28 --> appform --> insert --> key_id -->  --> 164
+2017-10-25 15:51:28 --> appform --> insert --> key -->  --> position_sought
+2017-10-25 15:51:28 --> appform --> insert --> sequence -->  --> 2
+2017-10-25 15:51:28 --> appform --> insert --> key_name -->  --> Position Sought
+2017-10-25 15:51:28 --> appform --> insert --> key_value -->  --> ACCOUNTING CLERK
+2017-10-25 15:51:28 --> appform --> insert --> recruit_id -->  --> 1
+2017-10-25 15:51:28 --> appform --> insert --> key_id -->  --> 169
+2017-10-25 15:51:28 --> appform --> insert --> key -->  --> resume
+2017-10-25 15:51:28 --> appform --> insert --> sequence -->  --> 2
+2017-10-25 15:51:28 --> appform --> insert --> key_name -->  --> Resume
+2017-10-25 15:51:28 --> appform --> insert --> key_value -->  --> uploads/appform/Employee%20Data%20Sheet%20-%20page%201.png
+2017-10-25 15:52:53 --> applicant_monitoring --> update --> request_id --> 0 --> 11
+2017-10-25 15:52:53 --> applicant_monitoring --> update --> status_id --> 11 --> 1
+2017-10-25 15:52:53 --> applicant_monitoring --> insert --> recruit_id -->  --> 1
+2017-10-25 15:52:53 --> applicant_monitoring --> insert --> key_id -->  --> 196
+2017-10-25 15:52:53 --> applicant_monitoring --> insert --> key -->  --> sourcing_free_sites
+2017-10-25 15:52:53 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-10-25 15:52:53 --> applicant_monitoring --> insert --> key_name -->  --> Recruitment Sourcing Free Sites
+2017-10-25 15:52:53 --> applicant_monitoring --> insert --> request_id -->  --> 11
+2017-10-25 15:52:53 --> applicant_monitoring --> insert --> recruit_id -->  --> 1
+2017-10-25 15:52:53 --> applicant_monitoring --> insert --> status_id -->  --> 1
+2017-10-25 18:00:48 --> authentication --> logout --> logout -->  --> 
+2017-10-25 18:45:44 --> authentication --> login --> login -->  --> 
+2017-10-25 19:00:44 --> authentication --> login --> login -->  --> 
+2017-10-25 19:01:40 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-10-25 19:01:40 --> applicant_monitoring --> insert --> date -->  --> 2017-10-26 09:00:00
+2017-10-25 19:01:40 --> applicant_monitoring --> insert --> user_id -->  --> 38
+2017-10-25 19:01:40 --> applicant_monitoring --> insert --> location_id -->  --> 1
+2017-10-25 19:01:40 --> applicant_monitoring --> insert --> schedule_id -->  --> 1
+2017-10-25 19:01:40 --> applicant_monitoring --> insert --> to -->  --> lissa_d@abrahamholdings.ph
+2017-10-25 19:01:40 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+2017-10-25 19:01:40 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>
+	Hi LISSA DE LEON,</p>
+<p>
+	Good day!</p>
+
+<p>
+	This is to inform you that you are scheduled for an interview of Juan Dela Cruz, for the position of ACCOUNTING CLERK. Below are the details and schedule:</p>
+<p>
+	Applicant Name: Juan Dela Cruz
+	<br>
+	Position: ACCOUNTING CLERK
+	<br>
+	Date: October 26, 2017
+	<br>
+	Time: 09:00 am
+</p>
+<p>
+	In case you are not available on the said dates, please do not hesitate to contact one of our HR-Recruitment Team.</p>
+<p>
+	Thank you and Regards,</p>
+<p>
+	HR-Recruitment Team</p>
+
+<br>
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+2017-10-25 19:01:40 --> applicant_monitoring --> insert --> to -->  --> jdelacruz@a.com
+2017-10-25 19:01:40 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+2017-10-25 19:01:40 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>Dear Juan Dela Cruz,</p>
+<p>
+	Thank you for your interest in applying for the ACCOUNTING CLERK position. We would like to invite you for an interview at Abraham Holdings, Inc.. Please see information below:</p>
+<p>
+	Date: October 26, 2017
+	<br>
+	Time: 09:00 am
+	<br>
+	Venue: 770 E. Rodriguez Ext., Malibay, Pasay City</p>
+
+<p>
+	Kindly look for LISSA DE LEON</p>
+
+<p>
+	Should you have queries, please do not hesitate to contact us on 8893935</p>
+
+<p>
+	Sincerely,</p>
+<p>
+	HR- Recruitment Team &ndash; ABHI</p>
+<br>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+2017-10-25 19:01:40 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+2017-10-25 19:01:40 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+2017-10-25 19:08:03 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2017-10-25 19:08:03 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2017-10-25 19:08:03 --> applicant_monitoring --> update --> process_id --> 0 --> 1
+2017-10-25 19:08:03 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+2017-10-25 19:08:03 --> applicant_monitoring --> update --> result -->  --> Consider
+2017-10-25 19:08:03 --> applicant_monitoring --> insert --> interview_id -->  --> 1
+2017-10-25 19:08:03 --> applicant_monitoring --> insert --> key_id -->  --> 31
+2017-10-25 19:08:03 --> applicant_monitoring --> insert --> key -->  --> remarks
+2017-10-25 19:08:03 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-10-25 19:08:03 --> applicant_monitoring --> insert --> key_name -->  --> Findings/Comments/Impressions
+2017-10-25 19:08:03 --> applicant_monitoring --> insert --> key_value -->  --> vcxvzcxczxvvcvzcxvczx
+vcxzvczxvczxvczx
+vcxzvczxcvzxvcxz
+2017-10-25 19:08:03 --> applicant_monitoring --> insert --> interview_id -->  --> 1
+2017-10-25 19:08:03 --> applicant_monitoring --> insert --> key_id -->  --> 66
+2017-10-25 19:08:03 --> applicant_monitoring --> insert --> key -->  --> interviewer
+2017-10-25 19:08:03 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-10-25 19:08:03 --> applicant_monitoring --> insert --> key_name -->  --> Interviewer
+2017-10-25 19:08:03 --> applicant_monitoring --> insert --> key_value -->  --> DE LEON, LISSA

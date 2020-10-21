@@ -1,0 +1,13 @@
+DE LEON, LISSA (30991) --> 2017-10-29 01:03:55 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-10-29 01:29:30 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-10-29 12:54:29 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-10-29 13:25:16 --> authentication --> logout --> logout -->  --> 
+DE CASTRO, CHRISTINA ELENA (01713) --> 2017-10-29 13:25:33 --> authentication --> login --> login -->  --> 
+DE CASTRO, CHRISTINA ELENA (01713) --> 2017-10-29 13:27:53 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-10-29 13:28:16 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-10-29 14:30:42 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-10-29 14:30:52 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-10-29 14:43:13 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-10-29 14:55:05 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-10-29 14:56:41 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-10-29 14:57:06 --> authentication --> login --> login -->  --> 

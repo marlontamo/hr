@@ -1,0 +1,2 @@
+QUIAMBAO, JORGE DAINE (30958) --> 2017-11-27 16:31:23 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-11-27 16:36:05 --> authentication --> logout --> logout -->  --> 

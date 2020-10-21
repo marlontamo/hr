@@ -1,0 +1,11 @@
+BOSS, TEST (33701) --> 2019-10-10 11:01:18 --> authentication --> login --> login -->  --> 
+BOSS, TEST (33701) --> 2019-10-10 11:13:06 --> authentication --> logout --> logout -->  --> 
+DELA CRUZ, TEST (33700) --> 2019-10-10 11:13:21 --> authentication --> login --> login -->  --> 
+DELA CRUZ, TEST (33700) --> 2019-10-10 12:28:37 --> authentication --> logout --> logout -->  --> 
+BOSS, TEST (33701) --> 2019-10-10 12:28:47 --> authentication --> login --> login -->  --> 
+BOSS, TEST (33701) --> 2019-10-10 12:29:07 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2019-10-10 12:29:13 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2019-10-10 13:41:22 --> authentication --> logout --> logout -->  --> 
+BOSS, TEST (33701) --> 2019-10-10 13:41:29 --> authentication --> login --> login -->  --> 
+BOSS, TEST (33701) --> 2019-10-10 15:02:19 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2019-10-10 15:02:28 --> authentication --> login --> login -->  --> 

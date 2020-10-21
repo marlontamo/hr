@@ -1,0 +1,18 @@
+2018-04-23 14:07:58 --> authentication --> login --> login -->  --> 
+2018-04-23 14:13:44 --> authentication --> logout --> logout -->  --> 
+2018-04-23 14:16:00 --> authentication --> login --> login -->  --> 
+2018-04-23 14:19:59 --> authentication --> logout --> logout -->  --> 
+2018-04-23 14:28:24 --> authentication --> login --> login -->  --> 
+2018-04-23 15:09:19 --> performance_planning_manage --> update --> template_id -->  --> 1
+2018-04-23 15:09:19 --> performance_planning_manage --> update --> employment_status_id -->  --> 1
+2018-04-23 15:09:19 --> performance_planning_manage --> update --> filter_by --> 0 --> 5
+2018-04-23 15:09:19 --> performance_planning_manage --> update --> filter_id -->  --> 3,199
+2018-04-23 15:12:08 --> authentication --> logout --> logout -->  --> 
+2018-04-23 15:17:14 --> authentication --> login --> login -->  --> 
+2018-04-23 15:24:10 --> authentication --> logout --> logout -->  --> 
+2018-04-23 15:26:40 --> authentication --> login --> login -->  --> 
+2018-04-23 15:32:13 --> authentication --> logout --> logout -->  --> 
+2018-04-23 16:38:45 --> authentication --> login --> login -->  --> 
+2018-04-23 16:41:59 --> authentication --> logout --> logout -->  --> 
+2018-04-23 16:46:44 --> authentication --> login --> login -->  --> 
+2018-04-23 16:51:15 --> authentication --> logout --> logout -->  --> 

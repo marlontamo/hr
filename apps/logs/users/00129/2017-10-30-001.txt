@@ -1,0 +1,8 @@
+2017-10-30 23:03:52 --> authentication --> login --> login -->  --> 
+2017-10-30 23:10:28 --> authentication --> logout --> logout -->  --> 
+2017-10-30 23:32:01 --> authentication --> login --> login -->  --> 
+2017-10-30 23:32:25 --> authentication --> logout --> logout -->  --> 
+2017-10-30 23:36:02 --> authentication --> login --> login -->  --> 
+2017-10-30 23:36:37 --> authentication --> logout --> logout -->  --> 
+2017-10-30 23:44:02 --> authentication --> login --> login -->  --> 
+2017-10-30 23:53:25 --> authentication --> logout --> logout -->  --> 

@@ -1,0 +1,88 @@
+ALICANTE, LISSA (30991) --> 2019-09-06 11:04:58 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2019-09-06 11:08:02 --> appraisal_template --> insert --> template -->  --> POLC_MANAGER
+ALICANTE, LISSA (30991) --> 2019-09-06 11:08:02 --> appraisal_template --> insert --> template_code -->  --> PAR_001
+ALICANTE, LISSA (30991) --> 2019-09-06 11:08:02 --> appraisal_template --> insert --> applicable_to_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-09-06 11:08:02 --> appraisal_template --> insert --> applicable_to -->  --> 4,10
+ALICANTE, LISSA (30991) --> 2019-09-06 11:08:02 --> appraisal_template --> insert --> description -->  --> POLC for managers.
+ALICANTE, LISSA (30991) --> 2019-09-06 11:14:25 --> appraisal_template --> insert --> template_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-09-06 11:14:25 --> appraisal_template --> insert --> template_section -->  --> Planning
+ALICANTE, LISSA (30991) --> 2019-09-06 11:14:25 --> appraisal_template --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-09-06 11:14:25 --> appraisal_template --> insert --> weight -->  --> 20
+ALICANTE, LISSA (30991) --> 2019-09-06 11:14:25 --> appraisal_template --> insert --> section_type_id -->  --> 6
+ALICANTE, LISSA (30991) --> 2019-09-06 14:09:27 --> appraisal_template --> update --> header -->  --> <p>Test for planning</p>
+ALICANTE, LISSA (30991) --> 2019-09-06 14:09:27 --> appraisal_template --> update --> footer -->  --> <p>Planning</p>
+ALICANTE, LISSA (30991) --> 2019-09-06 14:15:42 --> appraisal_template --> insert --> template_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-09-06 14:15:42 --> appraisal_template --> insert --> template_section -->  --> Organizing
+ALICANTE, LISSA (30991) --> 2019-09-06 14:15:42 --> appraisal_template --> insert --> sequence -->  --> 2
+ALICANTE, LISSA (30991) --> 2019-09-06 14:15:42 --> appraisal_template --> insert --> weight -->  --> 20
+ALICANTE, LISSA (30991) --> 2019-09-06 14:15:42 --> appraisal_template --> insert --> section_type_id -->  --> 6
+ALICANTE, LISSA (30991) --> 2019-09-06 14:15:42 --> appraisal_template --> insert --> header -->  --> <p>Organizing for Managers</p>
+ALICANTE, LISSA (30991) --> 2019-09-06 14:15:42 --> appraisal_template --> insert --> footer -->  --> <p>Organizing</p>
+ALICANTE, LISSA (30991) --> 2019-09-06 14:28:26 --> appraisal_template --> insert --> template_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-09-06 14:28:26 --> appraisal_template --> insert --> template_section -->  --> Leading
+ALICANTE, LISSA (30991) --> 2019-09-06 14:28:26 --> appraisal_template --> insert --> sequence -->  --> 3
+ALICANTE, LISSA (30991) --> 2019-09-06 14:28:26 --> appraisal_template --> insert --> weight -->  --> 20
+ALICANTE, LISSA (30991) --> 2019-09-06 14:28:26 --> appraisal_template --> insert --> section_type_id -->  --> 6
+ALICANTE, LISSA (30991) --> 2019-09-06 14:28:26 --> appraisal_template --> insert --> header -->  --> <p>Leading for Managers</p>
+ALICANTE, LISSA (30991) --> 2019-09-06 14:28:26 --> appraisal_template --> insert --> footer -->  --> <p>Leading</p>
+ALICANTE, LISSA (30991) --> 2019-09-06 14:31:33 --> appraisal_template --> insert --> template_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-09-06 14:31:33 --> appraisal_template --> insert --> template_section -->  --> Controlling
+ALICANTE, LISSA (30991) --> 2019-09-06 14:31:33 --> appraisal_template --> insert --> sequence -->  --> 4
+ALICANTE, LISSA (30991) --> 2019-09-06 14:31:33 --> appraisal_template --> insert --> weight -->  --> 20
+ALICANTE, LISSA (30991) --> 2019-09-06 14:31:33 --> appraisal_template --> insert --> section_type_id -->  --> 6
+ALICANTE, LISSA (30991) --> 2019-09-06 14:31:33 --> appraisal_template --> insert --> header -->  --> <p>Controlling for Managers</p>
+ALICANTE, LISSA (30991) --> 2019-09-06 14:31:33 --> appraisal_template --> insert --> footer -->  --> <p>Controlling</p>
+ALICANTE, LISSA (30991) --> 2019-09-06 14:32:06 --> appraisal_template --> insert --> template_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-09-06 14:32:06 --> appraisal_template --> insert --> template_section -->  --> TCPA
+ALICANTE, LISSA (30991) --> 2019-09-06 14:32:06 --> appraisal_template --> insert --> sequence -->  --> 5
+ALICANTE, LISSA (30991) --> 2019-09-06 14:32:06 --> appraisal_template --> insert --> weight -->  --> 20
+ALICANTE, LISSA (30991) --> 2019-09-06 14:32:06 --> appraisal_template --> insert --> section_type_id -->  --> 6
+ALICANTE, LISSA (30991) --> 2019-09-06 14:32:06 --> appraisal_template --> insert --> header -->  --> <p>test</p>
+ALICANTE, LISSA (30991) --> 2019-09-06 14:32:06 --> appraisal_template --> insert --> footer -->  --> <p>test</p>
+ALICANTE, LISSA (30991) --> 2019-09-06 14:32:10 --> appraisal_template --> update --> template --> POLC_MANAGER --> PAR_MANAGER
+ALICANTE, LISSA (30991) --> 2019-09-06 14:38:34 --> appraisal_template --> insert --> template -->  --> PAR_SUP
+ALICANTE, LISSA (30991) --> 2019-09-06 14:38:34 --> appraisal_template --> insert --> template_code -->  --> PAR_002
+ALICANTE, LISSA (30991) --> 2019-09-06 14:38:34 --> appraisal_template --> insert --> applicable_to_id -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-09-06 14:38:34 --> appraisal_template --> insert --> applicable_to -->  --> 5
+ALICANTE, LISSA (30991) --> 2019-09-06 14:38:34 --> appraisal_template --> insert --> description -->  --> Test PAR for Sups
+ALICANTE, LISSA (30991) --> 2019-09-06 14:40:45 --> appraisal_template --> insert --> template_id -->  --> 2
+ALICANTE, LISSA (30991) --> 2019-09-06 14:40:45 --> appraisal_template --> insert --> template_section -->  --> Planning
+ALICANTE, LISSA (30991) --> 2019-09-06 14:40:45 --> appraisal_template --> insert --> sequence -->  --> 1
+ALICANTE, LISSA (30991) --> 2019-09-06 14:40:45 --> appraisal_template --> insert --> weight -->  --> 15
+ALICANTE, LISSA (30991) --> 2019-09-06 14:40:45 --> appraisal_template --> insert --> section_type_id -->  --> 6
+ALICANTE, LISSA (30991) --> 2019-09-06 14:40:45 --> appraisal_template --> insert --> header -->  --> <p>test</p>
+ALICANTE, LISSA (30991) --> 2019-09-06 14:40:45 --> appraisal_template --> insert --> footer -->  --> <p>test</p>
+ALICANTE, LISSA (30991) --> 2019-09-06 14:58:53 --> appraisal_template --> insert --> template_id -->  --> 2
+ALICANTE, LISSA (30991) --> 2019-09-06 14:58:53 --> appraisal_template --> insert --> template_section -->  --> Organizing
+ALICANTE, LISSA (30991) --> 2019-09-06 14:58:53 --> appraisal_template --> insert --> sequence -->  --> 2
+ALICANTE, LISSA (30991) --> 2019-09-06 14:58:53 --> appraisal_template --> insert --> weight -->  --> 15
+ALICANTE, LISSA (30991) --> 2019-09-06 14:58:53 --> appraisal_template --> insert --> section_type_id -->  --> 6
+ALICANTE, LISSA (30991) --> 2019-09-06 14:58:53 --> appraisal_template --> insert --> header -->  --> <p>test</p>
+ALICANTE, LISSA (30991) --> 2019-09-06 14:58:53 --> appraisal_template --> insert --> footer -->  --> <p>test</p>
+ALICANTE, LISSA (30991) --> 2019-09-06 14:59:21 --> appraisal_template --> insert --> template_id -->  --> 2
+ALICANTE, LISSA (30991) --> 2019-09-06 14:59:21 --> appraisal_template --> insert --> template_section -->  --> Leading
+ALICANTE, LISSA (30991) --> 2019-09-06 14:59:21 --> appraisal_template --> insert --> sequence -->  --> 3
+ALICANTE, LISSA (30991) --> 2019-09-06 14:59:21 --> appraisal_template --> insert --> weight -->  --> 15
+ALICANTE, LISSA (30991) --> 2019-09-06 14:59:21 --> appraisal_template --> insert --> section_type_id -->  --> 6
+ALICANTE, LISSA (30991) --> 2019-09-06 14:59:21 --> appraisal_template --> insert --> header -->  --> <p>test</p>
+ALICANTE, LISSA (30991) --> 2019-09-06 14:59:21 --> appraisal_template --> insert --> footer -->  --> <p>test</p>
+ALICANTE, LISSA (30991) --> 2019-09-06 15:02:13 --> appraisal_template --> insert --> template_id -->  --> 2
+ALICANTE, LISSA (30991) --> 2019-09-06 15:02:13 --> appraisal_template --> insert --> template_section -->  --> Controlling
+ALICANTE, LISSA (30991) --> 2019-09-06 15:02:13 --> appraisal_template --> insert --> sequence -->  --> 4
+ALICANTE, LISSA (30991) --> 2019-09-06 15:02:13 --> appraisal_template --> insert --> weight -->  --> 15
+ALICANTE, LISSA (30991) --> 2019-09-06 15:02:13 --> appraisal_template --> insert --> section_type_id -->  --> 6
+ALICANTE, LISSA (30991) --> 2019-09-06 15:02:13 --> appraisal_template --> insert --> header -->  --> <p>test</p>
+ALICANTE, LISSA (30991) --> 2019-09-06 15:02:13 --> appraisal_template --> insert --> footer -->  --> <p>test</p>
+ALICANTE, LISSA (30991) --> 2019-09-06 15:08:49 --> appraisal_template --> insert --> template_id -->  --> 2
+ALICANTE, LISSA (30991) --> 2019-09-06 15:08:49 --> appraisal_template --> insert --> template_section -->  --> Contribution to Group
+ALICANTE, LISSA (30991) --> 2019-09-06 15:08:49 --> appraisal_template --> insert --> sequence -->  --> 5
+ALICANTE, LISSA (30991) --> 2019-09-06 15:08:49 --> appraisal_template --> insert --> weight -->  --> 20
+ALICANTE, LISSA (30991) --> 2019-09-06 15:08:49 --> appraisal_template --> insert --> section_type_id -->  --> 6
+ALICANTE, LISSA (30991) --> 2019-09-06 15:08:49 --> appraisal_template --> insert --> header -->  --> <p>test</p>
+ALICANTE, LISSA (30991) --> 2019-09-06 15:08:49 --> appraisal_template --> insert --> footer -->  --> <p>test</p>
+ALICANTE, LISSA (30991) --> 2019-09-06 15:32:41 --> appraisal_template --> insert --> template_id -->  --> 2
+ALICANTE, LISSA (30991) --> 2019-09-06 15:32:41 --> appraisal_template --> insert --> template_section -->  --> Discipline to Self
+ALICANTE, LISSA (30991) --> 2019-09-06 15:32:41 --> appraisal_template --> insert --> sequence -->  --> 6
+ALICANTE, LISSA (30991) --> 2019-09-06 15:32:41 --> appraisal_template --> insert --> weight -->  --> 20
+ALICANTE, LISSA (30991) --> 2019-09-06 15:32:41 --> appraisal_template --> insert --> section_type_id -->  --> 6
+ALICANTE, LISSA (30991) --> 2019-09-06 15:32:41 --> appraisal_template --> insert --> header -->  --> <p>test</p>

@@ -1,0 +1,33 @@
+DE LEON, LISSA (30991) --> 2017-11-09 23:20:24 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 23:20:24 --> applicant_monitoring --> insert --> process_id -->  --> 3
+DE LEON, LISSA (30991) --> 2017-11-09 23:20:24 --> applicant_monitoring --> insert --> checklist_id -->  --> 28
+DE LEON, LISSA (30991) --> 2017-11-09 23:20:24 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 23:20:24 --> applicant_monitoring --> insert --> process_id -->  --> 3
+DE LEON, LISSA (30991) --> 2017-11-09 23:20:24 --> applicant_monitoring --> insert --> checklist_id -->  --> 29
+DE LEON, LISSA (30991) --> 2017-11-09 23:20:24 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-09 23:21:18 --> applicant_monitoring --> insert --> login -->  --> 777777
+DE LEON, LISSA (30991) --> 2017-11-09 23:21:18 --> applicant_monitoring --> insert --> email -->  --> malfonso@yahoo.com
+DE LEON, LISSA (30991) --> 2017-11-09 23:21:18 --> applicant_monitoring --> insert --> role_id -->  --> 12
+DE LEON, LISSA (30991) --> 2017-11-09 23:21:18 --> applicant_monitoring --> insert --> full_name -->  --> Alfonso, Marvin
+DE LEON, LISSA (30991) --> 2017-11-09 23:21:18 --> applicant_monitoring --> insert --> display_name -->  --> Alfonso, Marvin
+DE LEON, LISSA (30991) --> 2017-11-09 23:21:18 --> applicant_monitoring --> insert --> calendar_id -->  --> 3
+DE LEON, LISSA (30991) --> 2017-11-09 23:21:18 --> applicant_monitoring --> insert --> salary -->  --> ‹:cêQ6‹‚…¡ròœ/¢
+DE LEON, LISSA (30991) --> 2017-11-09 23:21:18 --> applicant_monitoring --> insert --> user_id -->  --> 706
+DE LEON, LISSA (30991) --> 2017-11-09 23:21:18 --> applicant_monitoring --> insert --> id_number -->  --> 777777
+DE LEON, LISSA (30991) --> 2017-11-09 23:21:18 --> applicant_monitoring --> insert --> effectivity_date -->  --> 2017-12-01
+DE LEON, LISSA (30991) --> 2017-11-09 23:21:18 --> applicant_monitoring --> insert --> alias -->  --> Alfonso, Marvin
+DE LEON, LISSA (30991) --> 2017-11-09 23:21:19 --> applicant_monitoring --> insert --> company_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-09 23:21:19 --> applicant_monitoring --> insert --> department_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-09 23:21:19 --> applicant_monitoring --> insert --> reports_to_id -->  --> 10
+DE LEON, LISSA (30991) --> 2017-11-09 23:21:19 --> applicant_monitoring --> insert --> location_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-09 23:21:19 --> applicant_monitoring --> insert --> user_id -->  --> 706
+DE LEON, LISSA (30991) --> 2017-11-09 23:21:19 --> applicant_monitoring --> insert --> partner_id -->  --> 705
+DE LEON, LISSA (30991) --> 2017-11-09 23:21:19 --> applicant_monitoring --> insert --> recruit_id -->  --> 3
+DE LEON, LISSA (30991) --> 2017-11-09 23:21:19 --> applicant_monitoring --> insert --> lastname -->  --> Alfonso
+DE LEON, LISSA (30991) --> 2017-11-09 23:21:19 --> applicant_monitoring --> insert --> firstname -->  --> Marvin
+DE LEON, LISSA (30991) --> 2017-11-09 23:21:19 --> applicant_monitoring --> insert --> position_id -->  --> 3
+DE LEON, LISSA (30991) --> 2017-11-09 23:21:19 --> applicant_monitoring --> insert --> title -->  --> Mr.
+DE LEON, LISSA (30991) --> 2017-11-09 23:21:19 --> applicant_monitoring --> insert --> birth_date -->  --> 0000-00-00
+DE LEON, LISSA (30991) --> 2017-11-09 23:21:19 --> applicant_monitoring --> update --> status_id --> 8 --> 7
+DE LEON, LISSA (30991) --> 2017-11-09 23:21:19 --> applicant_monitoring --> update --> hired --> 0 --> 1
+DE LEON, LISSA (30991) --> 2017-11-09 23:21:19 --> applicant_monitoring --> update --> partner_id -->  --> 705

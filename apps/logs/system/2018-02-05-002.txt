@@ -1,0 +1,137 @@
+CHAVEZ, NELSON (00129) --> 2018-02-05 10:10:08 --> mrf_manage --> insert --> to -->  --> lissa_d@abrahamholdings.ph
+CHAVEZ, NELSON (00129) --> 2018-02-05 10:10:08 --> mrf_manage --> insert --> subject -->  --> Send email to hr validator
+CHAVEZ, NELSON (00129) --> 2018-02-05 10:10:08 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear DE LEON, LISSA ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by GENER, FRANCIA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+CHAVEZ, NELSON (00129) --> 2018-02-05 10:10:08 --> mrf_manage --> insert --> to -->  --> lee_p@abrahamholdings.ph
+CHAVEZ, NELSON (00129) --> 2018-02-05 10:10:08 --> mrf_manage --> insert --> subject -->  --> Send email to hr validator
+CHAVEZ, NELSON (00129) --> 2018-02-05 10:10:08 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear POLONAN, MARIA LEE ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by GENER, FRANCIA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+CHAVEZ, NELSON (00129) --> 2018-02-05 10:10:08 --> mrf_manage --> insert --> to -->  --> amelina_p@livingangels.edu.ph
+CHAVEZ, NELSON (00129) --> 2018-02-05 10:10:08 --> mrf_manage --> insert --> subject -->  --> Send email to hr validator
+CHAVEZ, NELSON (00129) --> 2018-02-05 10:10:08 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear PARICA, AMELINA ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by GENER, FRANCIA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+CHAVEZ, NELSON (00129) --> 2018-02-05 10:10:08 --> mrf_manage --> insert --> to -->  --> lorie_l@kalinisanlaundry.com.ph
+CHAVEZ, NELSON (00129) --> 2018-02-05 10:10:08 --> mrf_manage --> insert --> subject -->  --> Send email to hr validator
+CHAVEZ, NELSON (00129) --> 2018-02-05 10:10:08 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear LINGO, LORILYN ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by GENER, FRANCIA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+CHAVEZ, NELSON (00129) --> 2018-02-05 10:10:36 --> mrf_admin --> update --> hr_remarks -->  --> Please process
+CHAVEZ, NELSON (00129) --> 2018-02-05 10:10:36 --> mrf_admin --> update --> hr_remarks_by --> 0 --> 9
+CHAVEZ, NELSON (00129) --> 2018-02-05 10:10:36 --> mrf_admin --> update --> hr_remarks_on -->  --> 2018-02-05 10:10:36
+CHAVEZ, NELSON (00129) --> 2018-02-05 10:10:54 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2018-02-05 10:11:01 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> lastname -->  --> Alex
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> firstname -->  --> Dela Cruz
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> middlename -->  --> Asuncion
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> email -->  --> alex_d@yahoo.com
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> status_id -->  --> 11
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> recruitment_date -->  --> 2018-02-05
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> source_id -->  --> 3
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> delete --> recruitment_personal - recruit_id --> 6 --> 
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> recruit_id -->  --> 6
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> key_id -->  --> 5
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> key -->  --> phone
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> key_name -->  --> Phone 
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> delete --> recruitment_personal - recruit_id --> 6 --> 
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> recruit_id -->  --> 6
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> key_id -->  --> 7
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> key -->  --> mobile
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> key_name -->  --> Mobile
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> key_value -->  --> 09772308971
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> recruit_id -->  --> 6
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> key_id -->  --> 164
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> key -->  --> position_sought
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> sequence -->  --> 2
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> key_name -->  --> Position Sought
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> key_value -->  --> ACCOUNTING ASSISTANT
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> recruit_id -->  --> 6
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> key_id -->  --> 169
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> key -->  --> resume
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> sequence -->  --> 2
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> key_name -->  --> Resume
+DE LEON, LISSA (30991) --> 2018-02-05 10:14:57 --> appform --> insert --> key_value -->  --> uploads/appform/2305%20April%202017%20ENCS%20Final.pdf
+DE LEON, LISSA (30991) --> 2018-02-05 10:20:06 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2018-02-05 10:20:39 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2018-02-05 10:32:20 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2018-02-05 10:32:41 --> applicant_monitoring --> update --> request_id --> 0 --> 2
+DE LEON, LISSA (30991) --> 2018-02-05 10:32:41 --> applicant_monitoring --> update --> status_id --> 11 --> 1
+DE LEON, LISSA (30991) --> 2018-02-05 10:32:41 --> applicant_monitoring --> insert --> recruit_id -->  --> 7
+DE LEON, LISSA (30991) --> 2018-02-05 10:32:41 --> applicant_monitoring --> insert --> key_id -->  --> 196
+DE LEON, LISSA (30991) --> 2018-02-05 10:32:41 --> applicant_monitoring --> insert --> key -->  --> sourcing_free_sites

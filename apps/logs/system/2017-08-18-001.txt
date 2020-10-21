@@ -1,0 +1,93 @@
+POLONAN, MARIA LEE (31002) --> 2017-08-18 00:02:21 --> authentication --> logout --> logout -->  --> 
+SUNIGA, MA. LOURDES (00636) --> 2017-08-18 00:03:02 --> authentication --> login --> login -->  --> 
+SUNIGA, MA. LOURDES (00636) --> 2017-08-18 01:37:17 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+SUNIGA, MA. LOURDES (00636) --> 2017-08-18 01:37:17 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+SUNIGA, MA. LOURDES (00636) --> 2017-08-18 01:37:17 --> applicant_monitoring --> update --> process_id --> 0 --> 2
+SUNIGA, MA. LOURDES (00636) --> 2017-08-18 01:37:17 --> applicant_monitoring --> update --> result_id --> 0 --> 1
+SUNIGA, MA. LOURDES (00636) --> 2017-08-18 01:37:17 --> applicant_monitoring --> update --> result -->  --> Passed
+SUNIGA, MA. LOURDES (00636) --> 2017-08-18 02:11:30 --> authentication --> logout --> logout -->  --> 
+KOE, ERLINDA (10012) --> 2017-08-18 02:11:44 --> authentication --> login --> login -->  --> 
+KOE, ERLINDA (10012) --> 2017-08-18 02:12:32 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-08-18 02:13:00 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-08-18 02:18:59 --> authentication --> logout --> logout -->  --> 
+KOE, ERLINDA (10012) --> 2017-08-18 02:22:52 --> authentication --> login --> login -->  --> 
+KOE, ERLINDA (10012) --> 2017-08-18 02:53:04 --> applicant_monitoring --> insert --> process_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-08-18 02:53:04 --> applicant_monitoring --> insert --> date -->  --> 2017-08-21 10:00:00
+KOE, ERLINDA (10012) --> 2017-08-18 02:53:04 --> applicant_monitoring --> insert --> user_id -->  --> 39
+KOE, ERLINDA (10012) --> 2017-08-18 02:53:04 --> applicant_monitoring --> insert --> location_id -->  --> 1
+KOE, ERLINDA (10012) --> 2017-08-18 02:53:04 --> applicant_monitoring --> insert --> schedule_id -->  --> 4
+KOE, ERLINDA (10012) --> 2017-08-18 03:29:20 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-08-18 03:29:33 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-08-18 05:42:19 --> applicant_monitoring --> update --> process_id --> 0 --> 2
+POLONAN, MARIA LEE (31002) --> 2017-08-18 05:42:19 --> applicant_monitoring --> update --> result_id --> 0 --> 1
+POLONAN, MARIA LEE (31002) --> 2017-08-18 05:42:20 --> applicant_monitoring --> update --> result -->  --> Passed
+POLONAN, MARIA LEE (31002) --> 2017-08-18 05:42:37 --> authentication --> logout --> logout -->  --> 
+KOE, ERLINDA (10012) --> 2017-08-18 05:42:50 --> authentication --> login --> login -->  --> 
+KOE, ERLINDA (10012) --> 2017-08-18 05:43:43 --> applicant_monitoring --> update --> process_id --> 0 --> 2
+KOE, ERLINDA (10012) --> 2017-08-18 05:43:43 --> applicant_monitoring --> update --> result_id --> 0 --> 1
+KOE, ERLINDA (10012) --> 2017-08-18 05:43:43 --> applicant_monitoring --> update --> result -->  --> Passed
+KOE, ERLINDA (10012) --> 2017-08-18 05:43:51 --> applicant_monitoring --> update --> status_id --> 3 --> 4
+KOE, ERLINDA (10012) --> 2017-08-18 05:43:51 --> applicant_monitoring --> update --> status_id --> 3 --> 4
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:03 --> applicant_monitoring --> insert --> template_id -->  --> 29
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:03 --> applicant_monitoring --> insert --> reports_to -->  --> 16
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:03 --> applicant_monitoring --> insert --> employment_status_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:03 --> applicant_monitoring --> insert --> no_months -->  --> 5
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:03 --> applicant_monitoring --> insert --> start_date -->  --> 2017-10-01
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:03 --> applicant_monitoring --> insert --> end_date -->  --> 2018-03-01
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:03 --> applicant_monitoring --> insert --> work_schedule -->  --> 1
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:03 --> applicant_monitoring --> insert --> shift_id -->  --> 48
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:03 --> applicant_monitoring --> insert --> lunch_break -->  --> 1
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:03 --> applicant_monitoring --> insert --> accept_offer -->  --> 1
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:03 --> applicant_monitoring --> insert --> process_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:03 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 2 --> 
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:03 --> applicant_monitoring --> insert --> process_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:08 --> applicant_monitoring --> update --> status_id --> 6 --> 5
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:08 --> applicant_monitoring --> update --> status_id --> 4 --> 5
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:08 --> applicant_monitoring --> insert --> process_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:08 --> applicant_monitoring --> insert --> checklist_id -->  --> 1
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:08 --> applicant_monitoring --> insert --> submitted -->  --> 1
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:08 --> applicant_monitoring --> insert --> process_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:08 --> applicant_monitoring --> insert --> checklist_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:08 --> applicant_monitoring --> insert --> submitted -->  --> 1
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:08 --> applicant_monitoring --> insert --> process_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:08 --> applicant_monitoring --> insert --> checklist_id -->  --> 3
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:08 --> applicant_monitoring --> insert --> submitted -->  --> 1
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:08 --> applicant_monitoring --> insert --> process_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:08 --> applicant_monitoring --> insert --> checklist_id -->  --> 4
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:08 --> applicant_monitoring --> insert --> process_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:08 --> applicant_monitoring --> insert --> checklist_id -->  --> 5
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:08 --> applicant_monitoring --> insert --> process_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:08 --> applicant_monitoring --> insert --> checklist_id -->  --> 6
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:08 --> applicant_monitoring --> insert --> process_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:08 --> applicant_monitoring --> insert --> checklist_id -->  --> 7
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:08 --> applicant_monitoring --> insert --> process_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:08 --> applicant_monitoring --> insert --> checklist_id -->  --> 8
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:08 --> applicant_monitoring --> insert --> process_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-08-18 07:08:08 --> applicant_monitoring --> insert --> checklist_id -->  --> 9
+KOE, ERLINDA (10012) --> 2017-08-18 07:12:04 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-08-18 07:12:23 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-08-18 07:12:54 --> authentication --> logout --> logout -->  --> 
+KOE, ERLINDA (10012) --> 2017-08-18 07:13:06 --> authentication --> login --> login -->  --> 
+KOE, ERLINDA (10012) --> 2017-08-18 07:13:41 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-08-18 07:13:49 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-08-18 07:14:25 --> authentication --> logout --> logout -->  --> 
+KOE, ERLINDA (10012) --> 2017-08-18 07:14:40 --> authentication --> login --> login -->  --> 
+KOE, ERLINDA (10012) --> 2017-08-18 07:15:40 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-08-18 07:15:50 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-08-18 07:16:43 --> authentication --> logout --> logout -->  --> 
+KOE, ERLINDA (10012) --> 2017-08-18 07:16:54 --> authentication --> login --> login -->  --> 
+KOE, ERLINDA (10012) --> 2017-08-18 07:18:28 --> applicant_monitoring --> update --> submitted --> 0 --> 1
+KOE, ERLINDA (10012) --> 2017-08-18 07:18:30 --> applicant_monitoring --> update --> submitted --> 1 --> 0
+KOE, ERLINDA (10012) --> 2017-08-18 08:57:53 --> applicant_monitoring --> update --> status_id --> 5 --> 6
+KOE, ERLINDA (10012) --> 2017-08-18 08:57:53 --> applicant_monitoring --> update --> status_id --> 5 --> 6
+KOE, ERLINDA (10012) --> 2017-08-18 08:57:53 --> applicant_monitoring --> insert --> process_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-08-18 08:57:53 --> applicant_monitoring --> insert --> accepted -->  --> 1
+KOE, ERLINDA (10012) --> 2017-08-18 10:38:51 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+KOE, ERLINDA (10012) --> 2017-08-18 10:38:51 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+KOE, ERLINDA (10012) --> 2017-08-18 10:57:33 --> applicant_monitoring --> insert --> login -->  --> 123456
+KOE, ERLINDA (10012) --> 2017-08-18 10:57:33 --> applicant_monitoring --> insert --> email -->  --> pebdrobautista@yahoo.com
+KOE, ERLINDA (10012) --> 2017-08-18 10:57:33 --> applicant_monitoring --> insert --> role_id -->  --> 12
+KOE, ERLINDA (10012) --> 2017-08-18 10:57:33 --> applicant_monitoring --> insert --> full_name -->  --> Bautista, Pedro
+KOE, ERLINDA (10012) --> 2017-08-18 10:57:33 --> applicant_monitoring --> insert --> display_name -->  --> Bautista, Pedro
+KOE, ERLINDA (10012) --> 2017-08-18 10:57:33 --> applicant_monitoring --> insert --> shift_id -->  --> 76
+KOE, ERLINDA (10012) --> 2017-08-18 10:57:33 --> applicant_monitoring --> insert --> user_id -->  --> 703

@@ -1,0 +1,20 @@
+PARICA, AMELINA (32279) --> 2018-01-02 00:01:49 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-01-02 00:01:59 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-01-02 00:02:24 --> authentication --> logout --> logout -->  --> 
+PARICA, AMELINA (32279) --> 2018-01-02 00:02:35 --> authentication --> login --> login -->  --> 
+PARICA, AMELINA (32279) --> 2018-01-02 00:05:10 --> authentication --> logout --> logout -->  --> 
+PEREZ, LORIE ANN (32905) --> 2018-01-02 00:05:17 --> authentication --> login --> login -->  --> 
+PEREZ, LORIE ANN (32905) --> 2018-01-02 00:34:50 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2018-01-02 08:11:39 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2018-01-02 08:13:20 --> authentication --> login --> login -->  --> 
+LABAPIS, JOSHUA (31091) --> 2018-01-02 08:14:27 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2018-01-02 08:17:08 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2018-01-02 08:17:20 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2018-01-02 08:17:39 --> authentication --> logout --> logout -->  --> 
+BAUTISTA, NESTOR JR(32642) --> 2018-01-02 08:17:49 --> authentication --> login --> login -->  --> 
+BAUTISTA, NESTOR JR(32642) --> 2018-01-02 08:36:20 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2018-01-02 08:36:27 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2018-01-02 08:37:01 --> authentication --> logout --> logout -->  --> 
+BAUTISTA, NESTOR JR(32642) --> 2018-01-02 08:37:11 --> authentication --> login --> login -->  --> 
+BAUTISTA, NESTOR JR(32642) --> 2018-01-02 08:37:28 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2018-01-02 08:37:40 --> authentication --> login --> login -->  --> 

@@ -1,0 +1,21 @@
+2018-03-27 10:20:45 --> authentication --> login --> login -->  --> 
+2018-03-27 10:24:32 --> leave_balance_admin --> insert --> year -->  --> 2018
+2018-03-27 10:24:32 --> leave_balance_admin --> insert --> user_id -->  --> 68
+2018-03-27 10:24:32 --> leave_balance_admin --> insert --> form_id -->  --> 22
+2018-03-27 10:24:32 --> leave_balance_admin --> insert --> previous -->  --> 0
+2018-03-27 10:24:32 --> leave_balance_admin --> insert --> period_from -->  --> 2018-03-01
+2018-03-27 10:24:32 --> leave_balance_admin --> insert --> period_to -->  --> 2018-12-31
+2018-03-27 10:24:32 --> leave_balance_admin --> insert --> period_extension -->  --> 1970-01-01
+2018-03-27 10:25:24 --> leave_balance_admin --> update --> previous --> 0.0000 --> 1.67
+2018-03-27 10:25:24 --> leave_balance_admin --> update --> period_extension --> 2018-12-31 --> 1970-01-01
+2018-03-27 10:26:00 --> authentication --> logout --> logout -->  --> 
+2018-03-27 10:28:16 --> authentication --> login --> login -->  --> 
+2018-03-27 10:30:31 --> leave_balance_admin --> update --> previous --> 1.6700 --> 0.7502
+2018-03-27 10:31:32 --> leave_balance_admin --> update --> previous --> 0.7502 --> 1.6667
+2018-03-27 10:31:39 --> authentication --> logout --> logout -->  --> 
+2018-03-27 11:23:14 --> authentication --> login --> login -->  --> 
+2018-03-27 11:24:21 --> authentication --> logout --> logout -->  --> 
+2018-03-27 11:57:11 --> authentication --> login --> login -->  --> 
+2018-03-27 12:44:21 --> authentication --> logout --> logout -->  --> 
+2018-03-27 12:53:15 --> authentication --> login --> login -->  --> 
+2018-03-27 12:58:22 --> authentication --> logout --> logout -->  --> 

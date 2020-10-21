@@ -1,0 +1,27 @@
+2017-10-24 09:11:33 --> authentication --> login --> login -->  --> 
+2017-10-24 09:12:00 --> authentication --> logout --> logout -->  --> 
+2017-10-24 14:39:13 --> authentication --> login --> login -->  --> 
+2017-10-24 19:38:51 --> authentication --> login --> login -->  --> 
+2017-10-24 19:39:24 --> authentication --> logout --> logout -->  --> 
+2017-10-24 19:46:26 --> authentication --> login --> login -->  --> 
+2017-10-24 19:49:01 --> authentication --> logout --> logout -->  --> 
+2017-10-24 19:52:44 --> authentication --> login --> login -->  --> 
+2017-10-24 19:53:18 --> mrf_admin --> update --> hr_remarks -->  --> ok fdasdfdsafdasfdasfdas
+2017-10-24 19:53:18 --> mrf_admin --> update --> hr_remarks_by --> 0 --> 38
+2017-10-24 19:53:18 --> mrf_admin --> update --> hr_remarks_on -->  --> 2017-10-24 19:53:18
+2017-10-24 19:56:36 --> authentication --> logout --> logout -->  --> 
+2017-10-24 19:58:29 --> authentication --> login --> login -->  --> 
+2017-10-24 20:15:31 --> mrf_admin --> update --> delivery_date --> 0000-00-00 --> 2017-10-25
+2017-10-24 20:15:31 --> mrf_admin --> update --> closing_remarks -->  --> kdsajkdsajlkjdaslkjsad
+2017-10-24 20:15:31 --> mrf_admin --> update --> closed_by -->  --> 38
+2017-10-24 20:15:31 --> mrf_admin --> update --> closed_on --> 0000-00-00 00:00:00 --> 2017-10-24 20:15:31
+2017-10-24 20:24:33 --> authentication --> logout --> logout -->  --> 
+2017-10-24 21:09:31 --> authentication --> login --> login -->  --> 
+2017-10-24 21:37:35 --> authentication --> logout --> logout -->  --> 
+2017-10-24 22:00:16 --> authentication --> logout --> logout -->  --> 
+2017-10-24 23:20:46 --> authentication --> login --> login -->  --> 
+2017-10-24 23:22:01 --> authentication --> logout --> logout -->  --> 
+2017-10-24 23:28:23 --> authentication --> login --> login -->  --> 
+2017-10-24 23:28:42 --> authentication --> logout --> logout -->  --> 
+2017-10-24 23:35:16 --> authentication --> login --> login -->  --> 
+2017-10-24 23:36:23 --> authentication --> logout --> logout -->  --> 

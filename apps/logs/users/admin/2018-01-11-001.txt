@@ -1,0 +1,26 @@
+2018-01-11 13:26:55 --> authentication --> login --> login -->  --> 
+2018-01-11 13:27:02 --> authentication --> logout --> logout -->  --> 
+2018-01-11 13:36:45 --> authentication --> login --> login -->  --> 
+2018-01-11 13:37:34 --> authentication --> logout --> logout -->  --> 
+2018-01-11 13:43:27 --> authentication --> login --> login -->  --> 
+2018-01-11 05:44:05 --> report_generator --> update --> roles --> 1,2,3,6,22,24 --> 1,2,3,6,22,23,24,25
+2018-01-11 05:44:44 --> report_generator --> update --> roles --> 1,2,3,4,5,6,7,8,9,24 --> 1,2,3,4,5,6,7,8,9,23,24,25
+2018-01-11 13:44:55 --> authentication --> logout --> logout -->  --> 
+2018-01-11 13:45:34 --> authentication --> login --> login -->  --> 
+2018-01-11 05:46:21 --> report_generator --> update --> roles --> 1,2,3,6,22,23,24,25 --> 1,2,3,6,22,24
+2018-01-11 13:46:26 --> authentication --> logout --> logout -->  --> 
+2018-01-11 13:46:43 --> authentication --> login --> login -->  --> 
+2018-01-11 05:47:10 --> report_generator --> update --> roles --> 1,2,3,4,5,6,7,8,9,23,24,25 --> 1,2,3,4,5,6,7,8,9,24
+2018-01-11 14:09:52 --> authentication --> logout --> logout -->  --> 
+2018-01-11 14:30:00 --> authentication --> login --> login -->  --> 
+2018-01-11 14:36:33 --> authentication --> logout --> logout -->  --> 
+2018-01-11 15:00:35 --> authentication --> login --> login -->  --> 
+2018-01-11 15:35:35 --> authentication --> login --> login -->  --> 
+2018-01-11 15:37:56 --> authentication --> logout --> logout -->  --> 
+2018-01-11 22:35:33 --> authentication --> login --> login -->  --> 
+2018-01-11 23:16:42 --> authentication --> logout --> logout -->  --> 
+2018-01-11 23:31:44 --> authentication --> login --> login -->  --> 
+2018-01-11 23:54:45 --> authentication --> logout --> logout -->  --> 
+2018-01-11 23:55:58 --> authentication --> login --> login -->  --> 
+2018-01-11 16:33:23 --> report_generator --> update --> roles --> 1,2,3,6,22,24 --> 1,2,3,6,11,22,23,24,25,26,27,28,29
+2018-01-11 16:33:58 --> report_generator --> update --> roles --> 1,2,3,4,5,6,7,8,9,24 --> 1,2,3,4,5,6,7,8,9,11,23,24,25,26,27,28,29

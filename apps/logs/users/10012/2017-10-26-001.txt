@@ -1,0 +1,97 @@
+2017-10-26 14:21:00 --> authentication --> login --> login -->  --> 
+2017-10-26 14:21:20 --> mrf_manage --> insert --> to -->  --> nelson_c@abrahamholdings.ph
+2017-10-26 14:21:20 --> mrf_manage --> insert --> subject -->  --> Send email to approver
+2017-10-26 14:21:20 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear CHAVEZ, NELSON ,</p>
+
+        <p>
+            Please review Personnel Requisition Form requested by GENER, FRANCIA  for your approval.
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+2017-10-26 14:21:25 --> authentication --> logout --> logout -->  --> 
+2017-10-26 14:53:23 --> authentication --> login --> login -->  --> 
+2017-10-26 14:54:15 --> applicant_monitoring --> update --> process_id --> 0 --> 2
+2017-10-26 14:54:15 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+2017-10-26 14:54:15 --> applicant_monitoring --> update --> result -->  --> Consider
+2017-10-26 14:54:15 --> applicant_monitoring --> insert --> interview_id -->  --> 5
+2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key_id -->  --> 31
+2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key -->  --> remarks
+2017-10-26 14:54:15 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key_name -->  --> Findings/Comments/Impressions
+2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key_value -->  --> ffsdfdsfdsfdsdfs
+2017-10-26 14:54:15 --> applicant_monitoring --> insert --> interview_id -->  --> 5
+2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key_id -->  --> 66
+2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key -->  --> interviewer
+2017-10-26 14:54:15 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key_name -->  --> Interviewer
+2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key_value -->  --> KOE, ERLINDA
+2017-10-26 14:54:15 --> applicant_monitoring --> insert --> interview_id -->  --> 5
+2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key_id -->  --> 64
+2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key -->  --> interviewer_date
+2017-10-26 14:54:15 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key_name -->  --> Date of Interviewer
+2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key_value -->  --> October 26, 2017
+2017-10-26 14:54:15 --> applicant_monitoring --> insert --> interview_id -->  --> 5
+2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key_id -->  --> 32
+2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key -->  --> technical_recommendation
+2017-10-26 14:54:15 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key_name -->  --> Recommendation
+2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key_value -->  --> Consider
+2017-10-26 14:55:00 --> applicant_monitoring --> update --> status_id --> 2 --> 6
+2017-10-26 14:55:00 --> applicant_monitoring --> update --> status_id --> 2 --> 6
+2017-10-26 15:00:19 --> applicant_monitoring --> insert --> template_id -->  --> 1
+2017-10-26 15:00:19 --> applicant_monitoring --> insert --> template_value -->  --> <div>26 October 2017<br><br><b>Mr. Maria Aquino<br></b>Address<b><br><br></b>Dear Mr. Aquino,<br><br>Praise God!<br><br>We are very pleased to confirm our offer of employment with <b>Legend Hotel International Corporation - The Legend Palawan</b> as _____________________ (job level)&nbsp; effective __________________________ with the following conditions:<br><br><br></div><div>1.&nbsp; Hiring rate on project based employment<br><blockquote>{{compensation}}<br></blockquote>2.&nbsp; Company sponsored benefits (subject to policies, system and procedures)<br><blockquote>2.1&nbsp; Duty Meals: Based on the approved duty meal policy<br></blockquote><blockquote>2.2&nbsp; Full sponsorship to external and internal trainings.<br></blockquote><blockquote>23.&nbsp; Government Mandated Benefits.<br></blockquote><br>Your employment contract shall be served as soon as we received from you the 2nd copy of this letter with your signature , and your submission of all pre-employment requirements.<br><br>Thank you very much and may God Bless you and your family.<br><br>Sicerely,<br><br>HRD OFFICER&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HRD MANAGER<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Mr. NELSON CHAVEZ</b><br><br><br>Received and accepted:<b>Mr. Maria Aquino</b><br>Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; :<br></div>
+2017-10-26 15:00:19 --> applicant_monitoring --> insert --> reports_to -->  --> 10
+2017-10-26 15:00:19 --> applicant_monitoring --> insert --> employment_status_id -->  --> 2
+2017-10-26 15:00:19 --> applicant_monitoring --> insert --> no_months -->  --> 6
+2017-10-26 15:00:19 --> applicant_monitoring --> insert --> start_date -->  --> 2017-12-01
+2017-10-26 15:00:19 --> applicant_monitoring --> insert --> end_date -->  --> 2018-06-01
+2017-10-26 15:00:19 --> applicant_monitoring --> insert --> work_schedule -->  --> 1
+2017-10-26 15:00:19 --> applicant_monitoring --> insert --> accept_offer -->  --> 1
+2017-10-26 15:00:19 --> applicant_monitoring --> insert --> process_id -->  --> 2
+2017-10-26 15:00:19 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 2 --> 
+2017-10-26 15:00:19 --> applicant_monitoring --> insert --> process_id -->  --> 2
+2017-10-26 15:00:19 --> applicant_monitoring --> insert --> benefit_id -->  --> 1
+2017-10-26 15:00:19 --> applicant_monitoring --> insert --> amount -->  --> 100
+2017-10-26 15:00:19 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+2017-10-26 15:02:33 --> applicant_monitoring --> update --> accept_offer --> 1 --> 0
+2017-10-26 15:02:33 --> applicant_monitoring --> update --> status_id --> 6 --> 8
+2017-10-26 15:02:33 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 2 --> 
+2017-10-26 15:02:33 --> applicant_monitoring --> insert --> process_id -->  --> 2
+2017-10-26 15:02:33 --> applicant_monitoring --> insert --> benefit_id -->  --> 1
+2017-10-26 15:02:33 --> applicant_monitoring --> insert --> amount -->  --> 100
+2017-10-26 15:02:33 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+2017-10-26 15:02:58 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 2 --> 
+2017-10-26 15:02:58 --> applicant_monitoring --> insert --> process_id -->  --> 2
+2017-10-26 15:02:58 --> applicant_monitoring --> insert --> benefit_id -->  --> 1
+2017-10-26 15:02:58 --> applicant_monitoring --> insert --> amount -->  --> 100.00
+2017-10-26 15:02:58 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+2017-10-26 15:03:03 --> applicant_monitoring --> update --> accept_offer --> 0 --> 1
+2017-10-26 15:03:03 --> applicant_monitoring --> update --> status_id --> 8 --> 6
+2017-10-26 15:03:03 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 2 --> 
+2017-10-26 15:03:03 --> applicant_monitoring --> insert --> process_id -->  --> 2
+2017-10-26 15:03:03 --> applicant_monitoring --> insert --> benefit_id -->  --> 1
+2017-10-26 15:03:03 --> applicant_monitoring --> insert --> amount -->  --> 100.00
+2017-10-26 15:03:03 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+2017-10-26 15:05:17 --> applicant_monitoring --> update --> accept_offer --> 1 --> 0
+2017-10-26 15:05:17 --> applicant_monitoring --> update --> blacklisted --> 0 --> 1
+2017-10-26 15:05:17 --> applicant_monitoring --> update --> status_id --> 6 --> 8
+2017-10-26 15:05:17 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 2 --> 
+2017-10-26 15:05:17 --> applicant_monitoring --> insert --> process_id -->  --> 2
+2017-10-26 15:05:17 --> applicant_monitoring --> insert --> benefit_id -->  --> 1
+2017-10-26 15:05:17 --> applicant_monitoring --> insert --> amount -->  --> 100.00
+2017-10-26 15:05:17 --> applicant_monitoring --> insert --> rate_id -->  --> 2

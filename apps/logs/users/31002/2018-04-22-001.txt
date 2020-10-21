@@ -1,0 +1,207 @@
+2018-04-22 14:30:45 --> authentication --> login --> login -->  --> 
+2018-04-22 14:31:14 --> authentication --> logout --> logout -->  --> 
+2018-04-22 14:31:38 --> authentication --> login --> login -->  --> 
+2018-04-22 14:34:53 --> authentication --> logout --> logout -->  --> 
+2018-04-22 15:00:20 --> authentication --> login --> login -->  --> 
+2018-04-22 15:01:38 --> mrf_admin --> update --> hr_remarks -->  --> fdsdffdsfds
+2018-04-22 15:01:38 --> mrf_admin --> update --> hr_remarks_by --> 0 --> 39
+2018-04-22 15:01:38 --> mrf_admin --> update --> hr_remarks_on -->  --> 2018-04-22 15:01:38
+2018-04-22 15:15:53 --> appform --> insert --> lastname -->  --> TOLENTINO
+2018-04-22 15:15:53 --> appform --> insert --> firstname -->  --> DANIEL
+2018-04-22 15:15:53 --> appform --> insert --> middlename -->  --> G
+2018-04-22 15:15:53 --> appform --> insert --> email -->  --> danielt@yahoo.com
+2018-04-22 15:15:53 --> appform --> insert --> status_id -->  --> 11
+2018-04-22 15:15:53 --> appform --> insert --> recruitment_date -->  --> 2018-04-22
+2018-04-22 15:15:53 --> appform --> insert --> source_id -->  --> 3
+2018-04-22 15:15:53 --> appform --> delete --> recruitment_personal - recruit_id --> 8 --> 
+2018-04-22 15:15:53 --> appform --> insert --> recruit_id -->  --> 8
+2018-04-22 15:15:53 --> appform --> insert --> key_id -->  --> 5
+2018-04-22 15:15:53 --> appform --> insert --> key -->  --> phone
+2018-04-22 15:15:53 --> appform --> insert --> sequence -->  --> 1
+2018-04-22 15:15:53 --> appform --> insert --> key_name -->  --> Phone 
+2018-04-22 15:15:53 --> appform --> delete --> recruitment_personal - recruit_id --> 8 --> 
+2018-04-22 15:15:53 --> appform --> insert --> recruit_id -->  --> 8
+2018-04-22 15:15:53 --> appform --> insert --> key_id -->  --> 7
+2018-04-22 15:15:53 --> appform --> insert --> key -->  --> mobile
+2018-04-22 15:15:53 --> appform --> insert --> sequence -->  --> 1
+2018-04-22 15:15:53 --> appform --> insert --> key_name -->  --> Mobile
+2018-04-22 15:15:53 --> appform --> insert --> recruit_id -->  --> 8
+2018-04-22 15:15:53 --> appform --> insert --> key_id -->  --> 164
+2018-04-22 15:15:53 --> appform --> insert --> key -->  --> position_sought
+2018-04-22 15:15:53 --> appform --> insert --> sequence -->  --> 2
+2018-04-22 15:15:53 --> appform --> insert --> key_name -->  --> Position Sought
+2018-04-22 15:15:53 --> appform --> insert --> key_value -->  --> GUEST SERVICES ASSOCIATE
+2018-04-22 15:15:53 --> appform --> insert --> recruit_id -->  --> 8
+2018-04-22 15:15:53 --> appform --> insert --> key_id -->  --> 169
+2018-04-22 15:15:53 --> appform --> insert --> key -->  --> resume
+2018-04-22 15:15:53 --> appform --> insert --> sequence -->  --> 2
+2018-04-22 15:15:53 --> appform --> insert --> key_name -->  --> Resume
+2018-04-22 15:15:53 --> appform --> insert --> key_value -->  --> uploads/appform/Jellyfish.jpg
+2018-04-22 15:16:13 --> applicant_monitoring --> update --> request_id --> 0 --> 5
+2018-04-22 15:16:13 --> applicant_monitoring --> update --> status_id --> 11 --> 1
+2018-04-22 15:16:13 --> applicant_monitoring --> insert --> recruit_id -->  --> 8
+2018-04-22 15:16:13 --> applicant_monitoring --> insert --> key_id -->  --> 196
+2018-04-22 15:16:13 --> applicant_monitoring --> insert --> key -->  --> sourcing_free_sites
+2018-04-22 15:16:13 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2018-04-22 15:16:13 --> applicant_monitoring --> insert --> key_name -->  --> Recruitment Sourcing Free Sites
+2018-04-22 15:16:13 --> applicant_monitoring --> insert --> request_id -->  --> 5
+2018-04-22 15:16:13 --> applicant_monitoring --> insert --> recruit_id -->  --> 8
+2018-04-22 15:16:13 --> applicant_monitoring --> insert --> status_id -->  --> 1
+2018-04-22 15:19:14 --> applicant_monitoring --> insert --> process_id -->  --> 6
+2018-04-22 15:19:14 --> applicant_monitoring --> insert --> date -->  --> 2018-04-22 15:22:00
+2018-04-22 15:19:14 --> applicant_monitoring --> insert --> user_id -->  --> 39
+2018-04-22 15:19:14 --> applicant_monitoring --> insert --> location_id -->  --> 1
+2018-04-22 15:19:14 --> applicant_monitoring --> insert --> schedule_id -->  --> 6
+2018-04-22 15:19:14 --> applicant_monitoring --> insert --> to -->  --> lee_p@abrahamholdings.ph
+2018-04-22 15:19:14 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+2018-04-22 15:19:14 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>
+	Hi MARIA LEE POLONAN,</p>
+<p>
+	Good day!</p>
+
+<p>
+	This is to inform you that you are scheduled for an interview of DANIEL TOLENTINO, for the position of GUEST SERVICES ASSOCIATE. Below are the details and schedule:</p>
+<p>
+	Applicant Name: DANIEL TOLENTINO
+	<br>
+	Position: GUEST SERVICES ASSOCIATE
+	<br>
+	Date: April 22, 2018
+	<br>
+	Time: 03:22 pm
+</p>
+<p>
+	In case you are not available on the said dates, please do not hesitate to contact one of our HR-Recruitment Team.</p>
+<p>
+	Thank you and Regards,</p>
+<p>
+	HR-Recruitment Team</p>
+
+<br>
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+2018-04-22 15:19:14 --> applicant_monitoring --> insert --> to -->  --> danielt@yahoo.com
+2018-04-22 15:19:14 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+2018-04-22 15:19:14 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>Dear DANIEL TOLENTINO,</p>
+<p>
+	Thank you for your interest in applying for the GUEST SERVICES ASSOCIATE position. We would like to invite you for an interview at Abraham Holdings, Inc.. Please see information below:</p>
+<p>
+	Date: April 22, 2018
+	<br>
+	Time: 03:22 pm
+	<br>
+	Venue: 770 E. Rodriguez Ext., Malibay, Pasay City</p>
+
+<p>
+	Kindly look for MARIA LEE POLONAN</p>
+
+<p>
+	Should you have queries, please do not hesitate to contact us on 8893935</p>
+
+<p>
+	Sincerely,</p>
+<p>
+	HR- Recruitment Team &ndash; ABHI</p>
+<br>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+2018-04-22 15:19:14 --> applicant_monitoring --> insert --> process_id -->  --> 6
+2018-04-22 15:19:14 --> applicant_monitoring --> insert --> date -->  --> 2018-04-22 17:00:00
+2018-04-22 15:19:14 --> applicant_monitoring --> insert --> user_id -->  --> 677
+2018-04-22 15:19:14 --> applicant_monitoring --> insert --> location_id -->  --> 1
+2018-04-22 15:19:14 --> applicant_monitoring --> insert --> schedule_id -->  --> 7
+2018-04-22 15:19:14 --> applicant_monitoring --> insert --> to -->  --> rose_r@myplace.ph
+2018-04-22 15:19:14 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+2018-04-22 15:19:14 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>
+	Hi ROSEMARIE REDAON,</p>
+<p>
+	Good day!</p>
+
+<p>
+	This is to inform you that you are scheduled for an interview of DANIEL TOLENTINO, for the position of GUEST SERVICES ASSOCIATE. Below are the details and schedule:</p>
+<p>
+	Applicant Name: DANIEL TOLENTINO
+	<br>
+	Position: GUEST SERVICES ASSOCIATE
+	<br>
+	Date: April 22, 2018
+	<br>
+	Time: 05:00 pm
+</p>
+<p>
+	In case you are not available on the said dates, please do not hesitate to contact one of our HR-Recruitment Team.</p>
+<p>
+	Thank you and Regards,</p>
+<p>
+	HR-Recruitment Team</p>
+
+<br>
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+2018-04-22 15:19:14 --> applicant_monitoring --> insert --> to -->  --> danielt@yahoo.com
+2018-04-22 15:19:14 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+2018-04-22 15:19:14 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>Dear DANIEL TOLENTINO,</p>
+<p>
+	Thank you for your interest in applying for the GUEST SERVICES ASSOCIATE position. We would like to invite you for an interview at Abraham Holdings, Inc.. Please see information below:</p>
+<p>
+	Date: April 22, 2018
+	<br>
+	Time: 05:00 pm
+	<br>
+	Venue: 770 E. Rodriguez Ext., Malibay, Pasay City</p>
+
+<p>
+	Kindly look for ROSEMARIE REDAON</p>
+
+<p>
+	Should you have queries, please do not hesitate to contact us on 8893935</p>
+
+<p>
+	Sincerely,</p>
+<p>
+	HR- Recruitment Team &ndash; ABHI</p>
+<br>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>

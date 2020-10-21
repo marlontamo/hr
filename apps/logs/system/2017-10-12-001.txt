@@ -1,0 +1,18 @@
+POLONAN, MARIA LEE (31002) --> 2017-10-12 11:19:30 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-12 13:28:54 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-10-12 13:29:05 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-10-12 13:29:38 --> authentication --> logout --> logout -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-10-12 13:29:54 --> authentication --> login --> login -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-10-12 13:30:48 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-12 13:30:58 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-12 13:31:25 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-12 13:31:37 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-12 13:31:53 --> authentication --> logout --> logout -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-10-12 13:32:10 --> authentication --> login --> login -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-10-12 13:33:26 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-12 13:33:39 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-12 14:04:05 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-10-12 15:46:22 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-10-12 15:49:49 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-12 15:50:01 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-12 16:17:45 --> authentication --> logout --> logout -->  --> 

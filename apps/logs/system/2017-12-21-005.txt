@@ -1,0 +1,29 @@
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:00 --> applicant_monitoring --> insert --> interview_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:00 --> applicant_monitoring --> insert --> key_id -->  --> 31
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:00 --> applicant_monitoring --> insert --> key -->  --> remarks
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:00 --> applicant_monitoring --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:00 --> applicant_monitoring --> insert --> key_name -->  --> Findings/Comments/Impressions
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:00 --> applicant_monitoring --> insert --> interview_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:00 --> applicant_monitoring --> insert --> key_id -->  --> 66
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:00 --> applicant_monitoring --> insert --> key -->  --> interviewer
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:00 --> applicant_monitoring --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:00 --> applicant_monitoring --> insert --> key_name -->  --> Interviewer
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:00 --> applicant_monitoring --> insert --> key_value -->  --> GENER, FRANCIA
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:00 --> applicant_monitoring --> insert --> interview_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:00 --> applicant_monitoring --> insert --> key_id -->  --> 64
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:00 --> applicant_monitoring --> insert --> key -->  --> interviewer_date
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:00 --> applicant_monitoring --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:00 --> applicant_monitoring --> insert --> key_name -->  --> Date of Interviewer
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:00 --> applicant_monitoring --> insert --> key_value -->  --> December 21, 2017
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:00 --> applicant_monitoring --> insert --> interview_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:01 --> applicant_monitoring --> insert --> key_id -->  --> 32
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:01 --> applicant_monitoring --> insert --> key -->  --> technical_recommendation
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:01 --> applicant_monitoring --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:01 --> applicant_monitoring --> insert --> key_name -->  --> Recommendation
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:01 --> applicant_monitoring --> insert --> key_value -->  --> Consider
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:01 --> applicant_monitoring --> insert --> interview_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:01 --> applicant_monitoring --> insert --> key_id -->  --> 67
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:01 --> applicant_monitoring --> insert --> key -->  --> hrd_remarks
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:01 --> applicant_monitoring --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:01 --> applicant_monitoring --> insert --> key_name -->  --> Remarks
+DE LEON, LISSA (30991) --> 2017-12-21 09:34:01 --> applicant_monitoring --> insert --> key_value -->  --> ok

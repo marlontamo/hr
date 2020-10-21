@@ -1,0 +1,3 @@
+ALICANTE, LISSA (30991) --> 2019-10-29 09:44:36 --> authentication --> login --> login -->  --> 
+DELA CRUZ, TEST (33700) --> 2019-10-29 09:54:18 --> authentication --> login --> login -->  --> 
+DELA CRUZ, TEST (33700) --> 2019-10-29 09:55:23 --> authentication --> logout --> logout -->  --> 

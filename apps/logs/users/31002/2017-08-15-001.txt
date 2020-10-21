@@ -1,0 +1,21 @@
+2017-08-15 14:56:25 --> authentication --> login --> login -->  --> 
+2017-08-15 15:00:30 --> authentication --> login --> login -->  --> 
+2017-08-15 15:02:32 --> authentication --> logout --> logout -->  --> 
+2017-08-15 15:04:51 --> authentication --> login --> login -->  --> 
+2017-08-15 15:06:13 --> users --> update --> hash --> $2a$08$O0KEhWXRmsMHCDwWB5tQl.3E4g/TuZK2VbdwrW6Lh4JhieHasdoGq --> $2a$08$o9LMW5iosqR84YUWnUwTveY2Nfti/6Hc30xVvlqYs.rv3STkxuYYa
+2017-08-15 15:06:13 --> users --> update --> active --> 1 --> 1 else 0
+2017-08-15 15:06:18 --> authentication --> logout --> logout -->  --> 
+2017-08-15 15:07:37 --> authentication --> login --> login -->  --> 
+2017-08-15 15:07:59 --> authentication --> logout --> logout -->  --> 
+2017-08-15 17:21:54 --> authentication --> login --> login -->  --> 
+2017-08-15 17:36:55 --> users --> update --> hash --> $2a$08$DjohIUms0CIouIPdZpE26.DheENqzYTNB4tncLq.ytuN2bzV0O88u --> $2a$08$n74fL60d0lxs2uBli4/cTO/zxSfhmFQNGn/Kt1gq8bxxQ6E7hdYs2
+2017-08-15 17:36:55 --> users --> update --> active --> 1 --> 1 else 0
+2017-08-15 17:37:27 --> users --> update --> hash --> $2a$08$4LDXstClv6iGTHzftDGhCenVHD5KR4HbwR/CytAW7FIHNzdDOddwW --> $2a$08$0ibosl1eOBb7oyYcnSu3fum6V1rlZRwXWc9zdnB77jJ5MU4OKd8DO
+2017-08-15 17:37:27 --> users --> update --> active --> 1 --> 1 else 0
+2017-08-15 17:37:56 --> users --> update --> hash --> $2a$08$d71.QBGB5lWv9Vmkchh8du1lCDA6oWKozdBxfVeANQaC0u3mDtDZ. --> $2a$08$l53MIu/UIP1w3rW5UCrDbehrfpJ5mQofjiDSJ2l3zhQu7qJNHX0be
+2017-08-15 17:37:56 --> users --> update --> active --> 1 --> 1 else 0
+2017-08-15 17:38:07 --> authentication --> logout --> logout -->  --> 
+2017-08-15 17:45:25 --> authentication --> login --> login -->  --> 
+2017-08-15 17:46:02 --> users --> update --> hash --> $2a$08$l53MIu/UIP1w3rW5UCrDbehrfpJ5mQofjiDSJ2l3zhQu7qJNHX0be --> $2a$08$ZUJwY3ZxAowURH6ZMuFK9OHMrgeb6H.WdAZVELRMdOYb4wcmSEaJK
+2017-08-15 17:46:02 --> users --> update --> active --> 1 --> 1 else 0
+2017-08-15 17:46:05 --> authentication --> logout --> logout -->  --> 

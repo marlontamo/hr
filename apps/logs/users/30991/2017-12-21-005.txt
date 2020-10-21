@@ -1,0 +1,10 @@
+2017-12-21 09:34:01 --> applicant_monitoring --> insert --> key -->  --> technical_recommendation
+2017-12-21 09:34:01 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-12-21 09:34:01 --> applicant_monitoring --> insert --> key_name -->  --> Recommendation
+2017-12-21 09:34:01 --> applicant_monitoring --> insert --> key_value -->  --> Consider
+2017-12-21 09:34:01 --> applicant_monitoring --> insert --> interview_id -->  --> 5
+2017-12-21 09:34:01 --> applicant_monitoring --> insert --> key_id -->  --> 67
+2017-12-21 09:34:01 --> applicant_monitoring --> insert --> key -->  --> hrd_remarks
+2017-12-21 09:34:01 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-12-21 09:34:01 --> applicant_monitoring --> insert --> key_name -->  --> Remarks
+2017-12-21 09:34:01 --> applicant_monitoring --> insert --> key_value -->  --> ok

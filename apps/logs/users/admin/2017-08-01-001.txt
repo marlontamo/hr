@@ -1,0 +1,30 @@
+2017-08-01 09:32:13 --> authentication --> login --> login -->  --> 
+2017-08-01 09:36:51 --> authentication --> login --> login -->  --> 
+2017-08-01 09:54:29 --> form_policy --> update --> class_value --> 2 --> 3
+2017-08-01 09:54:42 --> authentication --> logout --> logout -->  --> 
+2017-08-01 09:58:12 --> users --> update --> hash --> $2a$08$y9nC/W2ANDzlOS/Xz9wQfu0hYBMpParqj/DgD1qEGZiIMJTk8uXeq --> $2a$08$v0hz/O8v1Ycp9mDjp4ZA3.Aq/MheCn199.3Zda6s0G0SGSMRB9ypK
+2017-08-01 09:58:12 --> users --> update --> active --> 1 --> 1 else 0
+2017-08-01 09:58:36 --> users --> update --> hash --> $2a$08$gJPispUieE5DitiSu6dhNOPMJnNkZGdhIITJX./myMoy3vlF.VxOa --> $2a$08$pdm0orQXHheh1UCiQKkfN.vAX6Fkfq3B7m2Lc3b/fnB1Pdabvo4TK
+2017-08-01 09:58:36 --> users --> update --> active --> 1 --> 1 else 0
+2017-08-01 09:59:07 --> users --> update --> hash --> $2a$08$.MC/Y1AtC1Wz00Eb8F27VeNHmfPimPKRIpcuokZkNnOeKzGiaJD1i --> $2a$08$tOqXxbxf1uCkNOokyQ4tIuAJPVfk.4FAHK41T5B.di3..LbyuImL2
+2017-08-01 09:59:07 --> users --> update --> active --> 1 --> 1 else 0
+2017-08-01 10:00:12 --> users --> update --> hash --> $2a$08$tOqXxbxf1uCkNOokyQ4tIuAJPVfk.4FAHK41T5B.di3..LbyuImL2 --> $2a$08$w7BF5WYFQxPfLOm18ThKquc4UKpW3RSqIDGxE63dcV4kniNuKzwlO
+2017-08-01 10:00:12 --> users --> update --> active --> 1 --> 1 else 0
+2017-08-01 10:00:37 --> users --> update --> hash --> $2a$08$Us/bDtz5pZP02HY0H/CmteSi8oro/GdsDjSVLKEFoGBVmeqaEguMS --> $2a$08$T4uESdyrKeWEcSnfsr0ZEOPWl2uZsOM4.yIensNuDjmMbJXR9DrY2
+2017-08-01 10:00:37 --> users --> update --> active --> 1 --> 1 else 0
+2017-08-01 10:00:37 --> users --> update --> birth_date --> 0000-00-00 --> 1970-01-01
+2017-08-01 10:01:29 --> users --> update --> hash --> $2a$08$KVOgE1II.U0WXGF/ISKKvOmjPSpYNfp.HrIC2WtuZyx9vDvI6EDlu --> $2a$08$tRUIqweMR8vl1nOXxcUyheT0ljXK7e3arNQbW2TP5KBHUX.vQYqgG
+2017-08-01 10:01:29 --> users --> update --> active --> 1 --> 1 else 0
+2017-08-01 10:01:32 --> users --> update --> hash --> $2a$08$tRUIqweMR8vl1nOXxcUyheT0ljXK7e3arNQbW2TP5KBHUX.vQYqgG --> $2a$08$yWoy.8TY1omuAcaZpiEFU.m5ToJYnpbDGlnfe0ywaJoDwNFWcbpr2
+2017-08-01 10:01:32 --> users --> update --> active --> 1 --> 1 else 0
+2017-08-01 10:01:59 --> users --> update --> hash --> $2a$08$c67IuR73CDx86iKiDaLTBe/V2nfCpS/m.oS3TOIw4yw9ZnWIDEjuS --> $2a$08$pdjKsnRYOij.cwFxsra25ui04yl6NwqzrRUVWgP8iIabCdkPhO/6i
+2017-08-01 10:01:59 --> users --> update --> active --> 1 --> 1 else 0
+2017-08-01 10:02:23 --> users --> update --> hash --> $2a$08$pdjKsnRYOij.cwFxsra25ui04yl6NwqzrRUVWgP8iIabCdkPhO/6i --> $2a$08$iXDccUdzrsaznJTC8J.vEuKoFjEY3TRll7lliXPSoPPCm7N3PqIrW
+2017-08-01 10:02:23 --> users --> update --> active --> 1 --> 1 else 0
+2017-08-01 10:04:10 --> users --> update --> hash --> $2a$08$ccLZ211w8fz5V/99dGH5TuAESxPKOWQ7NVXx7eNH1jPTqq4zOSpmG --> $2a$08$vBRk5.oqEyo8UZefQQDVs.LGM1KHOKIr3hk85R0h85afmF0SoNBjq
+2017-08-01 10:04:10 --> users --> update --> active --> 1 --> 1 else 0
+2017-08-01 10:05:03 --> users --> update --> hash --> $2a$08$vBRk5.oqEyo8UZefQQDVs.LGM1KHOKIr3hk85R0h85afmF0SoNBjq --> $2a$08$O0KEhWXRmsMHCDwWB5tQl.3E4g/TuZK2VbdwrW6Lh4JhieHasdoGq
+2017-08-01 10:05:03 --> users --> update --> active --> 1 --> 1 else 0
+2017-08-01 10:05:05 --> authentication --> logout --> logout -->  --> 
+2017-08-01 10:20:12 --> authentication --> login --> login -->  --> 
+2017-08-01 10:21:21 --> authentication --> logout --> logout -->  --> 

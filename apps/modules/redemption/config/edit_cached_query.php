@@ -1,0 +1,4 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["edit_cached_query"] = 'SELECT `ww_play_redeemable`.`item_id` as record_id, `ww_play_redeemable`.`created_on` as "play_redeemable.created_on", `ww_play_redeemable`.`created_by` as "play_redeemable.created_by", `ww_play_redeemable`.`modified_on` as "play_redeemable.modified_on", `ww_play_redeemable`.`modified_by` as "play_redeemable.modified_by", ww_play_redeemable.image_path as "play_redeemable.image_path", ww_play_redeemable.description as "play_redeemable.description", ww_play_redeemable.points as "play_redeemable.points", ww_play_redeemable.item as "play_redeemable.item"
+FROM (`ww_play_redeemable`)
+WHERE `ww_play_redeemable`.`item_id` = "{$record_id}"';

@@ -1,0 +1,11 @@
+TAMO, MARLON (33866) --> 2020-09-25 11:37:15 --> authentication --> login --> login -->  --> 
+TAMO, MARLON (33866) --> 2020-09-25 11:41:54 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2020-09-25 11:42:07 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2020-09-25 11:57:18 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2020-09-25 12:00:42 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2020-09-25 13:22:52 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2020-09-25 15:03:46 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2020-09-25 15:25:05 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2020-09-25 15:25:13 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2020-09-25 15:55:24 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2020-09-25 15:55:32 --> authentication --> login --> login -->  --> 

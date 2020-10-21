@@ -1,0 +1,5 @@
+LINGO, LORILYN (01166) --> 2018-01-15 09:35:49 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2018-01-15 09:46:26 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2018-01-15 11:06:58 --> authentication --> logout --> logout -->  --> 
+LINGO, LORILYN (01166) --> 2018-01-15 11:07:31 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2018-01-15 20:46:53 --> authentication --> login --> login -->  --> 

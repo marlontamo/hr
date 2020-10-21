@@ -1,0 +1,153 @@
+REDAON, ROSEMARIE (93601) --> 2018-04-22 15:31:12 --> applicant_monitoring --> update --> status_id --> 2 --> 6
+REDAON, ROSEMARIE (93601) --> 2018-04-22 15:31:40 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:32:48 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:47:33 --> applicant_monitoring --> insert --> template_id -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:47:33 --> applicant_monitoring --> insert --> template_value -->  --> <div>22 April 2018<br><br><b>Mr. DANIEL TOLENTINO<br></b>Address<b><br><br></b>Dear Mr. TOLENTINO,<br><br>Praise God!<br><br>We are very pleased to formally welcome you at <b><i>Abraham Holdings, Inc. </i></b>Below shall be your compensation and benefits packages effective&nbsp; _____________________, for the __________________________ post (job level).<br><br><br></div><div>1.&nbsp; <b><i>Compensation<br></i></b><blockquote>1.1 Upon probationary appointment.</blockquote><blockquote><blockquote>{{probationary_appoinment}}<br></blockquote></blockquote><blockquote>1.2 Upon permanent appointment.<br><blockquote>&nbsp;{{permanent_appoinment}}<br></blockquote></blockquote><br>2.&nbsp; <b><i>Company sponsored benefits upon probationary hiring (subject to policies, systems and procedures)<br></i></b><blockquote>2.1 Uniform Benefits.<br>2.2 Duty Meals: Based on the approved duty meal policy.<br>2.3 Leave Credits: 1.66 days of leave credits earned monthly; earned leave credits can be used on your 2nd month upon hiring.<br>2.4 Sponsorship to external and internal trainings.<br></blockquote>3. <b><i>Company sponsored benefits upon permanent hiring (subject to policies, system and procedures)<br></i></b><blockquote>3.1 Caritas Health Shield: P60,000 annual limit per illnes per each qualified member.<br>3.2 Emergency loan.<br>3.3 Per diem allowances for official trips.<br>3.4 Competency Based Increased and Breakthrough project incentives (subject to attainment of goals and budgets).<br>3.5 Maintenance Bonus.<br>3.6 Retirement Benefit.<br></blockquote><br>Thank you very much and may God Bless!.<br><br><br>Prepared By:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Approved By:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conforme:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr. NELSON CHAVEZ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr. DANIEL TOLENTINO<br></div>
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:47:33 --> applicant_monitoring --> insert --> reports_to -->  --> 677
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:47:33 --> applicant_monitoring --> insert --> employment_status_id -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:47:33 --> applicant_monitoring --> insert --> no_months -->  --> 5
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:47:33 --> applicant_monitoring --> insert --> start_date -->  --> 2018-05-01
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:47:33 --> applicant_monitoring --> insert --> end_date -->  --> 2018-10-01
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:47:33 --> applicant_monitoring --> insert --> accept_offer -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:47:33 --> applicant_monitoring --> insert --> process_id -->  --> 6
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:47:33 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 6 --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:47:33 --> applicant_monitoring --> insert --> process_id -->  --> 6
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:47:33 --> applicant_monitoring --> insert --> benefit_id -->  --> 231
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:47:33 --> applicant_monitoring --> insert --> permanent -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:47:33 --> applicant_monitoring --> insert --> amount -->  --> 1000
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:47:33 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:47:37 --> applicant_monitoring --> insert --> to -->  --> danielt@yahoo.com
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:47:37 --> applicant_monitoring --> insert --> subject -->  --> TIC - GUEST SERVICES ASSOCIATE Job Offer
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:47:37 --> applicant_monitoring --> insert --> body -->  --> <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html lang="en">
+    <!-- BEGIN HEAD-->
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title></title>
+        <style>
+            body, p
+            {
+                
+
+            font-family:Arial;
+            font-size: 10px;
+
+            
+            }
+
+
+        </style>
+    </head>
+    <!-- END HEAD -->
+    <!-- BEGIN BODY -->
+    <body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" style="-webkit-font-smoothing: antialiased; width: 100% !important; -webkit-text-size-adjust: none;">
+
+        <!-- <table width="100%" cellpadding="0" cellspacing="0" border="0" style="padding: 40px 40px 40px 40px;">
+            <tr>
+                <td width="100%"> -->
+
+                    <table width="755" cellpadding="0" cellspacing="0" border="0" align="center" class="table" style="overflow: wrap;">
+                        <tr>
+                            <td width="755" class="cell">
+                                <!-- BEGIN HEADER CONTAINER -->
+                                
+
+                                <p style="font-size: 11px;">Dear Mr./Ms. &nbsp;DANIEL TOLENTINO,</p>
+                                
+                                <br>
+
+                                <p style="font-size: 11px; line-height: 30px;">Your application for employment with HDI &nbsp;<strong>TIC</strong>&nbsp; for the position of &nbsp;<strong>GUEST SERVICES ASSOCIATE</strong>&nbsp; has been given due consideration and we are pleased to present this <strong><i>OFFER SHEET</i></strong> to you.</p>
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;">Assuming you accept HDI's offer, your engagement with the company will be under the following conditions:</p>
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;"><strong>1. PROBATIONARY ENGAGEMENT</strong><br>
+                                Your probationary period will be for six (6) months from <strong>May 01, 2018</strong> to <strong>October 01, 2018</strong> .
+                                </p>
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;"><strong>2. SALARY AND BENEFITS</strong><br>
+                                Your monthly basic salary shall be <strong>amount in peso </strong>, subject to all government-mandated deductions such as taxes, SSS, etc. You shall be entitiled to all benefits granted to all probationary employees.<br><br>
+                                You will also be entitled to the following benefits:<br>
+                                </p>
+
+                                <br>
+                                <ul style="list-style:none; font-size:11px;">
+                                    
+                                </ul>
+
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;"><strong>3. HOURS OF WORK</strong><br>
+                                Your normal working hours will be as follows:
+                                </p>
+
+                                <br>
+                                <table style="width:400px; margin-left: 50px; font-size:11px;overflow: wrap;">
+                                    <tr>
+                                        <td>{{daysofwork}} : </td>
+                                        <td>:</td>
+                                        <td style="float:right;"></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Lunch breaks : </td>
+                                        <td>:</td>
+                                        <td style="float:right;">{{breaktime}}</td>
+                                    </tr>
+                                </table>
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;">The company reserves the right to change your work schedule to meet the requirements of your work, subject to local labor law.</p>
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;"><strong>4. DUTIES AND RESPONSIBILITIES</strong><br>
+                                You shall be under the direct supervision of the &nbsp;<strong>SR. OFFICER-IN-CHARGE</strong>&nbsp;. You shall perform the duties and responsibilities required of yourposition as outlined in the attached job description as well as other tasks which you may be reasonably assigned to perform from time to time.
+                                </p>
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;"><strong>5. REGULARIZATION OF EMPLOYMENT</strong><br>
+                                During probationary employment, your performance shall be subject to a periodic performance appraisal by your superior who shall determine your competencies and contributions to determine your fit for the position. Performance evaluation will be done on your third <strong>(3rd)</strong> and <strong>fifth (5th)</strong> month.
+                                </p>
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;">Upon satisfactory completion of your probationary period and confirmation of regular status, you will then be entitled to other benefits available to regular employees of the Company.</p>
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;">This <strong>OFFER SHEET</strong> is not an employment contract. You will still be subject to the requisite background checks, testing and successful completion of all the pre-employment requirements and other necessary activities as per our hiring policy. Please note that misrepresentation or falsification of anything that you establish as well as failure to complete the required pre-employment requirements within 15 days from start date can be basis for the company to withdraw its offer of employment at any given time. If already commenced employment, a ground for termination.</p>
+
+                                <br>
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;">Very truly yours,</p>
+
+                                <br>
+                                <br>
+
+                                <p style="font-size: 11px; line-height: 16px;"><strong> </strong>
+                                 <br>   HR/OD Manager 
+                                <br>    HDI Group of Companies</p>
+
+
+
+                                
+
+
+                                <!-- BEGIN SECTION 1-->
+                                
+
+
+
+
+
+                            </td>
+                        </tr> 
+                        
+                    </table>
+<!-- 
+                </td>
+            </tr> 
+        </table>  -->
+    </body>
+<!-- BEGIN BODY -->
+</html>

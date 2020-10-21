@@ -1,0 +1,26 @@
+Admin, Teemworx (admin) --> 2018-04-02 13:16:43 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-04-02 13:29:32 --> users --> update --> hash --> $2a$08$U9XU7tMQIsA05LWddol71ez8XfcvbyhbjP0/E4LFRa4dLCxyAnzPa --> $2a$08$9hcVYq4Rf5l0.EuBNR19dOKmbrFPR8ExIGpy2p0JejrVSRTUIUMc6
+Admin, Teemworx (admin) --> 2018-04-02 13:29:32 --> users --> update --> active --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2018-04-02 13:29:32 --> users --> update --> birth_date --> 0000-00-00 --> 1970-01-01
+Admin, Teemworx (admin) --> 2018-04-02 13:30:05 --> users --> update --> hash --> $2a$08$XvLGGU.cTk6D3B2AEg.rH.7WZ4sC/5lz6RFbHx7C2EcoHvE749xv6 --> $2a$08$LrLNSkeqb8KJhpQMe7RNAOsEfa3zk15zAiRBQxYv5ajeczJlYMYhm
+Admin, Teemworx (admin) --> 2018-04-02 13:30:05 --> users --> update --> active --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2018-04-02 13:30:07 --> users --> update --> hash --> $2a$08$LrLNSkeqb8KJhpQMe7RNAOsEfa3zk15zAiRBQxYv5ajeczJlYMYhm --> $2a$08$w6tyHfQG9CmP87d5rTGWe.b0uMjbOn7VkB788cJYCBZB9iFb.xVcO
+Admin, Teemworx (admin) --> 2018-04-02 13:30:07 --> users --> update --> active --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2018-04-02 13:42:03 --> authentication --> logout --> logout -->  --> 
+CARMEN, BERNARDO (00697) --> 2018-04-02 13:42:23 --> authentication --> login --> login -->  --> 
+CARMEN, BERNARDO (00697) --> 2018-04-02 13:48:45 --> authentication --> logout --> logout -->  --> 
+BARTOLOME, ROMEL (00889) --> 2018-04-02 13:49:05 --> authentication --> login --> login -->  --> 
+BARTOLOME, ROMEL (00889) --> 2018-04-02 13:50:14 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-04-02 13:50:26 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-04-02 13:51:46 --> authentication --> logout --> logout -->  --> 
+CARMEN, BERNARDO (00697) --> 2018-04-02 13:51:59 --> authentication --> login --> login -->  --> 
+CARMEN, BERNARDO (00697) --> 2018-04-02 13:55:33 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-04-02 13:55:44 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-04-02 13:56:50 --> leave_balance_admin --> insert --> year -->  --> 2018
+Admin, Teemworx (admin) --> 2018-04-02 13:56:50 --> leave_balance_admin --> insert --> user_id -->  --> 119
+Admin, Teemworx (admin) --> 2018-04-02 13:56:50 --> leave_balance_admin --> insert --> form_id -->  --> 22
+Admin, Teemworx (admin) --> 2018-04-02 13:56:50 --> leave_balance_admin --> insert --> previous -->  --> 18.5
+Admin, Teemworx (admin) --> 2018-04-02 13:56:50 --> leave_balance_admin --> insert --> period_from -->  --> 2018-01-01
+Admin, Teemworx (admin) --> 2018-04-02 13:56:50 --> leave_balance_admin --> insert --> period_to -->  --> 2018-12-31
+Admin, Teemworx (admin) --> 2018-04-02 13:56:50 --> leave_balance_admin --> insert --> period_extension -->  --> 1970-01-01
+Admin, Teemworx (admin) --> 2018-04-02 14:04:36 --> authentication --> logout --> logout -->  --> 

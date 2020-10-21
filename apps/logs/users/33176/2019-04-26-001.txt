@@ -1,0 +1,137 @@
+2019-04-26 08:42:08 --> authentication --> login --> login -->  --> 
+2019-04-26 08:50:40 --> mrf --> insert --> to -->  --> nelson_c@abrahamholdings.ph
+2019-04-26 08:50:40 --> mrf --> insert --> subject -->  --> PRF for approval
+2019-04-26 08:50:40 --> mrf --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear CHAVEZ, NELSON ,</p>
+
+        <p>
+            Please review Personnel Requisition Form requested by ABULENCIA, AMYRA  for your approval.
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+2019-04-26 00:56:10 --> applicants --> insert --> lastname -->  --> test
+2019-04-26 00:56:10 --> applicants --> insert --> firstname -->  --> test
+2019-04-26 00:56:10 --> applicants --> insert --> middlename -->  --> test
+2019-04-26 00:56:10 --> applicants --> insert --> maidenname -->  --> test
+2019-04-26 00:56:10 --> applicants --> insert --> source_id -->  --> 1
+2019-04-26 00:56:10 --> applicants --> insert --> recruitment_date -->  --> 2018-06-05
+2019-04-26 00:56:10 --> applicants --> insert --> request_id -->  --> 1
+2019-04-26 00:56:10 --> applicants --> insert --> request_id -->  --> 1
+2019-04-26 00:56:10 --> applicants --> insert --> recruit_id -->  --> 10
+2019-04-26 00:56:10 --> applicants --> insert --> status_id -->  --> 1
+2019-04-26 00:56:10 --> applicants --> insert --> recruit_id -->  --> 10
+2019-04-26 00:56:10 --> applicants --> insert --> key_id -->  --> 164
+2019-04-26 00:56:10 --> applicants --> insert --> key -->  --> position_sought
+2019-04-26 00:56:10 --> applicants --> insert --> sequence -->  --> 1
+2019-04-26 00:56:10 --> applicants --> insert --> key_name -->  --> Position Sought
+2019-04-26 00:56:10 --> applicants --> insert --> key_value -->  --> HRD SPECIALIST
+2019-04-26 00:56:10 --> applicants --> insert --> recruit_id -->  --> 10
+2019-04-26 00:56:10 --> applicants --> insert --> key_id -->  --> 165
+2019-04-26 00:56:10 --> applicants --> insert --> key -->  --> desired_salary
+2019-04-26 00:56:10 --> applicants --> insert --> sequence -->  --> 1
+2019-04-26 00:56:10 --> applicants --> insert --> key_name -->  --> Desired Salary
+2019-04-26 00:56:10 --> applicants --> insert --> key_value -->  --> 23333
+2019-04-26 00:56:10 --> applicants --> insert --> recruit_id -->  --> 10
+2019-04-26 00:56:10 --> applicants --> insert --> key_id -->  --> 170
+2019-04-26 00:56:10 --> applicants --> insert --> key -->  --> photo
+2019-04-26 00:56:10 --> applicants --> insert --> sequence -->  --> 1
+2019-04-26 00:56:10 --> applicants --> insert --> key_name -->  --> Photo
+2019-04-26 00:56:10 --> applicants --> insert --> recruit_id -->  --> 10
+2019-04-26 00:56:10 --> applicants --> insert --> key_id -->  --> 166
+2019-04-26 00:56:10 --> applicants --> insert --> key -->  --> salary_pay_mode
+2019-04-26 00:56:10 --> applicants --> insert --> sequence -->  --> 1
+2019-04-26 00:56:10 --> applicants --> insert --> key_name -->  --> Salary Payment Mode
+2019-04-26 00:56:10 --> applicants --> insert --> key_value -->  --> Monthly
+2019-04-26 00:56:10 --> applicants --> insert --> recruit_id -->  --> 10
+2019-04-26 00:56:10 --> applicants --> insert --> key_id -->  --> 167
+2019-04-26 00:56:10 --> applicants --> insert --> key -->  --> currently_employed
+2019-04-26 00:56:10 --> applicants --> insert --> sequence -->  --> 1
+2019-04-26 00:56:10 --> applicants --> insert --> key_name -->  --> Currently Employed
+2019-04-26 00:56:10 --> applicants --> insert --> key_value -->  --> 0
+2019-04-26 00:56:10 --> applicants --> insert --> recruit_id -->  --> 10
+2019-04-26 00:56:10 --> applicants --> insert --> key_id -->  --> 169
+2019-04-26 00:56:10 --> applicants --> insert --> key -->  --> resume
+2019-04-26 00:56:10 --> applicants --> insert --> sequence -->  --> 1
+2019-04-26 00:56:10 --> applicants --> insert --> key_name -->  --> Resume
+2019-04-26 00:56:35 --> applicants --> update --> email -->  --> tasdf@yahoo.com
+2019-04-26 00:56:35 --> applicants --> delete --> recruitment_personal - recruit_id --> 10 --> 
+2019-04-26 00:56:35 --> applicants --> delete --> recruitment_personal - recruit_id --> 10 --> 
+2019-04-26 00:56:35 --> applicants --> insert --> recruit_id -->  --> 10
+2019-04-26 00:56:35 --> applicants --> insert --> key_id -->  --> 1
+2019-04-26 00:56:35 --> applicants --> insert --> key -->  --> address_1
+2019-04-26 00:56:35 --> applicants --> insert --> sequence -->  --> 1
+2019-04-26 00:56:35 --> applicants --> insert --> key_name -->  --> Street
+2019-04-26 00:56:35 --> applicants --> insert --> recruit_id -->  --> 10
+2019-04-26 00:56:35 --> applicants --> insert --> key_id -->  --> 3
+2019-04-26 00:56:35 --> applicants --> insert --> key -->  --> city_town
+2019-04-26 00:56:35 --> applicants --> insert --> sequence -->  --> 1
+2019-04-26 00:56:35 --> applicants --> insert --> key_name -->  --> City/Town
+2019-04-26 00:56:35 --> applicants --> insert --> recruit_id -->  --> 10
+2019-04-26 00:56:35 --> applicants --> insert --> key_id -->  --> 4
+2019-04-26 00:56:35 --> applicants --> insert --> key -->  --> country
+2019-04-26 00:56:35 --> applicants --> insert --> sequence -->  --> 1
+2019-04-26 00:56:35 --> applicants --> insert --> key_name -->  --> Country
+2019-04-26 00:56:36 --> applicants --> insert --> recruit_id -->  --> 10
+2019-04-26 00:56:36 --> applicants --> insert --> key_id -->  --> 15
+2019-04-26 00:56:36 --> applicants --> insert --> key -->  --> zip_code
+2019-04-26 00:56:36 --> applicants --> insert --> sequence -->  --> 1
+2019-04-26 00:56:36 --> applicants --> insert --> key_name -->  --> Zip Code
+2019-04-26 00:56:36 --> applicants --> insert --> recruit_id -->  --> 10
+2019-04-26 00:56:36 --> applicants --> insert --> key_id -->  --> 95
+2019-04-26 00:56:36 --> applicants --> insert --> key -->  --> province
+2019-04-26 00:56:36 --> applicants --> insert --> sequence -->  --> 1
+2019-04-26 00:56:36 --> applicants --> insert --> key_name -->  --> Province
+2019-04-26 00:56:36 --> applicants --> insert --> recruit_id -->  --> 10
+2019-04-26 00:56:36 --> applicants --> insert --> key_id -->  --> 16
+2019-04-26 00:56:36 --> applicants --> insert --> key -->  --> emergency_name
+2019-04-26 00:56:36 --> applicants --> insert --> sequence -->  --> 1
+2019-04-26 00:56:36 --> applicants --> insert --> key_name -->  --> Contact Name
+2019-04-26 00:56:36 --> applicants --> insert --> recruit_id -->  --> 10
+2019-04-26 00:56:36 --> applicants --> insert --> key_id -->  --> 17
+2019-04-26 00:56:36 --> applicants --> insert --> key -->  --> emergency_relationship
+2019-04-26 00:56:36 --> applicants --> insert --> sequence -->  --> 1
+2019-04-26 00:56:36 --> applicants --> insert --> key_name -->  --> Relationship
+2019-04-26 00:56:36 --> applicants --> insert --> recruit_id -->  --> 10
+2019-04-26 00:56:36 --> applicants --> insert --> key_id -->  --> 18
+2019-04-26 00:56:36 --> applicants --> insert --> key -->  --> emergency_phone
+2019-04-26 00:56:36 --> applicants --> insert --> sequence -->  --> 1
+2019-04-26 00:56:36 --> applicants --> insert --> key_name -->  --> Contact Phone
+2019-04-26 00:56:36 --> applicants --> insert --> recruit_id -->  --> 10
+2019-04-26 00:56:36 --> applicants --> insert --> key_id -->  --> 19
+2019-04-26 00:56:36 --> applicants --> insert --> key -->  --> emergency_mobile
+2019-04-26 00:56:36 --> applicants --> insert --> sequence -->  --> 1
+2019-04-26 00:56:36 --> applicants --> insert --> key_name -->  --> Contact Mobile
+2019-04-26 00:56:36 --> applicants --> insert --> recruit_id -->  --> 10
+2019-04-26 00:56:36 --> applicants --> insert --> key_id -->  --> 20
+2019-04-26 00:56:36 --> applicants --> insert --> key -->  --> emergency_address
+2019-04-26 00:56:36 --> applicants --> insert --> sequence -->  --> 1
+2019-04-26 00:56:36 --> applicants --> insert --> key_name -->  --> Contact Address
+2019-04-26 00:56:36 --> applicants --> insert --> recruit_id -->  --> 10
+2019-04-26 00:56:36 --> applicants --> insert --> key_id -->  --> 21
+2019-04-26 00:56:36 --> applicants --> insert --> key -->  --> emergency_city
+2019-04-26 00:56:36 --> applicants --> insert --> sequence -->  --> 1
+2019-04-26 00:56:36 --> applicants --> insert --> key_name -->  --> Contact City
+2019-04-26 00:56:36 --> applicants --> insert --> recruit_id -->  --> 10
+2019-04-26 00:56:36 --> applicants --> insert --> key_id -->  --> 92
+2019-04-26 00:56:36 --> applicants --> insert --> key -->  --> emergency_country
+2019-04-26 00:56:36 --> applicants --> insert --> sequence -->  --> 1
+2019-04-26 00:56:36 --> applicants --> insert --> key_name -->  --> Country
+2019-04-26 00:56:36 --> applicants --> insert --> recruit_id -->  --> 10
+2019-04-26 00:56:36 --> applicants --> insert --> key_id -->  --> 22
+2019-04-26 00:56:36 --> applicants --> insert --> key -->  --> emergency_zip_code
+2019-04-26 00:56:36 --> applicants --> insert --> sequence -->  --> 1
+2019-04-26 00:56:36 --> applicants --> insert --> key_name -->  --> Contact Zip Code
+2019-04-26 09:20:03 --> authentication --> logout --> logout -->  --> 

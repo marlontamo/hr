@@ -1,0 +1,2 @@
+LOPEZ, PAOLO (02115) --> 2018-01-08 14:27:31 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2018-01-08 14:37:04 --> authentication --> logout --> logout -->  --> 

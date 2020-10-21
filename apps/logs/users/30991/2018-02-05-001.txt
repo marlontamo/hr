@@ -1,0 +1,66 @@
+2018-02-05 09:51:34 --> authentication --> login --> login -->  --> 
+2018-02-05 09:52:03 --> authentication --> logout --> logout -->  --> 
+2018-02-05 10:03:40 --> authentication --> login --> login -->  --> 
+2018-02-05 10:04:01 --> authentication --> login --> login -->  --> 
+2018-02-05 10:04:01 --> authentication --> login --> login -->  --> 
+2018-02-05 10:05:51 --> authentication --> logout --> logout -->  --> 
+2018-02-05 10:06:30 --> authentication --> login --> login -->  --> 
+2018-02-05 10:07:37 --> authentication --> logout --> logout -->  --> 
+2018-02-05 10:11:01 --> authentication --> login --> login -->  --> 
+2018-02-05 10:14:57 --> appform --> insert --> lastname -->  --> Alex
+2018-02-05 10:14:57 --> appform --> insert --> firstname -->  --> Dela Cruz
+2018-02-05 10:14:57 --> appform --> insert --> middlename -->  --> Asuncion
+2018-02-05 10:14:57 --> appform --> insert --> email -->  --> alex_d@yahoo.com
+2018-02-05 10:14:57 --> appform --> insert --> status_id -->  --> 11
+2018-02-05 10:14:57 --> appform --> insert --> recruitment_date -->  --> 2018-02-05
+2018-02-05 10:14:57 --> appform --> insert --> source_id -->  --> 3
+2018-02-05 10:14:57 --> appform --> delete --> recruitment_personal - recruit_id --> 6 --> 
+2018-02-05 10:14:57 --> appform --> insert --> recruit_id -->  --> 6
+2018-02-05 10:14:57 --> appform --> insert --> key_id -->  --> 5
+2018-02-05 10:14:57 --> appform --> insert --> key -->  --> phone
+2018-02-05 10:14:57 --> appform --> insert --> sequence -->  --> 1
+2018-02-05 10:14:57 --> appform --> insert --> key_name -->  --> Phone 
+2018-02-05 10:14:57 --> appform --> delete --> recruitment_personal - recruit_id --> 6 --> 
+2018-02-05 10:14:57 --> appform --> insert --> recruit_id -->  --> 6
+2018-02-05 10:14:57 --> appform --> insert --> key_id -->  --> 7
+2018-02-05 10:14:57 --> appform --> insert --> key -->  --> mobile
+2018-02-05 10:14:57 --> appform --> insert --> sequence -->  --> 1
+2018-02-05 10:14:57 --> appform --> insert --> key_name -->  --> Mobile
+2018-02-05 10:14:57 --> appform --> insert --> key_value -->  --> 09772308971
+2018-02-05 10:14:57 --> appform --> insert --> recruit_id -->  --> 6
+2018-02-05 10:14:57 --> appform --> insert --> key_id -->  --> 164
+2018-02-05 10:14:57 --> appform --> insert --> key -->  --> position_sought
+2018-02-05 10:14:57 --> appform --> insert --> sequence -->  --> 2
+2018-02-05 10:14:57 --> appform --> insert --> key_name -->  --> Position Sought
+2018-02-05 10:14:57 --> appform --> insert --> key_value -->  --> ACCOUNTING ASSISTANT
+2018-02-05 10:14:57 --> appform --> insert --> recruit_id -->  --> 6
+2018-02-05 10:14:57 --> appform --> insert --> key_id -->  --> 169
+2018-02-05 10:14:57 --> appform --> insert --> key -->  --> resume
+2018-02-05 10:14:57 --> appform --> insert --> sequence -->  --> 2
+2018-02-05 10:14:57 --> appform --> insert --> key_name -->  --> Resume
+2018-02-05 10:14:57 --> appform --> insert --> key_value -->  --> uploads/appform/2305%20April%202017%20ENCS%20Final.pdf
+2018-02-05 10:20:06 --> authentication --> login --> login -->  --> 
+2018-02-05 10:20:39 --> authentication --> logout --> logout -->  --> 
+2018-02-05 10:32:20 --> authentication --> login --> login -->  --> 
+2018-02-05 10:32:41 --> applicant_monitoring --> update --> request_id --> 0 --> 2
+2018-02-05 10:32:41 --> applicant_monitoring --> update --> status_id --> 11 --> 1
+2018-02-05 10:32:41 --> applicant_monitoring --> insert --> recruit_id -->  --> 7
+2018-02-05 10:32:41 --> applicant_monitoring --> insert --> key_id -->  --> 196
+2018-02-05 10:32:41 --> applicant_monitoring --> insert --> key -->  --> sourcing_free_sites
+2018-02-05 10:32:41 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2018-02-05 10:32:41 --> applicant_monitoring --> insert --> key_name -->  --> Recruitment Sourcing Free Sites
+2018-02-05 10:32:41 --> applicant_monitoring --> insert --> request_id -->  --> 2
+2018-02-05 10:32:41 --> applicant_monitoring --> insert --> recruit_id -->  --> 7
+2018-02-05 10:32:41 --> applicant_monitoring --> insert --> status_id -->  --> 1
+2018-02-05 10:35:43 --> applicant_monitoring --> update --> request_id --> 0 --> 2
+2018-02-05 10:35:43 --> applicant_monitoring --> update --> status_id --> 11 --> 1
+2018-02-05 10:35:43 --> applicant_monitoring --> insert --> recruit_id -->  --> 3
+2018-02-05 10:35:43 --> applicant_monitoring --> insert --> key_id -->  --> 196
+2018-02-05 10:35:43 --> applicant_monitoring --> insert --> key -->  --> sourcing_free_sites
+2018-02-05 10:35:43 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2018-02-05 10:35:43 --> applicant_monitoring --> insert --> key_name -->  --> Recruitment Sourcing Free Sites
+2018-02-05 10:35:43 --> applicant_monitoring --> insert --> request_id -->  --> 2
+2018-02-05 10:35:43 --> applicant_monitoring --> insert --> recruit_id -->  --> 3
+2018-02-05 10:35:43 --> applicant_monitoring --> insert --> status_id -->  --> 1
+2018-02-05 10:37:40 --> applicant_monitoring --> update --> template_id --> 5 --> 2
+2018-02-05 10:37:40 --> applicant_monitoring --> update --> template_value --> 21 December 2017<br><div><br><b>Mr. Janet Vicedo</b><b><br><br></b>We are very pleased to confirm to you our offer of employment for the position of _____________________(job level ) for __________________________, one of the subsidiaries of <b>Abraham Holdings Inc. </b><br><br><br></div><div>1.&nbsp;<b><i> </i></b>Compensation upon hiring (probationary status)<br><blockquote>{{compensation}}<br><br></blockquote>2. Company sponsored benefits (subject to policies, systems and procedure):<br><blockquote>2.1 Annual Uniform Allowance of P6,500/year; given upon hiring<br>2.2 Leave Credits: 20 to 30 days per year (depending on tenure); earned leave credits may be used after each month<br>2.3 One Duty Meal per Day<br>2.4 Full sponsorship to external&nbsp; and internal trainings<br>2.5 Laptop ownership scheme (employee's option upon hiring)<br>2.6 Mobile Phone Unit and company sponsored subscription (unlitext all networks, inli-call to all Globe numbers) with data plan.<br>2.7 Breakthrough Projects Incentives<br>2.8 Competency Pay Increase<br>2.9 Loan privileges<br>2.10 Health Plan Benefits upon permanent appointment: in-patient, out-patient and dental benefits for employee and qualified dependent under Caritas Health Shield Inc - annual benefit of P90,000 per illnes per member.<br>2.11 Retirement Benefit of at least 1 mo/year of service (minimum tenure of ten years is required)<br>2.12 Car Plan, P550k at 5-year term (minimum requirement for issuance is permanent status: subject to funding priorities)<br>2.13 Corporate Credit Card, with 5k monthly limit deducted from gross pay<br></blockquote>3.&nbsp; All expenses in relation&nbsp; to performance of task/duties (transportation, representation, meals etc.) subject to policies systems and procedures.<br><br>4. All government-mandated benefits (contributions for <b>Pag-IBIG, Philhealth, SSS; 13th month pay</b>, etc.)<br><br>Please feel free to get in touch with us for any clarifications. Thank you very much and may God bless you and to your family.<br><br><b>HRD Manager&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Accepted By:<br><br></b>Mr. NELSON CHAVEZ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr. Janet Vicedo<b><br></b><br><br></div> --> <div>05 February 2018<br><br><b>Mr. Janet Vicedo<br></b>Address<b><br><br></b>Dear Mr. Vicedo,<br><br>Praise God!<br><br>We are very pleased to formally welcome you at <b><i>Abraham Holdings, Inc. </i></b>Below shall be your compensation and benefits packages effective&nbsp; _____________________, for the __________________________ post (job level).<br><br><br></div><div>1.&nbsp; <b><i>Compensation<br></i></b><blockquote>1.1 Upon probationary appointment.</blockquote><blockquote><blockquote>{{probationary_appoinment}}<br></blockquote></blockquote><blockquote>1.2 Upon permanent appointment.<br><blockquote>&nbsp;{{permanent_appoinment}}<br></blockquote></blockquote><br>2.&nbsp; <b><i>Company sponsored benefits upon probationary hiring (subject to policies, systems and procedures)<br></i></b><blockquote>2.1 Uniform Benefits.<br>2.2 Duty Meals: Based on the approved duty meal policy.<br>2.3 Leave Credits: 1.66 days of leave credits earned monthly; earned leave credits can be used on your 2nd month upon hiring.<br>2.4 Sponsorship to external and internal trainings.<br></blockquote>3. <b><i>Company sponsored benefits upon permanent hiring (subject to policies, system and procedures)<br></i></b><blockquote>3.1 Caritas Health Shield: P60,000 annual limit per illnes per each qualified member.<br>3.2 Emergency loan.<br>3.3 Per diem allowances for official trips.<br>3.4 Competency Based Increased and Breakthrough project incentives (subject to attainment of goals and budgets).<br>3.5 Maintenance Bonus.<br>3.6 Retirement Benefit.<br></blockquote><br>Thank you very much and may God Bless!.<br><br><br>Prepared By:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Approved By:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conforme:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr. NELSON CHAVEZ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr. Janet Vicedo<br></div>

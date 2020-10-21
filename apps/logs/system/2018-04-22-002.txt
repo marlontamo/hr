@@ -1,0 +1,134 @@
+DE CASTRO, CHRISTINA ELENA (01713) --> 2018-04-22 14:45:21 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-04-22 14:46:47 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-04-22 14:53:55 --> authentication --> logout --> logout -->  --> 
+FUENTEBELLA JR., EDUARDO (32765) --> 2018-04-22 14:54:15 --> authentication --> login --> login -->  --> 
+FUENTEBELLA JR., EDUARDO (32765) --> 2018-04-22 14:54:51 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-04-22 14:55:04 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-04-22 15:00:06 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:00:20 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:01:38 --> mrf_admin --> update --> hr_remarks -->  --> fdsdffdsfds
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:01:38 --> mrf_admin --> update --> hr_remarks_by --> 0 --> 39
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:01:38 --> mrf_admin --> update --> hr_remarks_on -->  --> 2018-04-22 15:01:38
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> lastname -->  --> TOLENTINO
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> firstname -->  --> DANIEL
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> middlename -->  --> G
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> email -->  --> danielt@yahoo.com
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> status_id -->  --> 11
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> recruitment_date -->  --> 2018-04-22
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> source_id -->  --> 3
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> delete --> recruitment_personal - recruit_id --> 8 --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> recruit_id -->  --> 8
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> key_id -->  --> 5
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> key -->  --> phone
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> key_name -->  --> Phone 
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> delete --> recruitment_personal - recruit_id --> 8 --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> recruit_id -->  --> 8
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> key_id -->  --> 7
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> key -->  --> mobile
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> key_name -->  --> Mobile
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> recruit_id -->  --> 8
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> key_id -->  --> 164
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> key -->  --> position_sought
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> sequence -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> key_name -->  --> Position Sought
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> key_value -->  --> GUEST SERVICES ASSOCIATE
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> recruit_id -->  --> 8
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> key_id -->  --> 169
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> key -->  --> resume
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> sequence -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> key_name -->  --> Resume
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:15:53 --> appform --> insert --> key_value -->  --> uploads/appform/Jellyfish.jpg
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:16:13 --> applicant_monitoring --> update --> request_id --> 0 --> 5
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:16:13 --> applicant_monitoring --> update --> status_id --> 11 --> 1
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:16:13 --> applicant_monitoring --> insert --> recruit_id -->  --> 8
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:16:13 --> applicant_monitoring --> insert --> key_id -->  --> 196
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:16:13 --> applicant_monitoring --> insert --> key -->  --> sourcing_free_sites
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:16:13 --> applicant_monitoring --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:16:13 --> applicant_monitoring --> insert --> key_name -->  --> Recruitment Sourcing Free Sites
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:16:13 --> applicant_monitoring --> insert --> request_id -->  --> 5
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:16:13 --> applicant_monitoring --> insert --> recruit_id -->  --> 8
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:16:13 --> applicant_monitoring --> insert --> status_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:19:14 --> applicant_monitoring --> insert --> process_id -->  --> 6
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:19:14 --> applicant_monitoring --> insert --> date -->  --> 2018-04-22 15:22:00
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:19:14 --> applicant_monitoring --> insert --> user_id -->  --> 39
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:19:14 --> applicant_monitoring --> insert --> location_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:19:14 --> applicant_monitoring --> insert --> schedule_id -->  --> 6
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:19:14 --> applicant_monitoring --> insert --> to -->  --> lee_p@abrahamholdings.ph
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:19:14 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:19:14 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>
+	Hi MARIA LEE POLONAN,</p>
+<p>
+	Good day!</p>
+
+<p>
+	This is to inform you that you are scheduled for an interview of DANIEL TOLENTINO, for the position of GUEST SERVICES ASSOCIATE. Below are the details and schedule:</p>
+<p>
+	Applicant Name: DANIEL TOLENTINO
+	<br>
+	Position: GUEST SERVICES ASSOCIATE
+	<br>
+	Date: April 22, 2018
+	<br>
+	Time: 03:22 pm
+</p>
+<p>
+	In case you are not available on the said dates, please do not hesitate to contact one of our HR-Recruitment Team.</p>
+<p>
+	Thank you and Regards,</p>
+<p>
+	HR-Recruitment Team</p>
+
+<br>
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:19:14 --> applicant_monitoring --> insert --> to -->  --> danielt@yahoo.com
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:19:14 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:19:14 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>Dear DANIEL TOLENTINO,</p>
+<p>
+	Thank you for your interest in applying for the GUEST SERVICES ASSOCIATE position. We would like to invite you for an interview at Abraham Holdings, Inc.. Please see information below:</p>
+<p>
+	Date: April 22, 2018
+	<br>
+	Time: 03:22 pm
+	<br>
+	Venue: 770 E. Rodriguez Ext., Malibay, Pasay City</p>
+
+<p>
+	Kindly look for MARIA LEE POLONAN</p>
+
+<p>
+	Should you have queries, please do not hesitate to contact us on 8893935</p>
+
+<p>
+	Sincerely,</p>
+<p>
+	HR- Recruitment Team &ndash; ABHI</p>
+<br>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:19:14 --> applicant_monitoring --> insert --> process_id -->  --> 6
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:19:14 --> applicant_monitoring --> insert --> date -->  --> 2018-04-22 17:00:00
+POLONAN, MARIA LEE (31002) --> 2018-04-22 15:19:14 --> applicant_monitoring --> insert --> user_id -->  --> 677

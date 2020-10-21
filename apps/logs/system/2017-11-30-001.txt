@@ -1,0 +1,5 @@
+PEREZ, LORIE ANN (32905) --> 2017-11-30 12:03:43 --> authentication --> login --> login -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-11-30 12:06:28 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-30 12:11:22 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-30 12:12:08 --> authentication --> logout --> logout -->  --> 
+LINGO, LORILYN (01166) --> 2017-11-30 12:12:17 --> authentication --> login --> login -->  --> 

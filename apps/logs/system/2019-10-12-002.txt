@@ -1,0 +1,87 @@
+ILUSTRE, FRANCISCO JR. (33711) --> 2019-10-12 09:40:36 --> authentication --> login --> login -->  --> 
+MASANGKAY, DANICA (33705) --> 2019-10-12 09:40:39 --> authentication --> logout --> logout -->  --> 
+TAGGUEG, ALYSSA MAE (33723) --> 2019-10-12 09:40:44 --> authentication --> logout --> logout -->  --> 
+BUNAGAN, APOLONIO (33714) --> 2019-10-12 09:40:46 --> authentication --> logout --> logout -->  --> 
+NEMENZO, RODELIA (33709) --> 2019-10-12 09:40:52 --> authentication --> login --> login -->  --> 
+ILUSTRE, FRANCISCO JR. (33711) --> 2019-10-12 09:40:55 --> authentication --> login --> login -->  --> 
+SANTOS, ANALYN (33718) --> 2019-10-12 09:41:14 --> authentication --> login --> login -->  --> 
+LAZ, RANDY (33717) --> 2019-10-12 09:41:19 --> authentication --> logout --> logout -->  --> 
+ILUSTRE, FRANCISCO JR. (33711) --> 2019-10-12 09:41:21 --> authentication --> logout --> logout -->  --> 
+ILUSTRE, FRANCISCO JR. (33711) --> 2019-10-12 09:41:31 --> authentication --> logout --> logout -->  --> 
+TAGGUEG, ALYSSA MAE (33723) --> 2019-10-12 09:41:37 --> authentication --> login --> login -->  --> 
+ILUSTRE, FRANCISCO JR. (33711) --> 2019-10-12 09:41:46 --> authentication --> login --> login -->  --> 
+LAZ, RANDY (33717) --> 2019-10-12 09:42:26 --> authentication --> login --> login -->  --> 
+LAZ, RANDY (33717) --> 2019-10-12 09:42:53 --> authentication --> logout --> logout -->  --> 
+BUNAGAN, APOLONIO (33714) --> 2019-10-12 09:43:37 --> authentication --> login --> login -->  --> 
+CLARICIA, RODEL (33715) --> 2019-10-12 09:43:39 --> authentication --> logout --> logout -->  --> 
+TAGGUEG, ALYSSA MAE (33723) --> 2019-10-12 09:43:46 --> authentication --> logout --> logout -->  --> 
+CLARICIA, RODEL (33715) --> 2019-10-12 09:43:54 --> authentication --> login --> login -->  --> 
+ILUSTRE, FRANCISCO JR. (33711) --> 2019-10-12 09:43:59 --> authentication --> login --> login -->  --> 
+LAZ, RANDY (33717) --> 2019-10-12 09:44:08 --> authentication --> login --> login -->  --> 
+BUNAGAN, APOLONIO (33714) --> 2019-10-12 09:44:13 --> authentication --> logout --> logout -->  --> 
+ILUSTRE, FRANCISCO JR. (33711) --> 2019-10-12 09:44:27 --> authentication --> login --> login -->  --> 
+CASTRO, JOEFEL (33710) --> 2019-10-12 09:44:28 --> authentication --> login --> login -->  --> 
+LAZ, RANDY (33717) --> 2019-10-12 09:45:08 --> authentication --> logout --> logout -->  --> 
+LAZ, RANDY (33717) --> 2019-10-12 09:45:53 --> authentication --> login --> login -->  --> 
+ILUSTRE, FRANCISCO JR. (33711) --> 2019-10-12 09:46:05 --> authentication --> logout --> logout -->  --> 
+INOFERIO, GEORGE (33716) --> 2019-10-12 09:46:19 --> authentication --> login --> login -->  --> 
+SANTOS, ANALYN (33718) --> 2019-10-12 09:46:24 --> authentication --> logout --> logout -->  --> 
+SANTOS, ANALYN (33718) --> 2019-10-12 09:46:40 --> authentication --> login --> login -->  --> 
+CLARICIA, RODEL (33715) --> 2019-10-12 09:46:44 --> authentication --> logout --> logout -->  --> 
+ILUSTRE, FRANCISCO JR. (33711) --> 2019-10-12 09:46:49 --> authentication --> logout --> logout -->  --> 
+ILUSTRE, FRANCISCO JR. (33711) --> 2019-10-12 09:46:55 --> authentication --> login --> login -->  --> 
+TAGGUEG, ALYSSA MAE (33723) --> 2019-10-12 09:47:00 --> authentication --> login --> login -->  --> 
+CLARICIA, RODEL (33715) --> 2019-10-12 09:47:09 --> authentication --> login --> login -->  --> 
+TAGGUEG, ALYSSA MAE (33723) --> 2019-10-12 09:47:30 --> authentication --> logout --> logout -->  --> 
+LAZ, RANDY (33717) --> 2019-10-12 09:47:38 --> authentication --> logout --> logout -->  --> 
+ILUSTRE, FRANCISCO JR. (33711) --> 2019-10-12 09:47:39 --> authentication --> login --> login -->  --> 
+LAZ, RANDY (33717) --> 2019-10-12 09:49:03 --> authentication --> login --> login -->  --> 
+LAZ, RANDY (33717) --> 2019-10-12 09:49:41 --> authentication --> logout --> logout -->  --> 
+NACAR, ALEXANDER (33725) --> 2019-10-12 09:49:57 --> authentication --> logout --> logout -->  --> 
+LAZ, RANDY (33717) --> 2019-10-12 09:50:03 --> authentication --> login --> login -->  --> 
+NACAR, ALEXANDER (33725) --> 2019-10-12 09:50:20 --> authentication --> login --> login -->  --> 
+ILUSTRE, FRANCISCO JR. (33711) --> 2019-10-12 09:50:31 --> authentication --> logout --> logout -->  --> 
+ILUSTRE, FRANCISCO JR. (33711) --> 2019-10-12 09:50:51 --> authentication --> logout --> logout -->  --> 
+BUNAGAN, APOLONIO (33714) --> 2019-10-12 09:50:55 --> authentication --> login --> login -->  --> 
+LAZ, RANDY (33717) --> 2019-10-12 09:50:58 --> authentication --> logout --> logout -->  --> 
+NACAR, ALEXANDER (33725) --> 2019-10-12 09:51:08 --> authentication --> logout --> logout -->  --> 
+LAZ, RANDY (33717) --> 2019-10-12 09:51:18 --> authentication --> login --> login -->  --> 
+LAZ, RANDY (33717) --> 2019-10-12 09:51:47 --> authentication --> logout --> logout -->  --> 
+LAZ, RANDY (33717) --> 2019-10-12 09:52:04 --> authentication --> login --> login -->  --> 
+NACAR, ALEXANDER (33725) --> 2019-10-12 09:52:22 --> authentication --> login --> login -->  --> 
+NACAR, ALEXANDER (33725) --> 2019-10-12 09:53:34 --> authentication --> logout --> logout -->  --> 
+LAZ, RANDY (33717) --> 2019-10-12 09:53:46 --> authentication --> logout --> logout -->  --> 
+NACAR, ALEXANDER (33725) --> 2019-10-12 09:54:12 --> authentication --> login --> login -->  --> 
+LAZ, RANDY (33717) --> 2019-10-12 09:54:49 --> authentication --> login --> login -->  --> 
+LAZ, RANDY (33717) --> 2019-10-12 09:56:05 --> authentication --> logout --> logout -->  --> 
+LAZ, RANDY (33717) --> 2019-10-12 09:56:38 --> authentication --> login --> login -->  --> 
+SANTOS, ANALYN (33718) --> 2019-10-12 09:56:39 --> authentication --> logout --> logout -->  --> 
+SANTOS, ANALYN (33718) --> 2019-10-12 09:56:56 --> authentication --> login --> login -->  --> 
+ATIENZA, MARIA SHIELA (33704) --> 2019-10-12 09:57:48 --> authentication --> logout --> logout -->  --> 
+INOFERIO, GEORGE (33716) --> 2019-10-12 09:57:53 --> authentication --> login --> login -->  --> 
+ATIENZA, MARIA SHIELA (33704) --> 2019-10-12 09:58:11 --> authentication --> login --> login -->  --> 
+VITASA, CRISTOBAL (33719) --> 2019-10-12 09:59:58 --> authentication --> login --> login -->  --> 
+NACAR, ALEXANDER (33725) --> 2019-10-12 10:01:10 --> authentication --> logout --> logout -->  --> 
+ILUSTRE, FRANCISCO JR. (33711) --> 2019-10-12 10:01:30 --> authentication --> logout --> logout -->  --> 
+NACAR, ALEXANDER (33725) --> 2019-10-12 10:01:33 --> authentication --> login --> login -->  --> 
+TAGGUEG, ALYSSA MAE (33723) --> 2019-10-12 10:01:45 --> authentication --> login --> login -->  --> 
+BUNAGAN, APOLONIO (33714) --> 2019-10-12 10:01:48 --> authentication --> logout --> logout -->  --> 
+INOFERIO, GEORGE (33716) --> 2019-10-12 10:02:01 --> authentication --> logout --> logout -->  --> 
+BUNAGAN, APOLONIO (33714) --> 2019-10-12 10:02:03 --> authentication --> login --> login -->  --> 
+INOFERIO, GEORGE (33716) --> 2019-10-12 10:02:17 --> authentication --> login --> login -->  --> 
+SANTOS, ANALYN (33718) --> 2019-10-12 10:11:01 --> authentication --> logout --> logout -->  --> 
+MASANGKAY, DANICA (33705) --> 2019-10-12 10:11:25 --> authentication --> login --> login -->  --> 
+MASANGKAY, DANICA (33705) --> 2019-10-12 10:15:00 --> authentication --> logout --> logout -->  --> 
+SANTOS, ANALYN (33718) --> 2019-10-12 10:15:15 --> authentication --> login --> login -->  --> 
+NACAR, ALEXANDER (33725) --> 2019-10-12 10:15:48 --> authentication --> logout --> logout -->  --> 
+NACAR, ALEXANDER (33725) --> 2019-10-12 10:16:15 --> authentication --> login --> login -->  --> 
+SANTOS, ANALYN (33718) --> 2019-10-12 10:28:17 --> authentication --> logout --> logout -->  --> 
+MASANGKAY, DANICA (33705) --> 2019-10-12 10:28:33 --> authentication --> login --> login -->  --> 
+NACAR, ALEXANDER (33725) --> 2019-10-12 10:52:09 --> authentication --> logout --> logout -->  --> 
+FANGOLIO, EMELLE CRAIG (33724) --> 2019-10-12 10:52:46 --> authentication --> login --> login -->  --> 
+AVES, SOFIA (33722) --> 2019-10-12 11:08:52 --> authentication --> login --> login -->  --> 
+VITASA, CRISTOBAL (33719) --> 2019-10-12 11:11:21 --> authentication --> logout --> logout -->  --> 
+JANCINAL, MARY ANN (33703) --> 2019-10-12 11:40:07 --> authentication --> logout --> logout -->  --> 
+ATIENZA, MARIA SHIELA (33704) --> 2019-10-12 11:41:17 --> authentication --> logout --> logout -->  --> 
+TAMAR, LALAINE (33721) --> 2019-10-12 11:41:17 --> authentication --> logout --> logout -->  --> 
+BAYUG, MYLA (33720) --> 2019-10-12 11:41:26 --> authentication --> logout --> logout -->  --> 

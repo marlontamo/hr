@@ -1,0 +1,8 @@
+POLONAN, MARIA LEE (31002) --> 2017-12-15 14:52:07 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-12-15 14:52:32 --> authentication --> logout --> logout -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-12-15 14:52:49 --> authentication --> login --> login -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-12-15 14:54:23 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2017-12-15 14:54:31 --> authentication --> login --> login -->  --> 
+GARCES, JOCELYN (00451) --> 2017-12-15 14:55:51 --> authentication --> logout --> logout -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-12-15 14:55:57 --> authentication --> login --> login -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-12-15 16:02:49 --> authentication --> logout --> logout -->  --> 

@@ -1,0 +1,27 @@
+<?php
+$lang['department'] = array(
+	'user_manager' => 'User Manager',
+	'department_information' => 'Department Information',
+	'department' => 'Department',
+	'p_department' => 'Enter Department',
+	'department_code' => 'Department Code',
+	'p_department_code' => 'Enter Department Code',
+	'division' => 'Division',
+	'immediate_head' => 'Immediate Head',
+	'immediate_position' => 'Immediate Position',
+	'p_immediate_position' => 'Enter Immediate Position',
+	'active' => 'Active',
+	'option_yes' => 'Yes',
+	'option_no' => 'No',
+	'edit' => 'Edit',
+	'options' => 'Options',
+	'immediate' => 'Immediate',
+	'export' => 'Export',
+	'import' => 'Import',
+	'active' => 'Active',
+	'inactive' => 'Inactive',
+	'home' => 'Home',
+	'refresh' => 'Refresh',
+	'back' => 'Back',
+	'status' => 'Status'
+);

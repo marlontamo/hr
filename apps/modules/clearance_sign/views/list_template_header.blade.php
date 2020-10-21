@@ -1,0 +1,1 @@
+<th width="20%">{{ lang('clearance_signatories.temp_title') }}</th>

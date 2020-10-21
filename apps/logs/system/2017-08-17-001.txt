@@ -1,0 +1,104 @@
+CHAVEZ, NELSON (00129) --> 2017-08-17 08:01:30 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-08-17 08:28:20 --> mrf_admin --> update --> closed_by -->  --> 9
+CHAVEZ, NELSON (00129) --> 2017-08-17 08:28:20 --> mrf_admin --> update --> closed_on --> 0000-00-00 00:00:00 --> 2017-08-17 08:28:20
+CHAVEZ, NELSON (00129) --> 2017-08-17 08:31:50 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:32:03 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:49:13 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-08-17 08:49:30 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-08-17 08:55:04 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:55:15 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-08-17 09:29:00 --> mrf_admin --> update --> delivery_date --> 0000-00-00 --> 2017-10-01
+POLONAN, MARIA LEE (31002) --> 2017-08-17 09:29:00 --> mrf_admin --> update --> hr_remarks -->  --> ok for applicant sourcing
+POLONAN, MARIA LEE (31002) --> 2017-08-17 09:29:00 --> mrf_admin --> update --> hr_assigned --> 0 --> 85
+POLONAN, MARIA LEE (31002) --> 2017-08-17 09:29:00 --> mrf_admin --> update --> hr_remarks_by --> 0 --> 39
+POLONAN, MARIA LEE (31002) --> 2017-08-17 09:29:00 --> mrf_admin --> update --> hr_remarks_on -->  --> 2017-08-17 09:29:00
+POLONAN, MARIA LEE (31002) --> 2017-08-17 09:29:00 --> mrf_admin --> insert --> to -->  --> a@a.com
+POLONAN, MARIA LEE (31002) --> 2017-08-17 09:29:00 --> mrf_admin --> insert --> subject -->  --> Send email to assign mrf
+POLONAN, MARIA LEE (31002) --> 2017-08-17 09:29:00 --> mrf_admin --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear MALDONADO, REA ,</p>
+
+        <p>
+            You have been assigned for Personnel Requisition - 
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> lastname -->  --> Dela Cruz
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> firstname -->  --> Juan
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> middlename -->  --> Aquino
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> email -->  --> juandelacruz@yahoo.com
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> status_id -->  --> 11
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> recruitment_date -->  --> 2017-08-17
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> source_id -->  --> 3
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> delete --> recruitment_personal - recruit_id --> 3 --> 
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> recruit_id -->  --> 3
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> key_id -->  --> 5
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> key -->  --> phone
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> key_name -->  --> Phone 
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> key_value -->  --> 027654321
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> delete --> recruitment_personal - recruit_id --> 3 --> 
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> recruit_id -->  --> 3
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> key_id -->  --> 7
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> key -->  --> mobile
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> key_name -->  --> Mobile
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> key_value -->  --> 09271234567
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> recruit_id -->  --> 3
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> key_id -->  --> 164
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> key -->  --> position_sought
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> sequence -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> key_name -->  --> Position Sought
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> key_value -->  --> ACCOUNTING ASSISTANT
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> recruit_id -->  --> 3
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> key_id -->  --> 169
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> key -->  --> resume
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> sequence -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> key_name -->  --> Resume
+POLONAN, MARIA LEE (31002) --> 2017-08-17 10:59:31 --> appform --> insert --> key_value -->  --> uploads/appform/MANPOWER%20REQUEST.docx
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 4 --> 
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> recruit_id -->  --> 4
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> key_id -->  --> 33
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> key -->  --> education-type
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> key_name -->  --> Type
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> key_value -->  --> Graduate Studies
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 4 --> 
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> recruit_id -->  --> 4
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> key_id -->  --> 34
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> key -->  --> education-school
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> key_name -->  --> School
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> key_value -->  --> Lentran College
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 4 --> 
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> recruit_id -->  --> 4
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> key_id -->  --> 35
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> key -->  --> education-year-from
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> key_name -->  --> Year From
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> key_value -->  --> 2002
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 4 --> 
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> recruit_id -->  --> 4
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> key_id -->  --> 36
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> key -->  --> education-year-to
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> key_name -->  --> Year To
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> key_value -->  --> 2005
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 4 --> 
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> recruit_id -->  --> 4
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> key_id -->  --> 37
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> key -->  --> education-degree
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-08-17 08:30:37 --> applicants --> insert --> key_name -->  --> Degree

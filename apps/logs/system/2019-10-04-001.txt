@@ -1,0 +1,7 @@
+ABULENCIA, AMYRA (33176) --> 2019-10-04 09:18:06 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2019-10-04 09:18:59 --> memo --> update --> publish_from --> 2019-08-29 --> 2019-09-02
+ABULENCIA, AMYRA (33176) --> 2019-10-04 09:18:59 --> memo --> update --> publish --> 1 --> 1 else 0
+ABULENCIA, AMYRA (33176) --> 2019-10-04 09:18:59 --> memo --> update --> email --> 1 --> 1 else 0
+ABULENCIA, AMYRA (33176) --> 2019-10-04 09:24:42 --> authentication --> logout --> logout -->  --> 
+ABULENCIA, AMYRA (33176) --> 2019-10-04 09:52:57 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2019-10-04 09:52:58 --> authentication --> login --> login -->  --> 

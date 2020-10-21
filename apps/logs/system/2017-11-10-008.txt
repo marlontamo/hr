@@ -1,0 +1,72 @@
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> key_id -->  --> 132
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> key -->  --> family-relationship
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> key_name -->  --> Relationship
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> key_value -->  --> Father
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> key_id -->  --> 133
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> key -->  --> family-name
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> key_name -->  --> Name
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> key_value -->  --> Ramon Bautista
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> key_id -->  --> 134
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> key -->  --> family-birthdate
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> key_name -->  --> Birthday
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> key_value -->  --> October 20, 1974
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> key_id -->  --> 135
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> key -->  --> family-occupation
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> key_name -->  --> Occupation
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> key_id -->  --> 136
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> key -->  --> family-employer
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> key_name -->  --> Employer
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> lastname -->  --> adsf
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> firstname -->  --> adsf
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> middlename -->  --> asdf
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> email -->  --> tjkgarcia@yahoo.com
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> status_id -->  --> 11
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> recruitment_date -->  --> 2017-11-10
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> source_id -->  --> 3
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> delete --> recruitment_personal - recruit_id --> 6 --> 
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> recruit_id -->  --> 6
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> key_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> key -->  --> phone
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> key_name -->  --> Phone 
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> key_value -->  --> 234
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> delete --> recruitment_personal - recruit_id --> 6 --> 
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> recruit_id -->  --> 6
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> key_id -->  --> 7
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> key -->  --> mobile
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> key_name -->  --> Mobile
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> key_value -->  --> 3234
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> recruit_id -->  --> 6
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> key_id -->  --> 164
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> key -->  --> position_sought
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> sequence -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> key_name -->  --> Position Sought
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> key_value -->  --> ACCOUNTING ASSISTANT
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> recruit_id -->  --> 6
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> key_id -->  --> 169
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> key -->  --> resume
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> sequence -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> key_name -->  --> Resume
+DE LEON, LISSA (30991) --> 2017-11-10 14:18:15 --> appform --> insert --> key_value -->  --> uploads/appform/reset%20movement%20ir%20and%20coc%20%20and%20recuitment.txt
+DE LEON, LISSA (30991) --> 2017-11-10 14:20:49 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-11-10 15:04:33 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-10 15:40:42 --> authentication --> login --> login -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-11-10 15:48:44 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-10 15:48:50 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-10 15:51:21 --> authentication --> logout --> logout -->  --> 

@@ -1,0 +1,5 @@
+Admin, Teemworx (admin) --> 2017-11-12 07:46:39 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-11-12 07:46:39 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-11-12 07:46:39 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-11-12 08:35:40 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-12 21:44:17 --> authentication --> login --> login -->  --> 

@@ -1,0 +1,26 @@
+<?php
+$lang['partner_manager'] = array(
+	'resources' => 'Resources',
+	'set_con' => 'Setup and Configurations',
+	'p_set_con' => 'List and definitions of related master tables needed in the application.',
+	'job_class' => 'Job Class',
+	'create' => 'Create',
+	'job_rlevel' => 'Job Rank Level',
+	'j_grade' => 'Job Grade',
+	'p_grade' => 'Pay Grade',
+	'p_rates' => 'Pay Rates',
+	'p_order' => 'Enter Order',
+	'view' => 'View',
+	'com_level' => 'Competency Level',
+	'clearance' => 'Clearance',
+	'clearance_sign' => 'Clearance Signatories',
+	'exit_int' => 'Exit Interview',
+	'code_conduct' => 'Code of Conduct',
+	'code_discipline' => 'Code of Discipline',
+	'offense_category' => 'Offense Category',
+	'offense_level' => 'Offense Level',
+	'sanction_category' => 'Offense Sanction Category',	
+	'off_sanc' => 'Offense Sanction',
+	'specialization' => 'Specialization',
+	'view_list_button' => 'View List'
+);

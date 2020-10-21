@@ -1,0 +1,72 @@
+DE LEON, LISSA (30991) --> 2017-11-06 11:20:23 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-06 11:20:25 --> authentication --> logout --> logout -->  --> 
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:20:37 --> authentication --> login --> login -->  --> 
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:21:21 --> authentication --> logout --> logout -->  --> 
+GENER, FRANCIA (00212) --> 2017-11-06 11:21:39 --> authentication --> login --> login -->  --> 
+GENER, FRANCIA (00212) --> 2017-11-06 11:21:46 --> authentication --> login --> login -->  --> 
+GENER, FRANCIA (00212) --> 2017-11-06 11:42:21 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-06 11:42:28 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-06 11:44:52 --> authentication --> logout --> logout -->  --> 
+GENER, FRANCIA (00212) --> 2017-11-06 11:45:19 --> authentication --> login --> login -->  --> 
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:22 --> applicant_monitoring --> update --> process_id --> 0 --> 3
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:22 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:22 --> applicant_monitoring --> update --> result -->  --> Consider
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:22 --> applicant_monitoring --> insert --> interview_id -->  --> 7
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:22 --> applicant_monitoring --> insert --> key_id -->  --> 31
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:22 --> applicant_monitoring --> insert --> key -->  --> remarks
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:22 --> applicant_monitoring --> insert --> sequence -->  --> 1
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:22 --> applicant_monitoring --> insert --> key_name -->  --> Findings/Comments/Impressions
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:22 --> applicant_monitoring --> insert --> key_value -->  --> gdgfgfgfgfgfgfds
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:22 --> applicant_monitoring --> insert --> interview_id -->  --> 7
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:22 --> applicant_monitoring --> insert --> key_id -->  --> 66
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:22 --> applicant_monitoring --> insert --> key -->  --> interviewer
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:22 --> applicant_monitoring --> insert --> sequence -->  --> 1
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:22 --> applicant_monitoring --> insert --> key_name -->  --> Interviewer
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:22 --> applicant_monitoring --> insert --> key_value -->  --> GENER, FRANCIA
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:22 --> applicant_monitoring --> insert --> interview_id -->  --> 7
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:22 --> applicant_monitoring --> insert --> key_id -->  --> 64
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:22 --> applicant_monitoring --> insert --> key -->  --> interviewer_date
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:22 --> applicant_monitoring --> insert --> sequence -->  --> 1
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:22 --> applicant_monitoring --> insert --> key_name -->  --> Date of Interviewer
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:22 --> applicant_monitoring --> insert --> key_value -->  --> November 06, 2017
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:22 --> applicant_monitoring --> insert --> interview_id -->  --> 7
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:22 --> applicant_monitoring --> insert --> key_id -->  --> 32
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:22 --> applicant_monitoring --> insert --> key -->  --> technical_recommendation
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:22 --> applicant_monitoring --> insert --> sequence -->  --> 1
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:22 --> applicant_monitoring --> insert --> key_name -->  --> Recommendation
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:22 --> applicant_monitoring --> insert --> key_value -->  --> Consider
+GENER, FRANCIA (00212) --> 2017-11-06 11:55:30 --> authentication --> logout --> logout -->  --> 
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:55:47 --> authentication --> login --> login -->  --> 
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:19 --> applicant_monitoring --> update --> process_id --> 0 --> 3
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:19 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:19 --> applicant_monitoring --> update --> result -->  --> Consider
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:19 --> applicant_monitoring --> insert --> interview_id -->  --> 8
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:19 --> applicant_monitoring --> insert --> key_id -->  --> 31
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:19 --> applicant_monitoring --> insert --> key -->  --> remarks
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:19 --> applicant_monitoring --> insert --> sequence -->  --> 1
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:19 --> applicant_monitoring --> insert --> key_name -->  --> Findings/Comments/Impressions
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:19 --> applicant_monitoring --> insert --> key_value -->  --> fdsfdsafadsfdasfdsafdas
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:19 --> applicant_monitoring --> insert --> interview_id -->  --> 8
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:19 --> applicant_monitoring --> insert --> key_id -->  --> 66
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:19 --> applicant_monitoring --> insert --> key -->  --> interviewer
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:19 --> applicant_monitoring --> insert --> sequence -->  --> 1
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:19 --> applicant_monitoring --> insert --> key_name -->  --> Interviewer
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:19 --> applicant_monitoring --> insert --> key_value -->  --> SUNIGA, MA. LOURDES
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:19 --> applicant_monitoring --> insert --> interview_id -->  --> 8
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:19 --> applicant_monitoring --> insert --> key_id -->  --> 64
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:19 --> applicant_monitoring --> insert --> key -->  --> interviewer_date
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:19 --> applicant_monitoring --> insert --> sequence -->  --> 1
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:19 --> applicant_monitoring --> insert --> key_name -->  --> Date of Interviewer
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:19 --> applicant_monitoring --> insert --> key_value -->  --> November 06, 2017
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:19 --> applicant_monitoring --> insert --> interview_id -->  --> 8
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:19 --> applicant_monitoring --> insert --> key_id -->  --> 32
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:19 --> applicant_monitoring --> insert --> key -->  --> technical_recommendation
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:19 --> applicant_monitoring --> insert --> sequence -->  --> 1
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:19 --> applicant_monitoring --> insert --> key_name -->  --> Recommendation
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:19 --> applicant_monitoring --> insert --> key_value -->  --> Consider
+SUNIGA, MA. LOURDES (00636) --> 2017-11-06 11:56:41 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-06 11:56:59 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-06 11:57:27 --> applicant_monitoring --> update --> status_id --> 2 --> 6
+DE LEON, LISSA (30991) --> 2017-11-06 11:57:27 --> applicant_monitoring --> update --> status_id --> 2 --> 6
+DE LEON, LISSA (30991) --> 2017-11-06 12:03:02 --> applicant_monitoring --> insert --> template_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-06 12:03:02 --> applicant_monitoring --> insert --> template_value -->  --> <div>06 November 2017<br><br><b>Mr. Tirso Garica<br></b>Address<b><br><br></b>Dear Mr. Garica,<br><br>Praise God!<br><br>We are very pleased to formally welcome you at <b><i>Abraham Holdings, Inc. </i></b>Below shall be your compensation and benefits packages effective&nbsp; _____________________, for the __________________________ post (job level).<br><br><br></div><div>1.&nbsp; <b><i>Compensation<br></i></b><blockquote>1.1 Upon probationary appointment.</blockquote><blockquote><blockquote>{{probationary_appoinment}}<br></blockquote></blockquote><blockquote>1.2 Upon permanent appointment.<br><blockquote>&nbsp;{{permanent_appoinment}}<br></blockquote></blockquote><br>2.&nbsp; <b><i>Company sponsored benefits upon probationary hiring (subject to policies, systems and procedures)<br></i></b><blockquote>2.1 Uniform Benefits.<br>2.2 Duty Meals: Based on the approved duty meal policy.<br>2.3 Leave Credits: 1.66 days of leave credits earned monthly; earned leave credits can be used on your 2nd month upon hiring.<br>2.4 Sponsorship to external and internal trainings.<br></blockquote>3. <b><i>Company sponsored benefits upon permanent hiring (subject to policies, system and procedures)<br></i></b><blockquote>3.1 Caritas Health Shield: P60,000 annual limit per illnes per each qualified member.<br>3.2 Emergency loan.<br>3.3 Per diem allowances for official trips.<br>3.4 Competency Based Increased and Breakthrough project incentives (subject to attainment of goals and budgets).<br>3.5 Maintenance Bonus.<br>3.6 Retirement Benefit.<br></blockquote><br>Thank you very much and may God Bless!.<br><br><br>Prepared By:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Approved By:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conforme:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr. NELSON CHAVEZ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr. Tirso Garica<br></div>

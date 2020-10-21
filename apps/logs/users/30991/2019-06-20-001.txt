@@ -1,0 +1,7 @@
+2019-06-20 13:22:37 --> authentication --> login --> login -->  --> 
+2019-06-20 14:04:31 --> position --> insert --> position -->  --> Food Park Supervisor
+2019-06-20 14:04:31 --> position --> insert --> position_code -->  --> POS301
+2019-06-20 14:04:31 --> position --> insert --> employee_type_id -->  --> 5
+2019-06-20 14:43:59 --> mrf_admin --> update --> closing_remarks -->  --> for processing
+2019-06-20 14:43:59 --> mrf_admin --> update --> closed_by -->  --> 38
+2019-06-20 14:43:59 --> mrf_admin --> update --> closed_on --> 0000-00-00 00:00:00 --> 2019-06-20 14:43:59

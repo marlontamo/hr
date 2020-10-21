@@ -1,0 +1,21 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+
+$config['plugin']['switch']			= '<script src="{{ theme_path() }}plugins/bootstrap-switch/static/js/bootstrap-switch.min.js" type="text/javascript" ></script>'."\r\n";
+$config['plugin']['select2']		= '<script src="{{ theme_path() }}plugins/select2/select2.min.js" type="text/javascript" ></script>'."\r\n";
+$config['plugin']['ckeditor']		= '<script src="{{ theme_path() }}plugins/ckeditor/ckeditor.js" type="text/javascript" ></script>'."\r\n";
+$config['plugin']['datepicker']		= '<script src="{{ theme_path() }}plugins/bootstrap-datepicker/js/bootstrap-datepicker.js" type="text/javascript" ></script>'."\r\n";
+$config['plugin']['datetimepicker']	= '<script src="{{ theme_path() }}plugins/bootstrap-datetimepicker/js/bootstrap-datetimepicker.js" type="text/javascript" ></script>'."\r\n";
+$config['plugin']['timepicker']		= '<script src="{{ theme_path() }}plugins/bootstrap-timepicker/js/bootstrap-timepicker.js" type="text/javascript" ></script>'."\r\n";
+$config['plugin']['upload']			= '<script src="{{ theme_path() }}plugins/bootstrap-fileupload/bootstrap-fileupload.js" type="text/javascript" ></script>'."\r\n";
+$config['plugin']['upload']			.= '<script src="{{ theme_path() }}plugins/jquery-file-upload/js/vendor/jquery.ui.widget.js" type="text/javascript" ></script>'."\r\n";
+$config['plugin']['upload']			.= '<script src="{{ theme_path() }}plugins/jquery-file-upload/js/jquery.iframe-transport.js" type="text/javascript" ></script>'."\r\n";
+$config['plugin']['upload']			.= '<script src="{{ theme_path() }}plugins/jquery-file-upload/js/jquery.fileupload.js" type="text/javascript" ></script>'."\r\n";
+$config['plugin']['upload']			.= '<script src="{{ theme_path() }}plugins/jquery-file-upload/js/jquery.fileupload-process.js" type="text/javascript" ></script>'."\r\n";
+$config['plugin']['upload']			.= '<script src="{{ theme_path() }}plugins/jquery-file-upload/js/jquery.fileupload-ui.js" type="text/javascript" ></script>'."\r\n";
+$config['plugin']['multicheckbox']	= '<script src="{{ theme_path() }}plugins/jquery-multicheckbox/jquery.multiselect.min.js" type="text/javascript" ></script>'."\r\n";
+$config['plugin']['inputmask']	= '<script src="{{ theme_path() }}plugins/jquery-inputmask/jquery.inputmask.bundle.min.js" type="text/javascript" ></script>'."\r\n";
+$config['plugin']['ckfinder']		= '<script src="{{ theme_path() }}plugins/ckfinder/ckfinder.js" type="text/javascript" ></script>'."\r\n";
+$config['plugin']['easypiechart']		= '<script src="{{ theme_path() }}plugins/jquery-easy-pie-chart/jquery.easy-pie-chart.js" type="text/javascript"></script>'."\r\n";
+$config['plugin']['sortable']		= '<script src="{{ theme_path() }}plugins/jquery-sortable.js" type="text/javascript"></script>'."\r\n";
+$config['plugin']['autosize']		= '<script src="{{ theme_path() }}plugins/jquery.textarea_autosize.min.js" type="text/javascript"></script>'."\r\n";
+$config['plugin']['slimscroll']		= '<script src="{{ theme_path() }}plugins/jquery-slimscroll/jquery.slimscroll.min.js" type="text/javascript"></script>'."\r\n";

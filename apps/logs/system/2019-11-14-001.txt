@@ -1,0 +1,3 @@
+ABULENCIA, AMYRA (33176) --> 2019-11-14 15:05:13 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2019-11-14 15:08:54 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2019-11-14 15:11:04 --> authentication --> logout --> logout -->  --> 

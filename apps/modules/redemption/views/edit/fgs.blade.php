@@ -1,0 +1,43 @@
+<div class="portlet">
+	<div class="portlet-title">
+		<div class="caption">Redemption</div>
+		<div class="tools"><a class="collapse" href="javascript:;"></a></div>
+	</div>
+		<div class="portlet-body form">			<div class="form-group">
+				<label class="control-label col-md-3"><span class="required">* </span>Item</label>
+				<div class="col-md-7">							<input type="text" class="form-control" name="play_redeemable[item]" id="play_redeemable-item" value="{{ $record['play_redeemable.item'] }}" placeholder="Enter Item" /> 				</div>	
+			</div>			<div class="form-group">
+				<label class="control-label col-md-3"><span class="required">* </span>Points</label>
+				<div class="col-md-7">							<input type="text" class="form-control" name="play_redeemable[points]" id="play_redeemable-points" value="{{ $record['play_redeemable.points'] }}" placeholder="Enter Points" /> 				</div>	
+			</div>			<div class="form-group">
+				<label class="control-label col-md-3">Description</label>
+				<div class="col-md-7">							<textarea class="form-control" name="play_redeemable[description]" id="play_redeemable-description" placeholder="Enter Description" rows="4">{{ $record['play_redeemable.description'] }}</textarea> 				</div>	
+			</div>			<div class="form-group">
+				<label class="control-label col-md-3"><span class="required">* </span>Image</label>
+				<div class="col-md-7">							<div data-provides="fileupload" class="fileupload fileupload-new" id="play_redeemable-image_path-container">
+								@if( !empty($record['play_redeemable.image_path']) )
+									<?php 
+										$file = FCPATH . urldecode( $record['play_redeemable.image_path'] );
+										if( file_exists( $file ) )
+										{
+											$f_info = get_file_info( $file );
+										}
+									?>								@endif
+								<input type="hidden" name="play_redeemable[image_path]" id="play_redeemable-image_path" value="{{ $record['play_redeemable.image_path'] }}"/>
+								<div class="input-group">
+									<span class="input-group-btn">
+										<span class="uneditable-input">
+											<i class="fa fa-file fileupload-exists"></i> 
+											<span class="fileupload-preview">@if( isset($f_info['name'] ) ) {{ basename($f_info['name']) }} @endif</span>
+										</span>
+									</span>
+									<span class="btn default btn-file">
+										<span class="fileupload-new"><i class="fa fa-paper-clip"></i> Select file</span>
+										<span class="fileupload-exists"><i class="fa fa-undo"></i> Change</span>
+										<input type="file" id="play_redeemable-image_path-fileupload" type="file" name="files[]">
+									</span>
+									<a data-dismiss="fileupload" class="btn red fileupload-exists fileupload-delete"><i class="fa fa-trash-o"></i>  {{ lang('common.remove') }}</a>
+								</div>
+							</div> 				</div>	
+			</div>	</div>
+</div>

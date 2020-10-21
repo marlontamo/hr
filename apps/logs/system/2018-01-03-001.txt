@@ -1,0 +1,3 @@
+GARCES, JOCELYN (00451) --> 2018-01-03 13:47:52 --> authentication --> login --> login -->  --> 
+GARCES, JOCELYN (00451) --> 2018-01-03 18:05:16 --> authentication --> logout --> logout -->  --> 
+CARMEN, MA RITA (00108) --> 2018-01-03 18:05:33 --> authentication --> login --> login -->  --> 

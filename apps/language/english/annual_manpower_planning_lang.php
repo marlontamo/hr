@@ -1,0 +1,38 @@
+<?php
+$lang['annual_manpower_planning'] = array(
+	'amp' => 'Annual Manpower Planning',
+	'amp_list' => 'List of Annual Manpower Planning',
+	'year' => 'Year',
+	'company' => 'Company',
+	'created_by' => 'Created by',
+	'dept' => 'Department',
+	'dept_head' => 'Department Head',
+	'attachments' => 'Attachments',
+	'browse' => 'Browse',
+	'planning_details' => 'Planning Details',
+	'note_planning_details' => 'This section manage to add tables and configure each settings and relationship.',
+	'w_incumbent' => 'With Incumbent',
+	'to_hire' => 'To Hire',
+	'new_job' => 'New Job',
+	'pos_w_incumbent' => 'Position with Incumbent',
+	'employees' => 'Employees',
+	'position' => 'Position',
+	'job_title' => 'Job Title',
+	'enter_job' => 'Enter new job title',
+	'job_title_list' => 'List of Job Title',
+	'rank' => 'Rank',
+	'month' => 'Month',
+	'budget' => 'Budget',
+	'no_record_job' => 'Zero (0) was found. Click Add button to add new job.',
+	'approved' => 'Approved',
+	'plan' => 'Plan',
+	'select_plan' => 'Select plan',
+	'no_record_plan' => 'Zero (0) was found. Click Add button to add plan.',
+	'incumbent' => 'Incumbent',
+	'qty' => 'Quantity',
+	'no_record_hire' => 'Zero (0) was found. Click Add button to add to hire count.',
+	'emp_type' => 'Employment Type',
+	'job_class' => 'Job Class'
+);
+
+?>

@@ -1,0 +1,4 @@
+ABULENCIA, AMYRA (33176) --> 2020-06-24 10:28:10 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-06-24 10:29:34 --> authentication --> logout --> logout -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-06-24 10:33:06 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-06-24 10:34:41 --> authentication --> logout --> logout -->  --> 

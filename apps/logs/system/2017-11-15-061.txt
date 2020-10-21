@@ -1,0 +1,90 @@
+DE LEON, LISSA (30991) --> 2017-11-15 12:59:01 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-15 12:59:49 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-11-15 13:00:46 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-11-15 13:03:40 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2017-11-15 13:03:54 --> authentication --> login --> login -->  --> 
+GARCES, JOCELYN (00451) --> 2017-11-15 13:10:01 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-11-15 13:10:14 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-11-15 05:18:35 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+Admin, Teemworx (admin) --> 2017-11-15 13:19:41 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2017-11-15 13:20:00 --> authentication --> login --> login -->  --> 
+GARCES, JOCELYN (00451) --> 2017-11-15 13:37:04 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-11-15 13:42:05 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-11-15 05:57:32 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+Admin, Teemworx (admin) --> 2017-11-15 05:58:04 --> report_generator --> update --> roles --> 1,6,8,24 --> 1,2,6,8,24
+Admin, Teemworx (admin) --> 2017-11-15 05:58:29 --> report_generator --> update --> roles --> 1,8,9,24 --> 1,2,8,9,24
+Admin, Teemworx (admin) --> 2017-11-15 05:58:58 --> report_generator --> update --> roles --> 1,8,9,24 --> 1,2,8,9,24
+Admin, Teemworx (admin) --> 2017-11-15 05:59:09 --> report_generator --> update --> roles --> 1,8,9,24 --> 1,2,8,9,24
+Admin, Teemworx (admin) --> 2017-11-15 05:59:33 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+Admin, Teemworx (admin) --> 2017-11-15 14:01:36 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-15 14:01:44 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-15 14:20:09 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-11-15 14:20:18 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-11-15 06:24:26 --> report_generator --> update --> roles --> 1,2,8 --> 1
+Admin, Teemworx (admin) --> 2017-11-15 14:28:30 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-15 14:28:38 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-15 14:29:51 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-11-15 14:30:00 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-11-15 06:30:53 --> report_generator --> update --> roles --> 1,8,9,24 --> 1,2,8,9,24
+Admin, Teemworx (admin) --> 2017-11-15 06:32:54 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+Admin, Teemworx (admin) --> 2017-11-15 06:33:17 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+Admin, Teemworx (admin) --> 2017-11-15 06:33:45 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+Admin, Teemworx (admin) --> 2017-11-15 06:34:07 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+Admin, Teemworx (admin) --> 2017-11-15 06:34:51 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+Admin, Teemworx (admin) --> 2017-11-15 06:35:40 --> report_generator --> update --> roles --> 1,8,9,24 --> 1,2,8,9,24
+Admin, Teemworx (admin) --> 2017-11-15 06:35:53 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+Admin, Teemworx (admin) --> 2017-11-15 06:36:09 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+Admin, Teemworx (admin) --> 2017-11-15 06:38:07 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+Admin, Teemworx (admin) --> 2017-11-15 06:38:23 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+Admin, Teemworx (admin) --> 2017-11-15 06:38:38 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+Admin, Teemworx (admin) --> 2017-11-15 06:39:58 --> report_generator --> update --> roles --> 1,6,8,24 --> 1,2,6,8,24
+Admin, Teemworx (admin) --> 2017-11-15 06:40:12 --> report_generator --> update --> roles --> 1,8,9,24 --> 1,2,8,9,24
+Admin, Teemworx (admin) --> 2017-11-15 06:42:16 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+Admin, Teemworx (admin) --> 2017-11-15 06:42:28 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+Admin, Teemworx (admin) --> 2017-11-15 06:42:41 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+Admin, Teemworx (admin) --> 2017-11-15 06:42:55 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+Admin, Teemworx (admin) --> 2017-11-15 06:43:12 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+Admin, Teemworx (admin) --> 2017-11-15 06:43:26 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+Admin, Teemworx (admin) --> 2017-11-15 06:44:28 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+Admin, Teemworx (admin) --> 2017-11-15 06:44:53 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+Admin, Teemworx (admin) --> 2017-11-15 06:46:43 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+Admin, Teemworx (admin) --> 2017-11-15 06:46:56 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+Admin, Teemworx (admin) --> 2017-11-15 06:47:09 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+Admin, Teemworx (admin) --> 2017-11-15 06:47:22 --> report_generator --> update --> roles --> 1,8,9,24 --> 1,2,8,9,24
+Admin, Teemworx (admin) --> 2017-11-15 06:47:38 --> report_generator --> update --> roles --> 1,8,9,24 --> 1,2,8,9,24
+Admin, Teemworx (admin) --> 2017-11-15 06:47:51 --> report_generator --> update --> roles --> 1,8,9,24 --> 1,2,8,9,24
+Admin, Teemworx (admin) --> 2017-11-15 06:48:05 --> report_generator --> update --> roles --> 1,8,24 --> 1,2,8,24
+Admin, Teemworx (admin) --> 2017-11-15 14:50:48 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-15 14:50:58 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:08 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 5 --> 
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:08 --> applicant_monitoring --> insert --> process_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:08 --> applicant_monitoring --> insert --> benefit_id -->  --> 231
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:08 --> applicant_monitoring --> insert --> amount -->  --> 50000.00
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:08 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:08 --> applicant_monitoring --> insert --> process_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:08 --> applicant_monitoring --> insert --> benefit_id -->  --> 232
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:08 --> applicant_monitoring --> insert --> amount -->  --> 185230.00
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:08 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:08 --> applicant_monitoring --> insert --> process_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:08 --> applicant_monitoring --> insert --> benefit_id -->  --> 253
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:08 --> applicant_monitoring --> insert --> amount -->  --> 2000
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:08 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:08 --> applicant_monitoring --> insert --> process_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:08 --> applicant_monitoring --> insert --> amount -->  --> 0.00
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:59 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 5 --> 
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:59 --> applicant_monitoring --> insert --> process_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:59 --> applicant_monitoring --> insert --> benefit_id -->  --> 231
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:59 --> applicant_monitoring --> insert --> amount -->  --> 50000.00
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:59 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:59 --> applicant_monitoring --> insert --> process_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:59 --> applicant_monitoring --> insert --> benefit_id -->  --> 232
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:59 --> applicant_monitoring --> insert --> amount -->  --> 185230.00
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:59 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:59 --> applicant_monitoring --> insert --> process_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:59 --> applicant_monitoring --> insert --> benefit_id -->  --> 253
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:59 --> applicant_monitoring --> insert --> amount -->  --> 2000.00
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:59 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:59 --> applicant_monitoring --> insert --> process_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-15 15:07:59 --> applicant_monitoring --> insert --> amount -->  --> 0.00
+DE LEON, LISSA (30991) --> 2017-11-15 15:08:33 --> applicant_monitoring --> update --> template_id --> 2 --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 15:08:33 --> applicant_monitoring --> update --> template_value --> <div>10 November 2017<br><br><b>Mr. Juan Dela Cruz<br></b>Address<b><br><br></b>Dear Mr. Dela Cruz,<br><br>Praise God!<br><br>We are very pleased to formally welcome you at <b><i>Abraham Holdings, Inc. </i></b>Below shall be your compensation and benefits packages effective&nbsp; _____________________, for the __________________________ post (job level).<br><br><br></div><div>1.&nbsp; <b><i>Compensation<br></i></b><blockquote>1.1 Upon probationary appointment.</blockquote><blockquote><blockquote>{{probationary_appoinment}}<br></blockquote></blockquote><blockquote>1.2 Upon permanent appointment.<br><blockquote>&nbsp;{{permanent_appoinment}}<br></blockquote></blockquote><br>2.&nbsp; <b><i>Company sponsored benefits upon probationary hiring (subject to policies, systems and procedures)<br></i></b><blockquote>2.1 Uniform Benefits.<br>2.2 Duty Meals: Based on the approved duty meal policy.<br>2.3 Leave Credits: 1.66 days of leave credits earned monthly; earned leave credits can be used on your 2nd month upon hiring.<br>2.4 Sponsorship to external and internal trainings.<br></blockquote>3. <b><i>Company sponsored benefits upon permanent hiring (subject to policies, system and procedures)<br></i></b><blockquote>3.1 Caritas Health Shield: P60,000 annual limit per illnes per each qualified member.<br>3.2 Emergency loan.<br>3.3 Per diem allowances for official trips.<br>3.4 Competency Based Increased and Breakthrough project incentives (subject to attainment of goals and budgets).<br>3.5 Maintenance Bonus.<br>3.6 Retirement Benefit.<br></blockquote><br>Thank you very much and may God Bless!.<br><br><br>Prepared By:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Approved By:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conforme:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr. NELSON CHAVEZ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr. Juan Dela Cruz<br></div> --> <div>15 November 2017<br><br><b>Mr. Juan Dela Cruz<br></b>Address<b><br><br></b>Dear Mr. Dela Cruz,<br><br>Praise God!<br><br>We are very pleased to confirm our offer of employment with <b>Legend Hotel International Corporation - The Legend Palawan</b> as _____________________ (job level)&nbsp; effective __________________________ with the following conditions:<br><br><br></div><div>1.&nbsp; Hiring rate on project based employment<br><blockquote>{{compensation}}<br></blockquote>2.&nbsp; Company sponsored benefits (subject to policies, system and procedures)<br><blockquote>2.1&nbsp; Duty Meals: Based on the approved duty meal policy<br></blockquote><blockquote>2.2&nbsp; Full sponsorship to external and internal trainings.<br></blockquote><blockquote>23.&nbsp; Government Mandated Benefits.<br></blockquote><br>Your employment contract shall be served as soon as we received from you the 2nd copy of this letter with your signature , and your submission of all pre-employment requirements.<br><br>Thank you very much and may God Bless you and your family.<br><br>Sicerely,<br><br>HRD OFFICER&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HRD MANAGER<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Mr. NELSON CHAVEZ</b><br><br><br>Received and accepted:<b>Mr. Juan Dela Cruz</b><br>Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; :<br></div>

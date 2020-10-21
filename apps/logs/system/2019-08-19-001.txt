@@ -1,0 +1,2 @@
+ALICANTE, LISSA (30991) --> 2019-08-19 17:02:05 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2019-08-19 17:03:40 --> authentication --> logout --> logout -->  --> 

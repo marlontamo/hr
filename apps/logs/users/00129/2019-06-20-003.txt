@@ -1,0 +1,19 @@
+2019-06-20 14:48:30 --> incident_report --> insert --> complainants -->  --> 9
+2019-06-20 14:48:30 --> incident_report --> insert --> date_time_of_offense -->  --> 2019-06-20 05:00:00
+2019-06-20 14:48:30 --> incident_report --> insert --> incident_status_id -->  --> 2
+2019-06-20 14:48:30 --> incident_report --> insert --> date_sent -->  --> 2019-06-20 14:48:30
+2019-06-20 14:52:12 --> incident_report --> insert --> involved_partners -->  --> 757
+2019-06-20 14:52:12 --> incident_report --> insert --> offense_id -->  --> 11
+2019-06-20 14:52:12 --> incident_report --> insert --> complainants -->  --> 9
+2019-06-20 14:52:12 --> incident_report --> insert --> date_time_of_offense -->  --> 2019-06-20 09:09:00
+2019-06-20 14:52:12 --> incident_report --> insert --> incident_status_id -->  --> 2
+2019-06-20 14:52:12 --> incident_report --> insert --> date_sent -->  --> 2019-06-20 14:52:12
+2019-06-20 14:56:45 --> disciplinary_manage --> update --> incident_status_id --> 9 --> 6
+2019-06-20 14:56:45 --> disciplinary_manage --> update --> status --> Open --> Close
+2019-06-20 15:02:15 --> incident_report --> insert --> involved_partners -->  --> 757
+2019-06-20 15:02:15 --> incident_report --> insert --> offense_id -->  --> 38
+2019-06-20 15:02:15 --> incident_report --> insert --> complainants -->  --> 9
+2019-06-20 15:02:15 --> incident_report --> insert --> date_time_of_offense -->  --> 2019-06-20 09:00:00
+2019-06-20 15:02:15 --> incident_report --> insert --> incident_status_id -->  --> 2
+2019-06-20 15:02:15 --> incident_report --> insert --> date_sent -->  --> 2019-06-20 15:02:15
+2019-06-20 15:22:00 --> authentication --> logout --> logout -->  --> 

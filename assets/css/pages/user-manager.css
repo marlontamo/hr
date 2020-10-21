@@ -1,0 +1,410 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/***
+User Manager Page
+***/
+.user-manager {
+  margin-bottom: 20px;
+}
+
+.user-manager .user-manager-view {
+  margin-bottom: 0px;
+}
+
+.user-manager-view .tab-content {
+  overflow: inherit;
+}
+
+.user-manager-view .user-manager-loading {
+  display: none;
+  font-size: 22px;
+  font-weight: 300;
+}
+
+/*User Manager Nav Menu*/
+
+
+
+
+/*.user-manager .user-manager-nav {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.user-manager .user-manager-nav li {
+  position: relative;
+}
+
+.user-manager .user-manager-nav li a {
+  color: #4d82a3;
+  display: block;
+  font-size: 15px;
+  border-left: none;
+  text-align: left !important;
+  padding: 8px 14px;
+  margin-bottom: 1px;
+  background: #f4f9fd;
+}
+
+.user-manager .user-manager-nav li.active a,
+.user-manager .user-manager-nav li.active:hover a {
+  color: #fff;
+  border-left: none;
+  background: #169ef4 !important;
+  text-decoration: none;
+}
+
+.user-manager .user-manager-nav li.active b {
+  top: 0;
+  right: -4px;
+  width: 8px;
+  height: 35px;
+  position: absolute;
+  display: inline-block;
+  background: url(../../img/user-manager-nav-arrow-blue.png) no-repeat;
+}
+
+.user-manager .user-manager-nav li:hover a {
+  color: #4d82a3;
+  background: #eef4f7 !important;
+  text-decoration: none;
+}
+
+.user-manager .user-manager-nav li.compose-btn a {
+  color: #fff;
+  text-shadow: none;
+  text-align: center;
+  margin-bottom: 18px;
+  background: #35aa47;
+}
+
+.user-manager .user-manager-nav li.compose-btn i,
+.user-manager .user-manager-nav li.compose-btn:hover i {
+  top: 1px;
+  color: #fff;
+  font-size: 15px;
+  position: relative;
+  background: none !important;
+}
+
+.user-manager .user-manager-nav li.compose-btn a:hover {
+  background-color: #1d943b !important;
+}
+*/
+
+/*User Manager Content*/
+.user-manager .user-manager-header {
+  overflow: hidden;
+}
+
+.user-manager .user-manager-header h1 {
+  margin: 0;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.user-manager .pagination-control {
+  text-align: right;
+}
+
+.user-manager .pagination-control .pagination-info {
+  display: inline-block;
+  padding-right: 10px;
+  font-size: 14px;
+  line-height: 14px;
+}
+
+.user-manager tr {
+  color: #777;
+  font-size: 13px;
+}
+
+.user-manager tr label {
+  display: inline-block;
+  margin-bottom: 0;
+}
+
+.user-manager tr.unread td{
+  font-weight: 600;
+}
+
+.user-manager td i.icon-paper-clip {
+  top: 2px;
+  color: #d8e0e5;
+  font-size: 17px;
+  position: relative;
+}
+
+.user-manager tr i.icon-star,
+.user-manager tr i.icon-trash {
+  cursor: pointer;  
+}
+
+.user-manager tr i.icon-star:hover {
+  color: #fd7b12;
+}
+
+.user-manager tr i.user-manager-started {
+  color: #fd7b12;  
+}
+
+.user-manager .table th, 
+.user-manager .table td {
+  border: none;
+}
+
+.user-manager .table th {  
+  background: #eef4f7;
+  border-bottom: solid 5px #fff;
+}
+
+.user-manager th.text-right {
+  text-align: right;
+}
+
+.user-manager th label.user-manager-select-all {
+  color: #828f97;
+  font-size: 13px;
+  padding: 1px 4px 0;
+}
+
+.user-manager ul.user-manager-nav {
+  margin-bottom: 0;
+}
+
+.user-manager ul.user-manager-nav li {
+  padding: 0;
+}
+
+.user-manager ul.user-manager-nav li span {
+  color: #828f97;
+  font-size: 12px;
+  margin-right: 10px;
+}
+
+.user-manager ul.user-manager-nav i {
+  color: #fff;
+  padding: 1px 0;
+  font-size: 15px;
+  cursor: pointer; 
+  background: #d0dde4 !important;
+}
+
+.user-manager ul.user-manager-nav i:hover {
+  background: #169ef4 !important;
+}
+
+.user-manager td.text-right {
+  width: 100px;
+  text-align: right;
+}
+
+.user-manager .user-manager-title{
+	
+}
+
+.user-manager .user-manager-title a {
+	color:#35AA47;
+	font-size: 16px;
+	font-weight:normal;
+}
+
+.user-manager .user-manager-title p{
+	font-weight:normal;
+}
+
+.user-manager td.user-manager-small-cells {
+  width: 50px;
+}
+.user-manager td.user-manager-medium-cells {
+  width: 120px;
+}
+
+.user-manager .table-hover tbody tr:hover>td, 
+.user-manager .table-hover tbody tr:hover>th, 
+.user-manager .table-striped tbody>tr:nth-child(odd)>td, 
+.user-manager .table-striped tbody>tr:nth-child(odd)>th {
+  background: #f8fbfd;  
+  cursor: pointer;
+}
+
+
+
+.user-manager .table-hover tbody tr:hover{
+	border-right: 2px solid #35AA47;
+}
+
+.user-manager .table-hover tbody tr:hover>td, 
+.user-manager .table-hover tbody tr:hover>th {
+  background: #FAFAFA;
+}
+
+/*End User Manager Content*/
+
+/*User Manager View Nav*/
+
+.user-manager-view .user-manager-nav li a{
+	color: #555555;}
+
+.user-manager-view .user-manager-nav li.active a,
+.user-manager-view .user-manager-nav li.active:hover a, 
+.user-manager-view ul.user-manager-nav li.active i
+ {
+  color: #fff;
+  border-left: none;
+  text-decoration: none;
+  background-color: #4B8DF8 !important;
+  background-image: none !important;
+}
+
+.user-manager-view ul.user-manager-nav li a i:hover
+{
+	color: #fff;
+    border-left: none;
+    text-decoration: none;
+}
+
+
+.user-manager-view .user-manager-nav li.active,
+.user-manager-view .user-manager-nav li.active:hover{
+  background-color: #4B8DF8 !important;
+    background-image: none !important;
+}
+
+.user-manager-view .user-manager-nav li:hover{
+  color: #4d82a3;
+  background: #eef4f7 !important;
+  text-decoration: none;
+}
+
+.user-manager-view ul.user-manager-nav {
+  margin-bottom: 0;
+}
+
+.user-manager-view ul.user-manager-nav li {
+  padding: 0;
+}
+
+.user-manager-view ul.user-manager-nav li span {
+  color: #828f97;
+  font-size: 12px;
+  margin-right: 10px;
+}
+
+.user-manager-view ul.user-manager-nav a i {
+  background: #none !important;
+  color: #555555;
+}
+
+
+
+/*User Manager View Content*/
+
+.um-medium{
+	width: 48px;
+	height: 48px;
+	padding:14px;
+}
+
+.um-user{
+	width: 48px;
+	height: 48px;
+	background-color:#999999;
+}
+
+.um-user img{
+	height: 48px;
+	width: 48px;
+	border: 1px solid #cccccc;
+}
+
+.um-btn{
+	padding-top: 10px;
+}
+
+.um-btn a{
+	color: #ccc;
+	font-size: 12px;
+}
+.um-btn a:hover{
+	color: #4D90FE;
+	font-size: 12px;
+}
+.um-btn i{
+	margin-left: 3px;
+}
+
+.user-detail{
+}
+
+.user-detail a.surname,
+.user-detail a.um-link  {
+	color: #35AA47;
+	text-decoration:none;
+}
+
+.user-detail a.surname:hover,
+.user-detail a.um-link:hover{
+	text-decoration:underline;
+}
+
+.user-detail a.email{
+	font-size: 11px;
+	color: #169EF4;
+	text-decoration:none;
+}
+
+.user-detail a.email:hover{
+	text-decoration:underline;
+}
+
+.user-detail p{
+	margin:0;
+}
+
+
+/*User Manager Dashboard*/
+
+.um-block{
+	clear:both;
+	overflow:hidden;
+	margin-bottom:20px;
+	
+}
+
+.um-icon{
+	float:left;
+	color: #555555;
+    font-size: 22px;
+	padding: 15px 10px 10px 10px;
+	position:absolute;
+	margin-left:-50px;
+	}
+
+.um-content{
+	padding-left: 50px;
+	overflow:hidden;
+}
+
+.um-btn-grey{
+	width: 100%;
+	background-color: #F5F5F5;
+    border-radius: 4px;
+    list-style: none outside none;
+    margin-bottom: 5px;
+    padding: 8px;
+}
+
+.um-btn-grey:hover{
+	background-color: #EEEEEE;
+	text-decoration:none;
+	border-right: 2px solid #4B8DF8;
+}
+
+.no-line{
+	text-decoration:none;
+}
+
+

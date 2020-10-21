@@ -1,0 +1,4 @@
+Admin, Teemworx (admin) --> 2017-08-25 13:10:33 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-08-25 13:28:01 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-08-25 13:28:48 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-08-25 14:15:43 --> authentication --> logout --> logout -->  --> 

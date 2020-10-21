@@ -1,0 +1,9 @@
+LOPEZ, PAOLO (02115) --> 2020-09-01 07:50:26 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2020-09-01 07:53:28 --> authentication --> logout --> logout -->  --> 
+TAMO, MARLON (33866) --> 2020-09-01 07:55:34 --> authentication --> login --> login -->  --> 
+TAMO, MARLON (33866) --> 2020-09-01 07:56:06 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2020-09-01 07:56:39 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2020-09-01 08:07:02 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2020-09-01 08:07:10 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2020-09-01 08:12:27 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2020-09-01 08:16:22 --> authentication --> login --> login -->  --> 

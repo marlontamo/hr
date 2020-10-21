@@ -1,0 +1,5 @@
+DE LEON, LISSA (30991) --> 2017-10-27 01:19:26 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-10-27 01:29:20 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-10-27 02:39:03 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-10-27 17:22:38 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-10-27 18:55:08 --> authentication --> logout --> logout -->  --> 

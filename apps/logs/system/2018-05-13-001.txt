@@ -1,0 +1,2 @@
+REDAON, ROSEMARIE (93601) --> 2018-05-13 09:46:19 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2018-05-13 09:54:55 --> authentication --> logout --> logout -->  --> 

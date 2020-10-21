@@ -1,0 +1,34 @@
+POLONAN, MARIA LEE (31002) --> 2017-10-07 11:46:19 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-07 11:50:35 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-07 11:50:42 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-07 11:51:37 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-07 11:51:55 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-07 11:52:20 --> authentication --> logout --> logout -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-10-07 11:52:27 --> authentication --> login --> login -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-10-07 11:52:43 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-07 11:52:52 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-07 12:10:13 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-07 12:10:27 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-07 12:11:21 --> authentication --> logout --> logout -->  --> 
+STA. MARIA, JOVER (32778) --> 2017-10-07 12:11:34 --> authentication --> login --> login -->  --> 
+STA. MARIA, JOVER (32778) --> 2017-10-07 12:13:21 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-07 12:14:01 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-07 12:15:30 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-10-07 12:15:38 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-10-07 12:19:19 --> authentication --> logout --> logout -->  --> 
+STA. MARIA, JOVER (32778) --> 2017-10-07 12:19:32 --> authentication --> login --> login -->  --> 
+STA. MARIA, JOVER (32778) --> 2017-10-07 12:20:32 --> authentication --> logout --> logout -->  --> 
+DE CASTRO, CHRISTINA ELENA (01713) --> 2017-10-07 12:21:15 --> authentication --> login --> login -->  --> 
+DE CASTRO, CHRISTINA ELENA (01713) --> 2017-10-07 12:21:29 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-10-07 12:21:40 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-10-07 12:22:08 --> authentication --> logout --> logout -->  --> 
+DE CASTRO, CHRISTINA ELENA (01713) --> 2017-10-07 12:22:34 --> authentication --> login --> login -->  --> 
+DE CASTRO, CHRISTINA ELENA (01713) --> 2017-10-07 12:23:25 --> authentication --> logout --> logout -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2017-10-07 12:23:39 --> authentication --> login --> login -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2017-10-07 12:26:03 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-07 12:26:13 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-07 12:26:45 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-07 12:26:52 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-07 12:27:13 --> authentication --> logout --> logout -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2017-10-07 12:27:24 --> authentication --> login --> login -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2017-10-07 12:37:08 --> authentication --> logout --> logout -->  --> 

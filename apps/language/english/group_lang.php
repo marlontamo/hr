@@ -1,0 +1,26 @@
+<?php
+$lang['group'] = array(
+	'user_manager' => 'User Manager',
+	'group_information' => 'Group Information',
+	'group' => 'Group',
+	'p_group' => 'Enter Group',
+	'group_code' => 'Group Code',
+	'p_group_code' => 'Enter Group Code',
+	'immediate_head' => 'Immediate Head',
+	'immediate_position' => 'Immediate Position',
+	'p_immediate_position' => 'Enter Immediate Position',
+	'active' => 'Active',
+	'option_yes' => 'Yes',
+	'option_no' => 'No',
+	'back' => 'Back',
+	'status' => 'Status',
+	'export' => 'Export',
+	'import' => 'Import',
+	'options' => 'Options',
+	'edit' => 'Edit',
+	'active' => 'Active',
+	'inactive' => 'Inactive',
+	'home' => 'Home',
+	'refresh' => 'Refresh',
+	'status' => 'Status'
+);

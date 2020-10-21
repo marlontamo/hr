@@ -1,0 +1,36 @@
+2017-11-09 08:40:11 --> authentication --> login --> login -->  --> 
+2017-11-09 08:43:04 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+2017-11-09 08:43:04 --> applicant_monitoring --> update --> result -->  --> Consider
+2017-11-09 08:43:04 --> applicant_monitoring --> update --> key_value -->  --> gdsgfdsgfgfgfsgfsgsd
+2017-11-09 08:43:04 --> applicant_monitoring --> update --> key_value -->  --> November 09, 2017
+2017-11-09 08:43:04 --> applicant_monitoring --> update --> key_value -->  --> Consider
+2017-11-09 08:44:40 --> authentication --> logout --> logout -->  --> 
+2017-11-09 22:52:52 --> authentication --> login --> login -->  --> 
+2017-11-09 22:53:53 --> applicant_monitoring --> update --> process_id --> 0 --> 3
+2017-11-09 22:53:53 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+2017-11-09 22:53:53 --> applicant_monitoring --> update --> result -->  --> Consider
+2017-11-09 22:53:53 --> applicant_monitoring --> insert --> interview_id -->  --> 9
+2017-11-09 22:53:53 --> applicant_monitoring --> insert --> key_id -->  --> 31
+2017-11-09 22:53:53 --> applicant_monitoring --> insert --> key -->  --> remarks
+2017-11-09 22:53:53 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-11-09 22:53:53 --> applicant_monitoring --> insert --> key_name -->  --> Findings/Comments/Impressions
+2017-11-09 22:53:53 --> applicant_monitoring --> insert --> key_value -->  --> cxzcxzZCXcxzcxz
+2017-11-09 22:53:53 --> applicant_monitoring --> insert --> interview_id -->  --> 9
+2017-11-09 22:53:53 --> applicant_monitoring --> insert --> key_id -->  --> 66
+2017-11-09 22:53:53 --> applicant_monitoring --> insert --> key -->  --> interviewer
+2017-11-09 22:53:53 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-11-09 22:53:53 --> applicant_monitoring --> insert --> key_name -->  --> Interviewer
+2017-11-09 22:53:53 --> applicant_monitoring --> insert --> key_value -->  --> SUNIGA, MA. LOURDES
+2017-11-09 22:53:53 --> applicant_monitoring --> insert --> interview_id -->  --> 9
+2017-11-09 22:53:53 --> applicant_monitoring --> insert --> key_id -->  --> 64
+2017-11-09 22:53:53 --> applicant_monitoring --> insert --> key -->  --> interviewer_date
+2017-11-09 22:53:53 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-11-09 22:53:53 --> applicant_monitoring --> insert --> key_name -->  --> Date of Interviewer
+2017-11-09 22:53:53 --> applicant_monitoring --> insert --> key_value -->  --> November 09, 2017
+2017-11-09 22:53:53 --> applicant_monitoring --> insert --> interview_id -->  --> 9
+2017-11-09 22:53:53 --> applicant_monitoring --> insert --> key_id -->  --> 32
+2017-11-09 22:53:53 --> applicant_monitoring --> insert --> key -->  --> technical_recommendation
+2017-11-09 22:53:53 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-11-09 22:53:53 --> applicant_monitoring --> insert --> key_name -->  --> Recommendation
+2017-11-09 22:53:53 --> applicant_monitoring --> insert --> key_value -->  --> Consider
+2017-11-09 22:54:00 --> authentication --> logout --> logout -->  --> 

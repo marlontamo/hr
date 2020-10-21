@@ -1,0 +1,15 @@
+<div class="form-actions fluid">
+  <div class="row" align="center">
+    <div class="col-md-12">
+      <div class="">
+        <?php if( isset($permission['edit']) && $permission['edit'] ): ?>
+        	<a type="button" class="btn green btn-sm" href="<?php echo $mod->url . '/edit/' . $record_id; ?>"><i class="fa fa-check"></i> <?php echo lang('common.edit'); ?></a>
+        <?php endif; ?>
+        <?php if( isset($permission['add']) && $permission['add'] ): ?>
+        	<a type="button" class="btn blue btn-sm" href="<?php echo $mod->url . '/add'; ?>"> <?php echo lang('common.add_new'); ?> </a>
+        <?php endif; ?>
+        <a class="btn default btn-sm" href="<?php echo $mod->url; ?>"> <?php echo lang('common.back_to_list'); ?></a>
+      </div>
+    </div>
+  </div>
+</div>

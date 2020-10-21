@@ -1,0 +1,412 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html lang="en">
+    <!-- BEGIN HEAD-->
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title></title>
+        <style>
+            body
+            {
+                
+
+            font-family:Arial;
+            font-size: 10px;
+
+            
+            }
+
+
+            td
+            {
+                
+                padding:0;
+            }
+            .header h2
+            {
+                padding-left: 20px;
+                padding-right: 20px;
+                padding-top: 20px;
+                font-size: 18px;
+            }
+
+            .header h3
+            {
+                padding-bottom: 15px;
+                padding-left: 20px;
+                padding-right: 20px;
+                font-size: 12px;
+                color: #666666;
+            }
+
+            .np1
+            {
+                color: #666;
+                font-size: 14px;
+                margin: -18px 18px 0;
+            }
+
+            .mp1
+            {
+                float: right;
+                margin: 0 22px 0 0;
+            }
+
+            .header_sub
+            {
+                width: 755px;
+                margin: 5px 0 0;
+                border-radius: 5px 5px 0 0;
+            }
+
+                .header_sub h2
+                {
+                    padding: 10px;
+                    font-size: 12px;
+                    color: #f1f1f1;
+                    margin: -3px 3px 0 0;
+                    height: 10px;
+                }
+
+            #f1
+            {
+                padding-top: 10px;
+            }
+
+            #ip1
+            {
+                width: 100%;
+                text-align: justify;
+                font-size: 12px;
+                color: #333;
+            }
+
+                #ip1 h3
+                {
+                    font-size: 12px;
+                }
+
+            .im1
+            {
+                float: right;
+                margin: -40px 0 0 0;
+                font-size: 8px;
+            }
+
+            .alfin
+            {
+                margin-left: 18px;
+                width: 300px;
+                color: #2b2b2b;
+                width: 400px;
+                font-size: 13px;
+                background: url("/images/bg.widget.png") repeat scroll;
+                border: 0.3px solid #b6b6b6;
+            }
+
+                .p th
+                {
+                    font-size: 12px;
+                    width: 140px;
+                }
+
+                .prdt tr
+                {
+                    background: #fff;
+                }
+
+            .espaco
+            {
+                height: 5px;
+            }
+
+            #borderrightCF
+            {
+                border-right: 1px solid #ccc;
+            }
+
+            .alfin
+            {
+                padding: 10px 20px 10px;
+                font-size: 10px;
+                border-bottom: 1px solid #f1f1f1;
+            }
+
+            .alrsp
+            {
+                margin: -18px 0px 0;
+                font-size: 10px;
+            }
+
+                .alrsp span
+                {
+                    color: #000;
+                    text-decoration: underline;
+                    margin: 0 5px;
+                }
+
+            .albr
+            {
+                padding: 10px 0 0 0;
+            }
+
+            .iwg
+            {
+                font-size: 9px;
+                color: #0A73C3;
+                width: 200px;
+                text-align: justify;
+            }
+
+            .tp01
+            {
+                border-collapse: collapse;
+            }
+
+                .tp01 th
+                {
+                    color: white;
+                    border: 1px solid #e4e4e4;
+                }
+
+                .tp01 td, .myTable th
+                {
+                    padding: 5px;
+                    border: 1px solid #e4e4e4;
+                }
+            .auto-style1
+            {
+                height: 30px;
+                width: 566px;
+            }
+            .auto-style3
+            {
+                width: 900px;
+            }
+        </style>
+    </head>
+    <!-- END HEAD -->
+    <!-- BEGIN BODY -->
+    <body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" style="-webkit-font-smoothing: antialiased; width: 100% !important; -webkit-text-size-adjust: none;">
+
+      <!--   <table align='center' width="100%" cellpadding="0" cellspacing="0" border="0" style="padding: 20px 0 20px 0">
+            <tr>
+                <td width="100%">
+
+                    <table width="755" cellpadding="0" cellspacing="0" border="0" align="center" class="table">
+                        <tr>
+                            <td width="755" class="cell"> -->
+                                <!-- BEGIN HEADER CONTAINER -->
+                                <!-- <table align="center" style=" background: #fff; overflow: wrap">
+                                    <tr style="border: 1px solid #ccc;">
+                                        <td class="auto-style3"> -->
+                                            <table style="background: #fff;overflow: wrap">
+                                                <tr>
+                                                    <td style="width: 200px;">
+                                                        <img src="assets/img/hdi_resource-logo.png" style="width: 160px;">
+                                                    </td>
+                                                    <td >
+                                                        <div class="header">
+                                                            <h2>Manpower Requisition Form</h2>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                        <td>
+                                            <table align='center' style="background: #fff;overflow: wrap">
+                                                <tr>
+                                                    <td style="padding-left: 20px; " class="auto-style1">
+                                                        <div class="mp1">
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        <!-- </td>
+                                    </tr>
+                                </table> -->
+
+
+                                <!-- BEGIN SECTION 1-->
+                                <table align='center' cellpadding='0' cellspacing='0' border='0' width='100%' style=" font-size: 11px; overflow: wrap">
+                                    <tr>
+                                        <td style=' height: 30px; width: 350px;'><strong>SUBSIDIARY:</strong>
+                                            <span style="float:right; padding-right:10px;">{company}</span></td>
+                                        <td ><strong>MRF RECEIVED ON:</strong><span style="float:right;">{date_approved}</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td style='height: 20px;'><strong>DEPARTMENT:</strong><span style="float:right; padding-right:10px;">{department}</span></td>
+                                        <td><strong>MRF COMPLETION ON:</strong><span style="float:right;">{date_needed}</span></td>
+                                    </tr>
+                                </table>
+                                <br>
+
+                                <table  align='center' style='width: 755px; height: auto; background: #fff; border: 1px solid #e4e4e4;margin-bottom: 10px;'>
+                                    <tr>
+                                        <td>
+                                            <table cellpadding='0' cellspacing='0' border='0' width='100%' style=" font-size: 11px;overflow: wrap">
+                                                <tr>
+                                                    <td style=' height: 30px; width: 350px;'><strong>JOB TITLE:</strong>
+                                                        <span style="float:right; padding-right:10px;">{position}</span></td>
+                                                    <td ></td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='height: 20px;'><strong>STATUS:</strong><span style="float:right; padding-right:10px;">{status}</span></td>
+                                                    <td><strong>NO. OF STAFF NEEDED:</strong><span style="float:right;">{quantity}</span></td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='height: 20px;'><strong>CLASSIFICATION:</strong><span style="float:right; padding-right:10px;">{classification}</span></td>
+                                                    <td><strong>SALARY RANGE:</strong><span style="float:right;">{salaryrange}</span></td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <table cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 11px;overflow: wrap">
+                                                <tr>
+                                                    <td style=' height: 30px; width: 180px;' rowspan="2"><strong>CHAIN OF COMMAND</strong></td>
+                                                    <td>Reporting To:<span style="float:right;">{reportingto}</span></td>
+                                                    <td style="width: 300px;"></td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Supervises:<span style="float:right;">{supervises}</span></td>
+                                                    <td></td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+
+                                <table  align='center' style='width: 755px; height: auto; background: #fff; border: 1px solid #e4e4e4; margin-bottom: 10px;'>
+                                    <tr>
+                                        <td>
+                                            <table cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 11px;overflow: wrap">
+                                                <tr>
+                                                    <td style='height: 30px; width: 200px;'><strong>REASON FOR REQUEST</strong></td>
+                                                    <td>Additional Manpower</td>
+                                                    <td><input type="checkbox" {budgeted}>Budgeted</td>
+                                                    <td><input type="checkbox" {unbudgeted}>Unbudgeted</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='height: 10px; width: 200px;'></td>
+                                                    <td colspan="3">Replacement of</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <table cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 11px;overflow: wrap">
+                                                <tr>
+                                                    <td style='height: 20px; width: 200px;'><strong>APPROVED SOURCING</strong></td>
+                                                    <td style='height: 20px; width: 300px;'>1.</td>
+                                                    <td style='height: 20px; width: 300px;'>3.</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='height: 20px; width: 200px;'><strong>TOOLS WITH COST</strong></td>
+                                                    <td style='height: 20px; width: 300px;'>2.</td>
+                                                    <td style='height: 20px; width: 300px;'>4.</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+
+                                <table  align='center' style='width: 755px; height: auto; background: #fff; border: 1px solid #e4e4e4; margin-bottom: 10px;'>
+                                    <tr>
+                                        <td>
+                                            <table cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 11px;overflow: wrap">
+                                                <tr>
+                                                    <td style='height: 30px; width: 200px;'><strong>JOB SUMMARY</strong></td>
+                                                </tr>
+                                                <tr>
+                                                    <td style=' width: 200px; padding: 0 10px;' >{job_description}</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+
+                                <table  align='center' style='width: 755px; height: auto; background: #fff; border: 1px solid #e4e4e4; margin-bottom: 10px;'>
+                                    <tr>
+                                        <td>
+                                            <table cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style="font-size: 11px;overflow: wrap">
+                                                <tr>
+                                                    <td style='height: 30px; '><strong>TOP 3 KEY REQUIREMENTS</strong></td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='height: 20px;'>1. </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='height: 20px;'>2. </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='height: 20px;'>3. </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+
+                                <table  align='center' style='width: 755px; height: auto; background: #fff; border: 1px solid #e4e4e4; margin-bottom: 10px;'>
+                                    <tr>
+                                        <td>
+                                            <table cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 11px;overflow: wrap">
+                                                <tr>
+                                                    <td style='height: 30px; '><strong>TOP 3 OPTIONAL QUALIFICATIONS</strong></td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='height: 20px;'>1. </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='height: 20px;'>2. </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='height: 20px;'>3. </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+
+                                <table  align='center' style='width: 755px; height: auto; background: #fff; margin-bottom: 10px;'>
+                                    <tr>
+                                        <td>
+                                            <table cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style="background: #fff; font-size: 11px;overflow: wrap">
+                                                <tr>
+                                                    <td style='height: 30px; width: 200px; '><strong>Requested by</strong></td>
+                                                    <td style='height: 30px; width: 350px;'><strong><center>Concurred by</center></strong></td>
+                                                    <td style='height: 30px; width: 250px;'><strong>Approved by</center></td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='height: 40px;'>{requested_by}</td>
+                                                    <td style='height: 40px;'>{HRmanager}</td>
+                                                    <td style='height: 40px;'></td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='height: 20px;'>Supervisor/Department Manager</td>
+                                                    <td style='height: 20px;'><center>HR/OD Manager</center></td>
+                                                    <td style='height: 20px;'>Director/Subsidiary Head</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+
+                                <center>
+                                    <p style="font-size: 10px; color: #999999;">Please attached Job Description to processyour request (not required for internship). Turnaround time (TAT) for processing:<br>
+                                    Managerial/Executive and Supervisory - 2 months, Technical/Specialist - 45 days and Rank and File - 30 days. TAT does not factorin notice period given by candidates to their existing employer/s and delays attributable to the requesting party.</p>
+                                </center>
+<!-- 
+                            </td>
+                        </tr> 
+                        
+                    </table>
+
+                </td>
+            </tr> 
+        </table>  -->
+    </body>
+<!-- BEGIN BODY -->
+</html>

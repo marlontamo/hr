@@ -1,0 +1,177 @@
+DE LEON, LISSA (30991) --> 2017-10-26 14:36:32 --> applicant_monitoring --> insert --> key_name -->  --> Date of Interviewer
+DE LEON, LISSA (30991) --> 2017-10-26 14:36:32 --> applicant_monitoring --> insert --> key_value -->  --> October 26, 2017
+DE LEON, LISSA (30991) --> 2017-10-26 14:36:32 --> applicant_monitoring --> insert --> interview_id -->  --> 3
+DE LEON, LISSA (30991) --> 2017-10-26 14:36:32 --> applicant_monitoring --> insert --> key_id -->  --> 32
+DE LEON, LISSA (30991) --> 2017-10-26 14:36:32 --> applicant_monitoring --> insert --> key -->  --> technical_recommendation
+DE LEON, LISSA (30991) --> 2017-10-26 14:36:32 --> applicant_monitoring --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-10-26 14:36:32 --> applicant_monitoring --> insert --> key_name -->  --> Recommendation
+DE LEON, LISSA (30991) --> 2017-10-26 14:36:32 --> applicant_monitoring --> insert --> key_value -->  --> Consider
+DE LEON, LISSA (30991) --> 2017-10-26 14:48:21 --> applicant_monitoring --> update --> status_id --> 4 --> 5
+DE LEON, LISSA (30991) --> 2017-10-26 14:48:21 --> applicant_monitoring --> update --> status_id --> 4 --> 5
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> insert --> type -->  --> 2
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> insert --> process_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> insert --> date -->  --> 2017-10-26 18:00:00
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> insert --> user_id -->  --> 16
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> insert --> location_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> insert --> schedule_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> insert --> to -->  --> malou_s@legendhotels.com.ph
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>
+	Hi MA. LOURDES SUNIGA,</p>
+<p>
+	Good day!</p>
+
+<p>
+	This is to inform you that you are scheduled for an interview of Maria Aquino, for the position of ACCOUNTING CLERK. Below are the details and schedule:</p>
+<p>
+	Applicant Name: Maria Aquino
+	<br>
+	Position: ACCOUNTING CLERK
+	<br>
+	Date: October 26, 2017
+	<br>
+	Time: 06:00 pm
+</p>
+<p>
+	In case you are not available on the said dates, please do not hesitate to contact one of our HR-Recruitment Team.</p>
+<p>
+	Thank you and Regards,</p>
+<p>
+	HR-Recruitment Team</p>
+
+<br>
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> insert --> to -->  --> maquino@yahoo.com
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>Dear Maria Aquino,</p>
+<p>
+	Thank you for your interest in applying for the ACCOUNTING CLERK position. We would like to invite you for an interview at Abraham Holdings, Inc.. Please see information below:</p>
+<p>
+	Date: October 26, 2017
+	<br>
+	Time: 06:00 pm
+	<br>
+	Venue: 770 E. Rodriguez Ext., Malibay, Pasay City</p>
+
+<p>
+	Kindly look for MA. LOURDES SUNIGA</p>
+
+<p>
+	Should you have queries, please do not hesitate to contact us on 8893935</p>
+
+<p>
+	Sincerely,</p>
+<p>
+	HR- Recruitment Team &ndash; ABHI</p>
+<br>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> insert --> type -->  --> 2
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> insert --> process_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> insert --> date -->  --> 2017-10-26 19:00:00
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> insert --> user_id -->  --> 36
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> insert --> location_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> insert --> schedule_id -->  --> 6
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> insert --> to -->  --> a@a.com
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>
+	Hi ERLINDA KOE,</p>
+<p>
+	Good day!</p>
+
+<p>
+	This is to inform you that you are scheduled for an interview of Maria Aquino, for the position of ACCOUNTING CLERK. Below are the details and schedule:</p>
+<p>
+	Applicant Name: Maria Aquino
+	<br>
+	Position: ACCOUNTING CLERK
+	<br>
+	Date: October 26, 2017
+	<br>
+	Time: 07:00 pm
+</p>
+<p>
+	In case you are not available on the said dates, please do not hesitate to contact one of our HR-Recruitment Team.</p>
+<p>
+	Thank you and Regards,</p>
+<p>
+	HR-Recruitment Team</p>
+
+<br>
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> insert --> to -->  --> maquino@yahoo.com
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>Dear Maria Aquino,</p>
+<p>
+	Thank you for your interest in applying for the ACCOUNTING CLERK position. We would like to invite you for an interview at Abraham Holdings, Inc.. Please see information below:</p>
+<p>
+	Date: October 26, 2017
+	<br>
+	Time: 07:00 pm
+	<br>
+	Venue: 770 E. Rodriguez Ext., Malibay, Pasay City</p>
+
+<p>
+	Kindly look for ERLINDA KOE</p>
+
+<p>
+	Should you have queries, please do not hesitate to contact us on 8893935</p>
+
+<p>
+	Sincerely,</p>
+<p>
+	HR- Recruitment Team &ndash; ABHI</p>
+<br>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> update --> status_id --> 5 --> 2
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> update --> from_seting_final_interview --> 0 --> 2
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> update --> status_id --> 5 --> 2
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:05 --> applicant_monitoring --> update --> from_seting_final_interview --> 0 --> 2
+DE LEON, LISSA (30991) --> 2017-10-26 14:51:37 --> authentication --> logout --> logout -->  --> 
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:51:52 --> authentication --> login --> login -->  --> 
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:02 --> applicant_monitoring --> update --> process_id --> 0 --> 2

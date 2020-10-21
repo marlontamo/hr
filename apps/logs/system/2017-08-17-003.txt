@@ -1,0 +1,23 @@
+POLONAN, MARIA LEE (31002) --> 2017-08-17 13:53:22 --> applicants --> insert --> recruit_id -->  --> 3
+POLONAN, MARIA LEE (31002) --> 2017-08-17 13:53:22 --> applicants --> insert --> key_id -->  --> 167
+POLONAN, MARIA LEE (31002) --> 2017-08-17 13:53:22 --> applicants --> insert --> key -->  --> currently_employed
+POLONAN, MARIA LEE (31002) --> 2017-08-17 13:53:22 --> applicants --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-08-17 13:53:22 --> applicants --> insert --> key_name -->  --> Currently Employed
+POLONAN, MARIA LEE (31002) --> 2017-08-17 13:53:22 --> applicants --> insert --> key_value -->  --> 0
+POLONAN, MARIA LEE (31002) --> 2017-08-17 13:53:22 --> applicants --> insert --> recruit_id -->  --> 3
+POLONAN, MARIA LEE (31002) --> 2017-08-17 13:53:22 --> applicants --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-08-17 13:55:14 --> applicants --> insert --> recruit_id -->  --> 4
+POLONAN, MARIA LEE (31002) --> 2017-08-17 13:55:14 --> applicants --> insert --> sequence -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-08-17 13:55:14 --> applicants --> insert --> key_value -->  --> 10
+POLONAN, MARIA LEE (31002) --> 2017-08-17 23:55:09 --> applicant_monitoring --> insert --> process_id -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2017-08-17 23:55:09 --> applicant_monitoring --> insert --> date -->  --> 2017-09-20 09:00:00
+POLONAN, MARIA LEE (31002) --> 2017-08-17 23:55:09 --> applicant_monitoring --> insert --> user_id -->  --> 16
+POLONAN, MARIA LEE (31002) --> 2017-08-17 23:55:09 --> applicant_monitoring --> insert --> location_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-08-17 23:55:09 --> applicant_monitoring --> insert --> schedule_id -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2017-08-17 23:55:09 --> applicant_monitoring --> insert --> process_id -->  --> 2
+POLONAN, MARIA LEE (31002) --> 2017-08-17 23:55:09 --> applicant_monitoring --> insert --> date -->  --> 2017-09-20 09:30:00
+POLONAN, MARIA LEE (31002) --> 2017-08-17 23:55:09 --> applicant_monitoring --> insert --> user_id -->  --> 36
+POLONAN, MARIA LEE (31002) --> 2017-08-17 23:55:09 --> applicant_monitoring --> insert --> location_id -->  --> 1
+POLONAN, MARIA LEE (31002) --> 2017-08-17 23:55:09 --> applicant_monitoring --> insert --> schedule_id -->  --> 3
+POLONAN, MARIA LEE (31002) --> 2017-08-17 23:55:09 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+POLONAN, MARIA LEE (31002) --> 2017-08-17 23:55:09 --> applicant_monitoring --> update --> status_id --> 11 --> 2

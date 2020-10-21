@@ -1,0 +1,9 @@
+2019-08-29 11:16:33 --> authentication --> login --> login -->  --> 
+2019-08-29 13:47:45 --> memo --> insert --> memo_type_id -->  --> 5
+2019-08-29 13:47:45 --> memo --> insert --> apply_to_id -->  --> 2
+2019-08-29 13:47:45 --> memo --> insert --> memo_title -->  --> BREASTFEEEDING FACTS
+2019-08-29 13:47:45 --> memo --> insert --> publish_from -->  --> 2019-08-29
+2019-08-29 13:47:45 --> memo --> insert --> publish_to -->  --> 2019-12-31
+2019-08-29 13:47:45 --> memo --> insert --> publish -->  --> 1
+2019-08-29 13:47:45 --> memo --> insert --> email -->  --> 1
+2019-08-29 13:47:45 --> memo --> insert --> attachment -->  --> uploads/memo/BREASTFEEDING%20FACTS.jpeg

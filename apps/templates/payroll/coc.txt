@@ -1,0 +1,264 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+
+<html lang="en">
+    <!-- BEGIN HEAD-->
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title></title>
+        <style>
+            body
+            {
+                
+
+            font-family:Arial;
+            font-size: 10px;
+
+            
+            }
+
+
+            td
+            {
+                
+                padding:0;
+            }
+            .header h2
+            {
+                padding-left: 20px;
+                padding-right: 20px;
+                padding-top: 20px;
+                font-size: 18px;
+            }
+
+            .header h3
+            {
+                padding-bottom: 15px;
+                padding-left: 20px;
+                padding-right: 20px;
+                font-size: 12px;
+                color: #666666;
+            }
+
+            .np1
+            {
+                color: #666;
+                font-size: 14px;
+                margin: -18px 18px 0;
+            }
+
+            .mp1
+            {
+                float: right;
+                margin: 0 22px 0 0;
+            }
+
+            .header_sub
+            {
+                width: 755px;
+                margin: 5px 0 0;
+                border-radius: 5px 5px 0 0;
+            }
+
+                .header_sub h2
+                {
+                    padding: 10px;
+                    font-size: 12px;
+                    color: #f1f1f1;
+                    margin: -3px 3px 0 0;
+                    height: 10px;
+                }
+
+            #f1
+            {
+                padding-top: 10px;
+            }
+
+            #ip1
+            {
+                width: 100%;
+                text-align: justify;
+                font-size: 12px;
+                color: #333;
+            }
+
+                #ip1 h3
+                {
+                    font-size: 12px;
+                }
+
+            .im1
+            {
+                float: right;
+                margin: -40px 0 0 0;
+                font-size: 8px;
+            }
+
+            .alfin
+            {
+                margin-left: 18px;
+                width: 300px;
+                color: #2b2b2b;
+                width: 400px;
+                font-size: 13px;
+                background: url("/images/bg.widget.png") repeat scroll;
+                border: 0.3px solid #b6b6b6;
+            }
+
+                .p th
+                {
+                    font-size: 12px;
+                    width: 140px;
+                }
+
+                .prdt tr
+                {
+                    background: #fff;
+                }
+
+            .espaco
+            {
+                height: 5px;
+            }
+
+            #borderrightCF
+            {
+                border-right: 1px solid #ccc;
+            }
+
+            .alfin
+            {
+                padding: 10px 20px 10px;
+                font-size: 10px;
+                border-bottom: 1px solid #f1f1f1;
+            }
+
+            .alrsp
+            {
+                margin: -18px 0px 0;
+                font-size: 10px;
+            }
+
+                .alrsp span
+                {
+                    color: #000;
+                    text-decoration: underline;
+                    margin: 0 5px;
+                }
+
+            .albr
+            {
+                padding: 10px 0 0 0;
+            }
+
+            .iwg
+            {
+                font-size: 9px;
+                color: #0A73C3;
+                width: 200px;
+                text-align: justify;
+            }
+
+            .tp01
+            {
+                border-collapse: collapse;
+            }
+
+                .tp01 th
+                {
+                    color: white;
+                    border: 1px solid #e4e4e4;
+                }
+
+                .tp01 td, .myTable th
+                {
+                    padding: 5px;
+                    border: 1px solid #e4e4e4;
+                }
+            .auto-style1
+            {
+                height: 30px;
+                width: 566px;
+            }
+            .auto-style3
+            {
+                width: 900px;
+            }
+        </style>
+    </head>
+    <!-- END HEAD -->
+    <!-- BEGIN BODY -->
+    <body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" style="-webkit-font-smoothing: antialiased; width: 100% !important; -webkit-text-size-adjust: none;">
+
+       <!--  <table width="100%" cellpadding="0" cellspacing="0" border="0" style="padding: 40px 0 40px 0; margin-top:50px;">
+            <tr>
+                <td width="100%">
+
+                    <table width="755" cellpadding="0" cellspacing="0" border="0" align="center" class="table">
+                        <tr>
+                            <td width="755" class="cell"> -->
+                                <!-- BEGIN HEADER CONTAINER -->
+                                <table align="center" style="width: 755px; height: auto; background: #fff; margin-bottom: 10px; text-align: center; text-decoration: underline;overflow: wrap">
+                                    <tr>
+                                        <td >
+                                            <div class="header">
+                                                <h2>CERTIFICATION</h2>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <br>
+                                <br>
+
+                                <table  align='center' style='width: 755px; height: auto; background: #fff; font-size: 12px;  line-height: 200%;overflow: wrap '>
+                                    
+                                    <tr>
+                                        <td>
+                                            <p>This is to certify that Mr/Ms. <b>{{employee_name}}</b> with {{contribution_type}} Number {{contribution_no}} had contributed the <b>{{contribution_type}} Premium</b> to {{company_name}} covering below Months of Contribution.</p><br>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <br>
+
+                                <table class='tp01' cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 11px; margin-bottom: 20px; text-align:center;overflow: wrap">
+                                    <tr style='border: 1px solid #ccc; font-weight:bold;'>
+                                       <td>MONTH</td>
+                                       <td>{{contribution_type}} Contribution</td>
+                                       <td>YEAR</td>
+                                    </tr>
+                                    {{contrib_list}}
+                                </table>
+                                <br>
+                                <br>
+
+                               <!--  <table  align='center' style='width: 755px; height: auto; background: #fff; margin-bottom: 10px;'>
+                                    <tr>
+                                        <td> -->
+                                            <table cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 12px;overflow: wrap">
+                                                <tr>
+                                                    <td><strong>Certified by:</strong></td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='height: 30px;'></td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='height: 10px;'>{{signatory}}</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='height: 20px;'>{{signatory_position}}</td>
+                                                </tr>
+                                            </table>
+                                        <!-- </td>
+                                    </tr>
+                                </table>
+ -->
+                            <!-- </td>
+                        </tr> 
+                        
+                    </table>
+
+                </td>
+            </tr> 
+        </table>  -->
+    </body>
+<!-- BEGIN BODY -->
+</html>

@@ -1,0 +1,23 @@
+LOPEZ, PAOLO (02115) --> 2017-07-19 14:09:10 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-07-19 14:09:23 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-07-19 14:09:50 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-07-19 14:10:38 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-07-19 14:20:00 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-07-19 14:20:12 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-07-19 14:21:12 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-07-19 14:21:21 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-07-19 14:37:11 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-07-19 14:37:21 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-07-19 14:44:01 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-07-19 14:44:32 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-07-19 16:38:59 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-07-19 16:39:16 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-07-19 17:07:09 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-07-19 17:14:02 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-07-19 21:07:30 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-07-19 21:13:25 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-07-19 21:30:25 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-07-19 21:32:30 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-07-19 21:34:22 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-07-19 21:38:57 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-07-19 23:26:24 --> authentication --> login --> login -->  --> 

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<!-- 
+Template Name: Metronic - Responsive Admin Dashboard Template build with Twitter Bootstrap 3.0.2
+Version: 1.5.4
+Author: KeenThemes
+Website: http://www.keenthemes.com/
+Purchase: http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes
+-->
+<!--[if IE 8]> <html lang="en" class="ie8 no-js"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9 no-js"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<!-- BEGIN HEAD -->
+<head>
+	<?php $__env->startSection('head'); ?>
+		<?php echo $__env->make('common/head', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
+	<?php echo $__env->yieldSection(); ?>
+</head>
+<!-- END HEAD -->
+<!-- BEGIN BODY -->
+<body class="page-header-fixed page-sidebar-fixed">
+	<?php $__env->startSection('header'); ?>
+		<?php echo $__env->make('common/header', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
+	<?php echo $__env->yieldSection(); ?>
+
+	<div class="clearfix"></div>
+	
+	<?php $__env->startSection('container'); ?>
+		<div class="page-container">
+			<?php $__env->startSection('sidebar'); ?>
+				<div class="page-sidebar navbar-collapse collapse">
+					<ul class="page-sidebar-menu">
+						<li>
+							<!-- BEGIN SIDEBAR TOGGLER BUTTON -->
+							<!-- div class="sidebar-toggler hidden-phone"></div -->
+							<div>&nbsp;</div>
+							<!-- BEGIN SIDEBAR TOGGLER BUTTON -->
+						</li>
+						<li>
+							&nbsp; <!-- hide temporarily this search form -->
+							<!-- BEGIN RESPONSIVE QUICK SEARCH FORM -->
+							<form class="hidden sidebar-search" action="extra_search.html" method="POST">
+								<div class="form-container">
+									<div class="input-box">
+										<a href="javascript:;" class="remove"></a>
+										<input type="text" placeholder="Search..."/>
+										<input type="button" class="submit" value=" "/>
+									</div>
+								</div>
+							</form>
+							<!-- END RESPONSIVE QUICK SEARCH FORM -->
+						</li>
+
+						<?php echo $__env->make('menu/'. $current_db .'/'.$user['role_id'], array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
+						
+						<li class="">
+							<a href="<?php echo base_url('logout'); ?>">
+							<i class="fa fa-power-off"></i> 
+							<span class="title">Logout</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+			<?php echo $__env->yieldSection(); ?>
+			
+			<?php $__env->startSection('page-content'); ?>
+				<div class="page-content">
+					<?php $__env->startSection('content'); ?>
+						<?php $__env->startSection('page-header'); ?>
+							<?php echo $__env->make('common/page-header', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
+						<?php echo $__env->yieldSection(); ?>
+						
+						<?php $__env->startSection('page_content'); ?>
+								
+						<?php echo $__env->yieldSection(); ?>
+					<?php echo $__env->yieldSection(); ?>	
+				</div>
+			<?php echo $__env->yieldSection(); ?>
+		</div>
+	<?php echo $__env->yieldSection(); ?>
+
+
+	<!-- BEGIN FOOTER -->
+	<div class="footer">
+		<div class="footer-inner">
+			<span style="color:#fff"><?php echo date('Y'); ?> <?php echo $system['copyright_details']; ?></span> by <a class="text-muted" href="http://www.hdisystech.com" target="_blank"><?php echo $system['author']; ?></a>
+		</div>
+		<div class="footer-tools">
+			<span class="go-top">
+			<i class="fa fa-angle-up"></i>
+			</span>
+		</div>
+	</div>
+	<!-- END FOOTER -->
+
+	<div class="modal fade modal-container" tabindex="-1" aria-hidden="true" id="modal_global_id"></div>
+
+	<!-- BEGIN JAVASCRIPTS(Load javascripts at bottom, this will reduce page load time) -->
+	<?php $__env->startSection('js_plugins'); ?>
+		<?php echo $__env->make('common/js', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
+	<?php echo $__env->yieldSection(); ?>
+	
+	<script type="text/javascript">
+		jQuery(document).ready(function() {
+			// initiate layout and plugins
+			App.init();
+		});
+	</script>
+	
+	<?php $__env->startSection('module_js'); ?>
+		<!-- Add Module JS -->
+		<?php echo get_module_js( $mod ); ?>
+	<?php echo $__env->yieldSection(); ?>
+	
+	<?php $__env->startSection('view_js'); ?>
+	<?php echo $__env->yieldSection(); ?>
+
+	<!-- let this section be the last to load -->
+	<?php if( get_system_config('other_settings', 'enable_chat') ): ?>
+		<?php $__env->startSection('chat_js'); ?>
+			<?php echo $__env->make('common/chat', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
+		<?php echo $__env->yieldSection(); ?>
+	<?php endif; ?>
+</body>
+<!-- END BODY -->
+</html>

@@ -1,0 +1,10 @@
+2017-07-20 10:42:56 --> authentication --> login --> login -->  --> 
+2017-07-20 13:41:40 --> authentication --> login --> login -->  --> 
+2017-07-20 13:43:46 --> authentication --> login --> login -->  --> 
+2017-07-20 14:26:35 --> authentication --> logout --> logout -->  --> 
+2017-07-20 14:37:53 --> authentication --> login --> login -->  --> 
+2017-07-20 14:38:59 --> form_policy --> update --> class_value --> 2 --> 1
+2017-07-20 14:40:31 --> authentication --> logout --> logout -->  --> 
+2017-07-20 15:30:03 --> authentication --> login --> login -->  --> 
+2017-07-20 15:31:21 --> authentication --> login --> login -->  --> 
+2017-07-20 17:26:22 --> authentication --> logout --> logout -->  --> 

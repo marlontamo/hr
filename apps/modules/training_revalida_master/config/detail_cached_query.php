@@ -1,0 +1,4 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["detail_cached_query"] = 'SELECT `ww_training_revalida_master`.`training_revalida_master_id` as record_id, `ww_training_revalida_master`.`created_on` as "training_revalida_master.created_on", `ww_training_revalida_master`.`created_by` as "training_revalida_master.created_by", `ww_training_revalida_master`.`modified_on` as "training_revalida_master.modified_on", `ww_training_revalida_master`.`modified_by` as "training_revalida_master.modified_by", ww_training_revalida_master.course_id as "training_revalida_master.course_id", ww_training_revalida_master.revalida_type as "training_revalida_master.revalida_type"
+FROM (`ww_training_revalida_master`)
+WHERE `ww_training_revalida_master`.`training_revalida_master_id` = "{$record_id}"';

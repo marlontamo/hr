@@ -1,0 +1,14 @@
+ALICANTE, LISSA (30991) --> 2019-08-29 09:45:52 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2019-08-29 11:16:33 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2019-08-29 11:18:47 --> authentication --> logout --> logout -->  --> 
+AMOSCO, SHAIRA (33268) --> 2019-08-29 11:19:07 --> authentication --> login --> login -->  --> 
+AMOSCO, SHAIRA (33268) --> 2019-08-29 11:37:59 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2019-08-29 11:38:06 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2019-08-29 13:47:45 --> memo --> insert --> memo_type_id -->  --> 5
+ABULENCIA, AMYRA (33176) --> 2019-08-29 13:47:45 --> memo --> insert --> apply_to_id -->  --> 2
+ABULENCIA, AMYRA (33176) --> 2019-08-29 13:47:45 --> memo --> insert --> memo_title -->  --> BREASTFEEEDING FACTS
+ABULENCIA, AMYRA (33176) --> 2019-08-29 13:47:45 --> memo --> insert --> publish_from -->  --> 2019-08-29
+ABULENCIA, AMYRA (33176) --> 2019-08-29 13:47:45 --> memo --> insert --> publish_to -->  --> 2019-12-31
+ABULENCIA, AMYRA (33176) --> 2019-08-29 13:47:45 --> memo --> insert --> publish -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-08-29 13:47:45 --> memo --> insert --> email -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-08-29 13:47:45 --> memo --> insert --> attachment -->  --> uploads/memo/BREASTFEEDING%20FACTS.jpeg

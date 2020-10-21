@@ -1,0 +1,4 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["edit_cached_query"] = 'SELECT `ww_users_job_rank`.`job_rank_id` as record_id, `ww_users_job_rank`.`created_on` as "users_job_rank.created_on", `ww_users_job_rank`.`created_by` as "users_job_rank.created_by", `ww_users_job_rank`.`modified_on` as "users_job_rank.modified_on", `ww_users_job_rank`.`modified_by` as "users_job_rank.modified_by", ww_users_job_rank.status_id as "users_job_rank.status_id", ww_users_job_rank.job_rank_code as "users_job_rank.job_rank_code", ww_users_job_rank.job_rank as "users_job_rank.job_rank"
+FROM (`ww_users_job_rank`)
+WHERE `ww_users_job_rank`.`job_rank_id` = "{$record_id}"';

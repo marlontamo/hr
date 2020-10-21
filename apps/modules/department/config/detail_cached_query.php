@@ -1,0 +1,4 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["detail_cached_query"] = 'SELECT `ww_users_department`.`department_id` as record_id, `ww_users_department`.`created_on` as "users_department.created_on", `ww_users_department`.`created_by` as "users_department.created_by", `ww_users_department`.`modified_on` as "users_department.modified_on", `ww_users_department`.`modified_by` as "users_department.modified_by", ww_users_department.department as "users_department.department", ww_users_department.department_code as "users_department.department_code", ww_users_department.division_id as "users_department.division_id", ww_users_department.immediate_id as "users_department.immediate_id", ww_users_department.immediate_position as "users_department.immediate_position", ww_users_department.status_id as "users_department.status_id"
+FROM (`ww_users_department`)
+WHERE `ww_users_department`.`department_id` = "{$record_id}"';

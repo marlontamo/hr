@@ -1,0 +1,117 @@
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_id -->  --> 215
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key -->  --> family-age
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> sequence -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_name -->  --> Age
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_value -->  --> 55
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_id -->  --> 132
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key -->  --> family-relationship
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_name -->  --> Relationship
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_value -->  --> Father
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_id -->  --> 132
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key -->  --> family-relationship
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> sequence -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_name -->  --> Relationship
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_value -->  --> Mother
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_id -->  --> 133
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key -->  --> family-name
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_name -->  --> Name
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_value -->  --> Leonardo Mendoza
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_id -->  --> 133
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key -->  --> family-name
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> sequence -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_name -->  --> Name
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_value -->  --> Adelina Mendoza
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_id -->  --> 134
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key -->  --> family-birthdate
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_name -->  --> Birthday
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_value -->  --> June 17, 1964
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_id -->  --> 134
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key -->  --> family-birthdate
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> sequence -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_name -->  --> Birthday
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_value -->  --> August 21, 1962
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_id -->  --> 135
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key -->  --> family-occupation
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_name -->  --> Occupation
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_value -->  --> none
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_id -->  --> 135
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key -->  --> family-occupation
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> sequence -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_name -->  --> Occupation
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_value -->  --> none
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_id -->  --> 136
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key -->  --> family-employer
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_name -->  --> Employer
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_value -->  --> none
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_id -->  --> 136
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key -->  --> family-employer
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> sequence -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-15 13:28:18 --> applicants --> insert --> key_name -->  --> Employer
+DE LEON, LISSA (30991) --> 2017-11-15 21:31:48 --> applicant_monitoring --> update --> status_id --> 4 --> 5
+DE LEON, LISSA (30991) --> 2017-11-15 21:31:48 --> applicant_monitoring --> update --> status_id --> 4 --> 5
+DE LEON, LISSA (30991) --> 2017-11-15 21:32:37 --> applicant_monitoring --> insert --> type -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-15 21:32:37 --> applicant_monitoring --> insert --> process_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 21:32:37 --> applicant_monitoring --> insert --> date -->  --> 2017-11-15 22:00:00
+DE LEON, LISSA (30991) --> 2017-11-15 21:32:37 --> applicant_monitoring --> insert --> user_id -->  --> 16
+DE LEON, LISSA (30991) --> 2017-11-15 21:32:37 --> applicant_monitoring --> insert --> location_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-15 21:32:37 --> applicant_monitoring --> insert --> schedule_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-15 21:32:37 --> applicant_monitoring --> insert --> to -->  --> malou_s@legendhotels.com.ph
+DE LEON, LISSA (30991) --> 2017-11-15 21:32:37 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+DE LEON, LISSA (30991) --> 2017-11-15 21:32:37 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>
+	Hi MA. LOURDES SUNIGA,</p>
+<p>
+	Good day!</p>
+
+<p>
+	This is to inform you that you are scheduled for an interview of Janet Vicedo, for the position of ACCOUNTING ASSISTANT. Below are the details and schedule:</p>
+<p>
+	Applicant Name: Janet Vicedo
+	<br>
+	Position: ACCOUNTING ASSISTANT
+	<br>
+	Date: November 15, 2017
+	<br>
+	Time: 10:00 pm
+</p>
+<p>
+	In case you are not available on the said dates, please do not hesitate to contact one of our HR-Recruitment Team.</p>
+<p>
+	Thank you and Regards,</p>
+<p>
+	HR-Recruitment Team</p>
+
+<br>
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+DE LEON, LISSA (30991) --> 2017-11-15 21:32:37 --> applicant_monitoring --> insert --> to -->  --> janet@yahoo.com

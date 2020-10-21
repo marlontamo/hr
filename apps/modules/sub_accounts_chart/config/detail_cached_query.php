@@ -1,0 +1,4 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["detail_cached_query"] = 'SELECT `ww_payroll_account_sub`.`account_sub_id` as record_id, `ww_payroll_account_sub`.`created_on` as "payroll_account_sub.created_on", `ww_payroll_account_sub`.`created_by` as "payroll_account_sub.created_by", `ww_payroll_account_sub`.`modified_on` as "payroll_account_sub.modified_on", `ww_payroll_account_sub`.`modified_by` as "payroll_account_sub.modified_by", ww_payroll_account_sub.account_sub as "payroll_account_sub.account_sub", ww_payroll_account_sub.account_sub_code as "payroll_account_sub.account_sub_code", ww_payroll_account_sub.category_id as "payroll_account_sub.category_id", ww_payroll_account_sub.account_id as "payroll_account_sub.account_id"
+FROM (`ww_payroll_account_sub`)
+WHERE `ww_payroll_account_sub`.`account_sub_id` = "{$record_id}"';

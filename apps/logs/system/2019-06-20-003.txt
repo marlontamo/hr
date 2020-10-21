@@ -1,0 +1,165 @@
+CHAVEZ, NELSON (00129) --> 2019-06-20 14:13:15 --> mrf_manage --> insert --> to -->  --> johannaliza_c@kalinisanlaundry.com.ph
+CHAVEZ, NELSON (00129) --> 2019-06-20 14:13:15 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+CHAVEZ, NELSON (00129) --> 2019-06-20 14:13:15 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear CATALAN, JOHANNA LIZA ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ABULENCIA, AMYRA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+CHAVEZ, NELSON (00129) --> 2019-06-20 14:13:15 --> mrf_manage --> insert --> to -->  --> lorie_l@kalinisanlaundry.com.ph
+CHAVEZ, NELSON (00129) --> 2019-06-20 14:13:15 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+CHAVEZ, NELSON (00129) --> 2019-06-20 14:13:15 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear LINGO, LORILYN ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ABULENCIA, AMYRA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+CHAVEZ, NELSON (00129) --> 2019-06-20 14:14:11 --> mrf_admin --> update --> hr_remarks -->  --> for processing
+CHAVEZ, NELSON (00129) --> 2019-06-20 14:14:11 --> mrf_admin --> update --> hr_remarks_by --> 0 --> 9
+CHAVEZ, NELSON (00129) --> 2019-06-20 14:14:11 --> mrf_admin --> update --> hr_remarks_on -->  --> 2019-06-20 14:14:11
+CHAVEZ, NELSON (00129) --> 2019-06-20 14:14:39 --> mrf_manage --> insert --> to -->  --> weng_e@legendhotels.com.ph
+CHAVEZ, NELSON (00129) --> 2019-06-20 14:14:39 --> mrf_manage --> insert --> subject -->  --> PRF for approval
+CHAVEZ, NELSON (00129) --> 2019-06-20 14:14:39 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear ELISCUPIDES, ROWENA ,</p>
+
+        <p>
+            Please review Personnel Requisition Form requested by ALICANTE, LISSA  for your approval.
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:18:18 --> mrf_manage --> insert --> to -->  --> nelson_c@abrahamholdings.ph
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:18:18 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:18:18 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear CHAVEZ, NELSON ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ALICANTE, LISSA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:18:18 --> mrf_manage --> insert --> to -->  --> weng_e@legendhotels.com.ph
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:18:18 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:18:18 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear ELISCUPIDES, ROWENA ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ALICANTE, LISSA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:18:18 --> mrf_manage --> insert --> to -->  --> lissa_a@abrahamholdings.ph
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:18:18 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:18:18 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear ALICANTE, LISSA ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ALICANTE, LISSA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:18:18 --> mrf_manage --> insert --> to -->  --> lee_p@abrahamholdings.ph
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:18:18 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:18:18 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear POLONAN, MARIA LEE ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ALICANTE, LISSA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:18:18 --> mrf_manage --> insert --> to -->  --> lorie_l@abrahamholdings.ph

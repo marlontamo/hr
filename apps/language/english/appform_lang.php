@@ -1,0 +1,30 @@
+<?php 
+	$lang['appform'] = array(
+		'applicants' => 'Applicants',
+		'app_list' => 'Applicants List',
+		'app_form' => 'Application Form',
+		'msg_appreciation' => 'Thank you for your interest in working with us.',
+		'nice_day' => 'Have a nice day ',
+		'email' => 'Email',
+		'submit_app' => 'Submit Application',
+		'gen_info' => 'General Information',
+		'filename' => 'Filename',
+		'last' => 'Last Name',
+		'first' => 'First Name',
+		'middle' => 'Middle Name',
+		'maiden' => 'Maiden Name',
+		'profile_pic' => 'Profile Picture',
+		'phone' => 'Phone',
+		'mobile' => 'Mobile',
+		'upload_resume' => 'Upload Resume',
+		'select_file' => 'Select File',
+		'change' => 'Change',
+		'apply_for' => 'Apply For',
+		'select' => 'Please Select',
+		'note' => 'How did you learn about HDI?',
+		'desired_sal' => 'Desired Salary',
+		'monthly' => 'Monthly',
+		'hourly' => 'Hourly',
+		'contacts' => 'Contacts'
+	);
+?>

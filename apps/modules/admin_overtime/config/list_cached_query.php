@@ -1,0 +1,3 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["list_cached_query"] = 'SELECT `ww_report_time_overtime`.`id` as record_id, `ww_report_time_overtime`.`created_on` as "report_time_overtime_created_on", `ww_report_time_overtime`.`created_by` as "report_time_overtime_created_by", `ww_report_time_overtime`.`modified_on` as "report_time_overtime_modified_on", `ww_report_time_overtime`.`modified_by` as "report_time_overtime_modified_by"
+FROM (`ww_report_time_overtime`)';

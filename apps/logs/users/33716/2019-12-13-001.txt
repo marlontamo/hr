@@ -1,0 +1,10 @@
+2019-12-13 10:50:51 --> authentication --> login --> login -->  --> 
+2019-12-13 10:51:01 --> authentication --> logout --> logout -->  --> 
+2019-12-13 11:05:22 --> authentication --> login --> login -->  --> 
+2019-12-13 11:05:32 --> authentication --> login --> login -->  --> 
+2019-12-13 11:05:41 --> authentication --> logout --> logout -->  --> 
+2019-12-13 11:40:34 --> authentication --> login --> login -->  --> 
+2019-12-13 11:55:39 --> authentication --> update --> users - hash --> $2a$08$hRV4eko18h6qPQ0gn7.f.eKk9O9Dv7nPKfZbN1mhregMrBYi3sR6i --> $2a$08$QqZ7zTEA9gXjOs5t16pSo.xw2uGbS6o5KdGq96QxjCR8qToQRZydS
+2019-12-13 12:01:33 --> authentication --> login --> login -->  --> 
+2019-12-13 13:40:05 --> authentication --> login --> login -->  --> 
+2019-12-13 21:52:55 --> authentication --> logout --> logout -->  --> 

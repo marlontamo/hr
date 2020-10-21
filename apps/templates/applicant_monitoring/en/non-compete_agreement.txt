@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html lang="en">
+    <!-- BEGIN HEAD-->
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title></title>
+        <style>
+            body, p
+            {
+                
+
+            font-family:Arial;
+            font-size: 10px;
+
+            
+            }
+
+
+        </style>
+    </head>
+    <!-- END HEAD -->
+    <!-- BEGIN BODY -->
+    <body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" style="-webkit-font-smoothing: antialiased; width: 100% !important; -webkit-text-size-adjust: none;">
+
+        <!-- <table width="100%" cellpadding="0" cellspacing="0" border="0" style="padding: 40px 40px 40px 40px;">
+            <tr>
+                <td width="100%">
+
+                    <table width="755" cellpadding="0" cellspacing="0" border="0" align="center" class="table">
+                        <tr>
+                            <td width="755" class="cell"> -->
+                                <!-- BEGIN HEADER CONTAINER -->
+
+
+                                <img src="assets/img/logoHDI1.jpg">
+
+                        <table width="755" cellpadding="0" cellspacing="0" border="0" align="center" class="table">
+                            <tr>
+                                <td width="755" class="cell">
+                                    <h4 style="font-size: 16px; margin: 0 0 30px 0;"><center>EMPLOYEE NON-COMPETE/NON-SOLICITATION AGREEMENT</center></h4>
+                                </td>
+                            </tr>
+                        </table>
+                        
+                                <br>
+                                <br>
+                                <p style="font-size: 12px; margin:0 0 30px 0;"><strong>KNOW ALL MEN BY THESE PRESENTS:</strong></p>
+                                <p style="font-size: 11px;">This Non-Competition/Non-Solicitation Agreement (the “Agreement”) executed this {{date}} by:</p>
+                                
+
+                                <p style="font-size: 11px; line-height: 16px; padding: 0 40px;">
+                                    <strong>{{company_code}}</strong> a corporation duly organized and existing in accordance with the laws of the Republic of the Philippines, with principal office at {{company_address}}, represented in this act by its HR/OD Manager, {{HRmanager}}, hereinafter referred to as the Employer;
+                                </p>
+
+                                 <p style="font-size: 11px; line-height: 16px;"><strong>{{recipients}}</strong>, legal age, Filipino and a resident of {{address1}}, {{address2}} hereinafter referred to as the Employee.
+                                 </p>
+
+                                <p style="font-size: 11px; line-height: 16px;">WHEREAS, the Employer is engaged in management and support to the other companies subsidiaries in various fields of industry.
+                                </p>
+
+                                <p style="font-size: 11px; line-height: 16px;">WHEREAS, Employee, in view of his position and nature of his work with the Employer has and is acquiring business, market, costumer and relevant knowledge and information critical to Employer’s business and competitiveness.
+                                </p>
+
+                                <p style="font-size: 11px; line-height: 16px;">NOW THEREFORE, the parties, in consideration of the above recitals, hereby agree as follows:
+                                </p>
+                                
+                                <p style="font-size: 11px; line-height: 16px;"><strong>{{company_code}}</strong> to employ <strong>{{recipients}}</strong>, the undersigned Employee hereby agrees not to directly or indirectly compete with the business of the Company and its successors and assigns during the period of employment and for a period of one (1) year following termination of employment and notwithstanding the cause or reason for termination.
+                                </p>
+
+                                <p style="font-size: 11px; line-height: 16px;">The term "not compete" as used herein shall mean that the Employee shall not own, engage, manage, operate, directly or indirectly, as an employee, officer, director, partner, manager, consultant, agent, owner or in any other capacity, in a business substantially similar to, or competitive with, the present business of the Company and any of the companies within the group of companies, or such other business activity in which the Company or its subsidiaries, may substantially engage during the term of employment.</p>
+
+                                <p style="font-size: 11px; line-height: 16px;">As mentioned above, the Employee agrees that for a one (1) year period following the termination of Employee’s employment for any reason or without reason, Employee shall not own, engage, manage, operate, directly or indirectly, as an employee, officer, director, partner, manager, consultant, agent, owner or in any other capacity, in a business substantially similar to, or competitive with, the present business of the Company and any of the companies within the group of companies.</p>
+
+                                <p style="font-size: 11px; line-height: 16px;">For a one (1) year period following the termination of Employee’s employment for any reason or without reason, Employee shall not solicit or induce any person who was an employee of the Employer or any of its subsidiaries on the date of Employee’s termination or within three months prior to leaving her employment with the Employer or any of its subsidiaries to leave their employment with the Employer.</p>
+
+                                <p style="font-size: 11px; line-height: 16px;">In addition, Employee, for a one (1) year period following the termination of his/her employment, for any reason or without reason, shall not solicit or induce any supplier, vendor, business partner or other business entities connected with or having direct and indirect business relations with the Employer orany of its subsidiaries or any company within the Employer’s group of companies.</p>
+
+                                <p style="font-size: 11px; line-height: 16px;">The Employee acknowledges that the Company shall or may in reliance of this agreement provide Employee access to trade secrets, customers and other confidential data and good will. Employee agrees to retain said information as confidential and not to use said information on his or her own behalf or disclose same to any third party.</p>
+
+                                <p style="font-size: 11px; line-height: 16px;">This non-compete agreement shall be in full force from the signing of this Agreement and effect for one (1) year from the date of employment termination.</p>
+
+                                <p style="font-size: 11px; line-height: 16px;">Employee acknowledges that any breach of this Agreement will cause substantial and irreparable harm to the Employer for which money damages will be incurred by the Employee in the maximum amount of Five Hundred Thousand Pesos (Php 500,000.00). Accordingly, notwithstanding the provisions above, the Employer shall in any such event be entitled to seek injunctive and other forms of equitable relief toprevent such breach and the prevailing party shall be entitled to recover from the other, the prevailing party’s costs (including, without limitation, reasonable attorneys’ fees) incurred in connection with enforcing this Agreement, in addition to any other rights or remedies available at law, in equity, or by statute.</p>
+
+                                <p style="font-size: 11px; line-height: 16px;">This agreement shall be binding upon and inure to the benefit of the parties, their successors, assigns, and personal representatives.</p>
+
+                                 
+
+
+                                <table cellpadding='0' cellspacing='0' border='0' width='250px' style=" font-size: 11px; margin: 30px 0 20px 0;">
+                                    <tr>
+                                        <td colspan="2" style='height: 40px;'>Signed this {{date}}</td>
+                                    </tr>
+                                     <tr>
+                                        <td colspan="2" style='height: 50px;'></td>
+                                    </tr>
+                                    <tr>
+                                        <td style='height: 30px; border-top: 1px solid #000000;'><strong><center>Incumbent’s Name
+                                            <br>HR/OD Manager – HDI Group of Companies</center></td>
+                                    </tr>
+
+                                    <tr>
+                                        <td colspan="2" style='height: 50px;'></td>
+                                    </tr>
+                                    <tr>
+                                        <td style='height: 30px; border-top: 1px solid #000000;'><strong><center>
+                                            {{recipients}}</center></td>
+                                    </tr>
+                                </table>
+
+
+
+
+                                
+
+
+                                <!-- BEGIN SECTION 1-->
+                                
+
+
+
+
+
+                         <!--    </td>
+                        </tr> 
+                        
+                    </table>
+
+                </td>
+            </tr> 
+        </table>  -->
+    </body>
+<!-- BEGIN BODY -->
+</html>

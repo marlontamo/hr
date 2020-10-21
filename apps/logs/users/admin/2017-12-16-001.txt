@@ -1,0 +1,30 @@
+2017-12-16 08:36:11 --> authentication --> login --> login -->  --> 
+2017-12-16 08:37:37 --> users --> update --> hash --> $2a$08$2VxThgJW/rv0hxMwIz8bFu7eEPpdPYJ4NeIlm0y6QM1FPKPClnlye --> $2a$08$Xm5YhWi6.X3H9zCZskIex.0m8O6RBReS3AZk9DifCtc.dFUuk8YYm
+2017-12-16 08:37:37 --> users --> update --> active --> 1 --> 1 else 0
+2017-12-16 08:37:44 --> authentication --> logout --> logout -->  --> 
+2017-12-16 08:39:05 --> authentication --> login --> login -->  --> 
+2017-12-16 08:40:20 --> leave_balance_admin --> insert --> year -->  --> 2017
+2017-12-16 08:40:20 --> leave_balance_admin --> insert --> user_id -->  --> 130
+2017-12-16 08:40:20 --> leave_balance_admin --> insert --> form_id -->  --> 16
+2017-12-16 08:40:20 --> leave_balance_admin --> insert --> previous -->  --> 0
+2017-12-16 08:40:20 --> leave_balance_admin --> insert --> period_from -->  --> 2017-12-18
+2017-12-16 08:40:20 --> leave_balance_admin --> insert --> period_to -->  --> 2017-12-31
+2017-12-16 08:40:20 --> leave_balance_admin --> insert --> period_extension -->  --> 2018-03-31
+2017-12-16 08:41:27 --> authentication --> logout --> logout -->  --> 
+2017-12-16 08:43:53 --> authentication --> login --> login -->  --> 
+2017-12-16 08:44:08 --> leave_balance_admin --> delete --> id --> 2816 --> 
+2017-12-16 08:45:50 --> form_policy --> insert --> class_id -->  --> 510
+2017-12-16 08:45:50 --> form_policy --> insert --> class_value -->  --> YES
+2017-12-16 08:45:50 --> form_policy --> insert --> severity -->  --> Strict Compliance
+2017-12-16 08:45:50 --> form_policy --> insert --> company_id -->  --> 1,2,3,4,5,6,7,8,9,10,11,12,13
+2017-12-16 08:45:50 --> form_policy --> insert --> employment_status_id -->  --> 1,2,3,4,5,6,7
+2017-12-16 08:45:50 --> form_policy --> insert --> employment_type_id -->  --> 1,2,3,4,5,6,9,10,16,17,18
+2017-12-16 08:46:00 --> authentication --> logout --> logout -->  --> 
+2017-12-16 08:47:53 --> authentication --> login --> login -->  --> 
+2017-12-16 08:48:28 --> form_policy --> delete --> id --> 164 --> 
+2017-12-16 08:49:58 --> authentication --> logout --> logout -->  --> 
+2017-12-16 08:51:30 --> authentication --> login --> login -->  --> 
+2017-12-16 09:07:26 --> authentication --> logout --> logout -->  --> 
+2017-12-16 09:08:10 --> authentication --> login --> login -->  --> 
+2017-12-16 09:31:08 --> form_policy --> delete --> id --> 165 --> 
+2017-12-16 09:35:54 --> authentication --> logout --> logout -->  --> 

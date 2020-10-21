@@ -1,0 +1,18 @@
+DE LEON, LISSA (30991) --> 2017-11-11 17:34:51 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-11 17:39:11 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 5 --> 
+DE LEON, LISSA (30991) --> 2017-11-11 17:39:11 --> applicant_monitoring --> insert --> process_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-11 17:39:11 --> applicant_monitoring --> insert --> benefit_id -->  --> 231
+DE LEON, LISSA (30991) --> 2017-11-11 17:39:11 --> applicant_monitoring --> insert --> amount -->  --> 50000.00
+DE LEON, LISSA (30991) --> 2017-11-11 17:39:11 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-11 17:39:11 --> applicant_monitoring --> insert --> process_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-11 17:39:11 --> applicant_monitoring --> insert --> benefit_id -->  --> 232
+DE LEON, LISSA (30991) --> 2017-11-11 17:39:11 --> applicant_monitoring --> insert --> amount -->  --> 185230.00
+DE LEON, LISSA (30991) --> 2017-11-11 17:39:11 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-11 17:39:11 --> applicant_monitoring --> insert --> process_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-11 17:39:11 --> applicant_monitoring --> insert --> benefit_id -->  --> 253
+DE LEON, LISSA (30991) --> 2017-11-11 17:39:11 --> applicant_monitoring --> insert --> amount -->  --> 2.00
+DE LEON, LISSA (30991) --> 2017-11-11 17:39:11 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-11 17:39:11 --> applicant_monitoring --> insert --> process_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-11 17:39:11 --> applicant_monitoring --> insert --> amount -->  --> 0.00
+DE LEON, LISSA (30991) --> 2017-11-11 20:15:03 --> authentication --> logout --> logout -->  --> 
+() --> 2017-11-11 20:15:19 --> authentication --> logout --> logout -->  --> 

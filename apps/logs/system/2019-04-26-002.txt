@@ -1,0 +1,32 @@
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> recruit_id -->  --> 10
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> key_id -->  --> 18
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> key -->  --> emergency_phone
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> key_name -->  --> Contact Phone
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> recruit_id -->  --> 10
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> key_id -->  --> 19
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> key -->  --> emergency_mobile
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> key_name -->  --> Contact Mobile
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> recruit_id -->  --> 10
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> key_id -->  --> 20
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> key -->  --> emergency_address
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> key_name -->  --> Contact Address
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> recruit_id -->  --> 10
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> key_id -->  --> 21
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> key -->  --> emergency_city
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> key_name -->  --> Contact City
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> recruit_id -->  --> 10
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> key_id -->  --> 92
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> key -->  --> emergency_country
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> key_name -->  --> Country
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> recruit_id -->  --> 10
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> key_id -->  --> 22
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> key -->  --> emergency_zip_code
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> sequence -->  --> 1
+ABULENCIA, AMYRA (33176) --> 2019-04-26 00:56:36 --> applicants --> insert --> key_name -->  --> Contact Zip Code
+ABULENCIA, AMYRA (33176) --> 2019-04-26 09:20:03 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2019-04-26 09:20:45 --> authentication --> login --> login -->  --> 

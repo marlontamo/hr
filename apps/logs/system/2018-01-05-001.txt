@@ -1,0 +1,4 @@
+QUIAMBAO, JORGE DAINE (30958) --> 2018-01-05 08:07:04 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2018-01-05 08:08:09 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2018-01-05 08:08:51 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2018-01-05 10:55:52 --> authentication --> login --> login -->  --> 

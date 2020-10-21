@@ -1,0 +1,164 @@
+2017-11-09 08:48:11 --> applicant_monitoring --> insert --> reports_to -->  --> 10
+2017-11-09 08:48:11 --> applicant_monitoring --> insert --> employment_status_id -->  --> 2
+2017-11-09 08:48:11 --> applicant_monitoring --> insert --> no_months -->  --> 6
+2017-11-09 08:48:11 --> applicant_monitoring --> insert --> start_date -->  --> 2017-12-01
+2017-11-09 08:48:11 --> applicant_monitoring --> insert --> end_date -->  --> 2018-06-01
+2017-11-09 08:48:11 --> applicant_monitoring --> insert --> accept_offer -->  --> 1
+2017-11-09 08:48:11 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-11-09 08:48:11 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 1 --> 
+2017-11-09 08:48:11 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-11-09 08:48:11 --> applicant_monitoring --> insert --> benefit_id -->  --> 231
+2017-11-09 08:48:11 --> applicant_monitoring --> insert --> amount -->  --> 2000
+2017-11-09 08:48:11 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+2017-11-09 08:48:11 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-11-09 08:48:11 --> applicant_monitoring --> insert --> benefit_id -->  --> 251
+2017-11-09 08:48:11 --> applicant_monitoring --> insert --> amount -->  --> 1000
+2017-11-09 08:48:11 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+2017-11-09 08:49:35 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 1 --> 
+2017-11-09 08:49:35 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-11-09 08:49:35 --> applicant_monitoring --> insert --> benefit_id -->  --> 231
+2017-11-09 08:49:35 --> applicant_monitoring --> insert --> amount -->  --> 2000
+2017-11-09 08:49:35 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+2017-11-09 08:49:35 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-11-09 08:49:35 --> applicant_monitoring --> insert --> benefit_id -->  --> 251
+2017-11-09 08:49:35 --> applicant_monitoring --> insert --> amount -->  --> 1000
+2017-11-09 08:49:35 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+2017-11-09 08:49:53 --> applicant_monitoring --> insert --> to -->  --> juandelacruz@yahoo.com
+2017-11-09 08:49:53 --> applicant_monitoring --> insert --> subject -->  --> ABHI - ACCOUNTING ASSISTANT Job Offer
+2017-11-09 08:49:53 --> applicant_monitoring --> insert --> body -->  --> <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html lang="en">
+    <!-- BEGIN HEAD-->
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title></title>
+        <style>
+            body, p
+            {
+                
+
+            font-family:Arial;
+            font-size: 10px;
+
+            
+            }
+
+
+        </style>
+    </head>
+    <!-- END HEAD -->
+    <!-- BEGIN BODY -->
+    <body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" style="-webkit-font-smoothing: antialiased; width: 100% !important; -webkit-text-size-adjust: none;">
+
+        <!-- <table width="100%" cellpadding="0" cellspacing="0" border="0" style="padding: 40px 40px 40px 40px;">
+            <tr>
+                <td width="100%"> -->
+
+                    <table width="755" cellpadding="0" cellspacing="0" border="0" align="center" class="table" style="overflow: wrap;">
+                        <tr>
+                            <td width="755" class="cell">
+                                <!-- BEGIN HEADER CONTAINER -->
+                                
+
+                                <p style="font-size: 11px;">Dear Mr./Ms. &nbsp;Juan Dela Cruz,</p>
+                                
+                                <br>
+
+                                <p style="font-size: 11px; line-height: 30px;">Your application for employment with HDI &nbsp;<strong>ABHI</strong>&nbsp; for the position of &nbsp;<strong>ACCOUNTING ASSISTANT</strong>&nbsp; has been given due consideration and we are pleased to present this <strong><i>OFFER SHEET</i></strong> to you.</p>
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;">Assuming you accept HDI's offer, your engagement with the company will be under the following conditions:</p>
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;"><strong>1. PROBATIONARY ENGAGEMENT</strong><br>
+                                Your probationary period will be for six (6) months from <strong>December 01, 2017</strong> to <strong>June 01, 2018</strong> .
+                                </p>
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;"><strong>2. SALARY AND BENEFITS</strong><br>
+                                Your monthly basic salary shall be <strong>amount in peso </strong>, subject to all government-mandated deductions such as taxes, SSS, etc. You shall be entitiled to all benefits granted to all probationary employees.<br><br>
+                                You will also be entitled to the following benefits:<br>
+                                </p>
+
+                                <br>
+                                <ul style="list-style:none; font-size:11px;">
+                                    
+                                </ul>
+
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;"><strong>3. HOURS OF WORK</strong><br>
+                                Your normal working hours will be as follows:
+                                </p>
+
+                                <br>
+                                <table style="width:400px; margin-left: 50px; font-size:11px;overflow: wrap;">
+                                    <tr>
+                                        <td>{{daysofwork}} : </td>
+                                        <td>:</td>
+                                        <td style="float:right;"></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Lunch breaks : </td>
+                                        <td>:</td>
+                                        <td style="float:right;">{{breaktime}}</td>
+                                    </tr>
+                                </table>
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;">The company reserves the right to change your work schedule to meet the requirements of your work, subject to local labor law.</p>
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;"><strong>4. DUTIES AND RESPONSIBILITIES</strong><br>
+                                You shall be under the direct supervision of the &nbsp;<strong>ACCOUNTING SUPERVISOR</strong>&nbsp;. You shall perform the duties and responsibilities required of yourposition as outlined in the attached job description as well as other tasks which you may be reasonably assigned to perform from time to time.
+                                </p>
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;"><strong>5. REGULARIZATION OF EMPLOYMENT</strong><br>
+                                During probationary employment, your performance shall be subject to a periodic performance appraisal by your superior who shall determine your competencies and contributions to determine your fit for the position. Performance evaluation will be done on your third <strong>(3rd)</strong> and <strong>fifth (5th)</strong> month.
+                                </p>
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;">Upon satisfactory completion of your probationary period and confirmation of regular status, you will then be entitled to other benefits available to regular employees of the Company.</p>
+
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;">This <strong>OFFER SHEET</strong> is not an employment contract. You will still be subject to the requisite background checks, testing and successful completion of all the pre-employment requirements and other necessary activities as per our hiring policy. Please note that misrepresentation or falsification of anything that you establish as well as failure to complete the required pre-employment requirements within 15 days from start date can be basis for the company to withdraw its offer of employment at any given time. If already commenced employment, a ground for termination.</p>
+
+                                <br>
+                                <br>
+                                <p style="font-size: 11px; line-height: 16px;">Very truly yours,</p>
+
+                                <br>
+                                <br>
+
+                                <p style="font-size: 11px; line-height: 16px;"><strong> </strong>
+                                 <br>   HR/OD Manager 
+                                <br>    HDI Group of Companies</p>
+
+
+
+                                
+
+
+                                <!-- BEGIN SECTION 1-->
+                                
+
+
+
+
+
+                            </td>
+                        </tr> 
+                        
+                    </table>
+<!-- 
+                </td>
+            </tr> 
+        </table>  -->
+    </body>
+<!-- BEGIN BODY -->
+</html>
+
+2017-11-09 08:52:18 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+2017-11-09 08:52:18 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+2017-11-09 08:56:19 --> applicant_monitoring --> update --> status_id --> 7 --> 8

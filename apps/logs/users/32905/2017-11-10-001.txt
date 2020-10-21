@@ -1,0 +1,26 @@
+2017-11-10 09:45:22 --> authentication --> login --> login -->  --> 
+2017-11-10 09:46:05 --> authentication --> logout --> logout -->  --> 
+2017-11-10 09:48:19 --> authentication --> login --> login -->  --> 
+2017-11-10 10:04:02 --> users --> update --> hash --> $2a$08$VlWpVg/ngpSsIMcK2oztjeRrskRg8fKLYtBDCOti52uvQrnz5Pxam --> $2a$08$uMRB7nY3/XkgqfC7QTMuW.9yn/YuTBmIxX8AwCHlRwnLZ0H9Q4kG2
+2017-11-10 10:04:02 --> users --> update --> active --> 1 --> 1 else 0
+2017-11-10 10:04:26 --> users --> update --> hash --> $2a$08$0fnEyveCNHAKZx97px6k8ewyLfjhFj.8lxOyntIsxwbqYKFGV9rAi --> $2a$08$T8zCx5lX5N.awtdh.QkA2.DO7OBSmk6nBEeHYaPgm/DgxHbpjtAXq
+2017-11-10 10:04:26 --> users --> update --> active --> 1 --> 1 else 0
+2017-11-10 10:05:31 --> users --> update --> hash --> $2a$08$VhQ2aTp96jkzVrqHF0PAJeW4dM1q5Js3qxf3pXQC/uR2p3WtuXtoa --> $2a$08$QJAnh9nUacjU0cCxKt7ewOtvpTXNOaoRO4L5Ch6zdrun/s/b9Vu.S
+2017-11-10 10:05:31 --> users --> update --> active --> 1 --> 1 else 0
+2017-11-10 10:05:31 --> users --> update --> email -->  --> dannica_m@abrahamholdings.ph
+2017-11-10 10:05:31 --> users --> update --> birth_date -->  --> 1970-01-01
+2017-11-10 10:05:36 --> authentication --> logout --> logout -->  --> 
+2017-11-10 10:21:24 --> authentication --> login --> login -->  --> 
+2017-11-10 10:21:39 --> authentication --> logout --> logout -->  --> 
+2017-11-10 10:23:49 --> authentication --> login --> login -->  --> 
+2017-11-10 10:26:07 --> authentication --> logout --> logout -->  --> 
+2017-11-10 10:27:31 --> authentication --> login --> login -->  --> 
+2017-11-10 10:28:10 --> authentication --> logout --> logout -->  --> 
+2017-11-10 10:29:29 --> authentication --> login --> login -->  --> 
+2017-11-10 10:29:49 --> authentication --> logout --> logout -->  --> 
+2017-11-10 10:36:50 --> authentication --> login --> login -->  --> 
+2017-11-10 10:37:20 --> authentication --> logout --> logout -->  --> 
+2017-11-10 10:38:54 --> authentication --> login --> login -->  --> 
+2017-11-10 10:42:42 --> authentication --> logout --> logout -->  --> 
+2017-11-10 10:44:42 --> authentication --> login --> login -->  --> 
+2017-11-10 15:48:44 --> authentication --> logout --> logout -->  --> 

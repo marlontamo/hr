@@ -1,0 +1,36 @@
+2017-10-26 11:26:56 --> authentication --> login --> login -->  --> 
+2017-10-26 11:27:10 --> authentication --> logout --> logout -->  --> 
+2017-10-26 11:30:39 --> authentication --> login --> login -->  --> 
+2017-10-26 11:35:48 --> authentication --> logout --> logout -->  --> 
+2017-10-26 11:36:47 --> authentication --> login --> login -->  --> 
+2017-10-26 11:37:32 --> authentication --> logout --> logout -->  --> 
+2017-10-26 11:39:41 --> authentication --> login --> login -->  --> 
+2017-10-26 11:40:01 --> authentication --> logout --> logout -->  --> 
+2017-10-26 11:42:32 --> authentication --> login --> login -->  --> 
+2017-10-26 11:44:08 --> authentication --> logout --> logout -->  --> 
+2017-10-26 11:48:32 --> authentication --> login --> login -->  --> 
+2017-10-26 11:48:39 --> authentication --> logout --> logout -->  --> 
+2017-10-26 11:49:24 --> authentication --> login --> login -->  --> 
+2017-10-26 11:49:48 --> authentication --> logout --> logout -->  --> 
+2017-10-26 11:52:19 --> authentication --> login --> login -->  --> 
+2017-10-26 11:52:33 --> authentication --> logout --> logout -->  --> 
+2017-10-26 11:53:08 --> authentication --> login --> login -->  --> 
+2017-10-26 11:53:35 --> authentication --> logout --> logout -->  --> 
+2017-10-26 11:54:56 --> authentication --> login --> login -->  --> 
+2017-10-26 13:18:22 --> authentication --> logout --> logout -->  --> 
+2017-10-26 13:21:56 --> authentication --> login --> login -->  --> 
+2017-10-26 13:22:08 --> authentication --> logout --> logout -->  --> 
+2017-10-26 15:41:30 --> authentication --> login --> login -->  --> 
+2017-10-26 16:28:35 --> users --> update --> hash --> $2a$08$4wCTilY8O6Pbw9cDQToF9u46oDc5tILblNTW0fQN6JKEMGyfV8H3. --> $2a$08$mk7GW7IXPIy7a0zFJ4fQ1.pS4IYaWx/PEm/5QMJUiVacYLRzs0hxK
+2017-10-26 16:28:35 --> users --> update --> active --> 1 --> 1 else 0
+2017-10-26 16:29:22 --> users --> update --> hash --> $2a$08$m.nefGyBNoSvfw10KNv.lOdi3y80Mp2AjXMuJ6Nyji5qsTMBrLKNq --> $2a$08$Ql9TtHWQtdfYWWqggxte1.vbF/6ZxM3trWNl4ejAvGHZVtY62jClK
+2017-10-26 16:29:22 --> users --> update --> active --> 1 --> 1 else 0
+2017-10-26 16:29:48 --> users --> update --> hash --> $2a$08$uRnSt7vUHsFJLFRJPp8C2OysQbg2u5JcGJ7waUCuQy271PN4/0OJC --> $2a$08$C6TIvqTk7h/X2w/wew9ebOXKrzdaDmwA3469/HYkPic6wQq1zqu/C
+2017-10-26 16:29:48 --> users --> update --> active --> 1 --> 1 else 0
+2017-10-26 16:30:15 --> users --> update --> hash --> $2a$08$9rgfpcpgMwo3suVFn0s9h.BC8Rus9QJcDrhBdayP4lW8NSlIvymce --> $2a$08$SCflgAOoY7KraAaZ41N5reoM5xqzENX4wuvEpqiV.6AZ5kfcSjB2O
+2017-10-26 16:30:15 --> users --> update --> active --> 1 --> 1 else 0
+2017-10-26 16:30:28 --> authentication --> logout --> logout -->  --> 
+2017-10-26 16:30:37 --> authentication --> login --> login -->  --> 
+2017-10-26 16:31:36 --> authentication --> logout --> logout -->  --> 
+2017-10-26 16:35:53 --> authentication --> login --> login -->  --> 
+2017-10-26 16:46:54 --> authentication --> logout --> logout -->  --> 

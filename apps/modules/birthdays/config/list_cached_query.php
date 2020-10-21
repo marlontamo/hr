@@ -1,0 +1,3 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["list_cached_query"] = 'SELECT `ww_users_profile`.`user_id` as record_id, `ww_users_profile`.`created_on` as "users_profile_created_on", `ww_users_profile`.`created_by` as "users_profile_created_by", `ww_users_profile`.`modified_on` as "users_profile_modified_on", `ww_users_profile`.`modified_by` as "users_profile_modified_by"
+FROM (`ww_users_profile`)';

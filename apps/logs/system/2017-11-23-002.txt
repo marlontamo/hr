@@ -1,0 +1,136 @@
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 13:28:43 --> applicant_monitoring --> insert --> to -->  --> ian_o@abrahamholdings.ph
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 13:28:43 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 13:28:43 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>Dear Joseph Ian Calamiong Orbeso,</p>
+<p>
+	Thank you for your interest in applying for the ACCOUNTING ASSISTANT position. We would like to invite you for an interview at Abraham Holdings, Inc.. Please see information below:</p>
+<p>
+	Date: November 23, 2017
+	<br>
+	Time: 01:30 pm
+	<br>
+	Venue: 770 E. Rodriguez Ext., Malibay, Pasay City</p>
+
+<p>
+	Kindly look for FELIPE FADEROGAO</p>
+
+<p>
+	Should you have queries, please do not hesitate to contact us on 8893935</p>
+
+<p>
+	Sincerely,</p>
+<p>
+	HR- Recruitment Team &ndash; ABHI</p>
+<br>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 13:28:43 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 13:28:43 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 13:30:23 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 13:30:23 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 13:30:51 --> applicant_monitoring --> update --> status_id --> 3 --> 4
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 13:32:06 --> applicant_monitoring --> update --> status_id --> 3 --> 5
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 13:32:06 --> applicant_monitoring --> update --> status_id --> 4 --> 5
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 13:32:42 --> applicant_monitoring --> insert --> type -->  --> 2
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 13:32:42 --> applicant_monitoring --> insert --> process_id -->  --> 2
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 13:32:42 --> applicant_monitoring --> insert --> date -->  --> 2017-11-30 01:00:00
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 13:32:42 --> applicant_monitoring --> insert --> user_id -->  --> 10
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 13:32:42 --> applicant_monitoring --> insert --> location_id -->  --> 1
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 13:32:42 --> applicant_monitoring --> insert --> schedule_id -->  --> 5
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 13:32:42 --> applicant_monitoring --> insert --> to -->  --> franz_g@abrahamholdings.ph
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 13:32:42 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 13:32:42 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>
+	Hi FRANCIA GENER,</p>
+<p>
+	Good day!</p>
+
+<p>
+	This is to inform you that you are scheduled for an interview of Joseph Ian Calamiong Orbeso, for the position of ACCOUNTING ASSISTANT. Below are the details and schedule:</p>
+<p>
+	Applicant Name: Joseph Ian Calamiong Orbeso
+	<br>
+	Position: ACCOUNTING ASSISTANT
+	<br>
+	Date: November 30, 2017
+	<br>
+	Time: 01:00 am
+</p>
+<p>
+	In case you are not available on the said dates, please do not hesitate to contact one of our HR-Recruitment Team.</p>
+<p>
+	Thank you and Regards,</p>
+<p>
+	HR-Recruitment Team</p>
+
+<br>
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 13:32:42 --> applicant_monitoring --> insert --> to -->  --> ian_o@abrahamholdings.ph
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 13:32:42 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 13:32:42 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>Dear Joseph Ian Calamiong Orbeso,</p>
+<p>
+	Thank you for your interest in applying for the ACCOUNTING ASSISTANT position. We would like to invite you for an interview at Abraham Holdings, Inc.. Please see information below:</p>
+<p>
+	Date: November 30, 2017
+	<br>
+	Time: 01:00 am
+	<br>
+	Venue: 770 E. Rodriguez Ext., Malibay, Pasay City</p>
+
+<p>
+	Kindly look for FRANCIA GENER</p>
+
+<p>
+	Should you have queries, please do not hesitate to contact us on 8893935</p>
+
+<p>
+	Sincerely,</p>
+<p>
+	HR- Recruitment Team &ndash; ABHI</p>
+<br>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 13:32:42 --> applicant_monitoring --> update --> status_id --> 5 --> 2
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 13:32:42 --> applicant_monitoring --> update --> from_seting_final_interview --> 0 --> 2
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 13:32:42 --> applicant_monitoring --> update --> status_id --> 5 --> 2
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 13:32:42 --> applicant_monitoring --> update --> from_seting_final_interview --> 0 --> 2
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 13:36:17 --> authentication --> logout --> logout -->  --> 
+GENER, FRANCIA (00212) --> 2017-11-23 13:36:24 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-23 14:00:12 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-23 14:10:48 --> authentication --> logout --> logout -->  --> 
+JAMORA, JIMELYN (32581) --> 2017-11-23 14:10:59 --> authentication --> login --> login -->  --> 
+JAMORA, JIMELYN (32581) --> 2017-11-23 14:11:27 --> authentication --> logout --> logout -->  --> 
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 14:11:39 --> authentication --> login --> login -->  --> 
+ORBESO, JOSEPH IAN (33061) --> 2017-11-23 14:18:15 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-11-23 14:32:03 --> authentication --> login --> login -->  --> 

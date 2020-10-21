@@ -1,0 +1,4 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["edit_cached_query"] = 'SELECT `ww_system_email_queue`.`id` as record_id, ww_system_email_queue.sent_on as "system_email_queue.sent_on", ww_system_email_queue.status as "system_email_queue.status", ww_system_email_queue.body as "system_email_queue.body", ww_system_email_queue.subject as "system_email_queue.subject", ww_system_email_queue.bcc as "system_email_queue.bcc", ww_system_email_queue.cc as "system_email_queue.cc", ww_system_email_queue.to as "system_email_queue.to", ww_system_email_queue.timein as "system_email_queue.timein"
+FROM (`ww_system_email_queue`)
+WHERE `ww_system_email_queue`.`id` = "{$record_id}"';

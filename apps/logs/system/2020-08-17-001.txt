@@ -1,0 +1,7 @@
+LOPEZ, PAOLO (02115) --> 2020-08-17 15:15:41 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2020-08-17 15:23:54 --> branch --> insert --> branch -->  --> Kalinisan Workers - Confi
+LOPEZ, PAOLO (02115) --> 2020-08-17 15:23:54 --> branch --> insert --> branch_code -->  --> KWSCCON
+LOPEZ, PAOLO (02115) --> 2020-08-17 15:23:54 --> branch --> insert --> status_id -->  --> 1
+LOPEZ, PAOLO (02115) --> 2020-08-17 15:24:55 --> branch --> insert --> branch -->  --> Kalinisan Workers - NConfi
+LOPEZ, PAOLO (02115) --> 2020-08-17 15:24:55 --> branch --> insert --> branch_code -->  --> KWSCNCON
+LOPEZ, PAOLO (02115) --> 2020-08-17 15:24:55 --> branch --> insert --> status_id -->  --> 1

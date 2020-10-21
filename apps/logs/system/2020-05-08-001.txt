@@ -1,0 +1,69 @@
+ABULENCIA, AMYRA (33176) --> 2020-05-08 13:49:15 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-05-08 13:51:40 --> users --> update --> hash --> $2a$08$YnLFeMQdGLwP.LoycPQseO2Vgm2hsRMsMqo70QIf3t7sndpCQS0dW --> $2a$08$pUxMQpPEH6PZCt..Hjc/Fe7OMfwiJeDgOiK7v7.9CKpRLPzmhYu4S
+ABULENCIA, AMYRA (33176) --> 2020-05-08 13:51:40 --> users --> update --> active --> 1 --> 1 else 0
+ABULENCIA, AMYRA (33176) --> 2020-05-08 13:51:49 --> authentication --> logout --> logout -->  --> 
+ESTAVILLO, KYLE MATTHEW (33418) --> 2020-05-08 13:52:29 --> authentication --> login --> login -->  --> 
+ESTAVILLO, KYLE MATTHEW (33418) --> 2020-05-08 13:54:37 --> authentication --> logout --> logout -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-05-08 13:55:02 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-05-08 13:56:14 --> users --> update --> hash --> $2a$08$70XEmrvSo8R7AT8K0sUl0.9AMHgY/nVbq.x7zSmJIJdHYI17qtcEy --> $2a$08$.sQQU.LTAsEuUhO7q.HRZeDiiZSrWwG3MsGquvRlJbsIA0fSB5MHW
+ABULENCIA, AMYRA (33176) --> 2020-05-08 13:56:14 --> users --> update --> active --> 1 --> 1 else 0
+ABULENCIA, AMYRA (33176) --> 2020-05-08 13:56:20 --> authentication --> logout --> logout -->  --> 
+ZAMORA, MELCHOR (01028) --> 2020-05-08 13:56:32 --> authentication --> login --> login -->  --> 
+ZAMORA, MELCHOR (01028) --> 2020-05-08 13:57:51 --> authentication --> logout --> logout -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-05-08 13:58:21 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2020-05-08 14:01:16 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2020-05-08 14:01:56 --> authentication --> logout --> logout -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-05-08 14:02:42 --> users --> update --> hash --> $2a$08$zjEGWQMRO27.VITeZmPGKu/vHyHnOyPWMjeq/Rscpythtiw6K.NWO --> $2a$08$ITPKKkQ4atXlxwUNPH23cOT/ALjnMewlYfDvwVdK0hWaZQkrdUFZO
+ABULENCIA, AMYRA (33176) --> 2020-05-08 14:02:42 --> users --> update --> active --> 1 --> 1 else 0
+ELISCUPIDES, ROWENA (00273) --> 2020-05-08 14:02:58 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2020-05-08 14:03:37 --> authentication --> logout --> logout -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-05-08 14:05:14 --> users --> update --> hash --> $2a$08$pUxMQpPEH6PZCt..Hjc/Fe7OMfwiJeDgOiK7v7.9CKpRLPzmhYu4S --> $2a$08$nrNEm16Gw8PlsvzbH8XFye8DB5SnDwBH.nvs6gLY/BLuqiOhxib8K
+ABULENCIA, AMYRA (33176) --> 2020-05-08 14:05:14 --> users --> update --> active --> 1 --> 1 else 0
+ABULENCIA, AMYRA (33176) --> 2020-05-08 14:06:47 --> users --> update --> hash --> $2a$08$nrNEm16Gw8PlsvzbH8XFye8DB5SnDwBH.nvs6gLY/BLuqiOhxib8K --> $2a$08$Tks2gaZneJkZAvlYoMgs9eTrupmCJ0gcD4nZriTfH7cXR5T6YDrLm
+ABULENCIA, AMYRA (33176) --> 2020-05-08 14:06:47 --> users --> update --> active --> 1 --> 1 else 0
+ABULENCIA, AMYRA (33176) --> 2020-05-08 14:07:20 --> users --> update --> active --> 1 --> 1 else 0
+ABULENCIA, AMYRA (33176) --> 2020-05-08 14:07:26 --> authentication --> logout --> logout -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-05-08 14:07:56 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-05-08 14:08:55 --> users --> update --> hash --> $2a$08$Tks2gaZneJkZAvlYoMgs9eTrupmCJ0gcD4nZriTfH7cXR5T6YDrLm --> $2a$08$6nQ5N6zGT2pzAhK/ZLdJBOH5V.q6dqJ8ytEORxvJYDf1ZTsAfugvC
+ABULENCIA, AMYRA (33176) --> 2020-05-08 14:08:55 --> users --> update --> active --> 1 --> 1 else 0
+ABULENCIA, AMYRA (33176) --> 2020-05-08 14:09:44 --> authentication --> logout --> logout -->  --> 
+ESTAVILLO, KYLE MATTHEW (33418) --> 2020-05-08 14:10:26 --> authentication --> login --> login -->  --> 
+ESTAVILLO, KYLE MATTHEW (33418) --> 2020-05-08 14:11:48 --> authentication --> logout --> logout -->  --> 
+ZAMORA, MELCHOR (01028) --> 2020-05-08 14:12:54 --> authentication --> login --> login -->  --> 
+ZAMORA, MELCHOR (01028) --> 2020-05-08 14:15:02 --> authentication --> logout --> logout -->  --> 
+ESTAVILLO, KYLE MATTHEW (33418) --> 2020-05-08 14:15:16 --> authentication --> login --> login -->  --> 
+ESTAVILLO, KYLE MATTHEW (33418) --> 2020-05-08 14:17:29 --> authentication --> logout --> logout -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-05-08 14:17:37 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-05-08 14:21:34 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2020-05-08 14:21:48 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2020-05-08 14:21:50 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2020-05-08 14:24:07 --> authentication --> logout --> logout -->  --> 
+ZAMORA, MELCHOR (01028) --> 2020-05-08 14:24:22 --> authentication --> login --> login -->  --> 
+ZAMORA, MELCHOR (01028) --> 2020-05-08 14:24:25 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-05-08 14:25:53 --> authentication --> login --> login -->  --> 
+ZAMORA, MELCHOR (01028) --> 2020-05-08 14:30:33 --> authentication --> logout --> logout -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-05-08 14:31:40 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-05-08 14:33:00 --> users --> update --> hash --> $2a$08$a9j3hX4ETReRode.YBsiDOQJXSeOWs9EoF79OQFeHoJikxsJCNuDW --> $2a$08$PsdnailwDeopsTR8ydHNROT3cTI6fIwSNomz5AVxe6uqSmPVrlQYy
+ABULENCIA, AMYRA (33176) --> 2020-05-08 14:33:00 --> users --> update --> active --> 1 --> 1 else 0
+ABULENCIA, AMYRA (33176) --> 2020-05-08 14:34:14 --> users --> update --> hash --> $2a$08$3EFw.gS6IBrQtSGl2ohqF.98mj.3nLCp6nwZNyPyIdsmq9.6iBNtC --> $2a$08$Cox4/HyaiueTOnZKr0ANreQRD1tOlYPG7EIPsOkTS7xNgskXS4ee.
+ABULENCIA, AMYRA (33176) --> 2020-05-08 14:34:14 --> users --> update --> active --> 1 --> 1 else 0
+ABULENCIA, AMYRA (33176) --> 2020-05-08 14:34:17 --> users --> update --> hash --> $2a$08$Cox4/HyaiueTOnZKr0ANreQRD1tOlYPG7EIPsOkTS7xNgskXS4ee. --> $2a$08$7YJX.AdPDI9wwNmwmPncTudvr5HV4wofhYh7.nV.mGvjLfgJpTxiK
+ABULENCIA, AMYRA (33176) --> 2020-05-08 14:34:17 --> users --> update --> active --> 1 --> 1 else 0
+ABULENCIA, AMYRA (33176) --> 2020-05-08 14:36:13 --> users --> update --> hash --> $2a$08$hr/94LwiQ40gqLDkYscBf.LQq5cQQ4Qh3xcrsm1j7zBQvlc3FRxXW --> $2a$08$eh4Ju4cJvw6NKn8wd3zPQesgef08X./ZaD.0eu2AaDwIohIn9iQDa
+ABULENCIA, AMYRA (33176) --> 2020-05-08 14:36:13 --> users --> update --> active --> 1 --> 1 else 0
+ABULENCIA, AMYRA (33176) --> 2020-05-08 14:37:11 --> users --> update --> hash --> $2a$08$imr5iyC6LwEw8NnoSOugZOyo4VKov/9uO5TniaHxj9mY57vQUt2.O --> $2a$08$Q7RJgctPAahUN3Dt62W1feHWRpnqIk9PFEFr.OZbb5NqhGoNT7Qpi
+ABULENCIA, AMYRA (33176) --> 2020-05-08 14:37:11 --> users --> update --> active --> 1 --> 1 else 0
+ABULENCIA, AMYRA (33176) --> 2020-05-08 14:37:23 --> authentication --> logout --> logout -->  --> 
+FADEROGAO, FELIPE (32194) --> 2020-05-08 14:37:38 --> authentication --> login --> login -->  --> 
+FADEROGAO, FELIPE (32194) --> 2020-05-08 14:39:12 --> authentication --> logout --> logout -->  --> 
+CARMEN, MA RITA (00108) --> 2020-05-08 14:39:27 --> authentication --> login --> login -->  --> 
+CARMEN, MA RITA (00108) --> 2020-05-08 14:40:50 --> authentication --> logout --> logout -->  --> 
+FELIPE, JOSELITO (33629) --> 2020-05-08 14:41:02 --> authentication --> login --> login -->  --> 
+FELIPE, JOSELITO (33629) --> 2020-05-08 14:43:01 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2020-05-08 14:43:14 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2020-05-08 14:56:32 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2020-05-08 14:58:33 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2020-05-08 15:00:07 --> authentication --> logout --> logout -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-05-08 15:00:54 --> authentication --> logout --> logout -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-05-08 15:01:02 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-05-08 15:05:33 --> authentication --> logout --> logout -->  --> 

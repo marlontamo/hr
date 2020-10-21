@@ -1,0 +1,4 @@
+Admin, Teemworx (admin) --> 2017-08-23 15:58:57 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-08-23 16:10:06 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-08-23 16:10:15 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-08-23 16:35:51 --> authentication --> logout --> logout -->  --> 

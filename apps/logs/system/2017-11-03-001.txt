@@ -1,0 +1,2 @@
+POLONAN, MARIA LEE (31002) --> 2017-11-03 16:48:13 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-03 16:52:50 --> authentication --> logout --> logout -->  --> 

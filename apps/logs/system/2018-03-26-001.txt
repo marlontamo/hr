@@ -1,0 +1,10 @@
+Admin, Teemworx (admin) --> 2018-03-26 17:33:52 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-03-26 17:34:36 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2018-03-26 17:34:46 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2018-03-26 17:36:22 --> authentication --> logout --> logout -->  --> 
+BAUTISTA, NESTOR JR(32642) --> 2018-03-26 17:36:34 --> authentication --> login --> login -->  --> 
+BAUTISTA, NESTOR JR(32642) --> 2018-03-26 17:38:00 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2018-03-26 17:38:14 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2018-03-26 17:39:44 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2018-03-26 20:58:37 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2018-03-26 21:03:07 --> authentication --> logout --> logout -->  --> 

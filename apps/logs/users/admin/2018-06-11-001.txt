@@ -1,0 +1,10 @@
+2018-06-11 15:03:28 --> authentication --> login --> login -->  --> 
+2018-06-11 15:07:14 --> authentication --> logout --> logout -->  --> 
+2018-06-11 15:10:49 --> authentication --> login --> login -->  --> 
+2018-06-11 15:13:45 --> shift --> insert --> shift -->  --> test shift
+2018-06-11 15:13:45 --> shift --> insert --> time_start -->  --> 08:00:00
+2018-06-11 15:13:45 --> shift --> insert --> time_end -->  --> 17:00:00
+2018-06-11 15:34:19 --> authentication --> logout --> logout -->  --> 
+2018-06-11 16:23:17 --> authentication --> login --> login -->  --> 
+2018-06-11 16:23:21 --> authentication --> login --> login -->  --> 
+2018-06-11 16:30:06 --> authentication --> logout --> logout -->  --> 

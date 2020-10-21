@@ -1,0 +1,104 @@
+Admin, Teemworx (admin) --> 2018-04-26 10:06:19 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-04-26 10:07:41 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2018-04-26 10:07:56 --> authentication --> login --> login -->  --> 
+GARCES, JOCELYN (00451) --> 2018-04-26 10:08:55 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2018-04-26 10:09:10 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2018-04-26 10:09:50 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2018-04-26 10:10:05 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2018-04-26 10:10:51 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2018-04-26 10:11:18 --> authentication --> login --> login -->  --> 
+GARCES, JOCELYN (00451) --> 2018-04-26 10:11:43 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-04-26 10:12:04 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-04-26 10:20:39 --> profiles --> edit --> profile_id -->  --> 25
+Admin, Teemworx (admin) --> 2018-04-26 10:20:39 --> profiles --> edit --> mod_id -->  --> 3
+Admin, Teemworx (admin) --> 2018-04-26 10:20:39 --> profiles --> edit --> sensitivity_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-04-26 10:20:39 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2018-04-26 10:20:39 --> profiles --> edit --> profile_id -->  --> 25
+Admin, Teemworx (admin) --> 2018-04-26 10:20:39 --> profiles --> edit --> mod_id -->  --> 3
+Admin, Teemworx (admin) --> 2018-04-26 10:20:39 --> profiles --> edit --> sensitivity_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-04-26 10:20:39 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2018-04-26 10:20:39 --> profiles --> edit --> profile_id -->  --> 25
+Admin, Teemworx (admin) --> 2018-04-26 10:20:39 --> profiles --> edit --> mod_id -->  --> 3
+Admin, Teemworx (admin) --> 2018-04-26 10:20:39 --> profiles --> edit --> sensitivity_id -->  --> 3
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> profile_id -->  --> 25
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> mod_id -->  --> 3
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> sensitivity_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> profile_id -->  --> 25
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> mod_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> sensitivity_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> profile_id -->  --> 25
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> mod_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> sensitivity_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> profile_id -->  --> 25
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> mod_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> sensitivity_id -->  --> 3
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> profile_id -->  --> 25
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> mod_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> sensitivity_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> profile_id -->  --> 25
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> mod_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> sensitivity_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> profile_id -->  --> 25
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> mod_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> sensitivity_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> profile_id -->  --> 25
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> mod_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> sensitivity_id -->  --> 3
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> profile_id -->  --> 25
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> mod_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> sensitivity_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> profile_id -->  --> 25
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> profile_id -->  --> 25
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> mod_id -->  --> 252
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> profile_id -->  --> 25
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> mod_id -->  --> 254
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> profile_id -->  --> 25
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> mod_id -->  --> 254
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> profile_id -->  --> 25
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> mod_id -->  --> 255
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> profile_id -->  --> 25
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> mod_id -->  --> 255
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> profile_id -->  --> 25
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> mod_id -->  --> 256
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> profile_id -->  --> 25
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> mod_id -->  --> 256
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> profile_id -->  --> 25
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> mod_id -->  --> 239
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> profile_id -->  --> 25
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> mod_id -->  --> 239
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> profile_id -->  --> 25
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> mod_id -->  --> 91
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-04-26 10:20:40 --> profiles --> edit --> profile_id -->  --> 25

@@ -1,0 +1,119 @@
+DE LEON, LISSA (30991) --> 2017-10-26 01:15:25 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-10-26 01:18:57 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-10-26 09:56:57 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-10-26 10:03:37 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 11:26:56 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 11:27:10 --> authentication --> logout --> logout -->  --> 
+MANALO, ADRIAN (32824) --> 2017-10-26 11:27:36 --> authentication --> login --> login -->  --> 
+MANALO, ADRIAN (32824) --> 2017-10-26 11:28:53 --> authentication --> logout --> logout -->  --> 
+PRESTOZA, MICHELLE (31108) --> 2017-10-26 11:29:15 --> authentication --> login --> login -->  --> 
+PRESTOZA, MICHELLE (31108) --> 2017-10-26 11:29:26 --> authentication --> logout --> logout -->  --> 
+MANALO, ADRIAN (32824) --> 2017-10-26 11:29:42 --> authentication --> login --> login -->  --> 
+MANALO, ADRIAN (32824) --> 2017-10-26 11:30:08 --> authentication --> logout --> logout -->  --> 
+MANALO, ADRIAN (32824) --> 2017-10-26 11:30:22 --> authentication --> login --> login -->  --> 
+MANALO, ADRIAN (32824) --> 2017-10-26 11:30:33 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 11:30:39 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 11:35:48 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-26 11:35:55 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-26 11:36:28 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 11:36:47 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 11:37:32 --> authentication --> logout --> logout -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-10-26 11:37:42 --> authentication --> login --> login -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-10-26 11:39:35 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 11:39:41 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 11:40:01 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-26 11:40:07 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-26 11:40:46 --> authentication --> logout --> logout -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-10-26 11:40:55 --> authentication --> login --> login -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-10-26 11:42:26 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 11:42:32 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 11:44:08 --> authentication --> logout --> logout -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2017-10-26 11:44:17 --> authentication --> login --> login -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2017-10-26 11:45:38 --> authentication --> logout --> logout -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2017-10-26 11:46:31 --> authentication --> login --> login -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2017-10-26 11:48:24 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 11:48:32 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 11:48:39 --> authentication --> logout --> logout -->  --> 
+PRESTOZA, MICHELLE (31108) --> 2017-10-26 11:48:48 --> authentication --> login --> login -->  --> 
+PRESTOZA, MICHELLE (31108) --> 2017-10-26 11:48:56 --> authentication --> logout --> logout -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2017-10-26 11:49:04 --> authentication --> login --> login -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2017-10-26 11:49:19 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 11:49:24 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 11:49:48 --> authentication --> logout --> logout -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-10-26 11:49:56 --> authentication --> login --> login -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-10-26 11:52:11 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 11:52:19 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 11:52:33 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-26 11:52:41 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-26 11:52:56 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 11:53:08 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 11:53:35 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-10-26 11:53:44 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-10-26 11:53:57 --> authentication --> logout --> logout -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-10-26 11:54:05 --> authentication --> login --> login -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-10-26 11:54:28 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 11:54:56 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-10-26 12:16:34 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-10-26 12:16:45 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 13:18:22 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-26 13:18:32 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-26 13:19:40 --> authentication --> logout --> logout -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-10-26 13:19:59 --> authentication --> login --> login -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-10-26 13:21:50 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 13:21:56 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 13:22:08 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-26 13:22:13 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-26 13:22:29 --> authentication --> logout --> logout -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-10-26 13:22:38 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-10-26 14:12:07 --> authentication --> logout --> logout -->  --> 
+GENER, FRANCIA (00212) --> 2017-10-26 14:13:59 --> authentication --> login --> login -->  --> 
+GENER, FRANCIA (00212) --> 2017-10-26 14:19:19 --> mrf --> insert --> to -->  --> malou_s@legendhotels.com.ph
+GENER, FRANCIA (00212) --> 2017-10-26 14:19:19 --> mrf --> insert --> subject -->  --> Send email to approver
+GENER, FRANCIA (00212) --> 2017-10-26 14:19:19 --> mrf --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear SUNIGA, MA. LOURDES ,</p>
+
+        <p>
+            Please review Personnel Requisition Form requested by GENER, FRANCIA  for your approval.
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+GENER, FRANCIA (00212) --> 2017-10-26 14:19:30 --> authentication --> logout --> logout -->  --> 
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:19:50 --> authentication --> login --> login -->  --> 
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:20:36 --> mrf_manage --> insert --> to -->  --> a@a.com
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:20:36 --> mrf_manage --> insert --> subject -->  --> Send email to approver
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:20:36 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear KOE, ERLINDA ,</p>
+
+        <p>
+            Please review Personnel Requisition Form requested by GENER, FRANCIA  for your approval.
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:20:41 --> authentication --> logout --> logout -->  --> 
+KOE, ERLINDA (10012) --> 2017-10-26 14:21:00 --> authentication --> login --> login -->  --> 

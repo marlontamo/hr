@@ -1,0 +1,6 @@
+POLONAN, MARIA LEE (31002) --> 2018-04-10 20:29:13 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-10 20:56:28 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-10 21:02:14 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-10 21:03:51 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-10 21:37:26 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-10 21:47:05 --> authentication --> logout --> logout -->  --> 

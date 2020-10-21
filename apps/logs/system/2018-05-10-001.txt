@@ -1,0 +1,2 @@
+Admin, Teemworx (admin) --> 2018-05-10 10:32:52 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-05-10 10:34:49 --> authentication --> logout --> logout -->  --> 

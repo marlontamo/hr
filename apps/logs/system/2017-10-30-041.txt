@@ -1,0 +1,101 @@
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> action_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> mod_id -->  --> 129
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> action_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> mod_id -->  --> 129
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> action_id -->  --> 8
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> mod_id -->  --> 129
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> action_id -->  --> 9
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> mod_id -->  --> 129
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> action_id -->  --> 10
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> mod_id -->  --> 46
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> mod_id -->  --> 46
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> mod_id -->  --> 46
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> action_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> mod_id -->  --> 46
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> action_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> mod_id -->  --> 46
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> action_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> mod_id -->  --> 46
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> action_id -->  --> 7
+Admin, Teemworx (admin) --> 2017-10-30 12:04:34 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-10-30 12:04:42 --> authentication --> logout --> logout -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2017-10-30 12:06:02 --> authentication --> login --> login -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2017-10-30 12:06:37 --> authentication --> logout --> logout -->  --> 
+LINGO, LORILYN (01166) --> 2017-10-30 12:06:51 --> authentication --> login --> login -->  --> 
+LINGO, LORILYN (01166) --> 2017-10-30 12:16:00 --> authentication --> logout --> logout -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-10-30 12:23:15 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-30 12:42:17 --> authentication --> login --> login -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-10-30 12:55:31 --> authentication --> logout --> logout -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2017-10-30 12:55:41 --> authentication --> login --> login -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2017-10-30 12:56:18 --> authentication --> logout --> logout -->  --> 
+JAMORA, JIMELYN (32581) --> 2017-10-30 12:56:31 --> authentication --> login --> login -->  --> 
+JAMORA, JIMELYN (32581) --> 2017-10-30 12:57:15 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-30 12:57:23 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-30 12:58:52 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-30 12:59:23 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-30 14:23:57 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-10-30 19:19:44 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-30 21:04:22 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-10-30 21:04:28 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-10-30 21:19:18 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-30 21:19:33 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-10-30 21:23:20 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-10-30 21:24:24 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-30 21:40:30 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-10-30 21:40:40 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-10-30 21:49:06 --> authentication --> logout --> logout -->  --> 
+DE CASTRO, CHRISTINA ELENA (01713) --> 2017-10-30 21:49:23 --> authentication --> login --> login -->  --> 
+DE CASTRO, CHRISTINA ELENA (01713) --> 2017-10-30 21:59:13 --> authentication --> logout --> logout -->  --> 
+FUENTEBELLA JR., EDUARDO (32765) --> 2017-10-30 21:59:28 --> authentication --> login --> login -->  --> 
+FUENTEBELLA JR., EDUARDO (32765) --> 2017-10-30 21:59:30 --> authentication --> login --> login -->  --> 
+FUENTEBELLA JR., EDUARDO (32765) --> 2017-10-30 22:15:19 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-10-30 22:15:33 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-10-30 22:16:36 --> authentication --> logout --> logout -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2017-10-30 22:17:05 --> authentication --> login --> login -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2017-10-30 22:18:04 --> authentication --> logout --> logout -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-10-30 22:18:26 --> authentication --> login --> login -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-10-30 22:25:24 --> authentication --> logout --> logout -->  --> 
+JAMORA, JIMELYN (32581) --> 2017-10-30 22:25:41 --> authentication --> login --> login -->  --> 
+JAMORA, JIMELYN (32581) --> 2017-10-30 23:03:42 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-30 23:03:52 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-30 23:10:28 --> authentication --> logout --> logout -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2017-10-30 23:10:39 --> authentication --> login --> login -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2017-10-30 23:21:38 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-30 23:24:11 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-30 23:28:39 --> authentication --> logout --> logout -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2017-10-30 23:28:52 --> authentication --> login --> login -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2017-10-30 23:31:40 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-30 23:32:01 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-30 23:32:25 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-30 23:32:37 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-30 23:35:50 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-30 23:36:02 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-30 23:36:37 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-10-30 23:36:51 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-10-30 23:37:14 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-10-30 23:37:33 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-10-30 23:40:12 --> authentication --> logout --> logout -->  --> 
+VILLAMOR, ARNEL (33047) --> 2017-10-30 23:40:35 --> authentication --> login --> login -->  --> 
+VILLAMOR, ARNEL (33047) --> 2017-10-30 23:43:53 --> authentication --> logout --> logout -->  --> 

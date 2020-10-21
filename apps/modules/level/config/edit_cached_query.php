@@ -1,0 +1,4 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["edit_cached_query"] = 'SELECT `ww_play_level`.`level_id` as record_id, `ww_play_level`.`created_on` as "play_level.created_on", `ww_play_level`.`created_by` as "play_level.created_by", `ww_play_level`.`modified_on` as "play_level.modified_on", `ww_play_level`.`modified_by` as "play_level.modified_by", ww_play_level.description as "play_level.description", ww_play_level.points_to as "play_level.points_to", ww_play_level.points_fr as "play_level.points_fr", ww_play_level.league_id as "play_level.league_id", ww_play_level.level as "play_level.level"
+FROM (`ww_play_level`)
+WHERE `ww_play_level`.`level_id` = "{$record_id}"';

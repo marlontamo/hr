@@ -1,0 +1,85 @@
+2018-04-22 14:35:06 --> authentication --> login --> login -->  --> 
+2018-04-22 14:37:46 --> mrf --> insert --> to -->  --> christie_d@legendhotels.com.ph
+2018-04-22 14:37:46 --> mrf --> insert --> subject -->  --> Send email to approver
+2018-04-22 14:37:46 --> mrf --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear DE CASTRO, CHRISTINA ELENA ,</p>
+
+        <p>
+            Please review Personnel Requisition Form requested by REDAON, ROSEMARIE  for your approval.
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+2018-04-22 14:38:21 --> authentication --> logout --> logout -->  --> 
+2018-04-22 15:21:06 --> authentication --> login --> login -->  --> 
+2018-04-22 15:22:42 --> applicant_monitoring --> update --> process_id --> 0 --> 6
+2018-04-22 15:22:42 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+2018-04-22 15:22:42 --> applicant_monitoring --> update --> result -->  --> Consider
+2018-04-22 15:22:42 --> applicant_monitoring --> insert --> interview_id -->  --> 7
+2018-04-22 15:22:42 --> applicant_monitoring --> insert --> key_id -->  --> 31
+2018-04-22 15:22:42 --> applicant_monitoring --> insert --> key -->  --> remarks
+2018-04-22 15:22:42 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2018-04-22 15:22:42 --> applicant_monitoring --> insert --> key_name -->  --> Findings/Comments/Impressions
+2018-04-22 15:22:42 --> applicant_monitoring --> insert --> key_value -->  --> dsadsadsa
+2018-04-22 15:22:42 --> applicant_monitoring --> insert --> interview_id -->  --> 7
+2018-04-22 15:22:42 --> applicant_monitoring --> insert --> key_id -->  --> 66
+2018-04-22 15:22:42 --> applicant_monitoring --> insert --> key -->  --> interviewer
+2018-04-22 15:22:42 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2018-04-22 15:22:42 --> applicant_monitoring --> insert --> key_name -->  --> Interviewer
+2018-04-22 15:22:42 --> applicant_monitoring --> insert --> key_value -->  --> REDAON, ROSEMARIE
+2018-04-22 15:22:42 --> applicant_monitoring --> insert --> interview_id -->  --> 7
+2018-04-22 15:22:42 --> applicant_monitoring --> insert --> key_id -->  --> 64
+2018-04-22 15:22:42 --> applicant_monitoring --> insert --> key -->  --> interviewer_date
+2018-04-22 15:22:42 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2018-04-22 15:22:42 --> applicant_monitoring --> insert --> key_name -->  --> Date of Interviewer
+2018-04-22 15:22:42 --> applicant_monitoring --> insert --> key_value -->  --> April 22, 2018
+2018-04-22 15:22:42 --> applicant_monitoring --> insert --> interview_id -->  --> 7
+2018-04-22 15:22:42 --> applicant_monitoring --> insert --> key_id -->  --> 32
+2018-04-22 15:22:42 --> applicant_monitoring --> insert --> key -->  --> technical_recommendation
+2018-04-22 15:22:42 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2018-04-22 15:22:42 --> applicant_monitoring --> insert --> key_name -->  --> Recommendation
+2018-04-22 15:22:42 --> applicant_monitoring --> insert --> key_value -->  --> Consider
+2018-04-22 15:22:48 --> authentication --> logout --> logout -->  --> 
+2018-04-22 15:28:36 --> authentication --> login --> login -->  --> 
+2018-04-22 15:29:42 --> applicant_monitoring --> update --> process_id --> 0 --> 6
+2018-04-22 15:29:42 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+2018-04-22 15:29:42 --> applicant_monitoring --> update --> result -->  --> Consider
+2018-04-22 15:29:42 --> applicant_monitoring --> insert --> interview_id -->  --> 8
+2018-04-22 15:29:42 --> applicant_monitoring --> insert --> key_id -->  --> 31
+2018-04-22 15:29:42 --> applicant_monitoring --> insert --> key -->  --> remarks
+2018-04-22 15:29:42 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2018-04-22 15:29:42 --> applicant_monitoring --> insert --> key_name -->  --> Findings/Comments/Impressions
+2018-04-22 15:29:42 --> applicant_monitoring --> insert --> key_value -->  --> sdasdasda
+2018-04-22 15:29:42 --> applicant_monitoring --> insert --> interview_id -->  --> 8
+2018-04-22 15:29:42 --> applicant_monitoring --> insert --> key_id -->  --> 66
+2018-04-22 15:29:42 --> applicant_monitoring --> insert --> key -->  --> interviewer
+2018-04-22 15:29:42 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2018-04-22 15:29:42 --> applicant_monitoring --> insert --> key_name -->  --> Interviewer
+2018-04-22 15:29:42 --> applicant_monitoring --> insert --> key_value -->  --> REDAON, ROSEMARIE
+2018-04-22 15:29:42 --> applicant_monitoring --> insert --> interview_id -->  --> 8
+2018-04-22 15:29:42 --> applicant_monitoring --> insert --> key_id -->  --> 64
+2018-04-22 15:29:42 --> applicant_monitoring --> insert --> key -->  --> interviewer_date
+2018-04-22 15:29:42 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2018-04-22 15:29:42 --> applicant_monitoring --> insert --> key_name -->  --> Date of Interviewer
+2018-04-22 15:29:42 --> applicant_monitoring --> insert --> key_value -->  --> April 22, 2018
+2018-04-22 15:29:42 --> applicant_monitoring --> insert --> interview_id -->  --> 8
+2018-04-22 15:29:42 --> applicant_monitoring --> insert --> key_id -->  --> 32
+2018-04-22 15:29:42 --> applicant_monitoring --> insert --> key -->  --> technical_recommendation
+2018-04-22 15:29:42 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2018-04-22 15:29:42 --> applicant_monitoring --> insert --> key_name -->  --> Recommendation
+2018-04-22 15:29:42 --> applicant_monitoring --> insert --> key_value -->  --> Consider
+2018-04-22 15:31:11 --> applicant_monitoring --> update --> status_id --> 2 --> 6
+2018-04-22 15:31:12 --> applicant_monitoring --> update --> status_id --> 2 --> 6
+2018-04-22 15:31:40 --> authentication --> logout --> logout -->  --> 

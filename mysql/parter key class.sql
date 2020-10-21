@@ -1,0 +1,3 @@
+insert into `ww_partners_key_class` (`key_class_id`, `key_class_code`, `key_class`, `user_view`, `user_edit`, `for_approval`, `sort_order`, `deleted`) values('89','regularization_date','Regularization Date','1','0','0','1','0');
+insert into `ww_partners_key_class` (`key_class_id`, `key_class_code`, `key_class`, `user_view`, `user_edit`, `for_approval`, `sort_order`, `deleted`) values('90','bank_account_number_savings','Bank Account Number Savings','1','0','0','1','0');
+insert into `ww_partners_key_class` (`key_class_id`, `key_class_code`, `key_class`, `user_view`, `user_edit`, `for_approval`, `sort_order`, `deleted`) values('91','bank_account_number_current','Bank Account Number Current','1','0','0','1','0');

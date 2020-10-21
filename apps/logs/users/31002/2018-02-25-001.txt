@@ -1,0 +1,10 @@
+2018-02-25 23:25:58 --> authentication --> login --> login -->  --> 
+2018-02-25 23:32:35 --> users --> update --> hash --> $2a$08$uaWJwHlKsPmBtS4R3etfzOERO4ubjIGOwnTD2OyALV2OZFeTWxoKm --> $2a$08$iwEZq2JSRq.GT2UlsXG5Q.gJQR88kbSBAXj6f.ybvzX9x5JyKOqVu
+2018-02-25 23:32:35 --> users --> update --> active --> 1 --> 1 else 0
+2018-02-25 23:32:37 --> users --> update --> hash --> $2a$08$iwEZq2JSRq.GT2UlsXG5Q.gJQR88kbSBAXj6f.ybvzX9x5JyKOqVu --> $2a$08$J8jp8etCGpwUmq1BRofXr..EqpNi4EWAnHuJF706hNnZqFcR6tVeO
+2018-02-25 23:32:37 --> users --> update --> active --> 1 --> 1 else 0
+2018-02-25 23:32:43 --> authentication --> logout --> logout -->  --> 
+2018-02-25 23:38:38 --> authentication --> login --> login -->  --> 
+2018-02-25 23:38:52 --> authentication --> logout --> logout -->  --> 
+2018-02-25 23:49:36 --> authentication --> login --> login -->  --> 
+2018-02-25 23:58:34 --> authentication --> logout --> logout -->  --> 

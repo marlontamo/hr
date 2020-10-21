@@ -1,0 +1,67 @@
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:02 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:02 --> applicant_monitoring --> update --> result -->  --> Consider
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:02 --> applicant_monitoring --> insert --> interview_id -->  --> 4
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:02 --> applicant_monitoring --> insert --> key_id -->  --> 31
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:02 --> applicant_monitoring --> insert --> key -->  --> remarks
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:02 --> applicant_monitoring --> insert --> sequence -->  --> 1
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:02 --> applicant_monitoring --> insert --> key_name -->  --> Findings/Comments/Impressions
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:02 --> applicant_monitoring --> insert --> key_value -->  --> gfdfddfgd
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:02 --> applicant_monitoring --> insert --> interview_id -->  --> 4
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:02 --> applicant_monitoring --> insert --> key_id -->  --> 66
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:02 --> applicant_monitoring --> insert --> key -->  --> interviewer
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:02 --> applicant_monitoring --> insert --> sequence -->  --> 1
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:02 --> applicant_monitoring --> insert --> key_name -->  --> Interviewer
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:02 --> applicant_monitoring --> insert --> key_value -->  --> SUNIGA, MA. LOURDES
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:02 --> applicant_monitoring --> insert --> interview_id -->  --> 4
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:02 --> applicant_monitoring --> insert --> key_id -->  --> 64
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:02 --> applicant_monitoring --> insert --> key -->  --> interviewer_date
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:02 --> applicant_monitoring --> insert --> sequence -->  --> 1
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:02 --> applicant_monitoring --> insert --> key_name -->  --> Date of Interviewer
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:02 --> applicant_monitoring --> insert --> key_value -->  --> October 26, 2017
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:02 --> applicant_monitoring --> insert --> interview_id -->  --> 4
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:02 --> applicant_monitoring --> insert --> key_id -->  --> 32
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:02 --> applicant_monitoring --> insert --> key -->  --> technical_recommendation
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:02 --> applicant_monitoring --> insert --> sequence -->  --> 1
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:02 --> applicant_monitoring --> insert --> key_name -->  --> Recommendation
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:02 --> applicant_monitoring --> insert --> key_value -->  --> Consider
+SUNIGA, MA. LOURDES (00636) --> 2017-10-26 14:53:15 --> authentication --> logout --> logout -->  --> 
+KOE, ERLINDA (10012) --> 2017-10-26 14:53:23 --> authentication --> login --> login -->  --> 
+KOE, ERLINDA (10012) --> 2017-10-26 14:54:15 --> applicant_monitoring --> update --> process_id --> 0 --> 2
+KOE, ERLINDA (10012) --> 2017-10-26 14:54:15 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+KOE, ERLINDA (10012) --> 2017-10-26 14:54:15 --> applicant_monitoring --> update --> result -->  --> Consider
+KOE, ERLINDA (10012) --> 2017-10-26 14:54:15 --> applicant_monitoring --> insert --> interview_id -->  --> 5
+KOE, ERLINDA (10012) --> 2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key_id -->  --> 31
+KOE, ERLINDA (10012) --> 2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key -->  --> remarks
+KOE, ERLINDA (10012) --> 2017-10-26 14:54:15 --> applicant_monitoring --> insert --> sequence -->  --> 1
+KOE, ERLINDA (10012) --> 2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key_name -->  --> Findings/Comments/Impressions
+KOE, ERLINDA (10012) --> 2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key_value -->  --> ffsdfdsfdsfdsdfs
+KOE, ERLINDA (10012) --> 2017-10-26 14:54:15 --> applicant_monitoring --> insert --> interview_id -->  --> 5
+KOE, ERLINDA (10012) --> 2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key_id -->  --> 66
+KOE, ERLINDA (10012) --> 2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key -->  --> interviewer
+KOE, ERLINDA (10012) --> 2017-10-26 14:54:15 --> applicant_monitoring --> insert --> sequence -->  --> 1
+KOE, ERLINDA (10012) --> 2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key_name -->  --> Interviewer
+KOE, ERLINDA (10012) --> 2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key_value -->  --> KOE, ERLINDA
+KOE, ERLINDA (10012) --> 2017-10-26 14:54:15 --> applicant_monitoring --> insert --> interview_id -->  --> 5
+KOE, ERLINDA (10012) --> 2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key_id -->  --> 64
+KOE, ERLINDA (10012) --> 2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key -->  --> interviewer_date
+KOE, ERLINDA (10012) --> 2017-10-26 14:54:15 --> applicant_monitoring --> insert --> sequence -->  --> 1
+KOE, ERLINDA (10012) --> 2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key_name -->  --> Date of Interviewer
+KOE, ERLINDA (10012) --> 2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key_value -->  --> October 26, 2017
+KOE, ERLINDA (10012) --> 2017-10-26 14:54:15 --> applicant_monitoring --> insert --> interview_id -->  --> 5
+KOE, ERLINDA (10012) --> 2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key_id -->  --> 32
+KOE, ERLINDA (10012) --> 2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key -->  --> technical_recommendation
+KOE, ERLINDA (10012) --> 2017-10-26 14:54:15 --> applicant_monitoring --> insert --> sequence -->  --> 1
+KOE, ERLINDA (10012) --> 2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key_name -->  --> Recommendation
+KOE, ERLINDA (10012) --> 2017-10-26 14:54:15 --> applicant_monitoring --> insert --> key_value -->  --> Consider
+KOE, ERLINDA (10012) --> 2017-10-26 14:55:00 --> applicant_monitoring --> update --> status_id --> 2 --> 6
+KOE, ERLINDA (10012) --> 2017-10-26 14:55:00 --> applicant_monitoring --> update --> status_id --> 2 --> 6
+KOE, ERLINDA (10012) --> 2017-10-26 15:00:19 --> applicant_monitoring --> insert --> template_id -->  --> 1
+KOE, ERLINDA (10012) --> 2017-10-26 15:00:19 --> applicant_monitoring --> insert --> template_value -->  --> <div>26 October 2017<br><br><b>Mr. Maria Aquino<br></b>Address<b><br><br></b>Dear Mr. Aquino,<br><br>Praise God!<br><br>We are very pleased to confirm our offer of employment with <b>Legend Hotel International Corporation - The Legend Palawan</b> as _____________________ (job level)&nbsp; effective __________________________ with the following conditions:<br><br><br></div><div>1.&nbsp; Hiring rate on project based employment<br><blockquote>{{compensation}}<br></blockquote>2.&nbsp; Company sponsored benefits (subject to policies, system and procedures)<br><blockquote>2.1&nbsp; Duty Meals: Based on the approved duty meal policy<br></blockquote><blockquote>2.2&nbsp; Full sponsorship to external and internal trainings.<br></blockquote><blockquote>23.&nbsp; Government Mandated Benefits.<br></blockquote><br>Your employment contract shall be served as soon as we received from you the 2nd copy of this letter with your signature , and your submission of all pre-employment requirements.<br><br>Thank you very much and may God Bless you and your family.<br><br>Sicerely,<br><br>HRD OFFICER&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HRD MANAGER<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Mr. NELSON CHAVEZ</b><br><br><br>Received and accepted:<b>Mr. Maria Aquino</b><br>Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; :<br></div>
+KOE, ERLINDA (10012) --> 2017-10-26 15:00:19 --> applicant_monitoring --> insert --> reports_to -->  --> 10
+KOE, ERLINDA (10012) --> 2017-10-26 15:00:19 --> applicant_monitoring --> insert --> employment_status_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-10-26 15:00:19 --> applicant_monitoring --> insert --> no_months -->  --> 6
+KOE, ERLINDA (10012) --> 2017-10-26 15:00:19 --> applicant_monitoring --> insert --> start_date -->  --> 2017-12-01
+KOE, ERLINDA (10012) --> 2017-10-26 15:00:19 --> applicant_monitoring --> insert --> end_date -->  --> 2018-06-01
+KOE, ERLINDA (10012) --> 2017-10-26 15:00:19 --> applicant_monitoring --> insert --> work_schedule -->  --> 1
+KOE, ERLINDA (10012) --> 2017-10-26 15:00:19 --> applicant_monitoring --> insert --> accept_offer -->  --> 1
+KOE, ERLINDA (10012) --> 2017-10-26 15:00:19 --> applicant_monitoring --> insert --> process_id -->  --> 2

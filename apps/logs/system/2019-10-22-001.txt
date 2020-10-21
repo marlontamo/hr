@@ -1,0 +1,5 @@
+ALICANTE, LISSA (30991) --> 2019-10-22 17:32:19 --> authentication --> login --> login -->  --> 
+SELGA, YESTER (33382) --> 2019-10-22 17:35:23 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2019-10-22 17:35:53 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2019-10-22 17:38:16 --> authentication --> logout --> logout -->  --> 
+XYZ, ABC (33729) --> 2019-10-22 17:38:22 --> authentication --> login --> login -->  --> 

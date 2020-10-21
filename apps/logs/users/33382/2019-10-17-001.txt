@@ -1,0 +1,6 @@
+2019-10-17 11:15:40 --> authentication --> login --> login -->  --> 
+2019-10-17 11:20:54 --> authentication --> login --> login -->  --> 
+2019-10-17 11:21:02 --> authentication --> logout --> logout -->  --> 
+2019-10-17 13:58:05 --> authentication --> login --> login -->  --> 
+2019-10-17 13:58:29 --> authentication --> logout --> logout -->  --> 
+2019-10-17 17:42:47 --> authentication --> login --> login -->  --> 

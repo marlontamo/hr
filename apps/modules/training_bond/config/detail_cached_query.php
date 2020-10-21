@@ -1,0 +1,4 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["detail_cached_query"] = 'SELECT `ww_training_bond`.`bond_id` as record_id, `ww_training_bond`.`created_on` as "training_bond.created_on", `ww_training_bond`.`created_by` as "training_bond.created_by", `ww_training_bond`.`modified_on` as "training_bond.modified_on", `ww_training_bond`.`modified_by` as "training_bond.modified_by", ww_training_bond.rls_days as "training_bond.rls_days", ww_training_bond.rls_months as "training_bond.rls_months", ww_training_bond.cost_to as "training_bond.cost_to", ww_training_bond.cost_from as "training_bond.cost_from"
+FROM (`ww_training_bond`)
+WHERE `ww_training_bond`.`bond_id` = "{$record_id}"';

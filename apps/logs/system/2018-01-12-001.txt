@@ -1,0 +1,10 @@
+Admin, Teemworx (admin) --> 2018-01-12 00:07:04 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2018-01-12 00:07:22 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2018-01-12 00:07:31 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-01-12 00:07:41 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-01-12 00:21:38 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2018-01-12 00:21:53 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2018-01-12 00:22:35 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-01-12 00:23:40 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-01-12 00:36:29 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2018-01-12 16:46:02 --> authentication --> login --> login -->  --> 

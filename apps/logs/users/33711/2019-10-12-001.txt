@@ -1,0 +1,17 @@
+2019-10-12 08:24:08 --> authentication --> login --> login -->  --> 
+2019-10-12 09:39:30 --> authentication --> logout --> logout -->  --> 
+2019-10-12 09:39:48 --> authentication --> login --> login -->  --> 
+2019-10-12 09:40:36 --> authentication --> login --> login -->  --> 
+2019-10-12 09:40:55 --> authentication --> login --> login -->  --> 
+2019-10-12 09:41:21 --> authentication --> logout --> logout -->  --> 
+2019-10-12 09:41:31 --> authentication --> logout --> logout -->  --> 
+2019-10-12 09:41:46 --> authentication --> login --> login -->  --> 
+2019-10-12 09:43:59 --> authentication --> login --> login -->  --> 
+2019-10-12 09:44:27 --> authentication --> login --> login -->  --> 
+2019-10-12 09:46:05 --> authentication --> logout --> logout -->  --> 
+2019-10-12 09:46:49 --> authentication --> logout --> logout -->  --> 
+2019-10-12 09:46:55 --> authentication --> login --> login -->  --> 
+2019-10-12 09:47:39 --> authentication --> login --> login -->  --> 
+2019-10-12 09:50:31 --> authentication --> logout --> logout -->  --> 
+2019-10-12 09:50:51 --> authentication --> logout --> logout -->  --> 
+2019-10-12 10:01:30 --> authentication --> logout --> logout -->  --> 

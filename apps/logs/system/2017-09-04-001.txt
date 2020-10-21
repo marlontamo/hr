@@ -1,0 +1,6 @@
+DE LEON, LISSA (30991) --> 2017-09-04 12:02:43 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-09-04 12:12:12 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-09-04 16:11:26 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-09-04 16:11:45 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-09-04 16:11:53 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-09-04 16:18:46 --> authentication --> logout --> logout -->  --> 

@@ -1,0 +1,101 @@
+Admin, Teemworx (admin) --> 2017-11-15 11:28:50 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-11-15 11:29:41 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-15 11:29:55 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-15 11:30:27 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-11-15 11:30:41 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2017-11-15 11:31:22 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-15 11:31:34 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-15 11:32:36 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-11-15 11:34:23 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-11-15 03:35:10 --> report_generator --> update --> roles --> 1,2,3,4,5,6,7,8,9 --> 1,2,3,4,5,6,7,8,9,24,30
+Admin, Teemworx (admin) --> 2017-11-15 03:35:42 --> report_generator --> update --> roles --> 1,2,3,6,22,24 --> 1,2,3,6,22,24,30
+Admin, Teemworx (admin) --> 2017-11-15 11:35:46 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-15 11:35:53 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-15 11:45:24 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-11-15 11:45:43 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-11-15 03:47:14 --> report_generator --> update --> roles --> 1,2,6,8,22,24 --> 1,2,6,8,22,24,30
+Admin, Teemworx (admin) --> 2017-11-15 03:47:42 --> report_generator --> update --> roles --> 1,2,6,8,22,24 --> 1,2,6,8,22,24,30
+Admin, Teemworx (admin) --> 2017-11-15 03:48:06 --> report_generator --> update --> roles --> 1,2,8,22,24 --> 1,2,8,22,24,30
+Admin, Teemworx (admin) --> 2017-11-15 03:49:10 --> report_generator --> update --> roles --> 1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,27,28,29 --> 1,2,3,4,5,6,7,8,9,10,11,21,22,23,24,25,26,27,28,29,30
+Admin, Teemworx (admin) --> 2017-11-15 11:49:13 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-11-15 11:49:26 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-11-15 11:56:30 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-11-15 11:56:55 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-11-15 11:58:09 --> roles --> update --> role --> HR Administrator w/ Payroll --> Payroll Admin
+Admin, Teemworx (admin) --> 2017-11-15 11:58:09 --> roles --> update --> description --> HR Admin with Payroll Access --> Payroll Administrator
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> profile_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> mod_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> sensitivity_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> profile_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> mod_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> sensitivity_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> profile_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> mod_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> sensitivity_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> profile_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> mod_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> sensitivity_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> profile_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> mod_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> sensitivity_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> profile_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> mod_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> sensitivity_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> profile_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> mod_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> sensitivity_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> profile_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> mod_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> sensitivity_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> profile_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> mod_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> sensitivity_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> profile_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> mod_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> sensitivity_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> profile_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> mod_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> sensitivity_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> profile_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> mod_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> sensitivity_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> profile_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> mod_id -->  --> 90
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> profile_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> mod_id -->  --> 90
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> profile_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> mod_id -->  --> 90
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> action_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> profile_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> mod_id -->  --> 90
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> action_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> profile_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> mod_id -->  --> 90
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> action_id -->  --> 5
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> profile_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> mod_id -->  --> 90
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> action_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> profile_id -->  --> 6
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> mod_id -->  --> 90
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> action_id -->  --> 10
+Admin, Teemworx (admin) --> 2017-11-15 12:02:33 --> profiles --> edit --> grant -->  --> on

@@ -1,0 +1,15 @@
+{
+    "name": "hdisystech/workwisev4",
+    "description": "workwisev4",
+    "authors": [
+        {
+            "name": "hdisystech",
+            "email": "admin@hdisystech.com"
+        }
+    ],
+    "require": {
+        "illuminate/view": "dev-master",
+        "illuminate/filesystem": "dev-master"
+    },
+    "minimum-stability": "dev"
+}

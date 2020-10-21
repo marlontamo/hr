@@ -1,0 +1,16 @@
+LOPEZ, PAOLO (02115) --> 2020-09-10 10:17:57 --> authentication --> login --> login -->  --> 
+BERNARDINO, RAFFY (33688) --> 2020-09-10 10:18:27 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2020-09-10 10:21:10 --> authentication --> logout --> logout -->  --> 
+TAMO, MARLON (33866) --> 2020-09-10 10:21:17 --> authentication --> login --> login -->  --> 
+BERNARDINO, RAFFY (33688) --> 2020-09-10 10:21:27 --> authentication --> logout --> logout -->  --> 
+TAMO, MARLON (33866) --> 2020-09-10 10:21:37 --> authentication --> login --> login -->  --> 
+TAMO, MARLON (33866) --> 2020-09-10 10:22:08 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2020-09-10 10:22:18 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2020-09-10 10:39:23 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2020-09-10 10:50:19 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2020-09-10 10:54:33 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2020-09-10 10:59:29 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2020-09-10 11:00:42 --> authentication --> logout --> logout -->  --> 
+TAMO, MARLON (33866) --> 2020-09-10 13:28:02 --> authentication --> login --> login -->  --> 
+TAMO, MARLON (33866) --> 2020-09-10 13:48:45 --> authentication --> logout --> logout -->  --> 
+TAMO, MARLON (33866) --> 2020-09-10 13:51:04 --> authentication --> login --> login -->  --> 

@@ -1,0 +1,10 @@
+2018-05-09 10:01:32 --> authentication --> login --> login -->  --> 
+2018-05-09 10:05:03 --> job_grade --> update --> job_level --> Associate Manager --> M1 (Associate Manager)
+2018-05-09 10:05:21 --> job_grade --> update --> job_level --> Manager --> M2 (Manager)
+2018-05-09 10:05:48 --> job_grade --> update --> job_level --> Sr. Manager --> M3 (Senior Manager)
+2018-05-09 10:06:07 --> job_grade --> update --> job_level --> Assistant Vice President --> M4 (AVP)
+2018-05-09 10:06:29 --> job_grade --> update --> job_level --> Sr. Asst. Vice President --> M5 (SAVP)
+2018-05-09 10:06:48 --> job_grade --> update --> job_level --> Vice President --> M6 (VP / COO)
+2018-05-09 10:07:07 --> job_grade --> update --> job_level --> Sr. Vice President --> M7 (Sr. VP / COO)
+2018-05-09 10:07:41 --> job_grade --> update --> job_level --> Chief Operating Officer --> M8 (CEO)
+2018-05-09 10:08:52 --> authentication --> logout --> logout -->  --> 

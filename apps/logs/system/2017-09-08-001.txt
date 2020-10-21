@@ -1,0 +1,5 @@
+POLONAN, MARIA LEE (31002) --> 2017-09-08 13:11:26 --> authentication --> logout --> logout -->  --> 
+() --> 2017-09-08 13:11:29 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-09-08 13:11:32 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-09-08 13:44:39 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-09-08 13:45:29 --> authentication --> login --> login -->  --> 

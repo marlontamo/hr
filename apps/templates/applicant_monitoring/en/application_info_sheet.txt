@@ -1,0 +1,433 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html lang="en">
+    <!-- BEGIN HEAD-->
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title></title>
+        <style>
+            body
+            {
+                
+
+            font-family:Arial;
+            font-size: 10px;
+
+            
+            }
+
+
+            td
+            {
+                
+                padding:0;
+            }
+            .header h2
+            {
+                padding-left: 20px;
+                padding-right: 20px;
+                padding-top: 20px;
+                font-size: 18px;
+            }
+
+            .header h3
+            {
+                padding-bottom: 15px;
+                padding-left: 20px;
+                padding-right: 20px;
+                font-size: 12px;
+                color: #666666;
+            }
+
+            .np1
+            {
+                color: #666;
+                font-size: 14px;
+                margin: -18px 18px 0;
+            }
+
+            .mp1
+            {
+                float: right;
+                margin: 0 22px 0 0;
+            }
+
+            .header_sub
+            {
+                width: 755px;
+                margin: 5px 0 0;
+                border-radius: 5px 5px 0 0;
+            }
+
+                .header_sub h2
+                {
+                    padding: 10px;
+                    font-size: 12px;
+                    color: #f1f1f1;
+                    margin: -3px 3px 0 0;
+                    height: 10px;
+                }
+
+            #f1
+            {
+                padding-top: 10px;
+            }
+
+            #ip1
+            {
+                width: 100%;
+                text-align: justify;
+                font-size: 12px;
+                color: #333;
+            }
+
+                #ip1 h3
+                {
+                    font-size: 12px;
+                }
+
+            .im1
+            {
+                float: right;
+                margin: -40px 0 0 0;
+                font-size: 10px;
+            }
+
+            .alfin
+            {
+                margin-left: 18px;
+                width: 300px;
+                color: #2b2b2b;
+                width: 400px;
+                font-size: 13px;
+                background: url("/images/bg.widget.png") repeat scroll;
+                border: 0.3px solid #b6b6b6;
+            }
+
+                .p th
+                {
+                    font-size: 12px;
+                    width: 140px;
+                }
+
+                .prdt tr
+                {
+                    background: #fff;
+                }
+
+            .espaco
+            {
+                height: 5px;
+            }
+
+            #borderrightCF
+            {
+                border-right: 1px solid #ccc;
+            }
+
+            .alfin
+            {
+                padding: 10px 20px 10px;
+                font-size: 10px;
+                border-bottom: 1px solid #f1f1f1;
+            }
+
+            .alrsp
+            {
+                margin: -18px 0px 0;
+                font-size: 10px;
+            }
+
+                .alrsp span
+                {
+                    color: #000;
+                    text-decoration: underline;
+                    margin: 0 5px;
+                }
+
+            .albr
+            {
+                padding: 10px 0 0 0;
+            }
+
+            .iwg
+            {
+                font-size: 9px;
+                color: #0A73C3;
+                width: 200px;
+                text-align: justify;
+            }
+
+            .tp01
+            {
+                border-collapse: collapse;
+            }
+
+                .tp01 th
+                {
+                    color: white;
+                    border: 1px solid #e4e4e4;
+                }
+
+                .tp01 td, .myTable th
+                {
+                    padding: 5px;
+                    border: 1px solid #e4e4e4;
+                }
+            .auto-style1
+            {
+                height: 30px;
+                width: 566px;
+            }
+            .auto-style3
+            {
+                width: 900px;
+            }
+        </style>
+    </head>
+    <!-- END HEAD -->
+    <!-- BEGIN BODY -->
+    <body bgcolor="#ffffff" style="-webkit-font-smoothing: antialiased; width: 100% !important; -webkit-text-size-adjust: none;">
+
+                                <!-- BEGIN HEADER CONTAINER -->
+                                <!-- <table style="width: 755px; height: auto; background: #fff; margin-bottom: 10px;overflow: wrap">
+                                    <tr style="border: 1px solid #ccc;">
+                                        <td class="auto-style3"> -->
+                                            <table style="width: 755px; background: #fff; overflow: wrap;" class="auto-style3">
+                                                <tr>
+                                                    <td style="width:80%;">
+                                                        <img src="assets/img/hdi_resource-logo.png" style="width: 160px;">
+                                                    </td>
+                                                    <td rowspan="2" style="width:20%;">
+                                                        <div style="border: 1px solid #ccc; width:150; height:150px;">
+                                                            <span style="font-size:11px;">
+                                                                {{profilePic}}
+                                                            </span>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <br><br><br>
+                                                <tr>
+                                                    <td style="padding-right: 20px;">
+                                                        <div>
+                                                            <h4 style="font-size:14px;"><strong>APPLICATION INFORMATION SHEET</strong></h4><br>
+                                                            <p style="font-size: 10px; ">To the Interviewer: As you complete your interview, please tick the box that closely or represents your assessment of the candidate. You may also use the space provided to include other inputs or remarks you may have which will help in further assessing the candidate.</p>
+                                                            <br>
+                                                            <p style="font-size: 10px;"><strong>POSITION APPLIED FOR:</strong> &nbsp;<span style="font-size:11px"> {{positionApplied}}</span></p>
+                                                    
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        <!-- </td>
+                                    </tr>
+                                </table> -->
+
+
+                                <!-- BEGIN SECTION 1-->
+                                <p style="font-size: 11px;" ><strong>PERSONAL DATA</strong></p>
+                               <!--  <table  style='width: 755px; height: auto; background: #fff; border: 1px solid #e4e4e4;overflow: wrap'>
+                                    <tr>
+                                        <td> -->
+                                            <table cellpadding='0' cellspacing='0' border='0' width='100%' style="width: 755px; height: auto; background: #fff; border: 1px solid #e4e4e4; font-size: 15px; overflow: wrap">
+                                                <tr>
+                                                    <td style='padding-left: 5px; height: 11px;' colspan="7">
+                                                        <span style="font-weight:bold">
+                                                            <strong>Name</strong>
+                                                        </span>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="2" style='height: 20px;'><center>{{lastname}}</center></td>
+                                                    <td colspan="2"><center>{{firstname}}</center></td>
+                                                    <td><center>{{middlename}}</center></td>
+                                                    <td><center>{{maidenname}}</center></td>
+                                                    <td><center>{{nickname}}</center></td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='height: 10px; width:180px; font-size: 10px; color:#999999;' colspan="2"><center>Last</center></td>
+                                                    <td style='font-size: 10px; width:150px; color:#999999;' colspan="2"><center>First</center></td>
+                                                    <td style='font-size: 10px; width:150px; color:#999999;'><center>Middle</center></td>
+                                                    <td style='font-size: 10px; width:150px; color:#999999;'><center>Maiden</center></td>
+                                                    <td style='font-size: 10px; width:150px; color:#999999;'><center>Nickname</center></td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='padding-left: 5px; height: 10px;' colspan="7"><strong>Present Address</strong></td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='height: 20px;'><center>{{presentadd_no}} </center></td>
+                                                    <td><center>{{address_1}}</center></td>
+                                                    <td><center>{{presentadd_village}}</center></td>
+                                                    <td><center>{{address_2}}</center></td>
+                                                    <td><center>{{town}}</center></td>
+                                                    <td><center>{{city_town}}</center></td>
+                                                    <td><center>{{province}}</center></td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='height: 10px; width:180px; font-size: 10px; color:#999999;'><center>No. </center></td>
+                                                    <td style='height: 10px; width:180px; font-size: 10px; color:#999999;'><center>Street</center></td>
+                                                    <td style='font-size: 10px; width:150px; color:#999999;'><center>Subdivision/Village</center></td>
+                                                    <td style='font-size: 10px; width:150px; color:#999999;'><center>Barangay</center></td>
+                                                    <td style='font-size: 10px; width:150px; color:#999999;'><center>Town</center></td>
+                                                    <td style='font-size: 10px; width:150px; color:#999999;'><center>City</center></td>
+                                                    <td style='font-size: 10px; width:150px; color:#999999;'><center>Province</center></td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='padding-left: 5px; height: 30px;' colspan="7"><strong>Duration of Residency in the above address:</strong> &nbsp;{{duration_years}}<strong>years</strong>&nbsp; {{duration_month}}<strong>months</strong></td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='padding-left: 5px; height: 10px;' colspan="7"><strong>Permanent Address:</strong>&nbsp; same as present? &nbsp;<input type="checkbox" {{same_as_present_address}} ></td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='height: 20px;'><center>{{permanent_add_no}} </center></td>
+                                                    <td><center>{{permanent_address_1}}</center></td>
+                                                    <td><center>{{permanent_add_village}}</center></td>
+                                                    <td><center>{{permanent_address_2}}</center></td>
+                                                    <td><center>{{permanent_town}}</center></td>
+                                                    <td><center>{{permanent_city_town}}</center></td>
+                                                    <td><center>{{permanent_province}}</center></td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='height: 10px; width:180px; font-size: 10px; color:#999999;'><center>No. </center></td>
+                                                    <td style='height: 10px; width:180px; font-size: 10px; color:#999999;'><center>Street</center></td>
+                                                    <td style='font-size: 10px; width:150px; color:#999999;'><center>Subdivision/Village</center></td>
+                                                    <td style='font-size: 10px; width:150px; color:#999999;'><center>Barangay</center></td>
+                                                    <td style='font-size: 10px; width:150px; color:#999999;'><center>Town</center></td>
+                                                    <td style='font-size: 10px; width:150px; color:#999999;'><center>City</center></td>
+                                                    <td style='font-size: 10px; width:150px; color:#999999;'><center>Province</center></td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='padding-left: 5px; height: 30px;' colspan="2"><strong>Contact Number/s: </strong>&nbsp;{{mobile}}</td>
+                                                    <td style='padding-left: 5px; height: 30px;' colspan="3"><strong>Email Address:</strong>&nbsp;{{emailAdd}}</td>
+                                                    <td style='padding-left: 5px; height: 30px;' colspan="2"><strong>Citizenship:</strong>&nbsp;{{nationality}}</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='padding-left: 5px; height: 30px;' colspan="2"><strong>Date of Birth:</strong>&nbsp;{{birthday}}</td>
+                                                    <td style='padding-left: 5px; height: 30px;' colspan="3"><strong>Place of Birth:</strong>&nbsp;{{birth_place}}</td>
+                                                    <td style='padding-left: 5px; height: 30px;' colspan="2"><strong>Civil Status:</strong>&nbsp;{{profile_civil_status}}</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='padding-left: 5px; height: 30px;' colspan="2"><strong>Tax Identification Number:</strong>&nbsp;{{tin_number}}</td>
+                                                    <td style='padding-left: 5px; height: 30px;' colspan="5"><strong>SSS Number:</strong>&nbsp;{{sss_number}}</td>
+                                                </tr>
+                                            </table>
+                                        <!-- </td>
+                                    </tr>
+                                </table> -->
+
+                                <p style="font-size: 11px;"><strong>FAMILY BACKGROUND</strong> <span style="font-size: 9px; color:#999999; font-weight: none;">single: parents and siblings; married:spouse, children and parents</span></p>
+                                <table class='tp01' cellpadding='0' cellspacing='0' border='0' width='100%' style=" font-size: 9px; overflow: wrap">
+                                    <tr style='border: 1px solid #ccc;'>
+                                        <td style='padding-left: 20px; height: 30px; width: 200px;'><strong><center>Name</center></strong></td>
+                                        <td style='padding-left: 20px; height: 30px;'><strong><center>Relationship</center></strong></td>
+                                        <td style='padding-left: 20px; height: 30px;'><strong><center>Age</center></strong></td>
+                                        <td style='padding-left: 20px; height: 30px;'><strong><center>Occupation</center></strong></td>
+                                        <td style='padding-left: 20px; height: 30px;'><strong><center>Employer</center></strong></td>
+                                    </tr>
+                                    {{family_tab}}
+                                    <!--  -->
+                                </table>
+                                <br>
+                                <span style="font-size: 8px; color:#999999; " >Note: Inform interviewwer in case of additional immediate family members.</span>
+
+                                <p style="font-size: 11px;">
+                                    <strong>EDUCATIONAL ATTAINMENT </strong>
+                                </p>
+                                <table class='tp01' cellpadding='0' cellspacing='0' border='0' width='100%' style=" font-size: 9px; overflow: wrap">
+                                    {{education}}
+                                    <tr style='border: 1px solid #ccc;'>
+                                        <td style='padding-left: 20px; height: 30px; width:100px;'><strong><center>Education Level</center></strong></td>
+                                        <td style='padding-left: 20px; height: 30px; width:200px;'><strong><center>School/University</center></strong></td>
+                                        <td style='padding-left: 20px; height: 30px;'><center><strong><span style=" ">Years Attended</span></strong> <br><span style='font-size: 10px;'>From-To</span></center></td>
+                                        <td style='padding-left: 20px; height: 30px;'><strong><center>Degree/Course</center></strong></td>
+                                        <td style='padding-left: 20px; height: 30px;'><center><strong><span style="">Graduated?</span></strong> <br><span style="font-size: 10px;">(if undergraduate,last SY and Sem)</span></center></td>
+                                    </tr>
+                                    {{education_tab}}
+                                    <!--  -->
+                                </table>
+
+                                <p style="font-size: 11px;"><strong>WORK EXPERIENCE</strong> <span style="font-size: 9px; color:#999999; font-weight: none;">start with the most recent employment</span></p>
+                                {{employment_tab}}
+                                <!-- -->
+
+                                <p style="font-size: 11px;"><strong>OTHERS</strong></p>
+                                <table class='tp01' cellpadding='0' cellspacing='0' border='0' width='100%' style=" font-size: 9px; overflow: wrap">
+                                    <tr style='border: 1px solid #ccc;'>
+                                        <td style='padding-left: 20px; height: 30px; width: 350px;'><strong>Licence or Certified Membership to Trade/Profession</strong></td>
+                                        <td align="right"><span style="float:right;">{{cert_member_to_trade}}</span></td>
+                                    </tr>
+                                    <tr style='border: 1px solid #ccc;'>
+                                        <td style='padding-left: 20px; height: 30px; '><strong>Languange/Dialects Spoken</strong></td>
+                                        <td align="right"><span style="float:right;">{{language}}</span></td>
+                                    </tr>
+                                    <tr style='border: 1px solid #ccc;'>
+                                        <td style='padding-left: 20px; height: 30px; '><strong>Were you previously employed at HDI?</strong></td>
+                                        <td align="right"><span style="float:right;">{{previously_employed_at_hdi}}</span></td>
+                                    </tr>
+                                    <tr style='border: 1px solid #ccc;'>
+                                        <td style='padding-left: 20px; height: 30px; '><strong>List known person working at HDI prior to application?</strong></td>
+                                        <td align="right"><span style="float:right;">{{known_people_at_hdi}}</span></td>
+                                    </tr>
+                                    <tr style='border: 1px solid #ccc;'>
+                                        <td style='padding-left: 20px; height: 30px; '><strong>Do you have any physical disabilities which preclude you from performing certain kinds of work? (if yes, speifywork limitations)</strong></td>
+                                        <td align="right"><span style="float:right;">{{physical_disabilities}}</span></td>
+                                    </tr>
+                                    <tr style='border: 1px solid #ccc;'>
+                                        <td style='padding-left: 20px; height: 30px; '><strong>Have you have any major illnesses/injuries in the past? (if yes, describe)</strong></td>
+                                        <td align="right"><span style="float:right;">{{illness_injuries}}</span></td>
+                                    </tr>
+                                    <tr style='border: 1px solid #ccc;'>
+                                        <td style='padding-left: 20px; height: 30px; '><strong>Did you receive compensation for these illnesses/injuries?</strong></td>
+                                        <td align="right"><span style="float:right;">{{illness_compensated}}</span></td>
+                                    </tr>
+                                    <tr style='border: 1px solid #ccc;'>
+                                        <td style='padding-left: 20px; height: 30px; '><strong>Are you willing to be relocated</strong></td>
+                                        <td align="right"><span style="float:right;">{{willing_to_relocate}}</span></td>
+                                    </tr>
+                                    <tr style='border: 1px solid #ccc;'>
+                                        <td style='padding-left: 20px; height: 30px; '><strong>How many days notice do you need to be available for work?</strong></td>
+                                        <td align="right"><span style="float:right;">{{days_notice_to_work}}</span></td>
+                                    </tr>
+                                </table>
+
+                                <p style="font-size: 11px;"><strong>CHARACTER REFERENCE</strong> <span style="font-size: 9px; color:#999999; font-weight: none;">(immediate superior and colleagues; if none, friends known for atleast 2 years; relatives not included)</span></p>
+                                <table class='tp01' cellpadding='0' cellspacing='0' border='0' width='100%' style=" font-size: 9px; overflow: wrap">
+                                    {{characterRef}}
+                                    <tr style='border: 1px solid #ccc;'>
+                                        <td style='padding-left: 20px; height: 30px; width: 200px;'><strong><center>Name</center></strong></td>
+                                        <td style='padding-left: 20px; height: 30px;'><strong><center>Relationship</center></strong></td>
+                                        <td style='padding-left: 20px; height: 30px;'><strong><center>Occupation</center></strong></td>
+                                        <td style='padding-left: 20px; height: 30px;'><strong><center>Employer</center></strong></td>
+                                        <td style='padding-left: 20px; height: 30px;'><strong><center>Contact Number/s</center></strong></td>
+                                    </tr>
+                                    {{charref_tab}}
+                                    <!--  -->
+                                </table>
+                                <br>
+                                <p style="font-size: 8px; ">The facts set forth in my application are true complete. I understand that if hired, false statements on this application shall be considered sufficient cause for dismissal. You are hereby authorized to make any investigation of my personal history, educational ad employment background.</p>
+                                <br>
+                                <table align="center" cellpadding='0' cellspacing='0' border='0' width='100%' style=" font-size: 9px; overflow: wrap">
+                                    <tr style='border: 1px solid #ccc;'>
+                                        <td colspan="3" align="center">{{fullname}}</td>
+                                        <td colspan="3"></td>
+                                    </tr>
+                                    <tr style='border: 1px solid #ccc;'>
+                                        <td style='width:50px;'></td>
+                                        <td style='height: 30px; border-top: 1px solid #000000; padding: 10px;'><strong><center>Signature Over Printed Name</center></strong></td>
+                                        <td style='width:50px;'></td>
+                                        <td style='height: 30px; border-top: 1px solid #000000;width:150px;'><center>Date</center></td>
+                                        <td style='width:100px;'></td>
+                                    </tr>
+                                </table>
+
+
+
+
+
+
+
+
+                        
+    </body>
+<!-- BEGIN BODY -->
+</html>

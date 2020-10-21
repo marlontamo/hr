@@ -1,0 +1,5 @@
+2020-09-14 10:34:49 --> authentication --> login --> login -->  --> 
+2020-09-14 10:35:27 --> authentication --> update --> users - hash --> $2a$08$5Lc3zFNg.lCTmVwtZrMWQuGRQUcDQKa/jHxMLOQgCqOneKeiUKYwi --> $2a$08$rGU9cAYJ23ch6gu2t4SvfuTpsZoEXDTTT/H.iUuem1.365o9wbp/K
+2020-09-14 10:35:49 --> authentication --> logout --> logout -->  --> 
+2020-09-14 10:36:30 --> authentication --> login --> login -->  --> 
+2020-09-14 10:43:19 --> authentication --> logout --> logout -->  --> 

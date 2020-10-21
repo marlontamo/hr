@@ -1,0 +1,25 @@
+<?php
+$lang['loans'] = array(
+	'loan_set_up' => 'Loan Set Up',
+	'loan_code' => 'Loan Code',
+	'p_loan_code' => 'Enter Loan Code',
+	'loan_name' => 'Loan Name',
+	'p_loan_name' => 'Enter Loan Name',
+	'loan_type' => 'Loan Type',
+	'loan_mode' => 'Loan Mode',
+	'prin_trans' => 'Principal Transaction',
+	'am_trans' => 'Amortization Transaction',
+	'am_limit' => 'Amount Limit',
+	'p_am_limit' => 'Enter Amount Limit',
+	'int_set_up' => 'Interest Set Up',
+	'int_trans' => 'Interest Transaction',
+	'int_mode' => 'Interest Mode',
+	'debit' => 'Debit',
+	'credit' => 'Credit',
+	'monthly_int' => 'Monthly Interest',
+	'p_monthly_int' => 'Enter Monthly Interest',
+	'edit' => 'Edit',
+	'options' => 'Options',
+	'code' => 'Code',
+	'name' => 'Name'
+);

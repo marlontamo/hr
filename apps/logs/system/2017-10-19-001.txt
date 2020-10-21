@@ -1,0 +1,39 @@
+POLONAN, MARIA LEE (31002) --> 2017-10-19 13:33:31 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-19 13:34:53 --> users --> update --> hash --> $2a$08$ZUJwY3ZxAowURH6ZMuFK9OHMrgeb6H.WdAZVELRMdOYb4wcmSEaJK --> $2a$08$VlWpVg/ngpSsIMcK2oztjeRrskRg8fKLYtBDCOti52uvQrnz5Pxam
+POLONAN, MARIA LEE (31002) --> 2017-10-19 13:34:53 --> users --> update --> active --> 1 --> 1 else 0
+POLONAN, MARIA LEE (31002) --> 2017-10-19 13:35:25 --> users --> update --> hash --> $2a$08$4MXYfvId2xuOqsCmoO80c.uwu2/3C/pRWCFg21eXj9.9WVYxM4WPi --> $2a$08$0fnEyveCNHAKZx97px6k8ewyLfjhFj.8lxOyntIsxwbqYKFGV9rAi
+POLONAN, MARIA LEE (31002) --> 2017-10-19 13:35:25 --> users --> update --> active --> 1 --> 1 else 0
+POLONAN, MARIA LEE (31002) --> 2017-10-19 13:38:27 --> users --> update --> hash --> $2a$08$L.XadqUb1cq8kEcHl5J1FeHq/Eg8OSCAKgQvF/Xl1xbCLy3E4qFcS --> $2a$08$Ar9NKmKTAblkoUkxm6Y23uPcEcSQsXx/Ehyg6JuNkwkzJskErFfHq
+POLONAN, MARIA LEE (31002) --> 2017-10-19 13:38:27 --> users --> update --> active --> 1 --> 1 else 0
+POLONAN, MARIA LEE (31002) --> 2017-10-19 13:38:59 --> users --> update --> hash --> $2a$08$UtFNDNZHBsixx3zn/kO0NekRvinoKguIcOx7F6UA1asb1YVpFbzpS --> $2a$08$Wu0Zky2A928WObZAPKb5CeQReLvmTZCb.RQeq03hHXeotvuaH4pGW
+POLONAN, MARIA LEE (31002) --> 2017-10-19 13:38:59 --> users --> update --> active --> 1 --> 1 else 0
+POLONAN, MARIA LEE (31002) --> 2017-10-19 13:40:28 --> users --> update --> hash --> $2a$08$Wu0Zky2A928WObZAPKb5CeQReLvmTZCb.RQeq03hHXeotvuaH4pGW --> $2a$08$Y5oT23Fkkyq6cjCu7OWcuO0OyJDR2lq7U4d98UpiCU/WZtBh29/l2
+POLONAN, MARIA LEE (31002) --> 2017-10-19 13:40:28 --> users --> update --> active --> 1 --> 1 else 0
+POLONAN, MARIA LEE (31002) --> 2017-10-19 13:41:06 --> users --> update --> hash --> $2a$08$8PmdIOvrgrly1VEPuwM/dunLzIoCVfWIzC0HD4Xx50qu5ys0ao/O. --> $2a$08$iAwtUhf6Lr5qCLk9gaW2bu/osEgRiSXWs7umJHHAqJqb90sOVAB3q
+POLONAN, MARIA LEE (31002) --> 2017-10-19 13:41:06 --> users --> update --> active --> 1 --> 1 else 0
+POLONAN, MARIA LEE (31002) --> 2017-10-19 13:42:58 --> users --> update --> hash --> $2a$08$9N4fR6x6WT/PupWIrVUKheknQoi9KaNHhpYIbjl5azODpl46fGPEm --> $2a$08$uaWJwHlKsPmBtS4R3etfzOERO4ubjIGOwnTD2OyALV2OZFeTWxoKm
+POLONAN, MARIA LEE (31002) --> 2017-10-19 13:42:58 --> users --> update --> active --> 1 --> 1 else 0
+POLONAN, MARIA LEE (31002) --> 2017-10-19 13:42:58 --> users --> update --> birth_date --> 0000-00-00 --> 1970-01-01
+POLONAN, MARIA LEE (31002) --> 2017-10-19 13:43:55 --> users --> update --> hash --> $2a$08$lOwbI9b3Y93n3r.WOhlN2.5BMWKCnlODgraMK8.Efdw.UeSRJmTWy --> $2a$08$WetxQC5dhEHZP5kFVBsxTeLg4yzSNiYzj3K0Ux/EFlnhKvgwX0.rO
+POLONAN, MARIA LEE (31002) --> 2017-10-19 13:43:55 --> users --> update --> active --> 1 --> 1 else 0
+POLONAN, MARIA LEE (31002) --> 2017-10-19 13:45:21 --> users --> update --> hash --> $2a$08$VFy9GucDlg3fl0c/ogTe8OCyoymtfC7KltPWnfSIcQIg/HxiV3DVS --> $2a$08$hQ1gNdfkXU/kfLATcAPhdO2jfTFP/XllKtNslrVhrOfJLDU3O0Qwq
+POLONAN, MARIA LEE (31002) --> 2017-10-19 13:45:21 --> users --> update --> active --> 1 --> 1 else 0
+POLONAN, MARIA LEE (31002) --> 2017-10-19 13:45:21 --> users --> update --> birth_date --> 0000-00-00 --> 1970-01-01
+POLONAN, MARIA LEE (31002) --> 2017-10-19 13:47:44 --> users --> update --> hash --> $2a$08$HH6z7eS01jmaIApPHj3rsec52HN4EmJVhrDZltzv7wgDVd10I2s4a --> $2a$08$HU8/601cuWyRFbBvF5wkWuZ2.VmdyOZDE7tYI.r0vR4vV4aDhe29K
+POLONAN, MARIA LEE (31002) --> 2017-10-19 13:47:44 --> users --> update --> active --> 1 --> 1 else 0
+POLONAN, MARIA LEE (31002) --> 2017-10-19 13:49:29 --> users --> update --> hash --> $2a$08$HU8/601cuWyRFbBvF5wkWuZ2.VmdyOZDE7tYI.r0vR4vV4aDhe29K --> $2a$08$aVXuYkgcBlPj8.EMMs7d9e5FP9sscFe9hYgrrlwCH9oU7ZXfSplC.
+POLONAN, MARIA LEE (31002) --> 2017-10-19 13:49:29 --> users --> update --> active --> 1 --> 1 else 0
+POLONAN, MARIA LEE (31002) --> 2017-10-19 13:49:36 --> authentication --> logout --> logout -->  --> 
+MANALO, ADRIAN (32824) --> 2017-10-19 13:49:47 --> authentication --> login --> login -->  --> 
+MANALO, ADRIAN (32824) --> 2017-10-19 14:22:46 --> authentication --> logout --> logout -->  --> 
+PELEA, NERELYN (31284) --> 2017-10-19 14:22:56 --> authentication --> login --> login -->  --> 
+PELEA, NERELYN (31284) --> 2017-10-19 14:23:16 --> authentication --> logout --> logout -->  --> 
+FADEROGAO, FELIPE (32194) --> 2017-10-19 14:23:26 --> authentication --> login --> login -->  --> 
+FADEROGAO, FELIPE (32194) --> 2017-10-19 14:24:30 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-19 14:24:45 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-19 14:25:29 --> users --> update --> hash --> $2a$08$0ibosl1eOBb7oyYcnSu3fum6V1rlZRwXWc9zdnB77jJ5MU4OKd8DO --> $2a$08$/Od6E55rLRKLONl1hRHmCeBBSFmabpcWljH8tpGmZupcB5kxmrDku
+POLONAN, MARIA LEE (31002) --> 2017-10-19 14:25:29 --> users --> update --> active --> 1 --> 1 else 0
+POLONAN, MARIA LEE (31002) --> 2017-10-19 14:25:54 --> authentication --> logout --> logout -->  --> 
+PRESTOZA, MICHELLE (31108) --> 2017-10-19 14:26:04 --> authentication --> login --> login -->  --> 
+PRESTOZA, MICHELLE (31108) --> 2017-10-19 17:28:28 --> authentication --> logout --> logout -->  --> 
+PELEA, NERELYN (31284) --> 2017-10-19 17:30:20 --> authentication --> login --> login -->  --> 

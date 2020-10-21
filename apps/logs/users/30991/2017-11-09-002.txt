@@ -1,0 +1,162 @@
+2017-11-09 08:30:38 --> applicant_monitoring --> insert --> to -->  --> juandelacruz@yahoo.com
+2017-11-09 08:30:38 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+2017-11-09 08:30:38 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>Dear Juan Dela Cruz,</p>
+<p>
+	Thank you for your interest in applying for the ACCOUNTING ASSISTANT position. We would like to invite you for an interview at Abraham Holdings, Inc.. Please see information below:</p>
+<p>
+	Date: November 09, 2017
+	<br>
+	Time: 10:00 am
+	<br>
+	Venue: 770 E. Rodriguez Ext., Malibay, Pasay City</p>
+
+<p>
+	Kindly look for FRANCIA GENER</p>
+
+<p>
+	Should you have queries, please do not hesitate to contact us on 8893935</p>
+
+<p>
+	Sincerely,</p>
+<p>
+	HR- Recruitment Team &ndash; ABHI</p>
+<br>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+2017-11-09 08:30:38 --> applicant_monitoring --> insert --> type -->  --> 2
+2017-11-09 08:30:38 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-11-09 08:30:38 --> applicant_monitoring --> insert --> date -->  --> 2017-11-09 11:00:00
+2017-11-09 08:30:38 --> applicant_monitoring --> insert --> user_id -->  --> 16
+2017-11-09 08:30:38 --> applicant_monitoring --> insert --> location_id -->  --> 1
+2017-11-09 08:30:38 --> applicant_monitoring --> insert --> schedule_id -->  --> 3
+2017-11-09 08:30:38 --> applicant_monitoring --> insert --> to -->  --> malou_s@legendhotels.com.ph
+2017-11-09 08:30:38 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+2017-11-09 08:30:38 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>
+	Hi MA. LOURDES SUNIGA,</p>
+<p>
+	Good day!</p>
+
+<p>
+	This is to inform you that you are scheduled for an interview of Juan Dela Cruz, for the position of ACCOUNTING ASSISTANT. Below are the details and schedule:</p>
+<p>
+	Applicant Name: Juan Dela Cruz
+	<br>
+	Position: ACCOUNTING ASSISTANT
+	<br>
+	Date: November 09, 2017
+	<br>
+	Time: 11:00 am
+</p>
+<p>
+	In case you are not available on the said dates, please do not hesitate to contact one of our HR-Recruitment Team.</p>
+<p>
+	Thank you and Regards,</p>
+<p>
+	HR-Recruitment Team</p>
+
+<br>
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+2017-11-09 08:30:38 --> applicant_monitoring --> insert --> to -->  --> juandelacruz@yahoo.com
+2017-11-09 08:30:38 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+2017-11-09 08:30:38 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>Dear Juan Dela Cruz,</p>
+<p>
+	Thank you for your interest in applying for the ACCOUNTING ASSISTANT position. We would like to invite you for an interview at Abraham Holdings, Inc.. Please see information below:</p>
+<p>
+	Date: November 09, 2017
+	<br>
+	Time: 11:00 am
+	<br>
+	Venue: 770 E. Rodriguez Ext., Malibay, Pasay City</p>
+
+<p>
+	Kindly look for MA. LOURDES SUNIGA</p>
+
+<p>
+	Should you have queries, please do not hesitate to contact us on 8893935</p>
+
+<p>
+	Sincerely,</p>
+<p>
+	HR- Recruitment Team &ndash; ABHI</p>
+<br>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+2017-11-09 08:30:38 --> applicant_monitoring --> update --> status_id --> 5 --> 2
+2017-11-09 08:30:38 --> applicant_monitoring --> update --> from_seting_final_interview --> 0 --> 2
+2017-11-09 08:30:38 --> applicant_monitoring --> update --> status_id --> 5 --> 2
+2017-11-09 08:30:38 --> applicant_monitoring --> update --> from_seting_final_interview --> 0 --> 2
+2017-11-09 08:30:42 --> authentication --> logout --> logout -->  --> 
+2017-11-09 08:37:22 --> authentication --> login --> login -->  --> 
+2017-11-09 08:37:45 --> applicant_monitoring --> update --> process_id --> 0 --> 1
+2017-11-09 08:37:45 --> applicant_monitoring --> insert --> interview_id -->  --> 3
+2017-11-09 08:37:45 --> applicant_monitoring --> insert --> key_id -->  --> 31
+2017-11-09 08:37:45 --> applicant_monitoring --> insert --> key -->  --> remarks
+2017-11-09 08:37:45 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-11-09 08:37:45 --> applicant_monitoring --> insert --> key_name -->  --> Findings/Comments/Impressions
+2017-11-09 08:37:45 --> applicant_monitoring --> insert --> interview_id -->  --> 3
+2017-11-09 08:37:45 --> applicant_monitoring --> insert --> key_id -->  --> 66
+2017-11-09 08:37:45 --> applicant_monitoring --> insert --> key -->  --> interviewer
+2017-11-09 08:37:45 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-11-09 08:37:45 --> applicant_monitoring --> insert --> key_name -->  --> Interviewer
+2017-11-09 08:37:45 --> applicant_monitoring --> insert --> key_value -->  --> SUNIGA, MA. LOURDES
+2017-11-09 08:37:45 --> applicant_monitoring --> insert --> interview_id -->  --> 3
+2017-11-09 08:37:45 --> applicant_monitoring --> insert --> key_id -->  --> 64
+2017-11-09 08:37:45 --> applicant_monitoring --> insert --> key -->  --> interviewer_date
+2017-11-09 08:37:45 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-11-09 08:37:45 --> applicant_monitoring --> insert --> key_name -->  --> Date of Interviewer
+2017-11-09 08:37:45 --> applicant_monitoring --> insert --> interview_id -->  --> 3
+2017-11-09 08:37:45 --> applicant_monitoring --> insert --> key_id -->  --> 32
+2017-11-09 08:37:45 --> applicant_monitoring --> insert --> key -->  --> technical_recommendation
+2017-11-09 08:37:45 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-11-09 08:37:45 --> applicant_monitoring --> insert --> key_name -->  --> Recommendation
+2017-11-09 08:37:45 --> applicant_monitoring --> insert --> interview_id -->  --> 3
+2017-11-09 08:37:45 --> applicant_monitoring --> insert --> key_id -->  --> 67
+2017-11-09 08:37:45 --> applicant_monitoring --> insert --> key -->  --> hrd_remarks
+2017-11-09 08:37:45 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-11-09 08:37:45 --> applicant_monitoring --> insert --> key_name -->  --> Remarks
+2017-11-09 08:37:45 --> applicant_monitoring --> insert --> key_value -->  --> fsfdsffdsafdasfdsafdfdas
+2017-11-09 08:38:05 --> applicant_monitoring --> insert --> interview_id -->  --> 2
+2017-11-09 08:38:05 --> applicant_monitoring --> insert --> key_id -->  --> 67
+2017-11-09 08:38:05 --> applicant_monitoring --> insert --> key -->  --> hrd_remarks
+2017-11-09 08:38:05 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2017-11-09 08:38:05 --> applicant_monitoring --> insert --> key_name -->  --> Remarks
+2017-11-09 08:38:05 --> applicant_monitoring --> insert --> key_value -->  --> ASSAASAS
+2017-11-09 08:38:51 --> authentication --> logout --> logout -->  --> 
+2017-11-09 08:44:52 --> authentication --> login --> login -->  --> 
+2017-11-09 08:46:50 --> applicant_monitoring --> update --> status_id --> 2 --> 6
+2017-11-09 08:46:50 --> applicant_monitoring --> update --> status_id --> 2 --> 6
+2017-11-09 08:48:11 --> applicant_monitoring --> insert --> template_id -->  --> 2
+2017-11-09 08:48:11 --> applicant_monitoring --> insert --> template_value -->  --> <div>09 November 2017<br><br><b>Mr. Juan Dela Cruz<br></b>Address<b><br><br></b>Dear Mr. Dela Cruz,<br><br>Praise God!<br><br>We are very pleased to formally welcome you at <b><i>Abraham Holdings, Inc. </i></b>Below shall be your compensation and benefits packages effective&nbsp; _____________________, for the __________________________ post (job level).<br><br><br></div><div>1.&nbsp; <b><i>Compensation<br></i></b><blockquote>1.1 Upon probationary appointment.</blockquote><blockquote><blockquote>{{probationary_appoinment}}<br></blockquote></blockquote><blockquote>1.2 Upon permanent appointment.<br><blockquote>&nbsp;{{permanent_appoinment}}<br></blockquote></blockquote><br>2.&nbsp; <b><i>Company sponsored benefits upon probationary hiring (subject to policies, systems and procedures)<br></i></b><blockquote>2.1 Uniform Benefits.<br>2.2 Duty Meals: Based on the approved duty meal policy.<br>2.3 Leave Credits: 1.66 days of leave credits earned monthly; earned leave credits can be used on your 2nd month upon hiring.<br>2.4 Sponsorship to external and internal trainings.<br></blockquote>3. <b><i>Company sponsored benefits upon permanent hiring (subject to policies, system and procedures)<br></i></b><blockquote>3.1 Caritas Health Shield: P60,000 annual limit per illnes per each qualified member.<br>3.2 Emergency loan.<br>3.3 Per diem allowances for official trips.<br>3.4 Competency Based Increased and Breakthrough project incentives (subject to attainment of goals and budgets).<br>3.5 Maintenance Bonus.<br>3.6 Retirement Benefit.<br></blockquote><br>Thank you very much and may God Bless!.<br><br><br>Prepared By:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Approved By:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conforme:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr. NELSON CHAVEZ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr. Juan Dela Cruz<br></div>

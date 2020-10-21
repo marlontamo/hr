@@ -1,0 +1,111 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+
+$config['fields'] = array();
+$config['fields'][1]['time_period.payroll_date'] = array(
+	'f_id' => 2,
+	'fg_id' => 1,
+	'label' => 'Payroll Date',
+	'description' => '',
+	'table' => 'time_period',
+	'column' => 'payroll_date',
+	'uitype_id' => 6,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 2,
+	'datatype' => '',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][1]['time_period.date'] = array(
+	'f_id' => 3,
+	'fg_id' => 1,
+	'label' => 'Coverage',
+	'description' => '',
+	'table' => 'time_period',
+	'column' => 'date',
+	'uitype_id' => 12,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 3,
+	'datatype' => 'required',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][1]['time_period.company_id'] = array(
+	'f_id' => 1,
+	'fg_id' => 1,
+	'label' => 'Project',
+	'description' => '',
+	'table' => 'time_period',
+	'column' => 'company_id',
+	'uitype_id' => 10,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 1,
+	'datatype' => 'required',
+	'active' => '1',
+	'encrypt' => 0,
+	'searchable' => array(
+		'type_id' => '1',
+		'table' => 'users_project',
+		'multiple' => 0,
+		'group_by' => '',
+		'label' => 'company',
+		'value' => 'company_id',
+		'textual_value_column' => ''
+	)
+);
+$config['fields'][1]['time_period.apply_to_id'] = array(
+	'f_id' => 1,
+	'fg_id' => 1,
+	'label' => 'Apply To',
+	'description' => '',
+	'table' => 'time_period',
+	'column' => 'apply_to_id',
+	'uitype_id' => 4,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 1,
+	'datatype' => 'required',
+	'active' => '1',
+	'encrypt' => 0,
+	'searchable' => array(
+		'type_id' => '1',
+		'table' => 'time_period_apply_to',
+		'multiple' => 0,
+		'group_by' => '',
+		'label' => 'apply_to',
+		'value' => 'apply_to_id',
+		'textual_value_column' => ''
+	)
+);
+$config['fields'][2]['time_period.cutoff'] = array(
+	'f_id' => 4,
+	'fg_id' => 2,
+	'label' => 'Cut-Off Date',
+	'description' => '',
+	'table' => 'time_period',
+	'column' => 'cutoff',
+	'uitype_id' => 6,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 1,
+	'datatype' => 'required',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][3]['time_period.previous_cutoff'] = array(
+	'f_id' => 5,
+	'fg_id' => 3,
+	'label' => 'Previous Cutoff',
+	'description' => '',
+	'table' => 'time_period',
+	'column' => 'previous_cutoff',
+	'uitype_id' => 6,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 1,
+	'datatype' => '',
+	'active' => '1',
+	'encrypt' => 0
+);

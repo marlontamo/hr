@@ -1,0 +1,38 @@
+DE LEON, LISSA (30991) --> 2018-02-05 10:50:08 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 2 --> 
+DE LEON, LISSA (30991) --> 2018-02-05 10:50:08 --> applicant_monitoring --> insert --> process_id -->  --> 2
+DE LEON, LISSA (30991) --> 2018-02-05 10:50:08 --> applicant_monitoring --> insert --> benefit_id -->  --> 273
+DE LEON, LISSA (30991) --> 2018-02-05 10:50:08 --> applicant_monitoring --> insert --> permanent -->  --> 0
+DE LEON, LISSA (30991) --> 2018-02-05 10:50:08 --> applicant_monitoring --> insert --> amount -->  --> 14000.00
+DE LEON, LISSA (30991) --> 2018-02-05 10:50:08 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+DE LEON, LISSA (30991) --> 2018-02-05 10:50:08 --> applicant_monitoring --> insert --> process_id -->  --> 2
+DE LEON, LISSA (30991) --> 2018-02-05 10:50:08 --> applicant_monitoring --> insert --> benefit_id -->  --> 231
+DE LEON, LISSA (30991) --> 2018-02-05 10:50:08 --> applicant_monitoring --> insert --> permanent -->  --> 0
+DE LEON, LISSA (30991) --> 2018-02-05 10:50:08 --> applicant_monitoring --> insert --> amount -->  --> 1400.00
+DE LEON, LISSA (30991) --> 2018-02-05 10:50:08 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+DE LEON, LISSA (30991) --> 2018-02-05 10:50:08 --> applicant_monitoring --> insert --> process_id -->  --> 2
+DE LEON, LISSA (30991) --> 2018-02-05 10:50:08 --> applicant_monitoring --> insert --> benefit_id -->  --> 232
+DE LEON, LISSA (30991) --> 2018-02-05 10:50:08 --> applicant_monitoring --> insert --> permanent -->  --> 1
+DE LEON, LISSA (30991) --> 2018-02-05 10:50:08 --> applicant_monitoring --> insert --> amount -->  --> 150.00
+DE LEON, LISSA (30991) --> 2018-02-05 10:50:08 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+DE LEON, LISSA (30991) --> 2018-02-05 10:50:08 --> applicant_monitoring --> insert --> process_id -->  --> 2
+DE LEON, LISSA (30991) --> 2018-02-05 10:50:08 --> applicant_monitoring --> insert --> benefit_id -->  --> 231
+DE LEON, LISSA (30991) --> 2018-02-05 10:50:08 --> applicant_monitoring --> insert --> permanent -->  --> 1
+DE LEON, LISSA (30991) --> 2018-02-05 10:50:08 --> applicant_monitoring --> insert --> amount -->  --> 1500.00
+DE LEON, LISSA (30991) --> 2018-02-05 10:50:08 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+DE LEON, LISSA (30991) --> 2018-02-05 10:50:08 --> applicant_monitoring --> insert --> process_id -->  --> 2
+DE LEON, LISSA (30991) --> 2018-02-05 10:50:08 --> applicant_monitoring --> insert --> permanent -->  --> 0
+DE LEON, LISSA (30991) --> 2018-02-05 10:50:08 --> applicant_monitoring --> insert --> amount -->  --> 261.00
+DE LEON, LISSA (30991) --> 2018-02-05 10:50:08 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+DE LEON, LISSA (30991) --> 2018-02-05 10:51:11 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+DE LEON, LISSA (30991) --> 2018-02-05 10:51:11 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+DE LEON, LISSA (30991) --> 2018-02-05 10:52:44 --> applicant_monitoring --> update --> request_id --> 0 --> 2
+DE LEON, LISSA (30991) --> 2018-02-05 10:52:44 --> applicant_monitoring --> update --> status_id --> 11 --> 1
+DE LEON, LISSA (30991) --> 2018-02-05 10:52:44 --> applicant_monitoring --> insert --> recruit_id -->  --> 6
+DE LEON, LISSA (30991) --> 2018-02-05 10:52:44 --> applicant_monitoring --> insert --> key_id -->  --> 196
+DE LEON, LISSA (30991) --> 2018-02-05 10:52:44 --> applicant_monitoring --> insert --> key -->  --> sourcing_free_sites
+DE LEON, LISSA (30991) --> 2018-02-05 10:52:44 --> applicant_monitoring --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2018-02-05 10:52:44 --> applicant_monitoring --> insert --> key_name -->  --> Recruitment Sourcing Free Sites
+DE LEON, LISSA (30991) --> 2018-02-05 10:52:44 --> applicant_monitoring --> insert --> request_id -->  --> 2
+DE LEON, LISSA (30991) --> 2018-02-05 10:52:44 --> applicant_monitoring --> insert --> recruit_id -->  --> 6
+DE LEON, LISSA (30991) --> 2018-02-05 10:52:44 --> applicant_monitoring --> insert --> status_id -->  --> 1
+DE LEON, LISSA (30991) --> 2018-02-05 10:53:55 --> authentication --> logout --> logout -->  --> 

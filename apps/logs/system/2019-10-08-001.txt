@@ -1,0 +1,8 @@
+ALICANTE, LISSA (30991) --> 2019-10-08 10:11:20 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2019-10-08 10:12:12 --> authentication --> logout --> logout -->  --> 
+DELA CRUZ, TEST (33700) --> 2019-10-08 10:12:21 --> authentication --> login --> login -->  --> 
+DELA CRUZ, TEST (33700) --> 2019-10-08 17:23:31 --> authentication --> login --> login -->  --> 
+DELA CRUZ, TEST (33700) --> 2019-10-08 18:06:07 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2019-10-08 18:06:17 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2019-10-08 18:06:58 --> authentication --> logout --> logout -->  --> 
+DELA CRUZ, TEST (33700) --> 2019-10-08 18:07:10 --> authentication --> login --> login -->  --> 

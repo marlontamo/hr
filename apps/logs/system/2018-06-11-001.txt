@@ -1,0 +1,12 @@
+Admin, Teemworx (admin) --> 2018-06-11 15:03:28 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-06-11 15:07:14 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-06-11 15:07:24 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-06-11 15:10:27 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-06-11 15:10:49 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-06-11 15:13:45 --> shift --> insert --> shift -->  --> test shift
+Admin, Teemworx (admin) --> 2018-06-11 15:13:45 --> shift --> insert --> time_start -->  --> 08:00:00
+Admin, Teemworx (admin) --> 2018-06-11 15:13:45 --> shift --> insert --> time_end -->  --> 17:00:00
+Admin, Teemworx (admin) --> 2018-06-11 15:34:19 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-06-11 16:23:17 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-06-11 16:23:21 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-06-11 16:30:06 --> authentication --> logout --> logout -->  --> 

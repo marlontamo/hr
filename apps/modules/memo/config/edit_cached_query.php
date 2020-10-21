@@ -1,0 +1,4 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["edit_cached_query"] = 'SELECT `ww_memo`.`memo_id` as record_id, `ww_memo`.`created_on` as "memo.created_on", `ww_memo`.`created_by` as "memo.created_by", `ww_memo`.`modified_on` as "memo.modified_on", `ww_memo`.`modified_by` as "memo.modified_by", ww_memo.attachment as "memo.attachment", ww_memo.memo_body as "memo.memo_body", ww_memo.memo_type_id as "memo.memo_type_id", ww_memo.apply_to_id as "memo.apply_to_id", ww_memo.memo_title as "memo.memo_title", DATE_FORMAT(ww_memo.publish_from, \'%M %d, %Y\') as "memo.publish_from", DATE_FORMAT(ww_memo.publish_to, \'%M %d, %Y\') as "memo.publish_to", ww_memo.publish as "memo.publish", ww_memo.comments as "memo.comments", ww_memo.email as "memo.email"
+FROM (`ww_memo`)
+WHERE `ww_memo`.`memo_id` = "{$record_id}"';

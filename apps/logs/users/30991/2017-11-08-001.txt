@@ -1,0 +1,13 @@
+2017-11-08 11:57:42 --> authentication --> login --> login -->  --> 
+2017-11-08 13:41:06 --> authentication --> login --> login -->  --> 
+2017-11-08 13:41:44 --> authentication --> logout --> logout -->  --> 
+2017-11-08 13:43:11 --> authentication --> login --> login -->  --> 
+2017-11-08 13:45:59 --> authentication --> logout --> logout -->  --> 
+2017-11-08 13:46:07 --> authentication --> login --> login -->  --> 
+2017-11-08 14:24:48 --> authentication --> logout --> logout -->  --> 
+2017-11-08 14:31:08 --> authentication --> login --> login -->  --> 
+2017-11-08 14:31:24 --> mrf_admin --> update --> hr_remarks -->  --> dfsfadafdsfdaf
+2017-11-08 14:31:24 --> mrf_admin --> update --> hr_remarks_by --> 0 --> 38
+2017-11-08 14:31:24 --> mrf_admin --> update --> hr_remarks_on -->  --> 2017-11-08 14:31:24
+2017-11-08 14:31:29 --> authentication --> logout --> logout -->  --> 
+2017-11-08 14:32:12 --> authentication --> login --> login -->  --> 

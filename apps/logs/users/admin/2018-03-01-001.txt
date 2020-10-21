@@ -1,0 +1,16 @@
+2018-03-01 11:14:54 --> authentication --> login --> login -->  --> 
+2018-03-01 11:26:37 --> users --> update --> hash --> $2a$08$hRV4eko18h6qPQ0gn7.f.eKk9O9Dv7nPKfZbN1mhregMrBYi3sR6i --> $2a$08$uDxkydJN2gVcSBqUev2dkez7HoBCgYU78FzuHo0BtNblNrOaflRua
+2018-03-01 11:26:37 --> users --> update --> active --> 1 --> 1 else 0
+2018-03-01 11:28:06 --> authentication --> logout --> logout -->  --> 
+2018-03-01 11:29:36 --> authentication --> login --> login -->  --> 
+2018-03-01 11:30:10 --> payroll_employee --> update --> attendance_base --> 1 --> 1 else 0
+2018-03-01 11:30:10 --> payroll_employee --> update --> whole_half --> 1 --> 1 else 0
+2018-03-01 11:30:10 --> payroll_employee --> update --> on_hold --> 1 --> 1 else 0
+2018-03-01 11:30:14 --> authentication --> logout --> logout -->  --> 
+2018-03-01 11:41:35 --> authentication --> login --> login -->  --> 
+2018-03-01 11:43:38 --> authentication --> logout --> logout -->  --> 
+2018-03-01 15:38:42 --> authentication --> login --> login -->  --> 
+2018-03-01 15:43:12 --> authentication --> logout --> logout -->  --> 
+2018-03-01 17:22:13 --> authentication --> login --> login -->  --> 
+2018-03-01 17:23:54 --> authentication --> logout --> logout -->  --> 
+2018-03-01 18:50:45 --> authentication --> login --> login -->  --> 

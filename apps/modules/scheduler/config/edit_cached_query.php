@@ -1,0 +1,4 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["edit_cached_query"] = 'SELECT `ww_scheduler`.`scheduler_id` as record_id, `ww_scheduler`.`created_on` as "scheduler.created_on", `ww_scheduler`.`created_by` as "scheduler.created_by", `ww_scheduler`.`modified_on` as "scheduler.modified_on", `ww_scheduler`.`modified_by` as "scheduler.modified_by", ww_scheduler.description as "scheduler.description", ww_scheduler.sp_function as "scheduler.sp_function", ww_scheduler.arguments as "scheduler.arguments", ww_scheduler.title as "scheduler.title"
+FROM (`ww_scheduler`)
+WHERE `ww_scheduler`.`scheduler_id` = "{$record_id}"';

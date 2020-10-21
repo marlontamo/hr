@@ -1,0 +1,5 @@
+CHAVEZ, NELSON (00129) --> 2017-08-13 21:15:47 --> applicant_monitoring --> update --> submitted --> 0 --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-13 21:15:48 --> applicant_monitoring --> update --> submitted --> 0 --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-13 21:16:05 --> applicant_monitoring --> update --> status_id --> 5 --> 6
+CHAVEZ, NELSON (00129) --> 2017-08-13 21:16:05 --> applicant_monitoring --> insert --> process_id -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-13 21:16:05 --> applicant_monitoring --> insert --> accepted -->  --> 1

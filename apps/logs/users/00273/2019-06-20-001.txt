@@ -1,0 +1,168 @@
+2019-06-20 13:27:46 --> authentication --> login --> login -->  --> 
+2019-06-20 13:51:38 --> authentication --> login --> login -->  --> 
+2019-06-20 13:56:05 --> incident_report --> insert --> involved_partners -->  --> 30
+2019-06-20 13:56:05 --> incident_report --> insert --> offense_id -->  --> 76
+2019-06-20 13:56:05 --> incident_report --> insert --> complainants -->  --> 11
+2019-06-20 13:56:05 --> incident_report --> insert --> date_time_of_offense -->  --> 2019-06-20 11:10:00
+2019-06-20 13:56:05 --> incident_report --> insert --> witnesses -->  --> 38,9
+2019-06-20 13:56:05 --> incident_report --> insert --> location -->  --> Canteen
+2019-06-20 13:56:05 --> incident_report --> insert --> violation_details -->  --> Boisterous laughter in canteen
+2019-06-20 13:56:05 --> incident_report --> insert --> damages -->  --> chair
+2019-06-20 13:56:05 --> incident_report --> insert --> incident_status_id -->  --> 2
+2019-06-20 13:56:05 --> incident_report --> insert --> date_sent -->  --> 2019-06-20 13:56:05
+2019-06-20 14:04:53 --> incident_report --> insert --> involved_partners -->  --> 757
+2019-06-20 14:04:53 --> incident_report --> insert --> offense_id -->  --> 78
+2019-06-20 14:04:53 --> incident_report --> insert --> complainants -->  --> 11
+2019-06-20 14:04:53 --> incident_report --> insert --> date_time_of_offense -->  --> 2019-06-10 17:23:00
+2019-06-20 14:04:53 --> incident_report --> insert --> witnesses -->  --> 38
+2019-06-20 14:04:53 --> incident_report --> insert --> location -->  --> HRD
+2019-06-20 14:04:53 --> incident_report --> insert --> violation_details -->  --> Frequent phone calls
+2019-06-20 14:04:53 --> incident_report --> insert --> damages -->  --> NA
+2019-06-20 14:04:53 --> incident_report --> insert --> incident_status_id -->  --> 2
+2019-06-20 14:04:53 --> incident_report --> insert --> date_sent -->  --> 2019-06-20 14:04:53
+2019-06-20 14:08:11 --> incident_report --> insert --> involved_partners -->  --> 38
+2019-06-20 14:08:11 --> incident_report --> insert --> offense_id -->  --> 55
+2019-06-20 14:08:11 --> incident_report --> insert --> complainants -->  --> 11
+2019-06-20 14:08:11 --> incident_report --> insert --> date_time_of_offense -->  --> 2019-06-11 15:18:00
+2019-06-20 14:08:11 --> incident_report --> insert --> witnesses -->  --> 757,9,30
+2019-06-20 14:08:11 --> incident_report --> insert --> violation_details -->  --> Bla bla vla
+2019-06-20 14:08:11 --> incident_report --> insert --> incident_status_id -->  --> 2
+2019-06-20 14:08:11 --> incident_report --> insert --> date_sent -->  --> 2019-06-20 14:08:11
+2019-06-20 14:18:18 --> mrf_manage --> insert --> to -->  --> nelson_c@abrahamholdings.ph
+2019-06-20 14:18:18 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+2019-06-20 14:18:18 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear CHAVEZ, NELSON ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ALICANTE, LISSA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+2019-06-20 14:18:18 --> mrf_manage --> insert --> to -->  --> weng_e@legendhotels.com.ph
+2019-06-20 14:18:18 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+2019-06-20 14:18:18 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear ELISCUPIDES, ROWENA ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ALICANTE, LISSA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+2019-06-20 14:18:18 --> mrf_manage --> insert --> to -->  --> lissa_a@abrahamholdings.ph
+2019-06-20 14:18:18 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+2019-06-20 14:18:18 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear ALICANTE, LISSA ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ALICANTE, LISSA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+2019-06-20 14:18:18 --> mrf_manage --> insert --> to -->  --> lee_p@abrahamholdings.ph
+2019-06-20 14:18:18 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+2019-06-20 14:18:18 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear POLONAN, MARIA LEE ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ALICANTE, LISSA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+2019-06-20 14:18:18 --> mrf_manage --> insert --> to -->  --> lorie_l@abrahamholdings.ph
+2019-06-20 14:18:18 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+2019-06-20 14:18:18 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear LABAPIS, LORIE ANN ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ALICANTE, LISSA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+2019-06-20 14:18:18 --> mrf_manage --> insert --> to -->  --> ian_o@abrahamholdings.ph
+2019-06-20 14:18:18 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+2019-06-20 14:18:18 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear ORBESO, JOSEPH IAN ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ALICANTE, LISSA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>

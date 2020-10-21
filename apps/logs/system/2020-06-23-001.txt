@@ -1,0 +1,42 @@
+ABULENCIA, AMYRA (33176) --> 2020-06-23 15:13:59 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-06-23 15:16:50 --> users --> update --> hash --> $2a$08$5Sn05T7Zov/LIl2T5t5GWOm3dwE2wh/ndfcyAo9gBOGTtdKZkQQ36 --> $2a$08$sQw4R.63eIrgGLe9NyGFLuo7.2OSZo.QluLOuzgEIVIAZ9Y3qpARW
+ABULENCIA, AMYRA (33176) --> 2020-06-23 15:16:50 --> users --> update --> active --> 1 --> 1 else 0
+ABULENCIA, AMYRA (33176) --> 2020-06-23 15:20:28 --> authentication --> logout --> logout -->  --> 
+MIRASOL, JR., WALDEN (33284) --> 2020-06-23 15:20:37 --> authentication --> login --> login -->  --> 
+MIRASOL, JR., WALDEN (33284) --> 2020-06-23 15:39:57 --> authentication --> logout --> logout -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-06-23 15:40:08 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-06-23 15:40:09 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-06-23 15:41:01 --> users --> update --> hash --> $2a$08$UXLFH1jgoC/udBNWHrSCeet67rvFNVVkET2Ys/qZMsBQOQvsfCh72 --> $2a$08$GzcdzZkKJ0sEPMagqJMfpeHr75xnvZHwzg8cgrLc6Vz9tZ4kYQzOy
+ABULENCIA, AMYRA (33176) --> 2020-06-23 15:41:01 --> users --> update --> active --> 1 --> 1 else 0
+ABULENCIA, AMYRA (33176) --> 2020-06-23 15:41:05 --> authentication --> logout --> logout -->  --> 
+TOLENTINO, FLORENTINO (10017) --> 2020-06-23 15:41:14 --> authentication --> login --> login -->  --> 
+TOLENTINO, FLORENTINO (10017) --> 2020-06-23 15:42:53 --> authentication --> logout --> logout -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-06-23 15:43:02 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-06-23 15:43:04 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-06-23 15:45:28 --> authentication --> logout --> logout -->  --> 
+TOLENTINO, FLORENTINO (10017) --> 2020-06-23 15:46:47 --> authentication --> login --> login -->  --> 
+TOLENTINO, FLORENTINO (10017) --> 2020-06-23 15:46:51 --> authentication --> login --> login -->  --> 
+TOLENTINO, FLORENTINO (10017) --> 2020-06-23 15:46:51 --> authentication --> login --> login -->  --> 
+TOLENTINO, FLORENTINO (10017) --> 2020-06-23 15:46:51 --> authentication --> login --> login -->  --> 
+TOLENTINO, FLORENTINO (10017) --> 2020-06-23 15:53:20 --> authentication --> logout --> logout -->  --> 
+MIRASOL, JR., WALDEN (33284) --> 2020-06-23 15:53:54 --> authentication --> login --> login -->  --> 
+MIRASOL, JR., WALDEN (33284) --> 2020-06-23 15:56:37 --> authentication --> logout --> logout -->  --> 
+TOLENTINO, FLORENTINO (10017) --> 2020-06-23 15:57:10 --> authentication --> login --> login -->  --> 
+TOLENTINO, FLORENTINO (10017) --> 2020-06-23 15:58:49 --> authentication --> logout --> logout -->  --> 
+MIRASOL, JR., WALDEN (33284) --> 2020-06-23 15:59:05 --> authentication --> login --> login -->  --> 
+MIRASOL, JR., WALDEN (33284) --> 2020-06-23 16:01:17 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2020-06-23 16:01:41 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2020-06-23 16:05:29 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2020-06-23 16:05:40 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2020-06-23 16:06:32 --> authentication --> logout --> logout -->  --> 
+MIRASOL, JR., WALDEN (33284) --> 2020-06-23 16:07:01 --> authentication --> login --> login -->  --> 
+MIRASOL, JR., WALDEN (33284) --> 2020-06-23 16:08:10 --> authentication --> logout --> logout -->  --> 
+MIRASOL, JR., WALDEN (33284) --> 2020-06-23 16:08:22 --> authentication --> login --> login -->  --> 
+MIRASOL, JR., WALDEN (33284) --> 2020-06-23 16:09:43 --> authentication --> logout --> logout -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-06-23 16:10:00 --> authentication --> login --> login -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-06-23 16:21:03 --> authentication --> logout --> logout -->  --> 
+MIRASOL, JR., WALDEN (33284) --> 2020-06-23 16:21:17 --> authentication --> login --> login -->  --> 
+MIRASOL, JR., WALDEN (33284) --> 2020-06-23 16:24:10 --> authentication --> logout --> logout -->  --> 
+ABULENCIA, AMYRA (33176) --> 2020-06-23 16:24:19 --> authentication --> login --> login -->  --> 
+() --> 2020-06-23 16:43:10 --> authentication --> logout --> logout -->  --> 
+MIRASOL, JR., WALDEN (33284) --> 2020-06-23 16:43:31 --> authentication --> login --> login -->  --> 

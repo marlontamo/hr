@@ -1,0 +1,4 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["edit_cached_query"] = 'SELECT `ww_menu`.`menu_item_id` as record_id, `ww_menu`.`created_on` as "menu.created_on", `ww_menu`.`created_by` as "menu.created_by", `ww_menu`.`modified_on` as "menu.modified_on", `ww_menu`.`modified_by` as "menu.modified_by", ww_menu.label as "menu.label", ww_menu.icon as "menu.icon", ww_menu.parent_menu_item_id as "menu.parent_menu_item_id", ww_menu.menu_item_type_id as "menu.menu_item_type_id", ww_menu.mod_id as "menu.mod_id", ww_menu.method as "menu.method", ww_menu.uri as "menu.uri", ww_menu.description as "menu.description"
+FROM (`ww_menu`)
+WHERE `ww_menu`.`menu_item_id` = "{$record_id}"';

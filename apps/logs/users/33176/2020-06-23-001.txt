@@ -1,0 +1,15 @@
+2020-06-23 15:13:59 --> authentication --> login --> login -->  --> 
+2020-06-23 15:16:50 --> users --> update --> hash --> $2a$08$5Sn05T7Zov/LIl2T5t5GWOm3dwE2wh/ndfcyAo9gBOGTtdKZkQQ36 --> $2a$08$sQw4R.63eIrgGLe9NyGFLuo7.2OSZo.QluLOuzgEIVIAZ9Y3qpARW
+2020-06-23 15:16:50 --> users --> update --> active --> 1 --> 1 else 0
+2020-06-23 15:20:28 --> authentication --> logout --> logout -->  --> 
+2020-06-23 15:40:08 --> authentication --> login --> login -->  --> 
+2020-06-23 15:40:09 --> authentication --> login --> login -->  --> 
+2020-06-23 15:41:01 --> users --> update --> hash --> $2a$08$UXLFH1jgoC/udBNWHrSCeet67rvFNVVkET2Ys/qZMsBQOQvsfCh72 --> $2a$08$GzcdzZkKJ0sEPMagqJMfpeHr75xnvZHwzg8cgrLc6Vz9tZ4kYQzOy
+2020-06-23 15:41:01 --> users --> update --> active --> 1 --> 1 else 0
+2020-06-23 15:41:05 --> authentication --> logout --> logout -->  --> 
+2020-06-23 15:43:02 --> authentication --> login --> login -->  --> 
+2020-06-23 15:43:04 --> authentication --> login --> login -->  --> 
+2020-06-23 15:45:28 --> authentication --> logout --> logout -->  --> 
+2020-06-23 16:10:00 --> authentication --> login --> login -->  --> 
+2020-06-23 16:21:03 --> authentication --> logout --> logout -->  --> 
+2020-06-23 16:24:19 --> authentication --> login --> login -->  --> 

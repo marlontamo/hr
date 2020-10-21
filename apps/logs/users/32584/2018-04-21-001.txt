@@ -1,0 +1,2 @@
+2018-04-21 17:02:50 --> authentication --> login --> login -->  --> 
+2018-04-21 17:11:26 --> authentication --> logout --> logout -->  --> 

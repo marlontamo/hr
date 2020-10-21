@@ -1,0 +1,2 @@
+SUNIGA, MA. LOURDES (00636) --> 2017-10-25 21:47:25 --> authentication --> login --> login -->  --> 
+SUNIGA, MA. LOURDES (00636) --> 2017-10-25 22:31:19 --> authentication --> logout --> logout -->  --> 

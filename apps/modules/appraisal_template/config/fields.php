@@ -1,0 +1,126 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+
+$config['fields'] = array();
+$config['fields'][1]['performance_template.template'] = array(
+	'f_id' => 1,
+	'fg_id' => 1,
+	'label' => 'Template Title',
+	'description' => '',
+	'table' => 'performance_template',
+	'column' => 'template',
+	'uitype_id' => 1,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 1,
+	'datatype' => 'required',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][1]['performance_template.template_code'] = array(
+	'f_id' => 2,
+	'fg_id' => 1,
+	'label' => 'Template Code',
+	'description' => '',
+	'table' => 'performance_template',
+	'column' => 'template_code',
+	'uitype_id' => 1,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 2,
+	'datatype' => 'required',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][1]['performance_template.applicable_to_id'] = array(
+	'f_id' => 3,
+	'fg_id' => 1,
+	'label' => 'Applicable for',
+	'description' => '',
+	'table' => 'performance_template',
+	'column' => 'applicable_to_id',
+	'uitype_id' => 4,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 3,
+	'datatype' => 'required',
+	'active' => '1',
+	'encrypt' => 0,
+	'searchable' => array(
+		'type_id' => '1',
+		'table' => 'performance_template_applicable',
+		'multiple' => 0,
+		'group_by' => '',
+		'label' => 'applicable_to',
+		'value' => 'applicable_to_id',
+		'textual_value_column' => ''
+	)
+);
+$config['fields'][1]['performance_template.applicable_to'] = array(
+	'f_id' => 4,
+	'fg_id' => 1,
+	'label' => 'Applicable to',
+	'description' => '',
+	'table' => 'performance_template',
+	'column' => 'applicable_to',
+	'uitype_id' => 10,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 4,
+	'datatype' => 'required',
+	'active' => '1',
+	'encrypt' => 0,
+	'searchable' => array(
+		'type_id' => '1',
+		'table' => 'performance_template_applicable',
+		'multiple' => 0,
+		'group_by' => '',
+		'label' => 'applicable_to',
+		'value' => 'applicable_to_id',
+		'textual_value_column' => ''
+	)
+);
+$config['fields'][1]['performance_template.description'] = array(
+	'f_id' => 5,
+	'fg_id' => 1,
+	'label' => 'Description',
+	'description' => '',
+	'table' => 'performance_template',
+	'column' => 'description',
+	'uitype_id' => 2,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 5,
+	'datatype' => '',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][1]['performance_template.set_crowdsource_by'] = array(
+	'f_id' => 6,
+	'fg_id' => 1,
+	'label' => 'Crowdsource Set-up by',
+	'description' => '',
+	'table' => 'performance_template',
+	'column' => 'set_crowdsource_by',
+	'uitype_id' => 4,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 6,
+	'datatype' => 'required',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][1]['performance_template.max_crowdsource'] = array(
+	'f_id' => 6,
+	'fg_id' => 1,
+	'label' => 'Max Crowdsource',
+	'description' => '',
+	'table' => 'performance_template',
+	'column' => 'max_crowdsource',
+	'uitype_id' => 4,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 6,
+	'datatype' => '',
+	'active' => '1',
+	'encrypt' => 0
+);

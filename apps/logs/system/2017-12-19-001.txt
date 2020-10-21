@@ -1,0 +1,7 @@
+Admin, Teemworx (admin) --> 2017-12-19 11:45:56 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-12-19 11:46:24 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-12-19 11:46:34 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-12-19 11:58:31 --> authentication --> logout --> logout -->  --> 
+() --> 2017-12-19 11:59:02 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-12-19 11:59:11 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-12-19 12:21:46 --> authentication --> logout --> logout -->  --> 

@@ -1,0 +1,4 @@
+LOPEZ, PAOLO (02115) --> 2019-10-24 13:17:14 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2019-10-24 13:19:36 --> authentication --> logout --> logout -->  --> 
+GHI, ABC (33730) --> 2019-10-24 13:19:41 --> authentication --> login --> login -->  --> 
+GHI, ABC (33730) --> 2019-10-24 13:20:22 --> authentication --> logout --> logout -->  --> 

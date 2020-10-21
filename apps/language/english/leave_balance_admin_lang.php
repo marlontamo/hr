@@ -1,0 +1,23 @@
+<?php
+$lang['leave_balance_admin'] = array(
+	'list_lb' => 'List of Leave Balance Admin',
+	'leave_bal' => 'Leave Balance',
+	'employee' => 'Employee',
+	'year' => 'Year',
+	'leave_type' => 'Leave Type',
+	'credits' => 'Credits',
+	'converted' => 'Converted',
+	'forfeited' => 'Forfeited',
+	'used' => 'Used',
+	'balance' => 'Balance',
+	'filter_lb_lt' => 'Filter leave balance list by leave type.',
+	'filter_lb_yc' => 'Filter partner list by year credited.',
+	'prev_credit' => 'Previous Credit',
+	'cur_credit' => 'Current Credit',
+	'edit' => 'Edit',
+	'options' => 'Options',
+	'view' => 'View',
+	'personal' => 'Personal',
+	'manage' => 'Manage',
+	'admin' => 'Admin',
+);						

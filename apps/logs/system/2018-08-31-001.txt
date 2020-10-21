@@ -1,0 +1,7 @@
+CARMEN, MA RITA (00108) --> 2018-08-31 06:05:36 --> authentication --> login --> login -->  --> 
+CARMEN, MA RITA (00108) --> 2018-08-31 06:09:11 --> authentication --> logout --> logout -->  --> 
+PRESBITERO, EDEN (00377) --> 2018-08-31 06:09:16 --> authentication --> login --> login -->  --> 
+PRESBITERO, EDEN (00377) --> 2018-08-31 07:17:33 --> authentication --> logout --> logout -->  --> 
+CARMEN, MA RITA (00108) --> 2018-08-31 07:17:48 --> authentication --> login --> login -->  --> 
+CARMEN, MA RITA (00108) --> 2018-08-31 07:18:17 --> authentication --> logout --> logout -->  --> 
+PRESBITERO, EDEN (00377) --> 2018-08-31 07:18:29 --> authentication --> login --> login -->  --> 

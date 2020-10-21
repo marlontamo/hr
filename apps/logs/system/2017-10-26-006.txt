@@ -1,0 +1,69 @@
+KOE, ERLINDA (10012) --> 2017-10-26 15:00:19 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 2 --> 
+KOE, ERLINDA (10012) --> 2017-10-26 15:00:19 --> applicant_monitoring --> insert --> process_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-10-26 15:00:19 --> applicant_monitoring --> insert --> benefit_id -->  --> 1
+KOE, ERLINDA (10012) --> 2017-10-26 15:00:19 --> applicant_monitoring --> insert --> amount -->  --> 100
+KOE, ERLINDA (10012) --> 2017-10-26 15:00:19 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-10-26 15:02:33 --> applicant_monitoring --> update --> accept_offer --> 1 --> 0
+KOE, ERLINDA (10012) --> 2017-10-26 15:02:33 --> applicant_monitoring --> update --> status_id --> 6 --> 8
+KOE, ERLINDA (10012) --> 2017-10-26 15:02:33 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 2 --> 
+KOE, ERLINDA (10012) --> 2017-10-26 15:02:33 --> applicant_monitoring --> insert --> process_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-10-26 15:02:33 --> applicant_monitoring --> insert --> benefit_id -->  --> 1
+KOE, ERLINDA (10012) --> 2017-10-26 15:02:33 --> applicant_monitoring --> insert --> amount -->  --> 100
+KOE, ERLINDA (10012) --> 2017-10-26 15:02:33 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-10-26 15:02:58 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 2 --> 
+KOE, ERLINDA (10012) --> 2017-10-26 15:02:58 --> applicant_monitoring --> insert --> process_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-10-26 15:02:58 --> applicant_monitoring --> insert --> benefit_id -->  --> 1
+KOE, ERLINDA (10012) --> 2017-10-26 15:02:58 --> applicant_monitoring --> insert --> amount -->  --> 100.00
+KOE, ERLINDA (10012) --> 2017-10-26 15:02:58 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-10-26 15:03:03 --> applicant_monitoring --> update --> accept_offer --> 0 --> 1
+KOE, ERLINDA (10012) --> 2017-10-26 15:03:03 --> applicant_monitoring --> update --> status_id --> 8 --> 6
+KOE, ERLINDA (10012) --> 2017-10-26 15:03:03 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 2 --> 
+KOE, ERLINDA (10012) --> 2017-10-26 15:03:03 --> applicant_monitoring --> insert --> process_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-10-26 15:03:03 --> applicant_monitoring --> insert --> benefit_id -->  --> 1
+KOE, ERLINDA (10012) --> 2017-10-26 15:03:03 --> applicant_monitoring --> insert --> amount -->  --> 100.00
+KOE, ERLINDA (10012) --> 2017-10-26 15:03:03 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-10-26 15:05:17 --> applicant_monitoring --> update --> accept_offer --> 1 --> 0
+KOE, ERLINDA (10012) --> 2017-10-26 15:05:17 --> applicant_monitoring --> update --> blacklisted --> 0 --> 1
+KOE, ERLINDA (10012) --> 2017-10-26 15:05:17 --> applicant_monitoring --> update --> status_id --> 6 --> 8
+KOE, ERLINDA (10012) --> 2017-10-26 15:05:17 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 2 --> 
+KOE, ERLINDA (10012) --> 2017-10-26 15:05:17 --> applicant_monitoring --> insert --> process_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-10-26 15:05:17 --> applicant_monitoring --> insert --> benefit_id -->  --> 1
+KOE, ERLINDA (10012) --> 2017-10-26 15:05:17 --> applicant_monitoring --> insert --> amount -->  --> 100.00
+KOE, ERLINDA (10012) --> 2017-10-26 15:05:17 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-10-26 15:05:32 --> applicant_monitoring --> update --> accept_offer --> 0 --> 1
+KOE, ERLINDA (10012) --> 2017-10-26 15:05:32 --> applicant_monitoring --> update --> status_id --> 8 --> 6
+KOE, ERLINDA (10012) --> 2017-10-26 15:05:32 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 2 --> 
+KOE, ERLINDA (10012) --> 2017-10-26 15:05:32 --> applicant_monitoring --> insert --> process_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-10-26 15:05:32 --> applicant_monitoring --> insert --> benefit_id -->  --> 1
+KOE, ERLINDA (10012) --> 2017-10-26 15:05:32 --> applicant_monitoring --> insert --> amount -->  --> 100.00
+KOE, ERLINDA (10012) --> 2017-10-26 15:05:32 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+KOE, ERLINDA (10012) --> 2017-10-26 15:05:41 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+KOE, ERLINDA (10012) --> 2017-10-26 15:05:41 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+KOE, ERLINDA (10012) --> 2017-10-26 15:19:25 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-10-26 15:32:35 --> authentication --> login --> login -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-10-26 15:41:20 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 15:41:30 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-10-26 15:58:16 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-10-26 15:58:29 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 16:28:35 --> users --> update --> hash --> $2a$08$4wCTilY8O6Pbw9cDQToF9u46oDc5tILblNTW0fQN6JKEMGyfV8H3. --> $2a$08$mk7GW7IXPIy7a0zFJ4fQ1.pS4IYaWx/PEm/5QMJUiVacYLRzs0hxK
+POLONAN, MARIA LEE (31002) --> 2017-10-26 16:28:35 --> users --> update --> active --> 1 --> 1 else 0
+POLONAN, MARIA LEE (31002) --> 2017-10-26 16:29:22 --> users --> update --> hash --> $2a$08$m.nefGyBNoSvfw10KNv.lOdi3y80Mp2AjXMuJ6Nyji5qsTMBrLKNq --> $2a$08$Ql9TtHWQtdfYWWqggxte1.vbF/6ZxM3trWNl4ejAvGHZVtY62jClK
+POLONAN, MARIA LEE (31002) --> 2017-10-26 16:29:22 --> users --> update --> active --> 1 --> 1 else 0
+POLONAN, MARIA LEE (31002) --> 2017-10-26 16:29:48 --> users --> update --> hash --> $2a$08$uRnSt7vUHsFJLFRJPp8C2OysQbg2u5JcGJ7waUCuQy271PN4/0OJC --> $2a$08$C6TIvqTk7h/X2w/wew9ebOXKrzdaDmwA3469/HYkPic6wQq1zqu/C
+POLONAN, MARIA LEE (31002) --> 2017-10-26 16:29:48 --> users --> update --> active --> 1 --> 1 else 0
+POLONAN, MARIA LEE (31002) --> 2017-10-26 16:30:15 --> users --> update --> hash --> $2a$08$9rgfpcpgMwo3suVFn0s9h.BC8Rus9QJcDrhBdayP4lW8NSlIvymce --> $2a$08$SCflgAOoY7KraAaZ41N5reoM5xqzENX4wuvEpqiV.6AZ5kfcSjB2O
+POLONAN, MARIA LEE (31002) --> 2017-10-26 16:30:15 --> users --> update --> active --> 1 --> 1 else 0
+POLONAN, MARIA LEE (31002) --> 2017-10-26 16:30:28 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 16:30:37 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 16:31:36 --> authentication --> logout --> logout -->  --> 
+BRIONES, MAIDA (31045) --> 2017-10-26 16:31:55 --> authentication --> login --> login -->  --> 
+BRIONES, MAIDA (31045) --> 2017-10-26 16:33:40 --> authentication --> logout --> logout -->  --> 
+AMAGAN, JESSELYN (00018) --> 2017-10-26 16:34:06 --> authentication --> login --> login -->  --> 
+AMAGAN, JESSELYN (00018) --> 2017-10-26 16:34:24 --> authentication --> update --> users - hash --> $2a$08$C6TIvqTk7h/X2w/wew9ebOXKrzdaDmwA3469/HYkPic6wQq1zqu/C --> $2a$08$2N/NM9oD76MtY2R4nnCKxeC6pjpDmkRB7atPyPeBGPXwtnez623AG
+AMAGAN, JESSELYN (00018) --> 2017-10-26 16:35:08 --> authentication --> logout --> logout -->  --> 
+BRIONES, MAIDA (31045) --> 2017-10-26 16:35:18 --> authentication --> login --> login -->  --> 
+BRIONES, MAIDA (31045) --> 2017-10-26 16:35:45 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 16:35:53 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-26 16:46:54 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-10-26 16:47:46 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-10-26 23:50:17 --> authentication --> login --> login -->  --> 

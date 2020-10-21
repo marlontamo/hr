@@ -1,0 +1,5 @@
+2018-02-27 15:12:29 --> authentication --> login --> login -->  --> 
+2018-02-27 15:13:27 --> authentication --> login --> login -->  --> 
+2018-02-27 15:15:25 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+2018-02-27 15:15:25 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+2018-02-27 15:33:30 --> authentication --> logout --> logout -->  --> 

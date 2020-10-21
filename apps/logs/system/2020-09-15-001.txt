@@ -1,0 +1,8 @@
+LOPEZ, PAOLO (02115) --> 2020-09-15 07:59:39 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2020-09-15 08:01:16 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2020-09-15 08:01:22 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2020-09-15 08:03:05 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2020-09-15 08:03:12 --> authentication --> login --> login -->  --> 
+TAMO, MARLON (33866) --> 2020-09-15 09:29:33 --> authentication --> login --> login -->  --> 
+TAMO, MARLON (33866) --> 2020-09-15 09:41:24 --> authentication --> login --> login -->  --> 
+TAMO, MARLON (33866) --> 2020-09-15 10:52:11 --> authentication --> logout --> logout -->  --> 

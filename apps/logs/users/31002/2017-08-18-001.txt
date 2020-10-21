@@ -1,0 +1,19 @@
+2017-08-18 00:02:21 --> authentication --> logout --> logout -->  --> 
+2017-08-18 02:13:00 --> authentication --> login --> login -->  --> 
+2017-08-18 02:18:59 --> authentication --> logout --> logout -->  --> 
+2017-08-18 03:29:33 --> authentication --> login --> login -->  --> 
+2017-08-18 05:42:19 --> applicant_monitoring --> update --> process_id --> 0 --> 2
+2017-08-18 05:42:20 --> applicant_monitoring --> update --> result_id --> 0 --> 1
+2017-08-18 05:42:20 --> applicant_monitoring --> update --> result -->  --> Passed
+2017-08-18 05:42:37 --> authentication --> logout --> logout -->  --> 
+2017-08-18 07:12:23 --> authentication --> login --> login -->  --> 
+2017-08-18 07:12:54 --> authentication --> logout --> logout -->  --> 
+2017-08-18 07:13:49 --> authentication --> login --> login -->  --> 
+2017-08-18 07:14:25 --> authentication --> logout --> logout -->  --> 
+2017-08-18 07:15:50 --> authentication --> login --> login -->  --> 
+2017-08-18 07:16:43 --> authentication --> logout --> logout -->  --> 
+2017-08-18 10:58:35 --> authentication --> login --> login -->  --> 
+2017-08-18 11:28:51 --> mrf_admin --> update --> closing_remarks -->  --> dsasdadsa
+2017-08-18 11:28:51 --> mrf_admin --> update --> closed_by --> 9 --> 39
+2017-08-18 11:28:51 --> mrf_admin --> update --> closed_on --> 2017-08-17 08:28:20 --> 2017-08-18 11:28:51
+2017-08-18 13:10:13 --> authentication --> logout --> logout -->  --> 

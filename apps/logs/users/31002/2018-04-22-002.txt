@@ -1,0 +1,131 @@
+2018-04-22 15:19:14 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+2018-04-22 15:19:14 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+2018-04-22 15:20:16 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2018-04-22 15:20:16 --> applicant_monitoring --> update --> status_id --> 2 --> 3
+2018-04-22 15:20:16 --> applicant_monitoring --> update --> process_id --> 0 --> 6
+2018-04-22 15:20:16 --> applicant_monitoring --> update --> result_id --> 0 --> 8
+2018-04-22 15:20:16 --> applicant_monitoring --> update --> result -->  --> Consider
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> interview_id -->  --> 6
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> key_id -->  --> 31
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> key -->  --> remarks
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> key_name -->  --> Findings/Comments/Impressions
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> key_value -->  --> czxcxzxcz
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> interview_id -->  --> 6
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> key_id -->  --> 66
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> key -->  --> interviewer
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> key_name -->  --> Interviewer
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> key_value -->  --> POLONAN, MARIA LEE
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> interview_id -->  --> 6
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> key_id -->  --> 64
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> key -->  --> interviewer_date
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> key_name -->  --> Date of Interviewer
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> key_value -->  --> April 22, 2018
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> interview_id -->  --> 6
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> key_id -->  --> 32
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> key -->  --> technical_recommendation
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> key_name -->  --> Recommendation
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> key_value -->  --> Consider
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> interview_id -->  --> 6
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> key_id -->  --> 67
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> key -->  --> hrd_remarks
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> sequence -->  --> 1
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> key_name -->  --> Remarks
+2018-04-22 15:20:16 --> applicant_monitoring --> insert --> key_value -->  --> cxzcxcxzczx
+2018-04-22 15:20:52 --> authentication --> logout --> logout -->  --> 
+2018-04-22 15:23:37 --> authentication --> login --> login -->  --> 
+2018-04-22 15:24:16 --> applicant_monitoring --> update --> status_id --> 3 --> 4
+2018-04-22 15:24:33 --> applicant_monitoring --> update --> status_id --> 3 --> 4
+2018-04-22 15:25:32 --> applicant_monitoring --> update --> status_id --> 4 --> 5
+2018-04-22 15:25:32 --> applicant_monitoring --> update --> status_id --> 4 --> 5
+2018-04-22 15:25:54 --> applicant_monitoring --> insert --> type -->  --> 2
+2018-04-22 15:25:54 --> applicant_monitoring --> insert --> process_id -->  --> 6
+2018-04-22 15:25:54 --> applicant_monitoring --> insert --> date -->  --> 2018-04-30 05:00:00
+2018-04-22 15:25:54 --> applicant_monitoring --> insert --> user_id -->  --> 677
+2018-04-22 15:25:54 --> applicant_monitoring --> insert --> location_id -->  --> 1
+2018-04-22 15:25:54 --> applicant_monitoring --> insert --> schedule_id -->  --> 8
+2018-04-22 15:25:54 --> applicant_monitoring --> insert --> to -->  --> rose_r@myplace.ph
+2018-04-22 15:25:54 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+2018-04-22 15:25:54 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>
+	Hi ROSEMARIE REDAON,</p>
+<p>
+	Good day!</p>
+
+<p>
+	This is to inform you that you are scheduled for an interview of DANIEL TOLENTINO, for the position of GUEST SERVICES ASSOCIATE. Below are the details and schedule:</p>
+<p>
+	Applicant Name: DANIEL TOLENTINO
+	<br>
+	Position: GUEST SERVICES ASSOCIATE
+	<br>
+	Date: April 22, 2018
+	<br>
+	Time: 05:00 pm
+</p>
+<p>
+	In case you are not available on the said dates, please do not hesitate to contact one of our HR-Recruitment Team.</p>
+<p>
+	Thank you and Regards,</p>
+<p>
+	HR-Recruitment Team</p>
+
+<br>
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+2018-04-22 15:25:54 --> applicant_monitoring --> insert --> to -->  --> danielt@yahoo.com
+2018-04-22 15:25:54 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+2018-04-22 15:25:54 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>Dear DANIEL TOLENTINO,</p>
+<p>
+	Thank you for your interest in applying for the GUEST SERVICES ASSOCIATE position. We would like to invite you for an interview at Abraham Holdings, Inc.. Please see information below:</p>
+<p>
+	Date: April 22, 2018
+	<br>
+	Time: 05:00 pm
+	<br>
+	Venue: 770 E. Rodriguez Ext., Malibay, Pasay City</p>
+
+<p>
+	Kindly look for ROSEMARIE REDAON</p>
+
+<p>
+	Should you have queries, please do not hesitate to contact us on 8893935</p>
+
+<p>
+	Sincerely,</p>
+<p>
+	HR- Recruitment Team &ndash; ABHI</p>
+<br>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+2018-04-22 15:25:54 --> applicant_monitoring --> update --> status_id --> 5 --> 2
+2018-04-22 15:25:54 --> applicant_monitoring --> update --> from_seting_final_interview --> 0 --> 2
+2018-04-22 15:25:54 --> applicant_monitoring --> update --> status_id --> 5 --> 2
+2018-04-22 15:25:54 --> applicant_monitoring --> update --> from_seting_final_interview --> 0 --> 2
+2018-04-22 15:28:20 --> authentication --> logout --> logout -->  --> 
+2018-04-22 15:32:48 --> authentication --> login --> login -->  --> 
+2018-04-22 15:47:33 --> applicant_monitoring --> insert --> template_id -->  --> 2
+2018-04-22 15:47:33 --> applicant_monitoring --> insert --> template_value -->  --> <div>22 April 2018<br><br><b>Mr. DANIEL TOLENTINO<br></b>Address<b><br><br></b>Dear Mr. TOLENTINO,<br><br>Praise God!<br><br>We are very pleased to formally welcome you at <b><i>Abraham Holdings, Inc. </i></b>Below shall be your compensation and benefits packages effective&nbsp; _____________________, for the __________________________ post (job level).<br><br><br></div><div>1.&nbsp; <b><i>Compensation<br></i></b><blockquote>1.1 Upon probationary appointment.</blockquote><blockquote><blockquote>{{probationary_appoinment}}<br></blockquote></blockquote><blockquote>1.2 Upon permanent appointment.<br><blockquote>&nbsp;{{permanent_appoinment}}<br></blockquote></blockquote><br>2.&nbsp; <b><i>Company sponsored benefits upon probationary hiring (subject to policies, systems and procedures)<br></i></b><blockquote>2.1 Uniform Benefits.<br>2.2 Duty Meals: Based on the approved duty meal policy.<br>2.3 Leave Credits: 1.66 days of leave credits earned monthly; earned leave credits can be used on your 2nd month upon hiring.<br>2.4 Sponsorship to external and internal trainings.<br></blockquote>3. <b><i>Company sponsored benefits upon permanent hiring (subject to policies, system and procedures)<br></i></b><blockquote>3.1 Caritas Health Shield: P60,000 annual limit per illnes per each qualified member.<br>3.2 Emergency loan.<br>3.3 Per diem allowances for official trips.<br>3.4 Competency Based Increased and Breakthrough project incentives (subject to attainment of goals and budgets).<br>3.5 Maintenance Bonus.<br>3.6 Retirement Benefit.<br></blockquote><br>Thank you very much and may God Bless!.<br><br><br>Prepared By:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Approved By:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conforme:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr. NELSON CHAVEZ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr. DANIEL TOLENTINO<br></div>

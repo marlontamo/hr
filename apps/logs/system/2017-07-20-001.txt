@@ -1,0 +1,21 @@
+DE LEON, LISSA (30991) --> 2017-07-20 07:17:35 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-07-20 07:21:40 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-07-20 09:10:43 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-07-20 09:11:22 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-07-20 09:17:25 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-07-20 10:32:45 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-07-20 10:32:46 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-07-20 10:42:40 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-07-20 10:42:56 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-07-20 13:41:40 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-07-20 13:43:46 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-07-20 14:26:35 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-07-20 14:37:53 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-07-20 14:38:59 --> form_policy --> update --> class_value --> 2 --> 1
+LOPEZ, PAOLO (02115) --> 2017-07-20 14:40:31 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-07-20 14:40:55 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2017-07-20 15:00:16 --> form_policy --> update --> class_value --> 2 --> 1
+ELISCUPIDES, ROWENA (00273) --> 2017-07-20 15:18:00 --> authentication --> logout --> logout -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-07-20 15:30:03 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-07-20 15:31:21 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2017-07-20 17:26:22 --> authentication --> logout --> logout -->  --> 

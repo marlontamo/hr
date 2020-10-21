@@ -1,0 +1,4 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["edit_cached_query"] = 'SELECT `ww_report_generator`.`report_id` as record_id, `ww_report_generator`.`created_on` as "report_generator.created_on", `ww_report_generator`.`created_by` as "report_generator.created_by", `ww_report_generator`.`modified_on` as "report_generator.modified_on", `ww_report_generator`.`modified_by` as "report_generator.modified_by", ww_report_generator.roles as "report_generator.roles", ww_report_generator.category_id as "report_generator.category_id", ww_report_generator.description as "report_generator.description", ww_report_generator.report_name as "report_generator.report_name", ww_report_generator.report_code as "report_generator.report_code"
+FROM (`ww_report_generator`)
+WHERE `ww_report_generator`.`report_id` = "{$record_id}"';

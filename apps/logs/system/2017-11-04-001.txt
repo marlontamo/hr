@@ -1,0 +1,5 @@
+POLONAN, MARIA LEE (31002) --> 2017-11-04 12:38:51 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-11-04 12:49:57 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-11-04 13:10:46 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-04 13:17:34 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-04 13:19:18 --> authentication --> logout --> logout -->  --> 

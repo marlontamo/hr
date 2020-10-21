@@ -1,0 +1,201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html lang="en">
+    <!-- BEGIN HEAD-->
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title></title>
+        <style>
+            body, p
+            {
+                
+
+            font-family:Arial;
+            font-size: 10px;
+
+            
+            }
+
+
+        </style>
+    </head>
+    <!-- END HEAD -->
+    <!-- BEGIN BODY -->
+    <body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" style="-webkit-font-smoothing: antialiased; width: 100% !important; -webkit-text-size-adjust: none;">
+
+     <!--    <table width="100%" cellpadding="0" cellspacing="0" border="0" style="padding: 40px 40px 40px 40px;">
+            <tr>
+                <td width="100%">
+
+                    <table width="755" cellpadding="0" cellspacing="0" border="0" align="center" class="table">
+                        <tr>
+                            <td width="755" class="cell"> -->
+                                <!-- BEGIN HEADER CONTAINER -->
+
+
+                                <img src="assets/img/logoHDI1.jpg">
+
+                                <table align="center" style="overflow: wrap;">
+                                    <tr>
+                                        <td>
+                                            <h4 style="font-size: 18px; margin: 0 0 30px 0;"><center>EMPLOYMENT AGREEMENT</center></h4>
+                                        </td>
+                                    </tr>
+                                </table>
+
+                                <br>
+                                <p style="font-size: 12px; margin:0 0 3px 0;">{{recipients}}</p>
+                                <p style="font-size: 11px; margin: 0 0 3px 0;">{{address1}}</p>
+                                <p style="font-size: 11px; margin: 0 0 3px 0;">{{address2}}</p>
+                                <br>
+                                
+
+                                <p style="font-size: 11px;">Dear Mr./Ms. &nbsp;{{dear}},</p>
+                                
+
+                                <p style="font-size: 11px; line-height: 16px;">
+                                    We are pleased to offer you the position of &nbsp;<strong>{{position}}</strong>&nbsp;in &nbsp;<strong>{{company_code}}</strong>&nbsp;subject to the following terms and conditions:</p>
+
+                        
+
+                                <p style="font-size: 11px; line-height: 16px;"><strong>1. DATE OF COMMENCEMENT</strong>
+                                </p>
+                                <ul style="list-style:none; font-size:11px; line-height: 16px;">
+                                    <li>1.1. Your probationary employment shall be for a period of six (6) months from your start date, which will commence <strong>on start date {{start_date}} to end of probationary date {{end_probi_date}}.</strong></li>
+                                </ul>
+
+                                <p style="font-size: 11px; line-height: 16px;"><strong>2. SALARY AND BENEFITS</strong>
+                                </p>
+                                <ul style="list-style:none; font-size:11px; line-height: 16px;">
+                                    <li>2.1. Your monthly basic salary shall be <strong>AMOUNT IN PESO PHP {{basicsalary}}</strong> - inclusive of all government mandated deductions. This will be paid at the mid and the end of every calendar month.</li>
+                                    <li>2.2. The Company shall deduct from your salary and bonus all such sums it is authorised to deduct under the Philippine Labor Law and other applicable laws, whether for your share of Social Security Contributions, withholding tax or otherwise.</li>
+                                    <li>2.3. While you are under probationary employment, you will only be entitled to statutory benefits.You will not be entitled to any leave or regular Company benefits. It is therefore understood that you will not receive any salary for the days you do not work.</li>
+                                    <li>2.4. You shall be subject to a periodic evaluation/appraisal by your superior who will determineand as much as possible quantify your skills, competencies, attitude and qualification for the position.</li>
+                                    <li>2.5. Upon satisfactory completion of the probationary period and a successful performanceevaluation, you will be entitled to regular employment. Your entitlement to leave and company benefits will be based on applicable provisions of the Philippine Labor Code and pertinent policies and procedures as stipulated in HDI Human Resource Manual.</li>
+                                </ul>
+
+                                <p style="font-size: 11px; line-height: 16px;"><strong>3. DUTIES</strong>
+                                </p>
+                                <ul style="list-style:none; font-size:11px; line-height: 16px;">
+                                    <li>3.1. You will report directly to the {{immediateposition}} and you shall perform the duties and responsibilities required of your position as outlined in the attached job description as well as other tasks which you may be reasonably assigned to perform from time to time.</li>
+                                </ul>
+
+                                <p style="font-size: 11px; line-height: 16px;"><strong>4. WORKING HOURS</strong>
+                                </p>
+                                <ul style="list-style:none; font-size:11px; line-height: 16px;">
+                                    <li>4.1. Your working hours are from {{timeshift}}, {{daysofwork}}. You are entitled to one hour of lunch break every day. However, it is understood that the Company has the right to change, from time to time, your work schedule and the place of work. No additional compensation shall be given for such changes unless the Company deems it necessary.</li>
+                                    <li>4.2. On occasion, you may be required to work, at the sole discretion of the Company, beyond the usual working hours to discharge your duties. You shall be compensated for all work performed in excess of the regular eight (8) hours as prescribed above pursuant to the established Company policies and the provisions of the Philippine Labor Code.</li>
+                                </ul>
+
+                                <p style="font-size: 11px; line-height: 16px;"><strong>5. TERMINATION AND NOTICE</strong>
+                                </p>
+                                <ul style="list-style:none; font-size:11px; line-height: 16px;">
+                                    <li>5.1. Either party may terminate this Agreement by giving two (2) weeks of notice prior to the termination of the probationary period. After regularization, one (1) month of notice is required. Accumulated annual leave however cannot be taken to offset the notice required for termination of employment unless approved by the Company.</li>
+                                    <li>5.2. Should the Company find after notice and investigation that you are guilty of misdemeanour, misconduct, negligence or breach of any of the terms of this Employment Agreement, the Company shall give immediate notice before terminating your services, subject to the requirements under prevailing labor laws.</li>
+                                    <li>5.3. Upon the termination of your employment you shall return to the Company all documents,records, items and materials in your possession or custody belonging to the Company or its clients and you shall not retain any copies (including electronic or soft copies) thereof.</li>
+                                    <li>5.4. During your notice period, you shall handover all documents and materials relating to yourwork and ensure a smooth transition of your duties and responsibilities. You are required to complete the handover during the notice period.</li>
+                                </ul>
+
+                                <p style="font-size: 11px; line-height: 16px;"><strong>6. CONFIDENTIALITY</strong>
+                                </p>
+                                <ul style="list-style:none; font-size:11px; line-height: 16px;">
+                                    <li>6.1. You shall not disclose to any third party any confidential information obtained during your course of employment unless expressly authorised by the Company. Should your work be confidential in nature, the Company can at its discretion require you to sign a non-disclosure agreement.</li>
+                                    <li>6.2. Confidential information for the purposes of this Agreement includes and is not limited tofiles, employment records, database reports, report formats, financial statements, financial figures, products, product listings, product prices and all other information designated as confidential in the course of your employment. It also includes intellectual property, proprietary information, business plans, strategies, financial information and any other information that will affect the Company's competitive position..</li>
+                                    <li>6.3. You shall not without prior written consent of the Company destroy, make copies, duplicate or reproduce in any form the Company's confidential information.</li>
+                                    <li>6.4. Your obligations to maintain confidentiality and secrecy shall apply after your employment until such time that the information is no longer confidential or has been made public by the Company.</li>
+                                </ul>
+
+                                <p style="font-size: 11px; line-height: 16px;"><strong>7. OUTSIDE EMPLOYMENT</strong>
+                                </p>
+                                <ul style="list-style:none; font-size:11px; line-height: 16px;">
+                                    <li>7.1. You are expected to devote your time, skill and attention during working hours to your workfor the Company. Should the Company find out that you are working on unauthorized projects or businesses outside of the Company, it will be considered a valid ground for termination.</li>
+                                </ul>
+
+                                <p style="font-size: 11px; line-height: 16px;"><strong>8. STANDARD OF CONDUCT</strong>
+                                </p>
+                                <ul style="list-style:none; font-size:11px; line-height: 16px;">
+                                    <li>8.1. You should carry out your role in the Company with utmost good faith, diligence, efficiency and effectiveness. You shall at all times observe and obey the Company’s policies, rules and regulations and conduct yourself in a manner consistent with the Company’s norms, values and standards.</li>
+                                    <li>8.2. You shall not enter into any transaction of whatever nature which may directly or indirectly adversely affect the Company or may give rise to a situation where there is conflict of interest.</li>
+                                    <li>8.3. Should you be found guilty of misdemeanor, misconduct, soliciting business for personal gains through the Company, negligence or breach of any terms and conditions of service or policies, rules and regulations laid down by the Company, the Company reserves the right to terminate your service subject to the requirements provided under the Philippine Labor Laws.</li>
+                                </ul>
+
+                                <p style="font-size: 11px; line-height: 16px;"><strong>9. GOVERNING LAW</strong>
+                                </p>
+                                <ul style="list-style:none; font-size:11px; line-height: 16px;">
+                                    <li>9.1. This Employment Agreement shall be governed by and construed in accordance with thePhilippine Labor Law. If any part of this Employment Agreement is void or unenforceable, such provision shall not affect the validity of any of its provisions.</li>
+                                </ul>
+
+                                <p style="font-size: 11px; line-height: 16px;">Please confirm your acceptance of the above terms and conditions by initialling on each page, signing the <strong>Note of Acceptance</strong> below and returning to us the duplicate copy of this Agreement within <strong>seven (7) days</strong> from the date of this Letter.
+                                </p>
+
+                                <p style="font-size: 11px; line-height: 16px;">We look forward to your joining our family and helping us inspire better lives.
+                                </p>
+
+                                <p style="font-size: 11px; line-height: 16px;">For and on behalf of the Company and the HDI Group of Companies.
+                                </p>
+
+
+                                <table cellpadding='0' cellspacing='0' border='0' width='250px' style=" font-size: 11px; margin: 30px 0 20px 0;">
+                                    
+                                     <tr>
+                                        <td align="center" colspan="2" style='height: 40px;'>{{HRmanager}}</td>
+                                    </tr>
+                                    <tr>
+                                        <td style='height: 30px; border-top: 1px solid #000000;'><strong><center>HR/OD</center></td>
+                                    </tr>
+                                </table>
+
+                                <br><br>
+
+                                <hr>
+                                <h4 style="font-size: 18px; margin-bottom: 30px;"><center>Note of Acceptance</center></h4>
+
+                                <p style="font-size: 11px; line-height: 16px;">{{date}}
+                                </p>
+
+                                <p style="font-size: 11px; line-height: 16px;">I, {{recipients}} of {{address1}} {{address2}}, {{idnumber}}, do hereby accept the terms and conditions of employment at {{company_code}} _____________ as laid out above.
+                                </p>
+
+                                <p style="font-size: 11px; line-height: 16px;">In addition, I shall not disclose to any person, firm or company whatsoever, any information relating to business, trade or corporate secrets of the Company or any person of its subsidiaries or affiliates, or any other similar information of which I have or shall thereafter at anytime possess during or after termination for whatever reasons.
+                                </p>
+
+                                <p style="font-size: 11px; line-height: 16px;">All books, files, forms, reports, accounts, papers and documents relating in any manner to the corporation’s business, vendors, supplies or customers, whether prepared by me or anyone else, are the exclusive property of the Company and shall be returned immediately to the Company upon termination of my employment for any cause whatsoever, or upon the Company’s request at any time.
+                                </p>
+
+                                <p style="font-size: 11px; line-height: 16px;">I further confirm that I will not, during the period of six (6) months after termination of my employment, directly or indirectly, either for myself or for any other person, firm or corporation, call upon, compete for, solicit, divert, or take away, any of the customers, suppliers, endorsers or advertisers of the corporation. Neither shall I compete against the Company as an employee, investor, broker, consultant, etc. of a company engaged in the same business as the Company within the same six (6) month period stated above.
+                                </p>
+
+                                <table cellpadding='0' cellspacing='0' border='0' width='250px' style=" font-size: 11px; margin: 30px 0 20px 0;">
+                                    
+                                     <tr>
+                                        <td colspan="2" style='height: 40px;'></td>
+                                    </tr>
+                                    <tr>
+                                        <td style='height: 30px; border-top: 1px solid #000000;'><strong><center>Printed Name and Signature Date</center></td>
+                                    </tr>
+                                </table>
+
+
+
+
+                                
+
+
+                                <!-- BEGIN SECTION 1-->
+                                
+
+
+
+
+<!-- 
+                            </td>
+                        </tr> 
+                        
+                    </table>
+
+                </td>
+            </tr> 
+        </table>  -->
+    </body>
+<!-- BEGIN BODY -->
+</html>

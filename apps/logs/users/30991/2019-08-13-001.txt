@@ -1,0 +1,13 @@
+2019-08-13 07:16:12 --> authentication --> login --> login -->  --> 
+2019-08-13 08:25:18 --> authentication --> login --> login -->  --> 
+2019-08-13 08:25:18 --> authentication --> login --> login -->  --> 
+2019-08-13 10:29:17 --> authentication --> logout --> logout -->  --> 
+2019-08-13 12:12:20 --> memo --> insert --> memo_type_id -->  --> 5
+2019-08-13 12:12:20 --> memo --> insert --> apply_to_id -->  --> 2
+2019-08-13 12:12:20 --> memo --> insert --> memo_title -->  --> WELCOME MS. FEBBY DELLOSA!
+2019-08-13 12:12:20 --> memo --> insert --> publish_from -->  --> 2019-08-13
+2019-08-13 12:12:20 --> memo --> insert --> publish_to -->  --> 2019-08-16
+2019-08-13 12:12:20 --> memo --> insert --> publish -->  --> 1
+2019-08-13 12:12:20 --> memo --> insert --> comments -->  --> 1
+2019-08-13 12:12:20 --> memo --> insert --> email -->  --> 1
+2019-08-13 12:12:20 --> memo --> insert --> attachment -->  --> uploads/memo/WELCOME%21%20%28Febby%20Dellosa%29.png

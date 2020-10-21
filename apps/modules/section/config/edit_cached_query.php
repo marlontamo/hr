@@ -1,0 +1,4 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["edit_cached_query"] = 'SELECT `ww_users_section`.`section_id` as record_id, `ww_users_section`.`created_on` as "users_section.created_on", `ww_users_section`.`created_by` as "users_section.created_by", `ww_users_section`.`modified_on` as "users_section.modified_on", `ww_users_section`.`modified_by` as "users_section.modified_by", ww_users_section.status_id as "users_section.status_id", ww_users_section.section as "users_section.section", ww_users_section.section_code as "users_section.section_code"
+FROM (`ww_users_section`)
+WHERE `ww_users_section`.`section_id` = "{$record_id}"';

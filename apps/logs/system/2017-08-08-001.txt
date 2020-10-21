@@ -1,0 +1,4 @@
+DE LEON, LISSA (30991) --> 2017-08-08 00:13:35 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-08-08 00:18:41 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-08-08 11:57:52 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-08-08 12:02:29 --> authentication --> logout --> logout -->  --> 

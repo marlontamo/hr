@@ -1,0 +1,161 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html lang="en">
+    <!-- BEGIN HEAD-->
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title></title>
+        <style>
+            body, p
+            {
+                
+
+            font-family:Arial;
+            font-size: 10px;
+
+            
+            }
+
+
+        </style>
+    </head>
+    <!-- END HEAD -->
+    <!-- BEGIN BODY -->
+    <body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" style="-webkit-font-smoothing: antialiased; width: 100% !important; -webkit-text-size-adjust: none;">
+
+       <!--  <table width="100%" cellpadding="0" cellspacing="0" border="0" style="padding: 40px 40px 40px 40px;">
+            <tr>
+                <td width="100%"> -->
+
+                    <img src="assets/img/logoHDI1.jpg">
+                    <table width="755" cellpadding="0" cellspacing="0" border="0" align="center" class="table">
+                        <tr>
+                            <td width="755" class="cell">
+                                <!-- BEGIN HEADER CONTAINER -->
+                                <h4 style="font-size: 18px; margin: 0 0 30px 0;"><center>Non-Disclosure Agreement</center></h4>
+                            </td>
+                        </tr>
+                    </table>
+
+                                <br>
+                                <br>
+                                <p style="font-size: 12px; margin:0 0 30px 0;">KNOW ALL MEN BY THESE PRESENTS:</p>
+                                <p style="font-size: 11px;">This Non-Disclosure Agreement executed this {{date}} by:</p>
+                                
+
+                                <p style="font-size: 11px; line-height: 16px; padding: 0 40px;">
+                                    {{company_code}} a corporation duly organized and existing in accordance with laws of the Republic of the Philippines, with principal office at {{company_address}} represented in this act by its HR/OD Manager, {{HRmanager}} hereinafter referred to as the EMPLOYER;
+                                </p>
+
+                                <p style="font-size: 11px; line-height: 16px; padding: 0 40px; text-align: center;">
+                                    &mdash; and &mdash;
+                                 </p>
+
+                                 <p style="font-size: 11px; line-height: 16px; padding: 0 40px; text-align: center;">Your probationary employment will commence on <strong>{{start_date}}</strong> to <strong>{{end_probi_date}}</strong>.
+                                 </p>
+
+                                 <p style="font-size: 11px; line-height: 16px; padding: 0 40px; text-align: center;">{{recipients}}, of legal age, Filipino and a resident of {{address1}}, {{address2}}, herein referred to as the EMPLOYEE.
+                                 </p>
+
+                                 <p style="font-size: 11px; line-height: 16px; text-align: center;">
+                                    Witnesseth:
+                                 </p>
+
+                                 <p style="font-size: 11px; line-height: 16px;">
+                                    WHEREAS, the Employer is engaged in the management and support to the other companiessubsidiaries in various fields of industry.
+                                </p>
+                                <p style="font-size: 11px; line-height: 16px;">
+                                    WHEREAS, Employee, in view of his position and nature of his work with the EMPLOYER, has and is acquiring confidential information related to business, market, customer and similar relevant knowledge and information critical to Employer’s business and competitiveness.
+                                </p>
+                                <p style="font-size: 11px; line-height: 16px;">
+                                    NOW THEREFORE, the parties hereby agree as follows:
+                                </p>
+
+                                <p style="font-size: 11px; line-height: 16px;">
+                                    1. During the course of Employee’s employment and engagement, there may be disclosed to him/hercertain trade secrets of the Company, said trade secrets consisting but not necessarily limited to:
+                                </p>
+                                <ul style="list-style:none; font-size:11px; line-height: 16px;">
+                                    <li>a. Technical information: Methods, processes, compositions, systems, techniques, inventions,machines, computer programs and research projects.</li>
+                                    <li>b. Business information: Customer lists, pricing data, sources of supply, distributor information, financial data and marketing, production, or merchandising systems or plans.</li>
+                                    <li>Other such related information and documents which are designated by EMPLOYER as confidential and sensitive.</li>
+                                </ul>
+
+                                <p style="font-size: 11px; line-height: 16px;">
+                                    2. Employee shall not during, or at any time after the termination of his/her employment with the Employer, use for himself/herself or others, or disclose or divulge to others including future employees, any trade secrets, confidential information, or any other proprietary data of the Employer in violation of this agreement.
+                                </p>
+
+                                <p style="font-size: 11px; line-height: 16px;">
+                                    3. Upon the termination of Employee, he/she shall return to Employer all documents and companyproperty, including but not necessarily limited to drawings, blueprints, reports, manuals, correspondence, customer lists, computer programs, and all other materials and all copies thereof relating in any way to the Employer’s business, or in any way obtained by Employee during the course of employ, or retain copies, notes or abstracts of the foregoing.
+                                </p>
+
+                                <p style="font-size: 11px; line-height: 16px;">
+                                    4. Employer may notify any future or prospective employer of Employee or third party of the existence of this agreement, and shall be entitled to full injunctive relief and damages for any breach hereof.
+                                </p>
+
+                                <p style="font-size: 11px; line-height: 16px;">
+                                    5. Any violation of this Agreement, regardless of whether damage was caused to the Employer or not shall constitute as just cause for the dismissal of the Employee. Moreover, the Employee shall be liable to the Employer for liquidated damages in the amount of Two Hundred Fifty Thousand Pesos (PHP 250,000.00), exclusive of any and all other damages which the Employee may be found liable under the law.
+                                </p>
+
+                                <p style="font-size: 11px; line-height: 16px;">
+                                    6. This Agreement shall be binding upon and inure to the benefit of the parties, their successors, assigns, and personal representatives.
+                                </p>
+
+                                <p style="font-size: 11px; line-height: 16px;">
+                                    7. The obligation of confidentiality shall be in full force and effect for the duration of the employment relationship between the parties and two years after the termination of such relationship.
+                                </p>
+
+                                <p style="font-size: 11px; line-height: 16px;">
+                                    IN WITNESS WHEREOF, we have set our hands this {{date}} at {{company_address}}.
+                                </p>
+
+
+
+                                <table cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 11px; margin: 30px 0 20px 0;">
+                                    <tr>
+                                        <td colspan="5" style='height: 40px;'>Signed and Witnessed by:</td>
+                                    </tr>
+                                    <tr>
+                                        <td style='height: 40px;width: 50px;'></td>
+                                        <td style='height: 30px;'>Employer Name:</td>
+                                        <td style='height: 40px; width: 50px;'></td>
+                                        <td style='height: 30px;'>Employee Name:</td>
+                                        <td style='height: 40px;width: 50px;'></td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <td colspan="2" style='height: 40px;'></td>
+                                        <td colspan="2" style='height: 40px;'></td>
+                                    </tr>
+                                    <tr>
+                                        <td style='height: 40px;width: 50px;'></td>
+                                        <td style='height: 30px; border-top: 1px solid #000000;'><strong><center>Printed Name and Signature Date</center></td>
+                                        <td style='height: 40px; width: 50px;'></td>
+                                        <td style='height: 30px; border-top: 1px solid #000000;'><strong><center>Printed Name and Signature Date</center></td>
+                                        <td style='height: 40px;width: 50px;'></td>
+                                    </tr>
+                                </table>
+
+
+
+
+                                
+
+
+                                <!-- BEGIN SECTION 1-->
+                                
+
+
+
+
+<!-- 
+                            </td>
+                        </tr> 
+                        
+                    </table>
+
+                </td>
+            </tr> 
+        </table>  -->
+    </body>
+<!-- BEGIN BODY -->
+</html>

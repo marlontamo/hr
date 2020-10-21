@@ -1,0 +1,44 @@
+2020-08-19 16:18:53 --> authentication --> login --> login -->  --> 
+2020-08-19 16:23:31 --> authentication --> login --> login -->  --> 
+2020-08-19 18:49:36 --> authentication --> login --> login -->  --> 
+2020-08-19 20:10:44 --> payroll_employee --> update --> payroll_schedule_id --> 4 --> 5
+2020-08-19 20:10:44 --> payroll_employee --> update --> attendance_base --> 1 --> 1 else 0
+2020-08-19 20:10:44 --> payroll_employee --> update --> whole_half --> 1 --> 1 else 0
+2020-08-19 20:10:44 --> payroll_employee --> update --> sss_week --> 2 --> 2,4
+2020-08-19 20:10:44 --> payroll_employee --> update --> phic_week --> 2 --> 2,4
+2020-08-19 20:10:44 --> payroll_employee --> update --> tax_week --> 2 --> 2,4
+2020-08-19 20:13:55 --> payroll_employee --> update --> payroll_schedule_id --> 4 --> 5
+2020-08-19 20:13:55 --> payroll_employee --> update --> attendance_base --> 1 --> 1 else 0
+2020-08-19 20:13:55 --> payroll_employee --> update --> whole_half --> 1 --> 1 else 0
+2020-08-19 20:13:55 --> payroll_employee --> update --> sss_week --> 2 --> 2,4
+2020-08-19 20:13:55 --> payroll_employee --> update --> phic_week --> 2 --> 2,4
+2020-08-19 20:13:55 --> payroll_employee --> update --> tax_week --> 2 --> 2,4
+2020-08-19 20:27:14 --> payroll_employee --> update --> attendance_base --> 1 --> 1 else 0
+2020-08-19 20:27:14 --> payroll_employee --> update --> whole_half --> 1 --> 1 else 0
+2020-08-19 20:28:20 --> payroll_employee --> update --> payroll_schedule_id --> 4 --> 5
+2020-08-19 20:28:20 --> payroll_employee --> update --> whole_half --> 1 --> 1 else 0
+2020-08-19 20:28:20 --> payroll_employee --> update --> non_swipe --> 1 --> 1 else 0
+2020-08-19 20:29:24 --> payroll_employee --> update --> whole_half --> 1 --> 1 else 0
+2020-08-19 20:29:24 --> payroll_employee --> update --> non_swipe --> 1 --> 1 else 0
+2020-08-19 20:29:24 --> payroll_employee --> update --> sss_week --> 2 --> 2,4
+2020-08-19 20:29:24 --> payroll_employee --> update --> phic_week --> 2 --> 2,4
+2020-08-19 20:29:53 --> payroll_employee --> update --> whole_half --> 1 --> 1 else 0
+2020-08-19 20:29:53 --> payroll_employee --> update --> non_swipe --> 1 --> 1 else 0
+2020-08-19 20:29:53 --> payroll_employee --> update --> tax_week --> 2 --> 2,4
+2020-08-19 20:32:02 --> payroll_employee --> update --> payroll_schedule_id --> 4 --> 5
+2020-08-19 20:32:02 --> payroll_employee --> update --> attendance_base --> 1 --> 1 else 0
+2020-08-19 20:32:02 --> payroll_employee --> update --> whole_half --> 1 --> 1 else 0
+2020-08-19 20:32:02 --> payroll_employee --> update --> sss_week --> 2 --> 2,4
+2020-08-19 20:32:02 --> payroll_employee --> update --> phic_week --> 2 --> 2,4
+2020-08-19 20:32:02 --> payroll_employee --> update --> tax_week --> 2 --> 2,4
+2020-08-19 20:36:42 --> payroll_employee --> update --> attendance_base --> 1 --> 1 else 0
+2020-08-19 20:36:42 --> payroll_employee --> update --> whole_half --> 1 --> 1 else 0
+2020-08-19 20:36:42 --> payroll_employee --> update --> on_hold --> 0 --> 1
+2020-08-19 20:37:22 --> payroll_employee --> update --> attendance_base --> 1 --> 1 else 0
+2020-08-19 20:37:22 --> payroll_employee --> update --> whole_half --> 1 --> 1 else 0
+2020-08-19 20:37:22 --> payroll_employee --> update --> on_hold --> 0 --> 1
+2020-08-19 20:38:00 --> payroll_employee --> update --> attendance_base --> 1 --> 1 else 0
+2020-08-19 20:38:00 --> payroll_employee --> update --> whole_half --> 1 --> 1 else 0
+2020-08-19 20:39:14 --> payroll_employee --> update --> attendance_base --> 1 --> 1 else 0
+2020-08-19 20:39:14 --> payroll_employee --> update --> whole_half --> 1 --> 1 else 0
+2020-08-19 20:39:14 --> payroll_employee --> update --> on_hold --> 0 --> 1

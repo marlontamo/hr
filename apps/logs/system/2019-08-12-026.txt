@@ -1,0 +1,59 @@
+Admin, Teemworx (admin) --> 2019-08-12 21:35:37 --> profiles --> edit --> action_id -->  --> 4
+Admin, Teemworx (admin) --> 2019-08-12 21:35:37 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2019-08-12 21:35:37 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2019-08-12 21:35:37 --> profiles --> edit --> mod_id -->  --> 137
+Admin, Teemworx (admin) --> 2019-08-12 21:35:37 --> profiles --> edit --> action_id -->  --> 6
+Admin, Teemworx (admin) --> 2019-08-12 21:35:37 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2019-08-12 21:35:37 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2019-08-12 21:35:37 --> profiles --> edit --> mod_id -->  --> 137
+Admin, Teemworx (admin) --> 2019-08-12 21:35:37 --> profiles --> edit --> action_id -->  --> 7
+Admin, Teemworx (admin) --> 2019-08-12 21:35:37 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2019-08-12 21:35:40 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2019-08-12 21:35:53 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2019-08-12 21:36:33 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2019-08-12 21:36:37 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> insert --> profile -->  --> HR Appraisal
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> insert --> description -->  --> For appraisal to create template
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> profile_id -->  --> 30
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> mod_id -->  --> 106
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> profile_id -->  --> 30
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> mod_id -->  --> 106
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> profile_id -->  --> 30
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> mod_id -->  --> 106
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> action_id -->  --> 3
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> profile_id -->  --> 30
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> mod_id -->  --> 106
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> action_id -->  --> 4
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> profile_id -->  --> 30
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> mod_id -->  --> 106
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> action_id -->  --> 5
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> profile_id -->  --> 30
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> mod_id -->  --> 106
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> action_id -->  --> 6
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> profile_id -->  --> 30
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> mod_id -->  --> 106
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> action_id -->  --> 7
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> profile_id -->  --> 30
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> mod_id -->  --> 106
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> action_id -->  --> 8
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> profile_id -->  --> 30
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> mod_id -->  --> 106
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> action_id -->  --> 9
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> profile_id -->  --> 30
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> mod_id -->  --> 106
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> action_id -->  --> 10
+Admin, Teemworx (admin) --> 2019-08-12 21:39:40 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2019-08-12 21:39:58 --> roles --> update --> profile_id --> 2,4,5,6,7,12,14,22,23,28 --> 2,4,5,6,7,12,14,22,23,28,30
+Admin, Teemworx (admin) --> 2019-08-12 21:40:03 --> authentication --> logout --> logout -->  --> 
+ALICANTE, LISSA (30991) --> 2019-08-12 21:40:16 --> authentication --> login --> login -->  --> 

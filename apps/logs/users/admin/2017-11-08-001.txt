@@ -1,0 +1,8 @@
+2017-11-08 10:08:04 --> authentication --> login --> login -->  --> 
+2017-11-08 10:09:34 --> users --> update --> hash --> $2a$08$8EUxM2sT8hqX.q8qGrMWDe89PhPLHW.i/2eD7.HQP0/j3TjeeDJ0O --> $2a$08$ct0XCq1U/k4Oky4J63HIVeUE/JcN5nomZL2gOnAoiFcsanlcp4Bam
+2017-11-08 10:09:34 --> users --> update --> active --> 1 --> 1 else 0
+2017-11-08 10:09:34 --> users --> update --> birth_date -->  --> 1970-01-01
+2017-11-08 10:09:35 --> users --> update --> hash --> $2a$08$ct0XCq1U/k4Oky4J63HIVeUE/JcN5nomZL2gOnAoiFcsanlcp4Bam --> $2a$08$EK/XXkGuqIjxXhhLdgYmIeAFPlA763Y/bB7/H3n9uxfQW/qLHkgOW
+2017-11-08 10:09:35 --> users --> update --> active --> 1 --> 1 else 0
+2017-11-08 10:09:42 --> authentication --> logout --> logout -->  --> 
+2017-11-08 11:02:32 --> authentication --> login --> login -->  --> 

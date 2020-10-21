@@ -1,0 +1,93 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+
+$config['fields'] = array();
+$config['fields'][2]['users_branch.status_id'] = array(
+	'f_id' => 4,
+	'fg_id' => 2,
+	'label' => 'Active',
+	'description' => '',
+	'table' => 'users_branch',
+	'column' => 'status_id',
+	'uitype_id' => 3,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 3,
+	'datatype' => 'V',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][2]['users_branch.branch_code'] = array(
+	'f_id' => 2,
+	'fg_id' => 2,
+	'label' => 'Branch Code',
+	'description' => '',
+	'table' => 'users_branch',
+	'column' => 'branch_code',
+	'uitype_id' => 1,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 2,
+	'datatype' => 'V',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][2]['users_branch.branch'] = array(
+	'f_id' => 1,
+	'fg_id' => 2,
+	'label' => 'Branch',
+	'description' => '',
+	'table' => 'users_branch',
+	'column' => 'branch',
+	'uitype_id' => 1,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 1,
+	'datatype' => 'V',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][2]['users_branch.sss_branch_code'] = array(
+	'f_id' => 2,
+	'fg_id' => 2,
+	'label' => 'Branch Code',
+	'description' => '',
+	'table' => 'users_branch',
+	'column' => 'sss_branch_code',
+	'uitype_id' => 1,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 2,
+	'datatype' => 'V',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][2]['users_branch.sss_branch_code_locator'] = array(
+	'f_id' => 2,
+	'fg_id' => 2,
+	'label' => 'Branch Code',
+	'description' => '',
+	'table' => 'users_branch',
+	'column' => 'sss_branch_code_locator',
+	'uitype_id' => 1,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 2,
+	'datatype' => 'V',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][2]['users_branch.company_coe'] = array(
+	'f_id' => 2,
+	'fg_id' => 2,
+	'label' => 'Company Name to Appear on COE',
+	'description' => '',
+	'table' => 'users_branch',
+	'column' => 'company_coe',
+	'uitype_id' => 1,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 2,
+	'datatype' => 'V',
+	'active' => '1',
+	'encrypt' => 0
+);

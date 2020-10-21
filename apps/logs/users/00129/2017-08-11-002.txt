@@ -1,0 +1,130 @@
+2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Permanent Country
+2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 101
+2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> permanent_zipcode
+2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Permanent Zipcode
+2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 174
+2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> permanent_add_no
+2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Permanent No.
+2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 175
+2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> permanent_add_village
+2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Permanent Subdivision/Village
+2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 176
+2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> permanent_town
+2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Permanent Town
+2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 16
+2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> emergency_name
+2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Contact Name
+2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 17
+2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> emergency_relationship
+2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Relationship
+2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 18
+2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> emergency_phone
+2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Contact Phone
+2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 19
+2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> emergency_mobile
+2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Contact Mobile
+2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 20
+2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> emergency_address
+2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Contact Address
+2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 21
+2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> emergency_city
+2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Contact City
+2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 92
+2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> emergency_country
+2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Country
+2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 22
+2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> emergency_zip_code
+2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Contact Zip Code
+2017-08-11 05:35:10 --> applicants --> update --> birth_date --> 0000-00-00 --> 2008-01-01
+2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 23
+2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> gender
+2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Gender
+2017-08-11 05:35:10 --> applicants --> insert --> key_value -->  --> Male
+2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 24
+2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> birth_place
+2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Birth Place
+2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 25
+2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> religion
+2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Religion
+2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 26
+2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> nationality
+2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Nationality
+2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 8
+2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> civil_status
+2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Civil Status
+2017-08-11 05:35:10 --> applicants --> insert --> key_value -->  --> Single
+2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 116
+2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> tin_number
+2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> TIN Number
+2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 110
+2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> sss_number
+2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> SSS Number
+2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 183
+2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> cert_member_to_trade
+2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Licence or Certified Membership to Trade/Profession
+2017-08-11 05:35:10 --> applicants --> insert --> key_value -->  --> 0
+2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 184
+2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> previously_employed_at_hdi
+2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Were you previously employed at HDI?
+2017-08-11 05:35:10 --> applicants --> insert --> key_value -->  --> 0
+2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 185
+2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> known_people_at_hdi
+2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> List known person working at HDI prior to application?
+2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 186
+2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> physical_disabilities
+2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Do you have any physical disabilities which preclude you from performing certain kinds of work? 
+2017-08-11 05:35:10 --> applicants --> insert --> key_value -->  --> 0
+2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 187
+2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> work_limitations
+2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Work Limitations
+2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 188

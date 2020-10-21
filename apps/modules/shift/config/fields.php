@@ -1,0 +1,102 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+
+$config['fields'] = array();
+$config['fields'][2]['time_shift.default_calendar'] = array(
+	'f_id' => 11,
+	'fg_id' => 2,
+	'label' => 'Default Calendar',
+	'description' => 'Default Calendar',
+	'table' => 'time_shift',
+	'column' => 'default_calendar',
+	'uitype_id' => 4,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 5,
+	'datatype' => '',
+	'active' => '1',
+	'encrypt' => 0,
+	'searchable' => array(
+		'type_id' => '1',
+		'table' => 'time_shift_weekly',
+		'multiple' => 0,
+		'group_by' => '',
+		'label' => 'calendar',
+		'value' => 'calendar_id',
+		'textual_value_column' => ''
+	)
+);
+$config['fields'][2]['time_shift.shift'] = array(
+	'f_id' => 7,
+	'fg_id' => 2,
+	'label' => 'Shift',
+	'description' => '',
+	'table' => 'time_shift',
+	'column' => 'shift',
+	'uitype_id' => 1,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 1,
+	'datatype' => 'V',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][2]['time_shift.time_start'] = array(
+	'f_id' => 8,
+	'fg_id' => 2,
+	'label' => 'From',
+	'description' => '',
+	'table' => 'time_shift',
+	'column' => 'time_start',
+	'uitype_id' => 17,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 2,
+	'datatype' => 'V',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][2]['time_shift.time_end'] = array(
+	'f_id' => 9,
+	'fg_id' => 2,
+	'label' => 'To',
+	'description' => '',
+	'table' => 'time_shift',
+	'column' => 'time_end',
+	'uitype_id' => 17,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 3,
+	'datatype' => 'V',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][2]['time_shift.color'] = array(
+	'f_id' => 10,
+	'fg_id' => 2,
+	'label' => 'Color',
+	'description' => '',
+	'table' => 'time_shift',
+	'column' => 'color',
+	'uitype_id' => 1,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 4,
+	'datatype' => 'V',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][2]['time_shift.use_tag'] = array(
+	'f_id' => 12,
+	'fg_id' => 2,
+	'label' => 'Use tag',
+	'description' => '',
+	'table' => 'time_shift',
+	'column' => 'use_tag',
+	'uitype_id' => 1,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 4,
+	'datatype' => 'V',
+	'active' => '1',
+	'encrypt' => 0
+);

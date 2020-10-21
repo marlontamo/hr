@@ -1,0 +1,10 @@
+2017-10-26 15:05:32 --> applicant_monitoring --> update --> accept_offer --> 0 --> 1
+2017-10-26 15:05:32 --> applicant_monitoring --> update --> status_id --> 8 --> 6
+2017-10-26 15:05:32 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 2 --> 
+2017-10-26 15:05:32 --> applicant_monitoring --> insert --> process_id -->  --> 2
+2017-10-26 15:05:32 --> applicant_monitoring --> insert --> benefit_id -->  --> 1
+2017-10-26 15:05:32 --> applicant_monitoring --> insert --> amount -->  --> 100.00
+2017-10-26 15:05:32 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+2017-10-26 15:05:41 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+2017-10-26 15:05:41 --> applicant_monitoring --> update --> status_id --> 6 --> 7
+2017-10-26 15:19:25 --> authentication --> logout --> logout -->  --> 

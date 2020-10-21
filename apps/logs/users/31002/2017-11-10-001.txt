@@ -1,0 +1,42 @@
+2017-11-10 07:44:15 --> authentication --> login --> login -->  --> 
+2017-11-10 07:59:58 --> incident_report --> insert --> involved_partners -->  --> 64
+2017-11-10 07:59:58 --> incident_report --> insert --> offense_id -->  --> 49
+2017-11-10 07:59:58 --> incident_report --> insert --> complainants -->  --> 39
+2017-11-10 07:59:58 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-11-02 08:00:00
+2017-11-10 07:59:58 --> incident_report --> insert --> location -->  --> Pasay
+2017-11-10 07:59:58 --> incident_report --> insert --> violation_details -->  --> Absence without notice
+2017-11-10 07:59:58 --> incident_report --> insert --> incident_status_id -->  --> 2
+2017-11-10 07:59:58 --> incident_report --> insert --> date_sent -->  --> 2017-11-10 07:59:58
+2017-11-10 08:27:13 --> authentication --> logout --> logout -->  --> 
+2017-11-10 08:27:25 --> authentication --> login --> login -->  --> 
+2017-11-10 08:54:54 --> incident_manage --> update --> incident_status_id --> 2 --> 9
+2017-11-10 08:57:35 --> authentication --> logout --> logout -->  --> 
+2017-11-10 08:58:44 --> authentication --> login --> login -->  --> 
+2017-11-10 09:04:13 --> disciplinary_manage --> update --> incident_status_id --> 9 --> 6
+2017-11-10 09:04:13 --> disciplinary_manage --> update --> status --> Open --> Close
+2017-11-10 09:04:19 --> authentication --> logout --> logout -->  --> 
+2017-11-10 09:07:10 --> authentication --> login --> login -->  --> 
+2017-11-10 09:16:55 --> authentication --> logout --> logout -->  --> 
+2017-11-10 09:31:46 --> authentication --> login --> login -->  --> 
+2017-11-10 09:42:42 --> authentication --> logout --> logout -->  --> 
+2017-11-10 09:46:54 --> authentication --> login --> login -->  --> 
+2017-11-10 09:47:46 --> authentication --> logout --> logout -->  --> 
+2017-11-10 10:12:50 --> authentication --> login --> login -->  --> 
+2017-11-10 10:14:22 --> authentication --> logout --> logout -->  --> 
+2017-11-10 10:21:46 --> authentication --> login --> login -->  --> 
+2017-11-10 10:22:24 --> users --> update --> hash --> $2a$08$qEEq56MvyeXPZp9MIGyQvuBwyr1RTm08YZN0/8YgxrJOeTzMgFKa. --> $2a$08$c9Ok8.dYzkqb3b7DSPUF8.Epcr8fL6wRr0cwo5wO5n9KHi6W6Xupu
+2017-11-10 10:22:24 --> users --> update --> active --> 1 --> 1 else 0
+2017-11-10 10:22:36 --> authentication --> logout --> logout -->  --> 
+2017-11-10 10:26:13 --> authentication --> login --> login -->  --> 
+2017-11-10 10:26:46 --> authentication --> logout --> logout -->  --> 
+2017-11-10 10:29:02 --> authentication --> login --> login -->  --> 
+2017-11-10 10:29:18 --> authentication --> logout --> logout -->  --> 
+2017-11-10 10:37:27 --> authentication --> login --> login -->  --> 
+2017-11-10 10:38:21 --> authentication --> logout --> logout -->  --> 
+2017-11-10 10:42:47 --> authentication --> login --> login -->  --> 
+2017-11-10 10:43:53 --> authentication --> logout --> logout -->  --> 
+2017-11-10 13:05:03 --> authentication --> login --> login -->  --> 
+2017-11-10 13:05:41 --> authentication --> logout --> logout -->  --> 
+2017-11-10 15:40:42 --> authentication --> login --> login -->  --> 
+2017-11-10 15:48:50 --> authentication --> login --> login -->  --> 
+2017-11-10 15:51:21 --> authentication --> logout --> logout -->  --> 

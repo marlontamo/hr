@@ -1,0 +1,2 @@
+CHAVEZ, NELSON (00129) --> 2017-10-30 23:44:02 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-30 23:53:25 --> authentication --> logout --> logout -->  --> 

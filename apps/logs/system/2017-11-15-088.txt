@@ -1,0 +1,167 @@
+SUNIGA, MA. LOURDES (00636) --> 2017-11-15 17:12:09 --> authentication --> logout --> logout -->  --> 
+KOE, ERLINDA (10012) --> 2017-11-15 17:12:19 --> authentication --> login --> login -->  --> 
+KOE, ERLINDA (10012) --> 2017-11-15 17:12:38 --> mrf_manage --> insert --> to -->  --> nelson_c@abrahamholdings.ph
+KOE, ERLINDA (10012) --> 2017-11-15 17:12:38 --> mrf_manage --> insert --> subject -->  --> Send email to approver
+KOE, ERLINDA (10012) --> 2017-11-15 17:12:38 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear CHAVEZ, NELSON ,</p>
+
+        <p>
+            Please review Personnel Requisition Form requested by GENER, FRANCIA  for your approval.
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+KOE, ERLINDA (10012) --> 2017-11-15 17:12:43 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-11-15 17:13:05 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-11-15 17:13:26 --> mrf_manage --> insert --> to -->  --> nelson_c@abrahamholdings.ph
+CHAVEZ, NELSON (00129) --> 2017-11-15 17:13:26 --> mrf_manage --> insert --> subject -->  --> Send email to hr validator
+CHAVEZ, NELSON (00129) --> 2017-11-15 17:13:26 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear CHAVEZ, NELSON ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by GENER, FRANCIA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+CHAVEZ, NELSON (00129) --> 2017-11-15 17:13:26 --> mrf_manage --> insert --> to -->  --> weng_e@legendhotels.com.ph
+CHAVEZ, NELSON (00129) --> 2017-11-15 17:13:26 --> mrf_manage --> insert --> subject -->  --> Send email to hr validator
+CHAVEZ, NELSON (00129) --> 2017-11-15 17:13:26 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear ELISCUPIDES, ROWENA ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by GENER, FRANCIA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+CHAVEZ, NELSON (00129) --> 2017-11-15 17:13:26 --> mrf_manage --> insert --> to -->  --> lissa_d@abrahamholdings.ph
+CHAVEZ, NELSON (00129) --> 2017-11-15 17:13:26 --> mrf_manage --> insert --> subject -->  --> Send email to hr validator
+CHAVEZ, NELSON (00129) --> 2017-11-15 17:13:26 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear DE LEON, LISSA ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by GENER, FRANCIA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+CHAVEZ, NELSON (00129) --> 2017-11-15 17:13:26 --> mrf_manage --> insert --> to -->  --> lee_p@abrahamholdings.ph
+CHAVEZ, NELSON (00129) --> 2017-11-15 17:13:26 --> mrf_manage --> insert --> subject -->  --> Send email to hr validator
+CHAVEZ, NELSON (00129) --> 2017-11-15 17:13:26 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear POLONAN, MARIA LEE ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by GENER, FRANCIA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+CHAVEZ, NELSON (00129) --> 2017-11-15 17:13:26 --> mrf_manage --> insert --> to -->  --> amelina_p@livingangels.edu.ph
+CHAVEZ, NELSON (00129) --> 2017-11-15 17:13:26 --> mrf_manage --> insert --> subject -->  --> Send email to hr validator
+CHAVEZ, NELSON (00129) --> 2017-11-15 17:13:26 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear PARICA, AMELINA ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by GENER, FRANCIA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+CHAVEZ, NELSON (00129) --> 2017-11-15 17:13:26 --> mrf_manage --> insert --> to -->  --> lorie_l@kalinisanlaundry.com.ph
+CHAVEZ, NELSON (00129) --> 2017-11-15 17:13:26 --> mrf_manage --> insert --> subject -->  --> Send email to hr validator
+CHAVEZ, NELSON (00129) --> 2017-11-15 17:13:26 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear LINGO, LORILYN ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by GENER, FRANCIA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+CHAVEZ, NELSON (00129) --> 2017-11-15 17:13:43 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-15 17:13:53 --> authentication --> login --> login -->  --> 

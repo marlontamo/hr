@@ -1,0 +1,94 @@
+PELEA, NERELYN (31284) --> 2017-11-10 10:16:59 --> authentication --> logout --> logout -->  --> 
+PELEA, NERELYN (31284) --> 2017-11-10 10:17:07 --> authentication --> login --> login -->  --> 
+PELEA, NERELYN (31284) --> 2017-11-10 10:18:03 --> authentication --> logout --> logout -->  --> 
+FADEROGAO, FELIPE (32194) --> 2017-11-10 10:18:10 --> authentication --> login --> login -->  --> 
+FADEROGAO, FELIPE (32194) --> 2017-11-10 10:18:41 --> authentication --> logout --> logout -->  --> 
+PELEA, NERELYN (31284) --> 2017-11-10 10:19:00 --> authentication --> login --> login -->  --> 
+PELEA, NERELYN (31284) --> 2017-11-10 10:21:02 --> authentication --> logout --> logout -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-11-10 10:21:24 --> authentication --> login --> login -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-11-10 10:21:39 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-10 10:21:46 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-10 10:22:24 --> users --> update --> hash --> $2a$08$qEEq56MvyeXPZp9MIGyQvuBwyr1RTm08YZN0/8YgxrJOeTzMgFKa. --> $2a$08$c9Ok8.dYzkqb3b7DSPUF8.Epcr8fL6wRr0cwo5wO5n9KHi6W6Xupu
+POLONAN, MARIA LEE (31002) --> 2017-11-10 10:22:24 --> users --> update --> active --> 1 --> 1 else 0
+POLONAN, MARIA LEE (31002) --> 2017-11-10 10:22:36 --> authentication --> logout --> logout -->  --> 
+KOE, ERLINDA (10012) --> 2017-11-10 10:22:46 --> authentication --> login --> login -->  --> 
+KOE, ERLINDA (10012) --> 2017-11-10 10:23:36 --> authentication --> logout --> logout -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-11-10 10:23:49 --> authentication --> login --> login -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-11-10 10:26:07 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-10 10:26:13 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-10 10:26:46 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-11-10 10:26:53 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-11-10 10:27:23 --> authentication --> logout --> logout -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-11-10 10:27:31 --> authentication --> login --> login -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-11-10 10:28:10 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-11-10 10:28:21 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-11-10 10:28:55 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-10 10:29:02 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-10 10:29:18 --> authentication --> logout --> logout -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-11-10 10:29:29 --> authentication --> login --> login -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-11-10 10:29:49 --> authentication --> logout --> logout -->  --> 
+PELEA, NERELYN (31284) --> 2017-11-10 10:29:56 --> authentication --> login --> login -->  --> 
+PELEA, NERELYN (31284) --> 2017-11-10 10:36:42 --> authentication --> logout --> logout -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-11-10 10:36:50 --> authentication --> login --> login -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-11-10 10:37:20 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-10 10:37:27 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-10 10:38:21 --> authentication --> logout --> logout -->  --> 
+FADEROGAO, FELIPE (32194) --> 2017-11-10 10:38:29 --> authentication --> login --> login -->  --> 
+FADEROGAO, FELIPE (32194) --> 2017-11-10 10:38:47 --> authentication --> logout --> logout -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-11-10 10:38:54 --> authentication --> login --> login -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-11-10 10:42:42 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-10 10:42:47 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-10 10:43:53 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-11-10 10:44:02 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-11-10 10:44:34 --> authentication --> logout --> logout -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-11-10 10:44:42 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-10 13:05:03 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-11-10 13:05:41 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-10 13:05:54 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-10 13:20:18 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 5 --> 
+DE LEON, LISSA (30991) --> 2017-11-10 13:20:18 --> applicant_monitoring --> insert --> process_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-10 13:20:18 --> applicant_monitoring --> insert --> benefit_id -->  --> 231
+DE LEON, LISSA (30991) --> 2017-11-10 13:20:18 --> applicant_monitoring --> insert --> amount -->  --> 50,000
+DE LEON, LISSA (30991) --> 2017-11-10 13:20:18 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-10 13:20:18 --> applicant_monitoring --> insert --> process_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-10 13:20:18 --> applicant_monitoring --> insert --> benefit_id -->  --> 232
+DE LEON, LISSA (30991) --> 2017-11-10 13:20:18 --> applicant_monitoring --> insert --> amount -->  --> 150.00
+DE LEON, LISSA (30991) --> 2017-11-10 13:20:18 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-10 13:20:18 --> applicant_monitoring --> insert --> process_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-10 13:20:18 --> applicant_monitoring --> insert --> benefit_id -->  --> 253
+DE LEON, LISSA (30991) --> 2017-11-10 13:20:18 --> applicant_monitoring --> insert --> amount -->  --> 2.00
+DE LEON, LISSA (30991) --> 2017-11-10 13:20:18 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-10 13:20:18 --> applicant_monitoring --> insert --> process_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-10 13:20:18 --> applicant_monitoring --> insert --> amount -->  --> 0.00
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:39 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 5 --> 
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:39 --> applicant_monitoring --> insert --> process_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:39 --> applicant_monitoring --> insert --> benefit_id -->  --> 231
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:39 --> applicant_monitoring --> insert --> amount -->  --> 50000
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:39 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:39 --> applicant_monitoring --> insert --> process_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:39 --> applicant_monitoring --> insert --> benefit_id -->  --> 232
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:39 --> applicant_monitoring --> insert --> amount -->  --> 150.00
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:39 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:39 --> applicant_monitoring --> insert --> process_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:39 --> applicant_monitoring --> insert --> benefit_id -->  --> 253
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:39 --> applicant_monitoring --> insert --> amount -->  --> 2.00
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:39 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:39 --> applicant_monitoring --> insert --> process_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:39 --> applicant_monitoring --> insert --> amount -->  --> 0.00
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:56 --> applicant_monitoring --> delete --> recruitment_process_offer_compben - process_id --> 5 --> 
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:56 --> applicant_monitoring --> insert --> process_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:56 --> applicant_monitoring --> insert --> benefit_id -->  --> 231
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:56 --> applicant_monitoring --> insert --> amount -->  --> 50000.00
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:56 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:56 --> applicant_monitoring --> insert --> process_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:56 --> applicant_monitoring --> insert --> benefit_id -->  --> 232
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:56 --> applicant_monitoring --> insert --> amount -->  --> 185230
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:56 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:56 --> applicant_monitoring --> insert --> process_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:56 --> applicant_monitoring --> insert --> benefit_id -->  --> 253
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:56 --> applicant_monitoring --> insert --> amount -->  --> 2.00
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:56 --> applicant_monitoring --> insert --> rate_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:56 --> applicant_monitoring --> insert --> process_id -->  --> 5
+DE LEON, LISSA (30991) --> 2017-11-10 13:27:56 --> applicant_monitoring --> insert --> amount -->  --> 0.00
+DE LEON, LISSA (30991) --> 2017-11-10 13:39:29 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-11-10 13:51:25 --> authentication --> login --> login -->  --> 

@@ -1,0 +1,20 @@
+2018-01-04 09:57:32 --> authentication --> login --> login -->  --> 
+2018-01-04 10:00:39 --> authentication --> logout --> logout -->  --> 
+2018-01-04 10:02:33 --> authentication --> login --> login -->  --> 
+2018-01-04 10:03:50 --> users --> update --> hash --> $2a$08$CA26kDQ8Qcv/SogwSk9NrOW51v1r7DQiT76.bkMuySaDfwppWjVpa --> $2a$08$1KK4RSXawD0xIOtkMTfVk.sz8KnIel.U7csw9v3VkpI5/jD5s4ze6
+2018-01-04 10:03:50 --> users --> update --> active --> 1 --> 1 else 0
+2018-01-04 10:03:50 --> users --> update --> email -->  --> a@a.com
+2018-01-04 10:03:50 --> users --> update --> birth_date -->  --> 1970-01-01
+2018-01-04 10:04:47 --> users --> update --> hash --> $2a$08$1KK4RSXawD0xIOtkMTfVk.sz8KnIel.U7csw9v3VkpI5/jD5s4ze6 --> $2a$08$IBoKcbs0OqoSDHI/oSJo1OaGIBSHt1srpefBcIGUSAtg10j1hcoEO
+2018-01-04 10:04:47 --> users --> update --> active --> 1 --> 1 else 0
+2018-01-04 10:04:48 --> authentication --> logout --> logout -->  --> 
+2018-01-04 10:06:32 --> authentication --> login --> login -->  --> 
+2018-01-04 10:08:24 --> users --> update --> hash --> $2a$08$8meaYXR4b/MRfV3er0ELWuyr9jBM6oEMFqK3iPR/QKFx1A95jIvYm --> $2a$08$OdI0glLslKVDObFHyoaHmuf6mLhemqSAfpQc28UY4TtJmKjjc0gAe
+2018-01-04 10:08:24 --> users --> update --> active --> 1 --> 1 else 0
+2018-01-04 10:08:24 --> users --> update --> email -->  --> a@a.com
+2018-01-04 10:08:24 --> users --> update --> birth_date -->  --> 1970-01-01
+2018-01-04 10:08:29 --> authentication --> logout --> logout -->  --> 
+2018-01-04 10:09:02 --> authentication --> login --> login -->  --> 
+2018-01-04 10:16:24 --> authentication --> logout --> logout -->  --> 
+2018-01-04 10:16:57 --> authentication --> login --> login -->  --> 
+2018-01-04 10:17:23 --> authentication --> logout --> logout -->  --> 

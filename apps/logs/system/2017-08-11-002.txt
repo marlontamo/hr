@@ -1,0 +1,97 @@
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 179
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> duration_month
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Months of Stay
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 94
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> same_as_present_address
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Same as Present Address
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_value -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 96
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> permanent_address_1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Permanent Street
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 97
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> permanent_address_2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Permanent Barangay
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 98
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> permanent_city_town
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Permanent City
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 99
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> permanent_province
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Permanent Province
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 100
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> permanent_country
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Permanent Country
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 101
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> permanent_zipcode
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Permanent Zipcode
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 174
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> permanent_add_no
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Permanent No.
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 175
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> permanent_add_village
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Permanent Subdivision/Village
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 176
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> permanent_town
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Permanent Town
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 16
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> emergency_name
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Contact Name
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 17
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> emergency_relationship
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Relationship
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 18
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> emergency_phone
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Contact Phone
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 19
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> emergency_mobile
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Contact Mobile
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 20
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> emergency_address
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Contact Address
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 21
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> emergency_city
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Contact City
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 92
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> emergency_country
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Country
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_id -->  --> 22
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key -->  --> emergency_zip_code
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:34:44 --> applicants --> insert --> key_name -->  --> Contact Zip Code
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:09 --> applicants --> update --> birth_date --> 0000-00-00 --> 2008-01-01

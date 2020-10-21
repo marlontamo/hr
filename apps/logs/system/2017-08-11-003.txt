@@ -1,0 +1,95 @@
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 23
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> gender
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Gender
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_value -->  --> Male
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 24
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> birth_place
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Birth Place
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 25
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> religion
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Religion
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 26
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> nationality
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Nationality
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 8
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> civil_status
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Civil Status
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_value -->  --> Single
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 116
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> tin_number
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> TIN Number
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 110
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> sss_number
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> SSS Number
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 183
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> cert_member_to_trade
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Licence or Certified Membership to Trade/Profession
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_value -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 184
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> previously_employed_at_hdi
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Were you previously employed at HDI?
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_value -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 185
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> known_people_at_hdi
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> List known person working at HDI prior to application?
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 186
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> physical_disabilities
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Do you have any physical disabilities which preclude you from performing certain kinds of work? 
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_value -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 187
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> work_limitations
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Work Limitations
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 188
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> illness_injuries
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Have you have any major illnesses/injuries in the past?
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_value -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 189
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> illness_injuries_desc
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Illness/Injuries Descriptio
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 190
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> illness_compensated
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Did you receive compensation for these illnesses/injuries?
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_value -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 191
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> willing_to_relocate
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> Are you willing to be relocated
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_value -->  --> 0
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 192
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key -->  --> days_notice_to_work
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> sequence -->  --> 1
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_name -->  --> How many days notice do you need to be available for work?
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> recruit_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2017-08-11 05:35:10 --> applicants --> insert --> key_id -->  --> 27

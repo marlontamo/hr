@@ -1,0 +1,97 @@
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> delete --> recruitment_personal - recruit_id --> 1 --> 
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> delete --> recruitment_personal - recruit_id --> 1 --> 
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> update --> key_value --> a --> Philippines
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_id -->  --> 2
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key -->  --> address_2
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_name -->  --> Barangay
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_id -->  --> 95
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key -->  --> province
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_name -->  --> Province
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_value -->  --> Laguna
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_id -->  --> 171
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key -->  --> presentadd_no
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_name -->  --> No.
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_id -->  --> 172
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key -->  --> presentadd_village
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_name -->  --> Subdivision/Village
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_id -->  --> 173
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key -->  --> town
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_name -->  --> Town
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_id -->  --> 178
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key -->  --> duration_years
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_name -->  --> Years of Stay
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_id -->  --> 179
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key -->  --> duration_month
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_name -->  --> Months of Stay
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_id -->  --> 94
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key -->  --> same_as_present_address
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_name -->  --> Same as Present Address
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_value -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_id -->  --> 96
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key -->  --> permanent_address_1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_name -->  --> Permanent Street
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_id -->  --> 97
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key -->  --> permanent_address_2
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_name -->  --> Permanent Barangay
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_id -->  --> 98
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key -->  --> permanent_city_town
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_name -->  --> Permanent City
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_id -->  --> 99
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key -->  --> permanent_province
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_name -->  --> Permanent Province
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_id -->  --> 100
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key -->  --> permanent_country
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_name -->  --> Permanent Country
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_id -->  --> 101
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key -->  --> permanent_zipcode
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_name -->  --> Permanent Zipcode
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_id -->  --> 174
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key -->  --> permanent_add_no
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_name -->  --> Permanent No.
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_id -->  --> 175
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key -->  --> permanent_add_village
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_name -->  --> Permanent Subdivision/Village
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_id -->  --> 176
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key -->  --> permanent_town
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:06:07 --> applicants --> insert --> key_name -->  --> Permanent Town
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> recruit_id -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> key_id -->  --> 215
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> key -->  --> family-age
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> sequence -->  --> 1
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> key_name -->  --> Age
+DE LEON, LISSA (30991) --> 2017-11-10 06:14:19 --> applicants --> insert --> key_value -->  --> 43

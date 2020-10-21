@@ -1,0 +1,8 @@
+2019-06-20 14:02:08 --> authentication --> login --> login -->  --> 
+2019-06-20 14:05:25 --> authentication --> login --> login -->  --> 
+2019-06-20 14:30:52 --> incident_report --> insert --> involved_partners -->  --> 1018
+2019-06-20 14:30:52 --> incident_report --> insert --> offense_id -->  --> 53
+2019-06-20 14:30:52 --> incident_report --> insert --> complainants -->  --> 757
+2019-06-20 14:30:52 --> incident_report --> insert --> date_time_of_offense -->  --> 2019-06-20 09:00:00
+2019-06-20 14:30:52 --> incident_report --> insert --> incident_status_id -->  --> 2
+2019-06-20 14:30:52 --> incident_report --> insert --> date_sent -->  --> 2019-06-20 14:30:52

@@ -1,0 +1,27 @@
+2017-10-23 13:55:26 --> authentication --> login --> login -->  --> 
+2017-10-23 13:55:45 --> authentication --> logout --> logout -->  --> 
+2017-10-23 14:23:57 --> authentication --> login --> login -->  --> 
+2017-10-23 14:24:48 --> authentication --> logout --> logout -->  --> 
+2017-10-23 14:30:24 --> authentication --> login --> login -->  --> 
+2017-10-23 14:45:50 --> authentication --> logout --> logout -->  --> 
+2017-10-23 15:00:36 --> authentication --> login --> login -->  --> 
+2017-10-23 15:01:18 --> authentication --> logout --> logout -->  --> 
+2017-10-23 15:10:02 --> authentication --> login --> login -->  --> 
+2017-10-23 15:17:51 --> authentication --> logout --> logout -->  --> 
+2017-10-23 20:25:14 --> authentication --> login --> login -->  --> 
+2017-10-23 20:26:15 --> authentication --> logout --> logout -->  --> 
+2017-10-23 20:28:37 --> authentication --> login --> login -->  --> 
+2017-10-23 20:31:06 --> authentication --> logout --> logout -->  --> 
+2017-10-23 21:00:04 --> authentication --> login --> login -->  --> 
+2017-10-23 21:00:10 --> authentication --> login --> login -->  --> 
+2017-10-23 21:08:40 --> authentication --> logout --> logout -->  --> 
+2017-10-23 21:14:08 --> authentication --> login --> login -->  --> 
+2017-10-23 21:25:49 --> mrf_admin --> update --> hr_remarks -->  --> ok
+2017-10-23 21:25:49 --> mrf_admin --> update --> hr_remarks_by --> 0 --> 38
+2017-10-23 21:25:49 --> mrf_admin --> update --> hr_remarks_on -->  --> 2017-10-23 21:25:49
+2017-10-23 21:26:38 --> authentication --> logout --> logout -->  --> 
+2017-10-23 21:37:55 --> authentication --> login --> login -->  --> 
+2017-10-23 21:38:20 --> mrf_admin --> update --> delivery_date --> 0000-00-00 --> 1970-01-01
+2017-10-23 21:38:20 --> mrf_admin --> update --> closed_by -->  --> 38
+2017-10-23 21:38:20 --> mrf_admin --> update --> closed_on --> 0000-00-00 00:00:00 --> 2017-10-23 21:38:20
+2017-10-23 21:54:45 --> authentication --> logout --> logout -->  --> 

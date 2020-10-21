@@ -1,0 +1,12 @@
+2017-11-15 12:42:52 --> authentication --> login --> login -->  --> 
+2017-11-15 12:53:55 --> authentication --> logout --> logout -->  --> 
+2017-11-15 12:55:28 --> authentication --> login --> login -->  --> 
+2017-11-15 12:56:49 --> authentication --> logout --> logout -->  --> 
+2017-11-15 13:03:54 --> authentication --> login --> login -->  --> 
+2017-11-15 13:10:01 --> authentication --> logout --> logout -->  --> 
+2017-11-15 13:20:00 --> authentication --> login --> login -->  --> 
+2017-11-15 13:37:04 --> authentication --> logout --> logout -->  --> 
+2017-11-15 15:28:57 --> authentication --> login --> login -->  --> 
+2017-11-15 15:29:22 --> authentication --> logout --> logout -->  --> 
+2017-11-15 16:12:46 --> authentication --> login --> login -->  --> 
+2017-11-15 16:13:08 --> authentication --> logout --> logout -->  --> 

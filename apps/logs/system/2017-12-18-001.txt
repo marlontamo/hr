@@ -1,0 +1,10 @@
+POLONAN, MARIA LEE (31002) --> 2017-12-18 10:11:53 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-12-18 11:56:49 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-12-18 11:57:42 --> leave_balance_admin --> insert --> year -->  --> 2017
+Admin, Teemworx (admin) --> 2017-12-18 11:57:42 --> leave_balance_admin --> insert --> user_id -->  --> 285
+Admin, Teemworx (admin) --> 2017-12-18 11:57:42 --> leave_balance_admin --> insert --> form_id -->  --> 21
+Admin, Teemworx (admin) --> 2017-12-18 11:57:42 --> leave_balance_admin --> insert --> previous -->  --> 0
+Admin, Teemworx (admin) --> 2017-12-18 11:57:42 --> leave_balance_admin --> insert --> period_from -->  --> 2017-12-01
+Admin, Teemworx (admin) --> 2017-12-18 11:57:42 --> leave_balance_admin --> insert --> period_to -->  --> 2017-12-31
+Admin, Teemworx (admin) --> 2017-12-18 11:57:42 --> leave_balance_admin --> insert --> period_extension -->  --> 2018-03-31
+Admin, Teemworx (admin) --> 2017-12-18 12:10:51 --> authentication --> logout --> logout -->  --> 

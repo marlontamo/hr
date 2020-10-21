@@ -1,0 +1,4 @@
+POLONAN, MARIA LEE (31002) --> 2017-10-11 10:35:51 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-11 10:45:03 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-11 10:45:11 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2017-10-11 11:18:42 --> authentication --> logout --> logout -->  --> 

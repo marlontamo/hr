@@ -1,0 +1,139 @@
+ALICANTE, LISSA (30991) --> 2019-06-20 13:22:37 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2019-06-20 13:26:23 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 13:27:46 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2019-06-20 13:51:20 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 13:51:38 --> authentication --> login --> login -->  --> 
+LOPEZ, PAOLO (02115) --> 2019-06-20 13:52:21 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2019-06-20 13:56:02 --> incident_report --> insert --> involved_partners -->  --> 757
+CHAVEZ, NELSON (00129) --> 2019-06-20 13:56:02 --> incident_report --> insert --> offense_id -->  --> 53
+CHAVEZ, NELSON (00129) --> 2019-06-20 13:56:02 --> incident_report --> insert --> complainants -->  --> 9
+CHAVEZ, NELSON (00129) --> 2019-06-20 13:56:02 --> incident_report --> insert --> date_time_of_offense -->  --> 2019-06-20 18:00:00
+CHAVEZ, NELSON (00129) --> 2019-06-20 13:56:02 --> incident_report --> insert --> violation_details -->  --> habitual tardiness  for period May 2019
+CHAVEZ, NELSON (00129) --> 2019-06-20 13:56:02 --> incident_report --> insert --> incident_status_id -->  --> 2
+CHAVEZ, NELSON (00129) --> 2019-06-20 13:56:02 --> incident_report --> insert --> date_sent -->  --> 2019-06-20 13:56:02
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 13:56:05 --> incident_report --> insert --> involved_partners -->  --> 30
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 13:56:05 --> incident_report --> insert --> offense_id -->  --> 76
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 13:56:05 --> incident_report --> insert --> complainants -->  --> 11
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 13:56:05 --> incident_report --> insert --> date_time_of_offense -->  --> 2019-06-20 11:10:00
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 13:56:05 --> incident_report --> insert --> witnesses -->  --> 38,9
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 13:56:05 --> incident_report --> insert --> location -->  --> Canteen
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 13:56:05 --> incident_report --> insert --> violation_details -->  --> Boisterous laughter in canteen
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 13:56:05 --> incident_report --> insert --> damages -->  --> chair
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 13:56:05 --> incident_report --> insert --> incident_status_id -->  --> 2
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 13:56:05 --> incident_report --> insert --> date_sent -->  --> 2019-06-20 13:56:05
+ABULENCIA, AMYRA (33176) --> 2019-06-20 14:02:08 --> authentication --> login --> login -->  --> 
+ALICANTE, LISSA (30991) --> 2019-06-20 14:04:31 --> position --> insert --> position -->  --> Food Park Supervisor
+ALICANTE, LISSA (30991) --> 2019-06-20 14:04:31 --> position --> insert --> position_code -->  --> POS301
+ALICANTE, LISSA (30991) --> 2019-06-20 14:04:31 --> position --> insert --> employee_type_id -->  --> 5
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:04:53 --> incident_report --> insert --> involved_partners -->  --> 757
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:04:53 --> incident_report --> insert --> offense_id -->  --> 78
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:04:53 --> incident_report --> insert --> complainants -->  --> 11
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:04:53 --> incident_report --> insert --> date_time_of_offense -->  --> 2019-06-10 17:23:00
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:04:53 --> incident_report --> insert --> witnesses -->  --> 38
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:04:53 --> incident_report --> insert --> location -->  --> HRD
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:04:53 --> incident_report --> insert --> violation_details -->  --> Frequent phone calls
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:04:53 --> incident_report --> insert --> damages -->  --> NA
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:04:53 --> incident_report --> insert --> incident_status_id -->  --> 2
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:04:53 --> incident_report --> insert --> date_sent -->  --> 2019-06-20 14:04:53
+ABULENCIA, AMYRA (33176) --> 2019-06-20 14:05:25 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:08:11 --> incident_report --> insert --> involved_partners -->  --> 38
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:08:11 --> incident_report --> insert --> offense_id -->  --> 55
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:08:11 --> incident_report --> insert --> complainants -->  --> 11
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:08:11 --> incident_report --> insert --> date_time_of_offense -->  --> 2019-06-11 15:18:00
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:08:11 --> incident_report --> insert --> witnesses -->  --> 757,9,30
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:08:11 --> incident_report --> insert --> violation_details -->  --> Bla bla vla
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:08:11 --> incident_report --> insert --> incident_status_id -->  --> 2
+ELISCUPIDES, ROWENA (00273) --> 2019-06-20 14:08:11 --> incident_report --> insert --> date_sent -->  --> 2019-06-20 14:08:11
+CHAVEZ, NELSON (00129) --> 2019-06-20 14:09:47 --> incident_manage --> update --> incident_status_id --> 2 --> 9
+CHAVEZ, NELSON (00129) --> 2019-06-20 14:13:15 --> mrf_manage --> insert --> to -->  --> nelson_c@abrahamholdings.ph
+CHAVEZ, NELSON (00129) --> 2019-06-20 14:13:15 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+CHAVEZ, NELSON (00129) --> 2019-06-20 14:13:15 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear CHAVEZ, NELSON ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ABULENCIA, AMYRA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+CHAVEZ, NELSON (00129) --> 2019-06-20 14:13:15 --> mrf_manage --> insert --> to -->  --> weng_e@legendhotels.com.ph
+CHAVEZ, NELSON (00129) --> 2019-06-20 14:13:15 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+CHAVEZ, NELSON (00129) --> 2019-06-20 14:13:15 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear ELISCUPIDES, ROWENA ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ABULENCIA, AMYRA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+CHAVEZ, NELSON (00129) --> 2019-06-20 14:13:15 --> mrf_manage --> insert --> to -->  --> lissa_a@abrahamholdings.ph
+CHAVEZ, NELSON (00129) --> 2019-06-20 14:13:15 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+CHAVEZ, NELSON (00129) --> 2019-06-20 14:13:15 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear ALICANTE, LISSA ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ABULENCIA, AMYRA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+CHAVEZ, NELSON (00129) --> 2019-06-20 14:13:15 --> mrf_manage --> insert --> to -->  --> lee_p@abrahamholdings.ph
+CHAVEZ, NELSON (00129) --> 2019-06-20 14:13:15 --> mrf_manage --> insert --> subject -->  --> Approved PRF for outsourcing
+CHAVEZ, NELSON (00129) --> 2019-06-20 14:13:15 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear POLONAN, MARIA LEE ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by ABULENCIA, AMYRA .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>

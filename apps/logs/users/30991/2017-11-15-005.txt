@@ -1,0 +1,207 @@
+2017-11-15 19:16:21 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+2017-11-15 19:16:21 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>Dear janet Vicedo,</p>
+<p>
+	Thank you for your interest in applying for the ACCOUNTING CLERK position. We would like to invite you for an interview at Abraham Holdings, Inc.. Please see information below:</p>
+<p>
+	Date: November 15, 2017
+	<br>
+	Time: 07:24 pm
+	<br>
+	Venue: 770 E. Rodriguez Ext., Malibay, Pasay City</p>
+
+<p>
+	Kindly look for LISSA DE LEON</p>
+
+<p>
+	Should you have queries, please do not hesitate to contact us on 8893935</p>
+
+<p>
+	Sincerely,</p>
+<p>
+	HR- Recruitment Team &ndash; ABHI</p>
+<br>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+2017-11-15 19:16:21 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+2017-11-15 19:20:04 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-11-15 19:20:04 --> applicant_monitoring --> insert --> date -->  --> 2017-11-15 19:21:00
+2017-11-15 19:20:04 --> applicant_monitoring --> insert --> user_id -->  --> 38
+2017-11-15 19:20:04 --> applicant_monitoring --> insert --> location_id -->  --> 1
+2017-11-15 19:20:04 --> applicant_monitoring --> insert --> schedule_id -->  --> 1
+2017-11-15 19:20:04 --> applicant_monitoring --> insert --> to -->  --> lissa_d@abrahamholdings.ph
+2017-11-15 19:20:04 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+2017-11-15 19:20:04 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>
+	Hi LISSA DE LEON,</p>
+<p>
+	Good day!</p>
+
+<p>
+	This is to inform you that you are scheduled for an interview of janet Vicedo, for the position of ACCOUNTING CLERK. Below are the details and schedule:</p>
+<p>
+	Applicant Name: janet Vicedo
+	<br>
+	Position: ACCOUNTING CLERK
+	<br>
+	Date: November 15, 2017
+	<br>
+	Time: 07:21 pm
+</p>
+<p>
+	In case you are not available on the said dates, please do not hesitate to contact one of our HR-Recruitment Team.</p>
+<p>
+	Thank you and Regards,</p>
+<p>
+	HR-Recruitment Team</p>
+
+<br>
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+2017-11-15 19:20:04 --> applicant_monitoring --> insert --> to -->  --> janet@yahoo.com
+2017-11-15 19:20:04 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+2017-11-15 19:20:04 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>Dear janet Vicedo,</p>
+<p>
+	Thank you for your interest in applying for the ACCOUNTING CLERK position. We would like to invite you for an interview at Abraham Holdings, Inc.. Please see information below:</p>
+<p>
+	Date: November 15, 2017
+	<br>
+	Time: 07:21 pm
+	<br>
+	Venue: 770 E. Rodriguez Ext., Malibay, Pasay City</p>
+
+<p>
+	Kindly look for LISSA DE LEON</p>
+
+<p>
+	Should you have queries, please do not hesitate to contact us on 8893935</p>
+
+<p>
+	Sincerely,</p>
+<p>
+	HR- Recruitment Team &ndash; ABHI</p>
+<br>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+2017-11-15 19:20:04 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+2017-11-15 20:44:24 --> authentication --> login --> login -->  --> 
+2017-11-15 20:44:45 --> mrf_admin --> update --> hr_remarks -->  --> fdfdsfds
+2017-11-15 20:44:45 --> mrf_admin --> update --> hr_remarks_by --> 0 --> 38
+2017-11-15 20:44:45 --> mrf_admin --> update --> hr_remarks_on -->  --> 2017-11-15 20:44:45
+2017-11-15 21:11:15 --> applicant_monitoring --> update --> request_id --> 0 --> 1
+2017-11-15 21:11:15 --> applicant_monitoring --> update --> status_id --> 11 --> 1
+2017-11-15 21:11:15 --> applicant_monitoring --> insert --> request_id -->  --> 1
+2017-11-15 21:11:15 --> applicant_monitoring --> insert --> recruit_id -->  --> 1
+2017-11-15 21:11:15 --> applicant_monitoring --> insert --> status_id -->  --> 1
+2017-11-15 21:11:42 --> applicant_monitoring --> insert --> process_id -->  --> 1
+2017-11-15 21:11:42 --> applicant_monitoring --> insert --> date -->  --> 2017-11-15 22:00:00
+2017-11-15 21:11:42 --> applicant_monitoring --> insert --> user_id -->  --> 38
+2017-11-15 21:11:42 --> applicant_monitoring --> insert --> location_id -->  --> 1
+2017-11-15 21:11:42 --> applicant_monitoring --> insert --> schedule_id -->  --> 1
+2017-11-15 21:11:42 --> applicant_monitoring --> insert --> to -->  --> lissa_d@abrahamholdings.ph
+2017-11-15 21:11:42 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+2017-11-15 21:11:42 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>
+	Hi LISSA DE LEON,</p>
+<p>
+	Good day!</p>
+
+<p>
+	This is to inform you that you are scheduled for an interview of Janet Vicedo, for the position of ACCOUNTING ASSISTANT. Below are the details and schedule:</p>
+<p>
+	Applicant Name: Janet Vicedo
+	<br>
+	Position: ACCOUNTING ASSISTANT
+	<br>
+	Date: November 15, 2017
+	<br>
+	Time: 10:00 pm
+</p>
+<p>
+	In case you are not available on the said dates, please do not hesitate to contact one of our HR-Recruitment Team.</p>
+<p>
+	Thank you and Regards,</p>
+<p>
+	HR-Recruitment Team</p>
+
+<br>
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+2017-11-15 21:11:42 --> applicant_monitoring --> insert --> to -->  --> janet@yahoo.com
+2017-11-15 21:11:42 --> applicant_monitoring --> insert --> subject -->  --> Interview Schedule
+2017-11-15 21:11:42 --> applicant_monitoring --> insert --> body -->  --> <div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+<p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="http://hris.abrahamholdings.ph/emplopad/uploads/system/header/emplopad_header.png" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+<p>Dear Janet Vicedo,</p>
+<p>
+	Thank you for your interest in applying for the ACCOUNTING ASSISTANT position. We would like to invite you for an interview at Abraham Holdings, Inc.. Please see information below:</p>
+<p>
+	Date: November 15, 2017
+	<br>
+	Time: 10:00 pm
+	<br>
+	Venue: 770 E. Rodriguez Ext., Malibay, Pasay City</p>
+
+<p>
+	Kindly look for LISSA DE LEON</p>
+
+<p>
+	Should you have queries, please do not hesitate to contact us on 8893935</p>
+
+<p>
+	Sincerely,</p>
+<p>
+	HR- Recruitment Team &ndash; ABHI</p>
+<br>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+
+</div>
+2017-11-15 21:11:42 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+2017-11-15 21:11:42 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+2017-11-15 21:12:10 --> applicant_monitoring --> update --> status_id --> 2 --> 3

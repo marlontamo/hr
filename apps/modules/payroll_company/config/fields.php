@@ -1,0 +1,117 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+
+$config['fields'] = array();
+$config['fields'][1]['users_company.company_code'] = array(
+	'f_id' => 1,
+	'fg_id' => 1,
+	'label' => 'Company Code',
+	'description' => '',
+	'table' => 'users_company',
+	'column' => 'company_code',
+	'uitype_id' => 1,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 1,
+	'datatype' => 'required',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][1]['users_company.company'] = array(
+	'f_id' => 2,
+	'fg_id' => 1,
+	'label' => 'Company Name',
+	'description' => '',
+	'table' => 'users_company',
+	'column' => 'company',
+	'uitype_id' => 1,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 2,
+	'datatype' => 'required',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][1]['users_company.bank_id'] = array(
+	'f_id' => 3,
+	'fg_id' => 1,
+	'label' => 'Bank',
+	'description' => '',
+	'table' => 'users_company',
+	'column' => 'bank_id',
+	'uitype_id' => 4,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 3,
+	'datatype' => 'required',
+	'active' => '1',
+	'encrypt' => 0,
+	'searchable' => array(
+		'type_id' => '1',
+		'table' => 'payroll_bank',
+		'multiple' => 0,
+		'group_by' => '',
+		'label' => 'bank',
+		'value' => 'bank_id',
+		'textual_value_column' => ''
+	)
+);
+$config['fields'][1]['users_company.sss'] = array(
+	'f_id' => 4,
+	'fg_id' => 1,
+	'label' => 'SSS No.',
+	'description' => '',
+	'table' => 'users_company',
+	'column' => 'sss',
+	'uitype_id' => 1,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 4,
+	'datatype' => 'required',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][1]['users_company.hdmf'] = array(
+	'f_id' => 5,
+	'fg_id' => 1,
+	'label' => 'Pag-ibig No.',
+	'description' => '',
+	'table' => 'users_company',
+	'column' => 'hdmf',
+	'uitype_id' => 1,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 5,
+	'datatype' => 'required',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][1]['users_company.phic'] = array(
+	'f_id' => 6,
+	'fg_id' => 1,
+	'label' => 'Philhealth No.',
+	'description' => '',
+	'table' => 'users_company',
+	'column' => 'phic',
+	'uitype_id' => 1,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 6,
+	'datatype' => 'required',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][1]['users_company.tin'] = array(
+	'f_id' => 7,
+	'fg_id' => 1,
+	'label' => 'TIN',
+	'description' => '',
+	'table' => 'users_company',
+	'column' => 'tin',
+	'uitype_id' => 1,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 7,
+	'datatype' => 'required',
+	'active' => '1',
+	'encrypt' => 0
+);

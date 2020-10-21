@@ -1,0 +1,509 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html lang="en">
+    <!-- BEGIN HEAD-->
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title></title>
+        <style>
+            body
+            {
+                
+
+            font-family:Arial;
+            font-size: 10px;
+
+            
+            }
+
+
+            td
+            {
+                
+                padding:0;
+            }
+            .header h2
+            {
+                padding-left: 20px;
+                padding-right: 20px;
+                padding-top: 20px;
+                font-size: 18px;
+            }
+
+            .header h3
+            {
+                padding-bottom: 15px;
+                padding-left: 20px;
+                padding-right: 20px;
+                font-size: 12px;
+                color: #666666;
+            }
+
+            .np1
+            {
+                color: #666;
+                font-size: 14px;
+                margin: -18px 18px 0;
+            }
+
+            .mp1
+            {
+                float: right;
+                margin: 0 22px 0 0;
+            }
+
+            .header_sub
+            {
+                width: 755px;
+                margin: 5px 0 0;
+                border-radius: 5px 5px 0 0;
+            }
+
+                .header_sub h2
+                {
+                    padding: 10px;
+                    font-size: 12px;
+                    color: #f1f1f1;
+                    margin: -3px 3px 0 0;
+                    height: 10px;
+                }
+
+            #f1
+            {
+                padding-top: 10px;
+            }
+
+            #ip1
+            {
+                width: 100%;
+                text-align: justify;
+                font-size: 12px;
+                color: #333;
+            }
+
+                #ip1 h3
+                {
+                    font-size: 12px;
+                }
+
+            .im1
+            {
+                float: right;
+                margin: -40px 0 0 0;
+                font-size: 8px;
+            }
+
+            .alfin
+            {
+                margin-left: 18px;
+                width: 300px;
+                color: #2b2b2b;
+                width: 400px;
+                font-size: 13px;
+                background: url("/images/bg.widget.png") repeat scroll;
+                border: 0.3px solid #b6b6b6;
+            }
+
+                .p th
+                {
+                    font-size: 12px;
+                    width: 140px;
+                }
+
+                .prdt tr
+                {
+                    background: #fff;
+                }
+
+            .espaco
+            {
+                height: 5px;
+            }
+
+            #borderrightCF
+            {
+                border-right: 1px solid #ccc;
+            }
+
+            .alfin
+            {
+                padding: 10px 20px 10px;
+                font-size: 10px;
+                border-bottom: 1px solid #f1f1f1;
+            }
+
+            .alrsp
+            {
+                margin: -18px 0px 0;
+                font-size: 10px;
+            }
+
+                .alrsp span
+                {
+                    color: #000;
+                    text-decoration: underline;
+                    margin: 0 5px;
+                }
+
+            .albr
+            {
+                padding: 10px 0 0 0;
+            }
+
+            .iwg
+            {
+                font-size: 9px;
+                color: #0A73C3;
+                width: 200px;
+                text-align: justify;
+            }
+
+            .tp01
+            {
+                border-collapse: collapse;
+            }
+
+                .tp01 th
+                {
+                    color: white;
+                    border: 1px solid #e4e4e4;
+                }
+
+                .tp01 td, .myTable th
+                {
+                    padding: 5px;
+                    border: 1px solid #e4e4e4;
+                }
+            .auto-style1
+            {
+                height: 30px;
+                width: 566px;
+            }
+            .auto-style3
+            {
+                width: 900px;
+            }
+        </style>
+    </head>
+    <!-- END HEAD -->
+    <!-- BEGIN BODY -->
+    <body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" style="-webkit-font-smoothing: antialiased; width: 100% !important; -webkit-text-size-adjust: none;">
+
+       <!--  <table width="100%" cellpadding="0" cellspacing="0" border="0" style="padding: 20px 0 20px 0">
+            <tr>
+                <td width="100%">
+
+                    <table width="755" cellpadding="0" cellspacing="0" border="0" align="center" class="table">
+                        <tr>
+                            <td width="755" class="cell"> -->
+                                <!-- BEGIN HEADER CONTAINER -->
+                               <!--  <table align="center" style="width: 755px; height: auto; background: #fff; margin-bottom: 10px;overflow: wrap;">
+                                    <tr style="border: 1px solid #ccc;">
+                                        <td class="auto-style3"> -->
+                                            <table style="width: 755px; height: auto; background: #fff; margin-bottom: 10px;overflow: wrap;">
+                                                <tr>
+                                                    <td style="width: 200px;">
+                                                        <img src="assets/img/hdi_resource-logo.png" style="width: 160px;">
+                                                    </td>
+                                                    <td >
+                                                        <div class="header">
+                                                            <h1>Background Investigation Report</h1>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                       <!--  </td>
+                                        <td> -->
+                                            <table>
+                                                <tr>
+                                                    <td style="padding-left: 20px; " class="auto-style1">
+                                                        <div class="mp1">
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                       <!--  </td>
+                                    </tr>
+                                </table> -->
+
+
+                                <!-- BEGIN SECTION 1-->
+                                <table cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 11px; margin-bottom: 20px;overflow: wrap;">
+                                    <tr>
+                                        <td style=' height: 30px; width: 180px;'><strong>CLIENT :</strong></td>
+                                        <td >{{company_code}}</td>
+                                        <td ><strong>REPORT DATE :</strong></td>
+                                        <td >{{date}}</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 30px; width: 180px;'><strong>POSITION APPLIED FOR :</strong></td>
+                                        <td >{{position}}</td>
+                                        <td ><strong>LEVEL/ DEPT. :</strong></td>
+                                        <td >{{department}}</span></td>
+                                    </tr>
+                                </table>
+
+
+                                <table  align='center' style='width: 755px; height: auto; background: #fff; border: 1px solid #e4e4e4;margin-bottom: 10px;overflow: wrap;'>
+                                    <tr>
+                                        <td>
+                                            <table cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 11px;">
+                                                <tr>
+                                                    <td style=' height: 20px; width: 350px;' colspan="4"><strong>APPLICANT’S</strong></td>
+                                                
+                                                </tr>
+                                                <tr>
+                                                    <td style=' height: 10px;' colspan="4"><strong>NAME:</strong></td>
+                                                </tr>
+                                                <tr>
+                                                    <td style=' height: 5px; font-size: 11px;' colspan="2"><center>{{lastname}}</center></td>
+                                                    <td style=' height: 5px; font-size: 11px;'><center>{{firstname}}</center></td>
+                                                    <td style=' height: 5px; font-size: 11px;'><center>{{middlename}}</center></td>
+                                                </tr>
+                                                <tr>
+                                                    <td style=' height: 5px; font-size: 9px; color: #CCCCCC;' colspan="2"><center>Last Name</center></td>
+                                                    <td style=' height: 5px; font-size: 9px; color: #CCCCCC;'><center>Given Name</center></td>
+                                                    <td style=' height: 5px; font-size: 9px; color: #CCCCCC;'><center>Middle Name</center></td>
+                                                </tr>
+                                                <tr>
+                                                    <td style=' height: 5px; font-size: 11px;'><strong>GENDER:</strong></td>
+                                                    <td style=' height: 3px; font-size: 9px;'><input type="checkbox" {{male}}> Male <input type="checkbox" {{female}}> Female</td>
+                                                    <td style=' height: 5px; font-size: 11px; width: 100px;' rowspan="4"><strong>CIVIL STATUS:</strong></td>
+                                                    <td style=' height: 3px; font-size: 9px;'><input type="checkbox" {{single}}> Single </td>
+                                                </tr>
+                                                 <tr>
+                                                    <td style=' height: 5px; font-size: 11px;' rowspan="3"><strong>AGE/DOB:</strong></td>
+                                                    <td style=' height: 5px; font-size: 11px;' rowspan="3">{{age/db}}</td>
+                                                    <td style=' height: 5px; font-size: 9px;'><input type="checkbox" {{married}}> Married </td>
+                                                </tr>
+                                                <tr>
+
+                                                    <td style=' height: 3px; font-size: 9px;'><input type="checkbox" {{divorced}}> Separated/Annulled</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style=' height: 3px; font-size: 9px;'><input type="checkbox" {{widow}}> Widow Widower</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                        <td style=' height: 30px; width: 132px; border: 1px solid #cccccc;' rowspan="3"><center>{{profilePic}}</center></td>
+                                    </tr>
+                                </table>
+
+                                <table  align='center' style='width: 755px; height: auto; background: #fff;  margin-bottom: 10px;'>
+                                    <tr>
+                                        <td>
+                                            <table cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 11px;">
+                                                <tr>
+                                                    <td style='height: 30px; width: 150px;'><strong>RECOMMENDED</strong></td>
+                                                    <td style='height: 30px; width: 200px;'><input type="checkbox" {{recommend_yes}}>YES &nbsp;&nbsp;&nbsp;<input type="checkbox" {{recommend_no}}>NO</td>
+                                                    <td style='height: 30px; width: 100px;'>Remarks: </td>
+                                                    <td>{{remarks_here}} </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+
+                                <table class='tp01' cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 11px; margin-bottom: 10px;overflow: wrap;">
+                                    <tr style='border: 1px solid #ccc;background: #EAEAEA;'>
+                                        <td style='padding-left: 20px; height: 30px;' colspan="4"><strong><center>VERIFICATION SUMMARY</center></strong></td>
+                                    </tr>
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 30px;'><center>EMPLOYMENT HISTORY</center></td>
+                                        <td style='padding-left: 20px; height: 30px;'><center>EDUCATION CHECK</center></td>
+                                        <td style='padding-left: 20px; height: 30px;'><center>RESIDENCE CHECK</center></td>
+                                        <td style='padding-left: 20px; height: 30px;'><center>SOCIAL MEDIA CHECK</center></td>
+                                    </tr>
+                                    <tr>
+                                        <td style='padding-left: 20px; height: 30px;'>{{employment_history}}</td>
+                                        <td style='padding-left: 20px; height: 30px;'>{{education_check}}</td>
+                                        <td style='padding-left: 20px; height: 30px;'>{{residence_check}}</td>
+                                        <td style='padding-left: 20px; height: 30px;'>{{socialmedia_check}}</td>
+                                    </tr>
+                                    <tr>
+                                        <td style='padding-left: 20px; padding-bottom: 30px;height: 30px;'>SSS<br>{{sss_number}}</td>
+                                        <td style='padding-left: 20px; padding-bottom: 30px;height: 30px;'>TIN<br>{{tin_number}}</td>
+                                        <td style='padding-left: 20px; padding-bottom: 30px;height: 30px;'>CREDIT RECORD<br>{{credit_record}}</td>
+                                        <td style='padding-left: 20px; padding-bottom: 30px; height: 30px;'>CRIMINAL RECORD<br>{{criminal_record}}</td>
+                                    </tr>
+
+
+                                </table>
+
+                                <table cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style="font-size: 17px; margin-bottom: 10px; border: 1px solid #e4e4e4;overflow: wrap;">
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 30px;width: 600px;' colspan="2"><strong>EMPLOYMENT HISTORY</strong></td>
+                                        <td style='width: 200px;'>Status: <strong>{{employment_status}}</strong></td>
+                                    </tr>
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 20px; width: 150px;'>COMPANY</td>
+                                        <td style='padding-left: 20px; height: 20px; width: 500px;' colspan="2">{{employment-company}}</td>
+                                    </tr>
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 20px; width: 150px;'>ADDRESS</td>
+                                        <td style='padding-left: 20px; height: 20px; width: 500px;' colspan="2">{{employment-location}}</td>
+                                    </tr>
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 20px; width: 150px;'>CONTACT NO.</td>
+                                        <td style='padding-left: 20px; height: 20px; width: 500px;' colspan="2">{{employment-contact-number}}</td>
+                                    </tr>
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 20px; width: 150px;'>DATE START</td>
+                                        <td style='padding-left: 20px; height: 20px; width: 500px;' colspan="2">{{employment-month-hired}}, {{employment-year-hired}}</td>
+                                    </tr>
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 20px; width: 150px;'>POSITION</td>
+                                        <td style='padding-left: 20px; height: 20px; width: 500px;' colspan="2">{{employment-position-title}}</td>
+                                    </tr>
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 20px; width: 150px;'>REASON FOR LEAVING</td>
+                                        <td style='padding-left: 20px; height: 20px; width: 500px;' colspan="2">{{employment-reason-for-leaving}}</td>
+                                    </tr>
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 20px; width: 150px;'>SALARY</td>
+                                        <td style='padding-left: 20px; height: 20px; width: 500px;' colspan="2">{{employment-last-salary}}</td>
+                                    </tr>
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 20px; width: 150px;'>CONTACT PERSON</td>
+                                        <td style='padding-left: 20px; height: 20px; width: 500px;' colspan="2">{{employment-supervisor}}</td>
+                                    </tr>
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 20px; width: 150px;'>REMARKS</td>
+                                        <td style='padding-left: 20px; height: 20px; width: 500px;' colspan="2">{{employment_remarks}}</td>
+                                    </tr>
+                                </table>
+
+                                <table cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 17px; margin-bottom: 10px; border: 1px solid #e4e4e4;">
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 30px;width: 600px; ' colspan="2"><strong>EDUCATION CHECK</strong></td>
+                                        <td style='width: 200px;'>Status: <strong>{{educ_completed}}</strong></td>
+                                    </tr>
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 20px; width: 150px;'>SCHOOL</td>
+                                        <td style='padding-left: 20px; height: 20px; width: 500px;' colspan="2">{{education-school}}</td>
+                                    </tr>
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 20px; width: 150px;'>COURSE/DEGREE</td>
+                                        <td style='padding-left: 20px; height: 20px; width: 500px;' colspan="2">{{education-degree}}</td>
+                                    </tr>
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 20px; width: 150px;'>REMARKS</td>
+                                        <td style='padding-left: 20px; height: 20px; width: 500px;' colspan="2">{{education_remarks}}</td>
+                                    </tr>
+                                </table>
+
+                                <table cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 17px; margin-bottom: 10px; border: 1px solid #e4e4e4;">
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 30px;width: 600px; ' colspan="2"><strong>RESIDENCE CHECK</strong></td>
+                                        <td style='width: 200px;'>Status: <strong>{{residents_status}}</strong></td>
+                                    </tr>
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 20px; width: 150px;'>ADDRESS</td>
+                                        <td style='padding-left: 20px; height: 20px; width: 500px;' colspan="2">{{address1}}, {{address2}}</td>
+                                    </tr>
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 20px; width: 150px;'>REMARKS</td>
+                                        <td style='padding-left: 20px; height: 20px; width: 500px;' colspan="2">{{residence_remarks}}</td>
+                                    </tr>
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 20px; width: 150px;'>PHOTOS</td>
+                                        <td style='padding-left: 20px; height: 20px; width: 500px;' colspan="2">{{residents_photo}}</td>
+                                    </tr>
+                                </table>
+
+                                <table cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 17px; margin-bottom: 10px; border: 1px solid #e4e4e4;">
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 30px;width: 600px; ' colspan="2"><strong>SOCIAL MEDIA CHECK</strong></td>
+                                        <td style='width: 200px;'>Status: <strong>{{socialmedia_status}}</strong></td>
+                                    </tr>
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 20px; width: 150px;'>REMARKS</td>
+                                        <td style='padding-left: 20px; height: 20px; width: 500px;' colspan="2">{{socialmedia_remarks}}</td>
+                                    </tr>
+                                </table>
+
+                                <table cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 17px; margin-bottom: 10px; border: 1px solid #e4e4e4;">
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 30px;width: 600px; ' colspan="2"><strong>SSS RECORD VERIFICATION</strong></td>
+                                        <td style='width: 200px;'>Status: <strong>{{sss_status}}</strong></td>
+                                    </tr>
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 20px; width: 150px;'>SSS NUMBER</td>
+                                        <td style='padding-left: 20px; height: 20px; width: 500px;' colspan="2">{{sss_number}}</td>
+                                    </tr>
+                                    <tr>
+                                        <td style='padding-left: 20px; height: 20px; width: 150px;'>REMARKS</td>
+                                        <td style='padding-left: 20px; height: 20px; width: 500px;' colspan="2">{{sss_remarks}}</td>
+                                    </tr>
+                                </table>
+
+                                <table cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 17px; margin-bottom: 10px; border: 1px solid #e4e4e4;">
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 30px;width: 600px;' colspan="2"><strong>TIN RECORD VERIFICATION</strong></td>
+                                        <td style='width: 200px;'>Status: <strong>{{tin_status}}</strong></td>
+                                    </tr>
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 20px; width: 150px;'>TIN</td>
+                                        <td style='padding-left: 20px; height: 20px; width: 500px;' colspan="2">{{tin_number}}</td>
+                                    </tr>
+                                    <tr>
+                                        <td style='padding-left: 20px; height: 20px; width: 150px;'>REMARKS</td>
+                                        <td style='padding-left: 20px; height: 20px; width: 500px;' colspan="2">{{tin_remarks}}</td>
+                                    </tr>
+                                </table>
+
+                                <table cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 17px; margin-bottom: 10px; border: 1px solid #e4e4e4;">
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 30px;width: 600px; ' colspan="2"><strong>CREDIT INVESTIGATION</strong></td>
+                                        <td style='width: 200px;'>Status: <strong>{{credit_status}}</strong></td>
+                                    </tr>
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 20px; width: 150px;'>RESULTS</td>
+                                        <td style='padding-left: 20px; height: 20px; width: 500px;' colspan="2">{{credit_remarks}}</td>
+                                    </tr>
+                                </table>
+
+                                <table cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 17px; margin-bottom: 10px; border: 1px solid #e4e4e4;">
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 30px;width: 600px;' colspan="2"><strong>CRIMINAL RECORD</strong></td>
+                                        <td style='width: 200px;'>Status: <strong>{{criminal_status}}</strong></td>
+                                    </tr>
+                                    <tr >
+                                        <td style='padding-left: 20px; height: 20px; width: 150px;'>RESULTS</td>
+                                        <td style='padding-left: 20px; height: 20px; width: 500px;' colspan="2">{{criminal_remarks}}</td>
+                                    </tr>
+                                </table>
+
+                                <table  align='center' style='width: 755px; height: auto; background: #fff;'>
+                                    <tr>
+                                        <td>
+                                            <table cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 11px; margin: 30px 0 10px 0;">
+                                                <tr>
+                                                    <td style='padding: 0 0 20px 0; height: 50px; font-weight:bold;'>Conducted by:</td>
+                                                    <td style='padding: 0 0 20px 0; height: 50px; font-weight:bold;'>Noted by:</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='padding: 20px 0 0 0; height: 30px;font-weight:bold;'>{{conducted_by}}</td>
+                                                    <td style='padding: 20px 0 0 0; height: 30px;font-weight:bold;'>{{noted_by}}</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style='height: 10px;'>Position</td>
+                                                    <td style='height: 10px;'>Position</td>
+                                                </tr>
+                                        
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+
+                          <!--   </td>
+                        </tr> 
+                        
+                    </table>
+
+                </td>
+            </tr> 
+        </table>  -->
+    </body>
+<!-- BEGIN BODY -->
+</html>

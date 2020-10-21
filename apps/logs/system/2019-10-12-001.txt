@@ -1,0 +1,101 @@
+ALICANTE, LISSA (30991) --> 2019-10-12 06:51:39 --> authentication --> login --> login -->  --> 
+BAYUG, MYLA (33720) --> 2019-10-12 08:22:51 --> authentication --> login --> login -->  --> 
+JANCINAL, MARY ANN (33703) --> 2019-10-12 08:23:09 --> authentication --> login --> login -->  --> 
+URAYAN, MA. CHRISTINA (33706) --> 2019-10-12 08:23:37 --> authentication --> login --> login -->  --> 
+MOSCOSA, MARIA MERCEDES (33708) --> 2019-10-12 08:23:46 --> authentication --> login --> login -->  --> 
+TAMAR, LALAINE (33721) --> 2019-10-12 08:23:48 --> authentication --> login --> login -->  --> 
+ILUSTRE, FRANCISCO JR. (33711) --> 2019-10-12 08:24:08 --> authentication --> login --> login -->  --> 
+BUNAGAN, APOLONIO (33714) --> 2019-10-12 08:24:32 --> authentication --> login --> login -->  --> 
+INOFERIO, GEORGE (33716) --> 2019-10-12 08:24:35 --> authentication --> login --> login -->  --> 
+ALVAREZ, ANJENETT (33707) --> 2019-10-12 08:25:32 --> authentication --> login --> login -->  --> 
+CASTRO, JOEFEL (33710) --> 2019-10-12 08:25:34 --> authentication --> login --> login -->  --> 
+VITASA, CRISTOBAL (33719) --> 2019-10-12 08:26:02 --> authentication --> login --> login -->  --> 
+MASANGKAY, DANICA (33705) --> 2019-10-12 08:26:10 --> authentication --> login --> login -->  --> 
+AVES, SOFIA (33722) --> 2019-10-12 08:26:47 --> authentication --> login --> login -->  --> 
+CLARICIA, RODEL (33715) --> 2019-10-12 08:26:55 --> authentication --> login --> login -->  --> 
+SANTOS, ANALYN (33718) --> 2019-10-12 08:27:09 --> authentication --> login --> login -->  --> 
+ALDINO, BOBBY (33712) --> 2019-10-12 08:28:27 --> authentication --> login --> login -->  --> 
+ALDINO, BOBBY (33712) --> 2019-10-12 08:28:27 --> authentication --> login --> login -->  --> 
+LAZ, RANDY (33717) --> 2019-10-12 08:28:38 --> authentication --> login --> login -->  --> 
+NEMENZO, RODELIA (33709) --> 2019-10-12 08:29:18 --> authentication --> login --> login -->  --> 
+ATIENZA, MARIA SHIELA (33704) --> 2019-10-12 08:29:31 --> authentication --> login --> login -->  --> 
+FANGOLIO, EMELLE CRAIG (33724) --> 2019-10-12 08:29:37 --> authentication --> login --> login -->  --> 
+AVES, SOFIA (33722) --> 2019-10-12 08:30:08 --> authentication --> login --> login -->  --> 
+ALVAREZ, ANJENETT (33707) --> 2019-10-12 08:38:31 --> authentication --> login --> login -->  --> 
+ALVAREZ, ANJENETT (33707) --> 2019-10-12 08:52:08 --> authentication --> logout --> logout -->  --> 
+TAGGUEG, ALYSSA MAE (33723) --> 2019-10-12 08:52:42 --> authentication --> login --> login -->  --> 
+INOFERIO, GEORGE (33716) --> 2019-10-12 08:53:05 --> authentication --> login --> login -->  --> 
+TAGGUEG, ALYSSA MAE (33723) --> 2019-10-12 09:06:00 --> authentication --> login --> login -->  --> 
+AVES, SOFIA (33722) --> 2019-10-12 09:11:59 --> authentication --> login --> login -->  --> 
+SELGA, YESTER (33382) --> 2019-10-12 09:14:30 --> authentication --> login --> login -->  --> 
+CLARICIA, RODEL (33715) --> 2019-10-12 09:14:45 --> authentication --> logout --> logout -->  --> 
+CLARICIA, RODEL (33715) --> 2019-10-12 09:15:45 --> authentication --> login --> login -->  --> 
+INOFERIO, GEORGE (33716) --> 2019-10-12 09:18:06 --> authentication --> logout --> logout -->  --> 
+CLARICIA, RODEL (33715) --> 2019-10-12 09:18:16 --> authentication --> login --> login -->  --> 
+BUNAGAN, APOLONIO (33714) --> 2019-10-12 09:20:50 --> authentication --> logout --> logout -->  --> 
+SANTOS, ANALYN (33718) --> 2019-10-12 09:20:50 --> authentication --> logout --> logout -->  --> 
+BAYUG, MYLA (33720) --> 2019-10-12 09:20:52 --> authentication --> logout --> logout -->  --> 
+TAGGUEG, ALYSSA MAE (33723) --> 2019-10-12 09:20:52 --> authentication --> logout --> logout -->  --> 
+ALDINO, BOBBY (33712) --> 2019-10-12 09:20:53 --> authentication --> logout --> logout -->  --> 
+TAMAR, LALAINE (33721) --> 2019-10-12 09:20:56 --> authentication --> logout --> logout -->  --> 
+FANGOLIO, EMELLE CRAIG (33724) --> 2019-10-12 09:20:56 --> authentication --> logout --> logout -->  --> 
+CLARICIA, RODEL (33715) --> 2019-10-12 09:20:56 --> authentication --> logout --> logout -->  --> 
+INOFERIO, GEORGE (33716) --> 2019-10-12 09:21:00 --> authentication --> logout --> logout -->  --> 
+BAYUG, MYLA (33720) --> 2019-10-12 09:21:01 --> authentication --> login --> login -->  --> 
+TAGGUEG, ALYSSA MAE (33723) --> 2019-10-12 09:21:05 --> authentication --> login --> login -->  --> 
+CLARICIA, RODEL (33715) --> 2019-10-12 09:21:06 --> authentication --> login --> login -->  --> 
+SANTOS, ANALYN (33718) --> 2019-10-12 09:21:07 --> authentication --> login --> login -->  --> 
+CLARICIA, RODEL (33715) --> 2019-10-12 09:21:10 --> authentication --> logout --> logout -->  --> 
+BUNAGAN, APOLONIO (33714) --> 2019-10-12 09:21:10 --> authentication --> login --> login -->  --> 
+ALDINO, BOBBY (33712) --> 2019-10-12 09:21:12 --> authentication --> login --> login -->  --> 
+INOFERIO, GEORGE (33716) --> 2019-10-12 09:21:13 --> authentication --> login --> login -->  --> 
+TAMAR, LALAINE (33721) --> 2019-10-12 09:21:14 --> authentication --> login --> login -->  --> 
+FANGOLIO, EMELLE CRAIG (33724) --> 2019-10-12 09:21:32 --> authentication --> login --> login -->  --> 
+CLARICIA, RODEL (33715) --> 2019-10-12 09:21:33 --> authentication --> login --> login -->  --> 
+CLARICIA, RODEL (33715) --> 2019-10-12 09:21:40 --> authentication --> logout --> logout -->  --> 
+CASTRO, JOEFEL (33710) --> 2019-10-12 09:21:48 --> authentication --> login --> login -->  --> 
+ALVAREZ, ANJENETT (33707) --> 2019-10-12 09:22:16 --> authentication --> logout --> logout -->  --> 
+ALVAREZ, ANJENETT (33707) --> 2019-10-12 09:22:27 --> authentication --> login --> login -->  --> 
+ALDINO, BOBBY (33712) --> 2019-10-12 09:22:43 --> authentication --> login --> login -->  --> 
+ALDINO, BOBBY (33712) --> 2019-10-12 09:24:01 --> authentication --> logout --> logout -->  --> 
+ALDINO, BOBBY (33712) --> 2019-10-12 09:24:19 --> authentication --> login --> login -->  --> 
+FANGOLIO, EMELLE CRAIG (33724) --> 2019-10-12 09:24:35 --> authentication --> logout --> logout -->  --> 
+NACAR, ALEXANDER (33725) --> 2019-10-12 09:25:06 --> authentication --> login --> login -->  --> 
+ALDINO, BOBBY (33712) --> 2019-10-12 09:25:09 --> authentication --> logout --> logout -->  --> 
+CASTRO, JOEFEL (33710) --> 2019-10-12 09:25:14 --> authentication --> login --> login -->  --> 
+SANTOS, ANALYN (33718) --> 2019-10-12 09:27:38 --> authentication --> logout --> logout -->  --> 
+SANTOS, ANALYN (33718) --> 2019-10-12 09:28:09 --> authentication --> login --> login -->  --> 
+BUNAGAN, APOLONIO (33714) --> 2019-10-12 09:29:52 --> authentication --> logout --> logout -->  --> 
+NACAR, ALEXANDER (33725) --> 2019-10-12 09:30:08 --> authentication --> logout --> logout -->  --> 
+BUNAGAN, APOLONIO (33714) --> 2019-10-12 09:30:09 --> authentication --> login --> login -->  --> 
+NACAR, ALEXANDER (33725) --> 2019-10-12 09:30:32 --> authentication --> login --> login -->  --> 
+VITASA, CRISTOBAL (33719) --> 2019-10-12 09:33:35 --> authentication --> logout --> logout -->  --> 
+VITASA, CRISTOBAL (33719) --> 2019-10-12 09:33:57 --> authentication --> login --> login -->  --> 
+NACAR, ALEXANDER (33725) --> 2019-10-12 09:36:01 --> authentication --> logout --> logout -->  --> 
+NACAR, ALEXANDER (33725) --> 2019-10-12 09:36:35 --> authentication --> login --> login -->  --> 
+NACAR, ALEXANDER (33725) --> 2019-10-12 09:36:45 --> authentication --> login --> login -->  --> 
+ATIENZA, MARIA SHIELA (33704) --> 2019-10-12 09:37:58 --> authentication --> logout --> logout -->  --> 
+CASTRO, JOEFEL (33710) --> 2019-10-12 09:39:15 --> authentication --> logout --> logout -->  --> 
+JANCINAL, MARY ANN (33703) --> 2019-10-12 09:39:20 --> authentication --> logout --> logout -->  --> 
+AVES, SOFIA (33722) --> 2019-10-12 09:39:24 --> authentication --> logout --> logout -->  --> 
+NACAR, ALEXANDER (33725) --> 2019-10-12 09:39:26 --> authentication --> logout --> logout -->  --> 
+SANTOS, ANALYN (33718) --> 2019-10-12 09:39:27 --> authentication --> logout --> logout -->  --> 
+CASTRO, JOEFEL (33710) --> 2019-10-12 09:39:29 --> authentication --> logout --> logout -->  --> 
+ILUSTRE, FRANCISCO JR. (33711) --> 2019-10-12 09:39:30 --> authentication --> logout --> logout -->  --> 
+TAGGUEG, ALYSSA MAE (33723) --> 2019-10-12 09:39:31 --> authentication --> logout --> logout -->  --> 
+LAZ, RANDY (33717) --> 2019-10-12 09:39:32 --> authentication --> logout --> logout -->  --> 
+VITASA, CRISTOBAL (33719) --> 2019-10-12 09:39:32 --> authentication --> logout --> logout -->  --> 
+CLARICIA, RODEL (33715) --> 2019-10-12 09:39:35 --> authentication --> logout --> logout -->  --> 
+NEMENZO, RODELIA (33709) --> 2019-10-12 09:39:37 --> authentication --> logout --> logout -->  --> 
+ATIENZA, MARIA SHIELA (33704) --> 2019-10-12 09:39:40 --> authentication --> login --> login -->  --> 
+TAGGUEG, ALYSSA MAE (33723) --> 2019-10-12 09:39:42 --> authentication --> login --> login -->  --> 
+SANTOS, ANALYN (33718) --> 2019-10-12 09:39:44 --> authentication --> login --> login -->  --> 
+JANCINAL, MARY ANN (33703) --> 2019-10-12 09:39:47 --> authentication --> login --> login -->  --> 
+ILUSTRE, FRANCISCO JR. (33711) --> 2019-10-12 09:39:48 --> authentication --> login --> login -->  --> 
+ALDINO, BOBBY (33712) --> 2019-10-12 09:39:49 --> authentication --> login --> login -->  --> 
+AVES, SOFIA (33722) --> 2019-10-12 09:39:51 --> authentication --> login --> login -->  --> 
+CLARICIA, RODEL (33715) --> 2019-10-12 09:39:59 --> authentication --> login --> login -->  --> 
+LAZ, RANDY (33717) --> 2019-10-12 09:40:02 --> authentication --> login --> login -->  --> 
+INOFERIO, GEORGE (33716) --> 2019-10-12 09:40:29 --> authentication --> logout --> logout -->  --> 
+NACAR, ALEXANDER (33725) --> 2019-10-12 09:40:32 --> authentication --> login --> login -->  --> 
+CASTRO, JOEFEL (33710) --> 2019-10-12 09:40:33 --> authentication --> login --> login -->  --> 

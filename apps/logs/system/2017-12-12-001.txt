@@ -1,0 +1,12 @@
+Admin, Teemworx (admin) --> 2017-12-12 10:29:36 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-12-12 10:39:48 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-12-12 10:42:04 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-12-12 11:58:42 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-12-12 11:59:30 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2017-12-12 13:45:51 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2017-12-12 13:46:02 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-12-12 13:54:40 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-12-12 05:57:43 --> report_generator --> update --> roles --> 1,2,8 --> 1,2,8,24
+PRESBITERO, EDEN (00377) --> 2017-12-12 16:35:53 --> authentication --> login --> login -->  --> 
+GARCES, JOCELYN (00451) --> 2017-12-12 17:53:25 --> authentication --> logout --> logout -->  --> 
+GARCES, JOCELYN (00451) --> 2017-12-12 18:11:53 --> authentication --> login --> login -->  --> 

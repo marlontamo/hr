@@ -1,0 +1,43 @@
+Admin, Teemworx (admin) --> 2017-12-16 08:36:11 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-12-16 08:37:37 --> users --> update --> hash --> $2a$08$2VxThgJW/rv0hxMwIz8bFu7eEPpdPYJ4NeIlm0y6QM1FPKPClnlye --> $2a$08$Xm5YhWi6.X3H9zCZskIex.0m8O6RBReS3AZk9DifCtc.dFUuk8YYm
+Admin, Teemworx (admin) --> 2017-12-16 08:37:37 --> users --> update --> active --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2017-12-16 08:37:44 --> authentication --> logout --> logout -->  --> 
+BASILIO, MARYBETH (02096) --> 2017-12-16 08:37:59 --> authentication --> login --> login -->  --> 
+BASILIO, MARYBETH (02096) --> 2017-12-16 08:38:53 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-12-16 08:39:05 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-12-16 08:40:20 --> leave_balance_admin --> insert --> year -->  --> 2017
+Admin, Teemworx (admin) --> 2017-12-16 08:40:20 --> leave_balance_admin --> insert --> user_id -->  --> 130
+Admin, Teemworx (admin) --> 2017-12-16 08:40:20 --> leave_balance_admin --> insert --> form_id -->  --> 16
+Admin, Teemworx (admin) --> 2017-12-16 08:40:20 --> leave_balance_admin --> insert --> previous -->  --> 0
+Admin, Teemworx (admin) --> 2017-12-16 08:40:20 --> leave_balance_admin --> insert --> period_from -->  --> 2017-12-18
+Admin, Teemworx (admin) --> 2017-12-16 08:40:20 --> leave_balance_admin --> insert --> period_to -->  --> 2017-12-31
+Admin, Teemworx (admin) --> 2017-12-16 08:40:20 --> leave_balance_admin --> insert --> period_extension -->  --> 2018-03-31
+Admin, Teemworx (admin) --> 2017-12-16 08:41:27 --> authentication --> logout --> logout -->  --> 
+BASILIO, MARYBETH (02096) --> 2017-12-16 08:42:03 --> authentication --> login --> login -->  --> 
+BASILIO, MARYBETH (02096) --> 2017-12-16 08:43:36 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-12-16 08:43:53 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-12-16 08:44:08 --> leave_balance_admin --> delete --> id --> 2816 --> 
+Admin, Teemworx (admin) --> 2017-12-16 08:45:50 --> form_policy --> insert --> class_id -->  --> 510
+Admin, Teemworx (admin) --> 2017-12-16 08:45:50 --> form_policy --> insert --> class_value -->  --> YES
+Admin, Teemworx (admin) --> 2017-12-16 08:45:50 --> form_policy --> insert --> severity -->  --> Strict Compliance
+Admin, Teemworx (admin) --> 2017-12-16 08:45:50 --> form_policy --> insert --> company_id -->  --> 1,2,3,4,5,6,7,8,9,10,11,12,13
+Admin, Teemworx (admin) --> 2017-12-16 08:45:50 --> form_policy --> insert --> employment_status_id -->  --> 1,2,3,4,5,6,7
+Admin, Teemworx (admin) --> 2017-12-16 08:45:50 --> form_policy --> insert --> employment_type_id -->  --> 1,2,3,4,5,6,9,10,16,17,18
+Admin, Teemworx (admin) --> 2017-12-16 08:46:00 --> authentication --> logout --> logout -->  --> 
+BASILIO, MARYBETH (02096) --> 2017-12-16 08:46:28 --> authentication --> login --> login -->  --> 
+BASILIO, MARYBETH (02096) --> 2017-12-16 08:47:42 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-12-16 08:47:53 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-12-16 08:48:28 --> form_policy --> delete --> id --> 164 --> 
+Admin, Teemworx (admin) --> 2017-12-16 08:49:58 --> authentication --> logout --> logout -->  --> 
+BASILIO, MARYBETH (02096) --> 2017-12-16 08:50:11 --> authentication --> login --> login -->  --> 
+BASILIO, MARYBETH (02096) --> 2017-12-16 08:51:20 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-12-16 08:51:30 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-12-16 09:07:26 --> authentication --> logout --> logout -->  --> 
+BASILIO, MARYBETH (02096) --> 2017-12-16 09:07:34 --> authentication --> login --> login -->  --> 
+BASILIO, MARYBETH (02096) --> 2017-12-16 09:08:01 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-12-16 09:08:10 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-12-16 09:31:08 --> form_policy --> delete --> id --> 165 --> 
+Admin, Teemworx (admin) --> 2017-12-16 09:35:54 --> authentication --> logout --> logout -->  --> 
+BASILIO, MARYBETH (02096) --> 2017-12-16 09:36:09 --> authentication --> login --> login -->  --> 
+BASILIO, MARYBETH (02096) --> 2017-12-16 09:36:11 --> authentication --> login --> login -->  --> 
+BASILIO, MARYBETH (02096) --> 2017-12-16 09:57:09 --> authentication --> logout --> logout -->  --> 

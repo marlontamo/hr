@@ -1,0 +1,7 @@
+BAGUI, MARIA LUZ (33396) --> 2019-12-04 17:31:33 --> authentication --> login --> login -->  --> 
+BAGUI, MARIA LUZ (33396) --> 2019-12-04 17:31:33 --> authentication --> login --> login -->  --> 
+BAGUI, MARIA LUZ (33396) --> 2019-12-04 17:41:02 --> authentication --> logout --> logout -->  --> 
+BAGUI, MARIA LUZ (33396) --> 2019-12-04 17:41:49 --> authentication --> login --> login -->  --> 
+BAGUI, MARIA LUZ (33396) --> 2019-12-04 17:48:32 --> authentication --> update --> users - hash --> $2a$08$nyRcXBFB6JYEAQ2xMf1VFe/ys9kstUsGa1wbYHxGWHnC7A8J0tzUC --> $2a$08$YDFOljbHtl1CJKZ4vkSppezHoOsxe.Erbd3XWzTZMwYkzmAflZbaW
+BAGUI, MARIA LUZ (33396) --> 2019-12-04 17:48:42 --> authentication --> logout --> logout -->  --> 
+BAGUI, MARIA LUZ (33396) --> 2019-12-04 17:49:07 --> authentication --> login --> login -->  --> 

@@ -1,0 +1,100 @@
+Admin, Teemworx (admin) --> 2018-01-01 22:55:49 --> profiles --> edit --> action_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-01-01 22:55:49 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-01-01 22:55:49 --> profiles --> edit --> profile_id -->  --> 24
+Admin, Teemworx (admin) --> 2018-01-01 22:55:49 --> profiles --> edit --> mod_id -->  --> 143
+Admin, Teemworx (admin) --> 2018-01-01 22:55:49 --> profiles --> edit --> action_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-01-01 22:55:49 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-01-01 22:55:49 --> profiles --> edit --> profile_id -->  --> 24
+Admin, Teemworx (admin) --> 2018-01-01 22:55:49 --> profiles --> edit --> mod_id -->  --> 143
+Admin, Teemworx (admin) --> 2018-01-01 22:55:49 --> profiles --> edit --> action_id -->  --> 3
+Admin, Teemworx (admin) --> 2018-01-01 22:55:49 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-01-01 22:55:49 --> profiles --> edit --> profile_id -->  --> 24
+Admin, Teemworx (admin) --> 2018-01-01 22:55:49 --> profiles --> edit --> mod_id -->  --> 143
+Admin, Teemworx (admin) --> 2018-01-01 22:55:49 --> profiles --> edit --> action_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-01-01 22:55:49 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-01-01 22:55:49 --> profiles --> edit --> profile_id -->  --> 24
+Admin, Teemworx (admin) --> 2018-01-01 22:55:49 --> profiles --> edit --> mod_id -->  --> 143
+Admin, Teemworx (admin) --> 2018-01-01 22:55:49 --> profiles --> edit --> action_id -->  --> 5
+Admin, Teemworx (admin) --> 2018-01-01 22:55:49 --> profiles --> edit --> grant -->  --> on
+Admin, Teemworx (admin) --> 2018-01-01 22:55:56 --> authentication --> logout --> logout -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2018-01-01 22:56:05 --> authentication --> login --> login -->  --> 
+QUIAMBAO, JORGE DAINE (30958) --> 2018-01-01 22:57:22 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-01-01 22:57:41 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-01-01 23:00:11 --> authentication --> logout --> logout -->  --> 
+CARMEN, MA RITA (00108) --> 2018-01-01 23:00:24 --> authentication --> login --> login -->  --> 
+CARMEN, MA RITA (00108) --> 2018-01-01 23:02:34 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-01-01 23:02:52 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-01-01 23:12:17 --> users --> update --> hash --> $2a$08$EK/XXkGuqIjxXhhLdgYmIeAFPlA763Y/bB7/H3n9uxfQW/qLHkgOW --> $2a$08$UZfTWBSygh1b1YI0QgOLhed2VkmbheitiIlnUMNHzvletkEF1mDH2
+Admin, Teemworx (admin) --> 2018-01-01 23:12:17 --> users --> update --> active --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2018-01-01 23:12:18 --> users --> update --> hash --> $2a$08$UZfTWBSygh1b1YI0QgOLhed2VkmbheitiIlnUMNHzvletkEF1mDH2 --> $2a$08$3R8dTu/EuI2P59/EEO.wqeq42eFWL/.S61Tlf3trxmL7oJb4g/sVK
+Admin, Teemworx (admin) --> 2018-01-01 23:12:18 --> users --> update --> active --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2018-01-01 23:12:21 --> authentication --> logout --> logout -->  --> 
+PARICA, AMELINA (32279) --> 2018-01-01 23:12:35 --> authentication --> login --> login -->  --> 
+PARICA, AMELINA (32279) --> 2018-01-01 23:17:20 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-01-01 23:22:03 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-01-01 23:23:42 --> users --> update --> hash --> $2a$08$nznS.27x9dHtd57CzhoAx.No56FEXmVLFMrxHI/.yH/YxlZZc3wL. --> $2a$08$8LgmFLVfZLnTyaeTCs9KSe09c1Cbz0sMeQDeMP6IoTJ.rs8sOKJc.
+Admin, Teemworx (admin) --> 2018-01-01 23:23:42 --> users --> update --> active --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2018-01-01 23:27:00 --> authentication --> logout --> logout -->  --> 
+LINGO, LORILYN (01166) --> 2018-01-01 23:27:12 --> authentication --> login --> login -->  --> 
+LINGO, LORILYN (01166) --> 2018-01-01 23:28:00 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-01-01 23:28:09 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-01-01 23:29:47 --> authentication --> logout --> logout -->  --> 
+PEREZ, LORIE ANN (32905) --> 2018-01-01 23:29:58 --> authentication --> login --> login -->  --> 
+PEREZ, LORIE ANN (32905) --> 2018-01-01 23:30:47 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-01-01 23:31:05 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-01-01 23:33:43 --> authentication --> logout --> logout -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2018-01-01 23:33:53 --> authentication --> login --> login -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2018-01-01 23:34:24 --> authentication --> logout --> logout -->  --> 
+PARICA, AMELINA (32279) --> 2018-01-01 23:34:43 --> authentication --> login --> login -->  --> 
+PARICA, AMELINA (32279) --> 2018-01-01 23:35:00 --> authentication --> logout --> logout -->  --> 
+LINGO, LORILYN (01166) --> 2018-01-01 23:35:12 --> authentication --> login --> login -->  --> 
+LINGO, LORILYN (01166) --> 2018-01-01 23:35:36 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-01-01 23:35:45 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> mod_id -->  --> 3
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> sensitivity_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> mod_id -->  --> 3
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> sensitivity_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> mod_id -->  --> 3
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> sensitivity_id -->  --> 3
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> mod_id -->  --> 3
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> sensitivity_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> mod_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> sensitivity_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> mod_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> sensitivity_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> mod_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> sensitivity_id -->  --> 3
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> mod_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> sensitivity_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> mod_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> sensitivity_id -->  --> 1
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> mod_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> sensitivity_id -->  --> 2
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> mod_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> sensitivity_id -->  --> 3
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> profile_id -->  --> 7
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> mod_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-01-01 23:44:16 --> profiles --> edit --> sensitivity_id -->  --> 4
+Admin, Teemworx (admin) --> 2018-01-01 23:44:17 --> profiles --> edit --> value -->  --> on

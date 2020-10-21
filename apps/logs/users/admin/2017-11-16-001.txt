@@ -1,0 +1,12 @@
+2017-11-16 06:06:08 --> authentication --> login --> login -->  --> 
+2017-11-16 08:16:50 --> authentication --> login --> login -->  --> 
+2017-11-16 08:17:21 --> roles --> update --> role --> HR Administrator w/ Payroll - LACA --> HR Administrator - LACA
+2017-11-16 08:17:36 --> roles --> update --> role --> HR Administrator w/ Payroll- KSLI --> HR Administrator - KSLI
+2017-11-16 08:17:51 --> roles --> update --> role --> HR Administrator w/ Payroll - All except KSLI and LACA --> HR Administrator - All except KSLI and LACA
+2017-11-16 08:18:14 --> roles --> update --> role --> HR Administrator w/ Payroll -  for ABHI, NFS, RESTORED, SEAL, SR --> HR Administrator  -  for ABHI, NFS, RESTORED, SEAL, SR
+2017-11-16 08:18:14 --> roles --> update --> description --> HR Administrator w/ Payroll -  for ABHI, NFS, RESTORED, SEAL, SRDC --> HR Administrator -  for ABHI, NFS, RESTORED, SEAL, SRDC
+2017-11-16 08:18:36 --> roles --> update --> role --> HR Administrator w/ Payroll - TLV, TMM, PPH, KDI, LHIC --> HR Administrator - TLV, TMM, PPH, KDI, LHIC
+2017-11-16 08:18:36 --> roles --> update --> description --> HR Administrator w/ Payroll - TLV, TMM, PPH, KDI, LHIC --> HR Administrator - TLV, TMM, PPH, KDI, LHIC
+2017-11-16 08:18:56 --> roles --> update --> role --> HR Administrator w/ Payroll - KHP, TLP, ITH, SIMCHA, TIC --> HR Administrator - KHP, TLP, ITH, SIMCHA, TIC
+2017-11-16 08:18:56 --> roles --> update --> description --> HR Administrator w/ Payroll - KHP, TLP, ITH, SIMCHA, TIC --> HR Administrator - KHP, TLP, ITH, SIMCHA, TIC
+2017-11-16 12:50:01 --> authentication --> logout --> logout -->  --> 

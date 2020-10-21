@@ -1,0 +1,78 @@
+2017-08-17 08:30:55 --> applicants --> insert --> key_id -->  --> 36
+2017-08-17 08:30:55 --> applicants --> insert --> key -->  --> education-year-to
+2017-08-17 08:30:55 --> applicants --> insert --> sequence -->  --> 1
+2017-08-17 08:30:55 --> applicants --> insert --> key_name -->  --> Year To
+2017-08-17 08:30:55 --> applicants --> insert --> key_value -->  --> 2005
+2017-08-17 08:30:55 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 4 --> 
+2017-08-17 08:30:55 --> applicants --> insert --> recruit_id -->  --> 4
+2017-08-17 08:30:55 --> applicants --> insert --> key_id -->  --> 37
+2017-08-17 08:30:55 --> applicants --> insert --> key -->  --> education-degree
+2017-08-17 08:30:55 --> applicants --> insert --> sequence -->  --> 1
+2017-08-17 08:30:55 --> applicants --> insert --> key_name -->  --> Degree
+2017-08-17 08:30:55 --> applicants --> insert --> key_value -->  --> BS Accounting
+2017-08-17 08:30:55 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 4 --> 
+2017-08-17 08:30:55 --> applicants --> insert --> recruit_id -->  --> 4
+2017-08-17 08:30:55 --> applicants --> insert --> key_id -->  --> 38
+2017-08-17 08:30:55 --> applicants --> insert --> key -->  --> education-status
+2017-08-17 08:30:55 --> applicants --> insert --> sequence -->  --> 1
+2017-08-17 08:30:55 --> applicants --> insert --> key_name -->  --> Status
+2017-08-17 08:30:55 --> applicants --> insert --> key_value -->  --> Graduated
+2017-08-17 08:30:55 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 4 --> 
+2017-08-17 08:30:55 --> applicants --> insert --> recruit_id -->  --> 4
+2017-08-17 08:30:55 --> applicants --> insert --> key_id -->  --> 180
+2017-08-17 08:30:55 --> applicants --> insert --> key -->  --> education-lastsem-attended
+2017-08-17 08:30:55 --> applicants --> insert --> sequence -->  --> 1
+2017-08-17 08:30:55 --> applicants --> insert --> key_name -->  --> Last SY and Sem
+2017-08-17 17:30:09 --> authentication --> logout --> logout -->  --> 
+2017-08-17 21:35:48 --> authentication --> login --> login -->  --> 
+2017-08-17 13:52:53 --> applicants --> update --> source_id --> 2 --> 1
+2017-08-17 13:52:53 --> applicants --> update --> request_id --> 0 --> 6
+2017-08-17 13:52:53 --> applicants --> insert --> request_id -->  --> 6
+2017-08-17 13:52:53 --> applicants --> insert --> recruit_id -->  --> 4
+2017-08-17 13:52:53 --> applicants --> insert --> status_id -->  --> 1
+2017-08-17 13:52:53 --> applicants --> insert --> recruit_id -->  --> 4
+2017-08-17 13:52:53 --> applicants --> insert --> sequence -->  --> 1
+2017-08-17 13:53:22 --> applicants --> update --> source_id --> 3 --> 1
+2017-08-17 13:53:22 --> applicants --> update --> request_id --> 0 --> 6
+2017-08-17 13:53:22 --> applicants --> insert --> request_id -->  --> 6
+2017-08-17 13:53:22 --> applicants --> insert --> recruit_id -->  --> 3
+2017-08-17 13:53:22 --> applicants --> insert --> status_id -->  --> 1
+2017-08-17 13:53:22 --> applicants --> insert --> recruit_id -->  --> 3
+2017-08-17 13:53:22 --> applicants --> insert --> key_id -->  --> 165
+2017-08-17 13:53:22 --> applicants --> insert --> key -->  --> desired_salary
+2017-08-17 13:53:22 --> applicants --> insert --> sequence -->  --> 1
+2017-08-17 13:53:22 --> applicants --> insert --> key_name -->  --> Desired Salary
+2017-08-17 13:53:22 --> applicants --> insert --> recruit_id -->  --> 3
+2017-08-17 13:53:22 --> applicants --> insert --> key_id -->  --> 170
+2017-08-17 13:53:22 --> applicants --> insert --> key -->  --> photo
+2017-08-17 13:53:22 --> applicants --> insert --> sequence -->  --> 1
+2017-08-17 13:53:22 --> applicants --> insert --> key_name -->  --> Photo
+2017-08-17 13:53:22 --> applicants --> insert --> recruit_id -->  --> 3
+2017-08-17 13:53:22 --> applicants --> insert --> key_id -->  --> 166
+2017-08-17 13:53:22 --> applicants --> insert --> key -->  --> salary_pay_mode
+2017-08-17 13:53:22 --> applicants --> insert --> sequence -->  --> 1
+2017-08-17 13:53:22 --> applicants --> insert --> key_name -->  --> Salary Payment Mode
+2017-08-17 13:53:22 --> applicants --> insert --> key_value -->  --> Monthly
+2017-08-17 13:53:22 --> applicants --> insert --> recruit_id -->  --> 3
+2017-08-17 13:53:22 --> applicants --> insert --> key_id -->  --> 167
+2017-08-17 13:53:22 --> applicants --> insert --> key -->  --> currently_employed
+2017-08-17 13:53:22 --> applicants --> insert --> sequence -->  --> 1
+2017-08-17 13:53:22 --> applicants --> insert --> key_name -->  --> Currently Employed
+2017-08-17 13:53:22 --> applicants --> insert --> key_value -->  --> 0
+2017-08-17 13:53:22 --> applicants --> insert --> recruit_id -->  --> 3
+2017-08-17 13:53:22 --> applicants --> insert --> sequence -->  --> 1
+2017-08-17 13:55:14 --> applicants --> insert --> recruit_id -->  --> 4
+2017-08-17 13:55:14 --> applicants --> insert --> sequence -->  --> 1
+2017-08-17 13:55:14 --> applicants --> insert --> key_value -->  --> 10
+2017-08-17 23:55:09 --> applicant_monitoring --> insert --> process_id -->  --> 2
+2017-08-17 23:55:09 --> applicant_monitoring --> insert --> date -->  --> 2017-09-20 09:00:00
+2017-08-17 23:55:09 --> applicant_monitoring --> insert --> user_id -->  --> 16
+2017-08-17 23:55:09 --> applicant_monitoring --> insert --> location_id -->  --> 1
+2017-08-17 23:55:09 --> applicant_monitoring --> insert --> schedule_id -->  --> 2
+2017-08-17 23:55:09 --> applicant_monitoring --> insert --> process_id -->  --> 2
+2017-08-17 23:55:09 --> applicant_monitoring --> insert --> date -->  --> 2017-09-20 09:30:00
+2017-08-17 23:55:09 --> applicant_monitoring --> insert --> user_id -->  --> 36
+2017-08-17 23:55:09 --> applicant_monitoring --> insert --> location_id -->  --> 1
+2017-08-17 23:55:09 --> applicant_monitoring --> insert --> schedule_id -->  --> 3
+2017-08-17 23:55:09 --> applicant_monitoring --> update --> status_id --> 1 --> 2
+2017-08-17 23:55:09 --> applicant_monitoring --> update --> status_id --> 11 --> 2

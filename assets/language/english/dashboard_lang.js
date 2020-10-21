@@ -1,0 +1,3 @@
+lang.dashboard = {
+	today: "Today"
+}

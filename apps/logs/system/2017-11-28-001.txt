@@ -1,0 +1,7 @@
+QUIAMBAO, JORGE DAINE (30958) --> 2017-11-28 16:09:54 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-11-28 17:28:19 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-11-28 17:29:41 --> users --> update --> hash --> $2a$08$9y8XOy6cZ7oQv92RtxRHheb0DwPDoKl9hNaZe4tGtpX6v/iQhaFpi --> $2a$08$5y/MOIIE6g59RjFh6I4GPeO01RlUx4Ops6A1AdBlUl3EO7bLbOtX2
+Admin, Teemworx (admin) --> 2017-11-28 17:29:41 --> users --> update --> active --> 1 --> 1 else 0
+Admin, Teemworx (admin) --> 2017-11-28 17:29:44 --> authentication --> logout --> logout -->  --> 
+LAPERA, NORMAN (00252) --> 2017-11-28 17:29:56 --> authentication --> login --> login -->  --> 
+LAPERA, NORMAN (00252) --> 2017-11-28 17:37:43 --> authentication --> logout --> logout -->  --> 

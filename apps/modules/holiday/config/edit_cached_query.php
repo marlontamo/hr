@@ -1,0 +1,5 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["edit_cached_query"] = 'SELECT `ww_time_holiday`.`holiday_id` as record_id, `ww_time_holiday`.`created_on` as "time_holiday.created_on", `ww_time_holiday`.`created_by` as "time_holiday.created_by", `ww_time_holiday`.`modified_on` as "time_holiday.modified_on", `ww_time_holiday`.`modified_by` as "time_holiday.modified_by", ww_time_holiday.locations as "time_holiday.locations", ww_time_holiday_location.location_id as "time_holiday_location.location_id", ww_time_holiday.legal as "time_holiday.legal", DATE_FORMAT(ww_time_holiday.holiday_date, \'%M %d, %Y\') as "time_holiday.holiday_date", ww_time_holiday.holiday as "time_holiday.holiday"
+FROM (`ww_time_holiday`)
+LEFT JOIN `ww_time_holiday_location` ON `ww_time_holiday_location`.`holiday_id` = `ww_time_holiday`.`holiday_id`
+WHERE `ww_time_holiday`.`holiday_id` = "{$record_id}"';

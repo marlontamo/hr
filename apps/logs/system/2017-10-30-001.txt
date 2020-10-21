@@ -1,0 +1,97 @@
+ORBESO, JOSEPH IAN (33061) --> 2017-10-30 10:32:02 --> authentication --> login --> login -->  --> 
+ORBESO, JOSEPH IAN (33061) --> 2017-10-30 10:35:10 --> authentication --> logout --> logout -->  --> 
+ORBESO, JOSEPH IAN (33061) --> 2017-10-30 10:35:16 --> authentication --> login --> login -->  --> 
+ORBESO, JOSEPH IAN (33061) --> 2017-10-30 10:52:00 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-10-30 11:20:20 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-10-30 11:27:43 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-30 11:28:41 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-30 11:30:13 --> users --> update --> active --> 0 --> 1
+POLONAN, MARIA LEE (31002) --> 2017-10-30 11:30:44 --> authentication --> logout --> logout -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2017-10-30 11:31:01 --> authentication --> login --> login -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2017-10-30 11:31:46 --> authentication --> logout --> logout -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-10-30 11:32:12 --> authentication --> login --> login -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-10-30 11:32:29 --> authentication --> logout --> logout -->  --> 
+SIGUA, MARK LOUIE (32584) --> 2017-10-30 11:32:45 --> authentication --> login --> login -->  --> 
+SIGUA, MARK LOUIE (32584) --> 2017-10-30 11:32:45 --> authentication --> login --> login -->  --> 
+SIGUA, MARK LOUIE (32584) --> 2017-10-30 11:38:00 --> incident_report --> insert --> involved_partners -->  --> 10
+SIGUA, MARK LOUIE (32584) --> 2017-10-30 11:38:00 --> incident_report --> insert --> offense_id -->  --> 76
+SIGUA, MARK LOUIE (32584) --> 2017-10-30 11:38:00 --> incident_report --> insert --> complainants -->  --> 671
+SIGUA, MARK LOUIE (32584) --> 2017-10-30 11:38:00 --> incident_report --> insert --> date_time_of_offense -->  --> 2017-10-16 09:00:00
+SIGUA, MARK LOUIE (32584) --> 2017-10-30 11:38:00 --> incident_report --> insert --> attachments -->  --> uploads/incident_report/Penguins%20%2810%29.jpg
+SIGUA, MARK LOUIE (32584) --> 2017-10-30 11:38:00 --> incident_report --> insert --> witnesses -->  --> 64
+SIGUA, MARK LOUIE (32584) --> 2017-10-30 11:38:00 --> incident_report --> insert --> location -->  --> AHI Head Office
+SIGUA, MARK LOUIE (32584) --> 2017-10-30 11:38:00 --> incident_report --> insert --> violation_details -->  --> improper use of locker facilities
+SIGUA, MARK LOUIE (32584) --> 2017-10-30 11:38:00 --> incident_report --> insert --> damages -->  --> damage locker
+SIGUA, MARK LOUIE (32584) --> 2017-10-30 11:38:00 --> incident_report --> insert --> incident_status_id -->  --> 1
+SIGUA, MARK LOUIE (32584) --> 2017-10-30 11:38:00 --> incident_report --> insert --> date_sent -->  --> 2017-10-30 11:38:00
+SIGUA, MARK LOUIE (32584) --> 2017-10-30 11:38:08 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-30 11:38:28 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-30 11:38:44 --> authentication --> logout --> logout -->  --> 
+SIGUA, MARK LOUIE (32584) --> 2017-10-30 11:39:12 --> authentication --> login --> login -->  --> 
+SIGUA, MARK LOUIE (32584) --> 2017-10-30 11:39:49 --> incident_report --> update --> incident_status_id --> 1 --> 2
+SIGUA, MARK LOUIE (32584) --> 2017-10-30 11:39:49 --> incident_report --> update --> date_sent --> 2017-10-30 11:38:00 --> 2017-10-30 11:39:49
+SIGUA, MARK LOUIE (32584) --> 2017-10-30 11:41:48 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-10-30 11:42:08 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-10-30 11:42:21 --> authentication --> logout --> logout -->  --> 
+SUNIGA, MA. LOURDES (00636) --> 2017-10-30 11:43:24 --> authentication --> login --> login -->  --> 
+SUNIGA, MA. LOURDES (00636) --> 2017-10-30 11:44:57 --> incident_manage --> update --> incident_status_id --> 2 --> 9
+SUNIGA, MA. LOURDES (00636) --> 2017-10-30 11:45:22 --> authentication --> logout --> logout -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2017-10-30 11:45:38 --> authentication --> login --> login -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2017-10-30 11:45:59 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-30 11:46:30 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-30 11:46:49 --> authentication --> logout --> logout -->  --> 
+GENER, FRANCIA (00212) --> 2017-10-30 11:47:06 --> authentication --> login --> login -->  --> 
+GENER, FRANCIA (00212) --> 2017-10-30 11:48:37 --> authentication --> logout --> logout -->  --> 
+SUNIGA, MA. LOURDES (00636) --> 2017-10-30 11:48:52 --> authentication --> login --> login -->  --> 
+SUNIGA, MA. LOURDES (00636) --> 2017-10-30 11:51:11 --> hearing_manage --> update --> hearing_partner -->  --> 1
+SUNIGA, MA. LOURDES (00636) --> 2017-10-30 11:51:11 --> hearing_manage --> update --> hearing_complainants -->  --> 1
+SUNIGA, MA. LOURDES (00636) --> 2017-10-30 11:51:11 --> hearing_manage --> update --> hearing_witnesses -->  --> 1
+SUNIGA, MA. LOURDES (00636) --> 2017-10-30 11:51:11 --> hearing_manage --> update --> incident_status_id --> 9 --> 10
+SUNIGA, MA. LOURDES (00636) --> 2017-10-30 11:51:15 --> authentication --> logout --> logout -->  --> 
+SIGUA, MARK LOUIE (32584) --> 2017-10-30 11:51:31 --> authentication --> login --> login -->  --> 
+SIGUA, MARK LOUIE (32584) --> 2017-10-30 11:52:16 --> authentication --> logout --> logout -->  --> 
+JAMORA, JIMELYN (32581) --> 2017-10-30 11:52:29 --> authentication --> login --> login -->  --> 
+JAMORA, JIMELYN (32581) --> 2017-10-30 11:52:55 --> authentication --> logout --> logout -->  --> 
+GENER, FRANCIA (00212) --> 2017-10-30 11:53:05 --> authentication --> login --> login -->  --> 
+GENER, FRANCIA (00212) --> 2017-10-30 11:53:42 --> authentication --> logout --> logout -->  --> 
+SUNIGA, MA. LOURDES (00636) --> 2017-10-30 11:54:02 --> authentication --> login --> login -->  --> 
+SUNIGA, MA. LOURDES (00636) --> 2017-10-30 11:56:28 --> disciplinary_manage --> update --> incident_status_id --> 10 --> 6
+SUNIGA, MA. LOURDES (00636) --> 2017-10-30 11:56:28 --> disciplinary_manage --> update --> status --> Open --> Close
+SUNIGA, MA. LOURDES (00636) --> 2017-10-30 11:58:47 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-30 11:59:03 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-30 12:01:37 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-10-30 12:02:01 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> mod_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> sensitivity_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> mod_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> sensitivity_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> mod_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> sensitivity_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> mod_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> sensitivity_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> mod_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> sensitivity_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> mod_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> sensitivity_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> mod_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> sensitivity_id -->  --> 3
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> mod_id -->  --> 1
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> sensitivity_id -->  --> 4
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> value -->  --> on
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> profile_id -->  --> 2
+Admin, Teemworx (admin) --> 2017-10-30 12:04:23 --> profiles --> edit --> mod_id -->  --> 4

@@ -1,0 +1,111 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+
+$config['fields'] = array();
+$config['fields'][3]['users_department.department'] = array(
+	'f_id' => 1,
+	'fg_id' => 3,
+	'label' => 'Department',
+	'description' => '',
+	'table' => 'users_department',
+	'column' => 'department',
+	'uitype_id' => 1,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 1,
+	'datatype' => 'V',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][3]['users_department.department_code'] = array(
+	'f_id' => 2,
+	'fg_id' => 3,
+	'label' => 'Department Code',
+	'description' => '',
+	'table' => 'users_department',
+	'column' => 'department_code',
+	'uitype_id' => 1,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 2,
+	'datatype' => 'V',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][3]['users_department.division_id'] = array(
+	'f_id' => 3,
+	'fg_id' => 3,
+	'label' => 'Division',
+	'description' => '',
+	'table' => 'users_department',
+	'column' => 'division_id',
+	'uitype_id' => 4,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 3,
+	'datatype' => 'V',
+	'active' => '1',
+	'encrypt' => 0,
+	'searchable' => array(
+		'type_id' => '1',
+		'table' => 'users_division',
+		'multiple' => 0,
+		'group_by' => '',
+		'label' => 'division',
+		'value' => 'division_id',
+		'textual_value_column' => ''
+	)
+);
+$config['fields'][3]['users_department.immediate_id'] = array(
+	'f_id' => 4,
+	'fg_id' => 3,
+	'label' => 'Immediate Head',
+	'description' => '',
+	'table' => 'users_department',
+	'column' => 'immediate_id',
+	'uitype_id' => 4,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 4,
+	'datatype' => 'V',
+	'active' => '1',
+	'encrypt' => 0,
+	'searchable' => array(
+		'type_id' => '1',
+		'table' => 'users',
+		'multiple' => 0,
+		'group_by' => '',
+		'label' => 'display_name',
+		'value' => 'user_id',
+		'textual_value_column' => ''
+	)
+);
+$config['fields'][3]['users_department.immediate_position'] = array(
+	'f_id' => 5,
+	'fg_id' => 3,
+	'label' => 'Immediate Position',
+	'description' => '',
+	'table' => 'users_department',
+	'column' => 'immediate_position',
+	'uitype_id' => 11,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 5,
+	'datatype' => '',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][3]['users_department.status_id'] = array(
+	'f_id' => 6,
+	'fg_id' => 3,
+	'label' => 'Active',
+	'description' => '',
+	'table' => 'users_department',
+	'column' => 'status_id',
+	'uitype_id' => 3,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 6,
+	'datatype' => 'V',
+	'active' => '1',
+	'encrypt' => 0
+);

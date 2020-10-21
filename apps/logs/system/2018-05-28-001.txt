@@ -1,0 +1,31 @@
+DE LEON, LISSA (30991) --> 2018-05-28 10:15:01 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2018-05-28 10:23:14 --> users --> update --> hash --> $2a$08$T4uESdyrKeWEcSnfsr0ZEOPWl2uZsOM4.yIensNuDjmMbJXR9DrY2 --> $2a$08$LRtpXcJvav0/L3MociLGlO8oC1AU7GlM3xC4xWbvgRl46L4zUPr6O
+DE LEON, LISSA (30991) --> 2018-05-28 10:23:14 --> users --> update --> active --> 1 --> 1 else 0
+ELISCUPIDES, ROWENA (00273) --> 2018-05-28 10:34:40 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2018-05-28 10:36:36 --> performance_planning_manage --> delete --> planning_id --> 7 --> 
+DE LEON, LISSA (30991) --> 2018-05-28 10:37:14 --> performance_planning_manage --> delete --> planning_id --> 239 --> 
+DE LEON, LISSA (30991) --> 2018-05-28 10:37:18 --> performance_planning_manage --> delete --> planning_id --> 450 --> 
+DE LEON, LISSA (30991) --> 2018-05-28 10:49:30 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2018-05-28 10:49:40 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-05-28 12:05:31 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-05-28 13:11:37 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2018-05-28 13:34:24 --> performance_planning_manage --> update --> template_id -->  --> 1
+REDAON, ROSEMARIE (93601) --> 2018-05-28 13:34:24 --> performance_planning_manage --> update --> employment_status_id -->  --> 1
+REDAON, ROSEMARIE (93601) --> 2018-05-28 13:34:24 --> performance_planning_manage --> update --> filter_by --> 0 --> 5
+REDAON, ROSEMARIE (93601) --> 2018-05-28 13:34:24 --> performance_planning_manage --> update --> filter_id -->  --> 3,9,199,327,330,332
+REDAON, ROSEMARIE (93601) --> 2018-05-28 13:34:24 --> performance_planning_manage --> update --> immediate_remarks -->  --> Test
+REDAON, ROSEMARIE (93601) --> 2018-05-28 13:45:59 --> authentication --> logout --> logout -->  --> 
+SIGUA, MARK LOUIE (32584) --> 2018-05-28 13:46:09 --> authentication --> login --> login -->  --> 
+SIGUA, MARK LOUIE (32584) --> 2018-05-28 13:47:57 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2018-05-28 13:48:06 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2018-05-28 13:48:38 --> authentication --> logout --> logout -->  --> 
+DE CASTRO, CHRISTINA ELENA (01713) --> 2018-05-28 13:48:48 --> authentication --> login --> login -->  --> 
+DE CASTRO, CHRISTINA ELENA (01713) --> 2018-05-28 13:50:32 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2018-05-28 13:50:38 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2018-05-28 14:26:06 --> authentication --> logout --> logout -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-05-28 14:26:23 --> authentication --> login --> login -->  --> 
+CHAVEZ, NELSON (00129) --> 2018-05-28 14:41:49 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2018-05-28 14:42:12 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2018-05-28 14:51:52 --> authentication --> logout --> logout -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2018-05-28 14:52:56 --> authentication --> login --> login -->  --> 
+ELISCUPIDES, ROWENA (00273) --> 2018-05-28 16:01:02 --> authentication --> logout --> logout -->  --> 

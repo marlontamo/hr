@@ -1,0 +1,170 @@
+POLONAN, MARIA LEE (31002) --> 2018-04-22 14:30:45 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-22 14:31:14 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-22 14:31:38 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2018-04-22 14:34:53 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2018-04-22 14:35:06 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2018-04-22 14:37:46 --> mrf --> insert --> to -->  --> christie_d@legendhotels.com.ph
+REDAON, ROSEMARIE (93601) --> 2018-04-22 14:37:46 --> mrf --> insert --> subject -->  --> Send email to approver
+REDAON, ROSEMARIE (93601) --> 2018-04-22 14:37:46 --> mrf --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear DE CASTRO, CHRISTINA ELENA ,</p>
+
+        <p>
+            Please review Personnel Requisition Form requested by REDAON, ROSEMARIE  for your approval.
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+REDAON, ROSEMARIE (93601) --> 2018-04-22 14:38:21 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-04-22 14:38:34 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-04-22 14:41:51 --> authentication --> logout --> logout -->  --> 
+DE CASTRO, CHRISTINA ELENA (01713) --> 2018-04-22 14:42:08 --> authentication --> login --> login -->  --> 
+DE CASTRO, CHRISTINA ELENA (01713) --> 2018-04-22 14:43:24 --> mrf_manage --> insert --> to -->  --> nelson_c@abrahamholdings.ph
+DE CASTRO, CHRISTINA ELENA (01713) --> 2018-04-22 14:43:24 --> mrf_manage --> insert --> subject -->  --> Send email to hr validator
+DE CASTRO, CHRISTINA ELENA (01713) --> 2018-04-22 14:43:24 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear CHAVEZ, NELSON ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by REDAON, ROSEMARIE .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+DE CASTRO, CHRISTINA ELENA (01713) --> 2018-04-22 14:43:24 --> mrf_manage --> insert --> to -->  --> weng_e@legendhotels.com.ph
+DE CASTRO, CHRISTINA ELENA (01713) --> 2018-04-22 14:43:24 --> mrf_manage --> insert --> subject -->  --> Send email to hr validator
+DE CASTRO, CHRISTINA ELENA (01713) --> 2018-04-22 14:43:24 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear ELISCUPIDES, ROWENA ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by REDAON, ROSEMARIE .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+DE CASTRO, CHRISTINA ELENA (01713) --> 2018-04-22 14:43:24 --> mrf_manage --> insert --> to -->  --> lissa_d@abrahamholdings.ph
+DE CASTRO, CHRISTINA ELENA (01713) --> 2018-04-22 14:43:24 --> mrf_manage --> insert --> subject -->  --> Send email to hr validator
+DE CASTRO, CHRISTINA ELENA (01713) --> 2018-04-22 14:43:24 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear DE LEON, LISSA ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by REDAON, ROSEMARIE .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+DE CASTRO, CHRISTINA ELENA (01713) --> 2018-04-22 14:43:24 --> mrf_manage --> insert --> to -->  --> lee_p@abrahamholdings.ph
+DE CASTRO, CHRISTINA ELENA (01713) --> 2018-04-22 14:43:24 --> mrf_manage --> insert --> subject -->  --> Send email to hr validator
+DE CASTRO, CHRISTINA ELENA (01713) --> 2018-04-22 14:43:24 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear POLONAN, MARIA LEE ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by REDAON, ROSEMARIE .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+DE CASTRO, CHRISTINA ELENA (01713) --> 2018-04-22 14:43:24 --> mrf_manage --> insert --> to -->  --> amelina_p@livingangels.edu.ph
+DE CASTRO, CHRISTINA ELENA (01713) --> 2018-04-22 14:43:24 --> mrf_manage --> insert --> subject -->  --> Send email to hr validator
+DE CASTRO, CHRISTINA ELENA (01713) --> 2018-04-22 14:43:24 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear PARICA, AMELINA ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by REDAON, ROSEMARIE .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>
+DE CASTRO, CHRISTINA ELENA (01713) --> 2018-04-22 14:43:24 --> mrf_manage --> insert --> to -->  --> lorie_l@kalinisanlaundry.com.ph
+DE CASTRO, CHRISTINA ELENA (01713) --> 2018-04-22 14:43:24 --> mrf_manage --> insert --> subject -->  --> Send email to hr validator
+DE CASTRO, CHRISTINA ELENA (01713) --> 2018-04-22 14:43:24 --> mrf_manage --> insert --> body -->  --> <html><head><meta charset="utf-8"></head>
+<body style="background-color:#F9F9F9;padding-top: 18px;">
+<div style="width: 90%; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333; margin: 0 auto; background-color: #fff;border: 1px solid #DDD; border-radius: 4px; padding: 15px;">
+    <p style="border-bottom:1px solid #eee; margin:0 0 30px 0; padding-bottom:15px;"><img height="32px" src="{{system_logo}}" alt="Please enable images to load system logo" title="Please enable images"></p>
+
+    <p>Dear LINGO, LORILYN ,</p>
+
+        <p>
+            Please review approved Personnel Requisition Form requested by REDAON, ROSEMARIE .
+        </p>
+
+    <p>@Emplopad</p>
+
+    <p style="font-size:x-small">
+        Disclaimer! Please do not reply to this message; it was sent from an unmonitored email address. This message is a service email related to your use of Emplopad.
+        <br>
+        Powered by Teemworx
+    </p>
+</div>
+</body>
+</html>

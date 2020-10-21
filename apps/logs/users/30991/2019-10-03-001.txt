@@ -1,0 +1,19 @@
+2019-10-03 09:36:08 --> authentication --> login --> login -->  --> 
+2019-10-03 09:38:08 --> performance_planning_manage --> update --> template_id -->  --> 2
+2019-10-03 09:38:08 --> performance_planning_manage --> update --> employment_status_id -->  --> 1
+2019-10-03 09:38:08 --> performance_planning_manage --> update --> filter_by --> 0 --> 5
+2019-10-03 09:41:13 --> performance --> update --> status_id --> 1 --> 1 else 0
+2019-10-03 09:41:13 --> performance --> update --> send_feeds --> 1 --> 1 else 0
+2019-10-03 09:41:13 --> performance --> update --> send_email --> 1 --> 1 else 0
+2019-10-03 09:47:39 --> performance_planning_manage --> update --> template_id -->  --> 2
+2019-10-03 09:47:39 --> performance_planning_manage --> update --> employment_status_id -->  --> 1
+2019-10-03 09:51:21 --> performance_planning --> update --> status_id --> 1 --> 0
+2019-10-03 09:52:13 --> performance_planning_manage --> update --> template_id --> 3 --> 2,3
+2019-10-03 09:52:13 --> performance_planning_manage --> update --> filter_by --> 3 --> 1
+2019-10-03 09:52:13 --> performance_planning_manage --> update --> filter_id --> 9 --> 1
+2019-10-03 09:55:15 --> rating_group --> insert --> rating_group -->  --> MEET STANDARD LOW
+2019-10-03 09:55:15 --> rating_group --> insert --> description -->  --> TEST MS LOW
+2019-10-03 09:55:15 --> rating_group --> insert --> status_id -->  --> 1
+2019-10-03 09:55:50 --> rating_group --> insert --> rating_group -->  --> MEET STANDARD HIGH
+2019-10-03 09:55:50 --> rating_group --> insert --> description -->  --> MS HIGH
+2019-10-03 09:55:50 --> rating_group --> insert --> status_id -->  --> 1

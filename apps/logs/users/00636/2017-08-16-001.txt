@@ -1,0 +1,2 @@
+2017-08-16 15:04:42 --> authentication --> login --> login -->  --> 
+2017-08-16 16:06:00 --> authentication --> logout --> logout -->  --> 

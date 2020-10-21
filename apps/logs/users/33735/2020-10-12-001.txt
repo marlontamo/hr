@@ -1,0 +1,4 @@
+2020-10-12 15:18:16 --> authentication --> login --> login -->  --> 
+2020-10-12 15:26:36 --> authentication --> login --> login -->  --> 
+2020-10-12 15:26:37 --> authentication --> login --> login -->  --> 
+2020-10-12 15:34:19 --> authentication --> logout --> logout -->  --> 

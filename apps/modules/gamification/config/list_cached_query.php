@@ -1,0 +1,3 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["list_cached_query"] = 'SELECT `ww_gamification`.`gamification_id` as record_id, `ww_gamification`.`created_on` as "gamification_created_on", `ww_gamification`.`created_by` as "gamification_created_by", `ww_gamification`.`modified_on` as "gamification_modified_on", `ww_gamification`.`modified_by` as "gamification_modified_by"
+FROM (`ww_gamification`)';

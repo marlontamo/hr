@@ -1,0 +1,456 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html lang="en">
+    <!-- BEGIN HEAD-->
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title></title>
+        <style>
+            body
+            {
+                
+
+            font-family:Arial;
+            font-size: 10px;
+
+            
+            }
+
+
+            td
+            {
+                
+                padding:0;
+            }
+            .header h2
+            {
+                padding-left: 20px;
+                padding-right: 20px;
+                padding-top: 20px;
+                font-size: 18px;
+            }
+
+            .header h3
+            {
+                padding-bottom: 15px;
+                padding-left: 20px;
+                padding-right: 20px;
+                font-size: 12px;
+                color: #666666;
+            }
+
+            .np1
+            {
+                color: #666;
+                font-size: 14px;
+                margin: -18px 18px 0;
+            }
+
+            .mp1
+            {
+                float: right;
+                margin: 0 22px 0 0;
+            }
+
+            .header_sub
+            {
+                width: 755px;
+                margin: 5px 0 0;
+                border-radius: 5px 5px 0 0;
+            }
+
+                .header_sub h2
+                {
+                    padding: 10px;
+                    font-size: 12px;
+                    color: #f1f1f1;
+                    margin: -3px 3px 0 0;
+                    height: 10px;
+                }
+
+            #f1
+            {
+                padding-top: 10px;
+            }
+
+            #ip1
+            {
+                width: 100%;
+                text-align: justify;
+                font-size: 12px;
+                color: #333;
+            }
+
+                #ip1 h3
+                {
+                    font-size: 12px;
+                }
+
+            .im1
+            {
+                float: right;
+                margin: -40px 0 0 0;
+                font-size: 8px;
+            }
+
+            .alfin
+            {
+                margin-left: 18px;
+                width: 300px;
+                color: #2b2b2b;
+                width: 400px;
+                font-size: 13px;
+                background: url("/images/bg.widget.png") repeat scroll;
+                border: 0.3px solid #b6b6b6;
+            }
+
+                .p th
+                {
+                    font-size: 12px;
+                    width: 140px;
+                }
+
+                .prdt tr
+                {
+                    background: #fff;
+                }
+
+            .espaco
+            {
+                height: 5px;
+            }
+
+            #borderrightCF
+            {
+                border-right: 1px solid #ccc;
+            }
+
+            .alfin
+            {
+                padding: 10px 20px 10px;
+                font-size: 10px;
+                border-bottom: 1px solid #f1f1f1;
+            }
+
+            .alrsp
+            {
+                margin: -18px 0px 0;
+                font-size: 10px;
+            }
+
+                .alrsp span
+                {
+                    color: #000;
+                    text-decoration: underline;
+                    margin: 0 5px;
+                }
+
+            .albr
+            {
+                padding: 10px 0 0 0;
+            }
+
+            .iwg
+            {
+                font-size: 9px;
+                color: #0A73C3;
+                width: 200px;
+                text-align: justify;
+            }
+
+            .tp01
+            {
+                border-collapse: collapse;
+            }
+
+                .tp01 th
+                {
+                    color: white;
+                    border: 1px solid #e4e4e4;
+                }
+
+                .tp01 td, .myTable th
+                {
+                    padding: 5px;
+                    border: 1px solid #e4e4e4;
+                }
+            .auto-style1
+            {
+                height: 30px;
+                width: 566px;
+            }
+            .auto-style3
+            {
+                width: 609px;
+            }
+        </style>
+    </head>
+    <!-- END HEAD -->
+    <!-- BEGIN BODY -->
+    <body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" style="-webkit-font-smoothing: antialiased; width: 100% !important; -webkit-text-size-adjust: none;">
+
+      <!--   <table width="100%" cellpadding="0" cellspacing="0" border="0">
+            <tr>
+                <td width="100%">
+
+                    <table width="755" cellpadding="0" cellspacing="0" border="0" align="center" class="table">
+                        <tr>
+                            <td width="755" class="cell"> -->
+                                <!-- BEGIN HEADER CONTAINER -->
+                                <table align="center" style="width: 755px; height: auto; background: #fff; margin-bottom: 10px;overflow: wrap;">
+                                    <tr style="border: 1px solid #ccc;">
+                                      <!--   <td class="auto-style3">
+                                            <table>
+                                                <tr> -->
+                                                    <td style="width: 200px;">
+                                                        <img src="assets/img/hdi_resource-logo.png" style="width: 160px;">
+                                                    </td>
+                                                    <td >
+                                                        <div class="header">
+                                                            <h2>INTERVIEW ASSESSMENT FORM</h2>
+                                                        </div>
+                                                    </td>
+                                              <!--   </tr>
+                                            </table>
+                                        </td> -->
+                                        <!-- <td>
+                                            <table>
+                                                <tr>
+                                                    <td style="padding-left: 20px; " class="auto-style1">
+                                                        <div class="mp1">
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td> -->
+                                    </tr>
+                                </table>
+
+                                <br>
+                                <!-- EMPLOYEE INFORMATION -->
+                              <!--   <table align="center" style="width: 755px; height: auto; background: #fff; margin-bottom: 10px;overflow: wrap;">
+                                    <tr>
+                                        <td> -->
+                                            <div class="header_sub">
+                                                <table class="tp01" cellpadding="0" cellspacing="0" border="0" align="left" width="755px" style=" font-size: 11px; ">
+                                                    <tr style="border: 1px solid #ccc; ">
+                                                        <td style="padding-left: 20px; height: 30px; padding-bottom: 15px;" width="280"><strong>Name</strong>&nbsp;{{recipients}}</td>
+                                                        <td  style="padding-bottom: 15px;" width="250"><strong>Position Applied For</strong>&nbsp;{{position}}</td>
+                                                        <td style="padding-bottom: 15px;"><strong>Date</strong>&nbsp;{{date}}</td>
+                                                    </tr>
+                                                </table>
+
+                                            </div>
+                                   <!--      
+                                    <tr>
+                                        <td> -->
+                                            <br>
+                                        <p style="font-size: 10px; margin-top: 5px;">To the Interviewer: As you complete your interview, please tick the box that closely or represents your assessment of the candidate. You may also use the space provided to include other inputs or remarks you may have which will help in further assessing the candidate.</p>
+                                    <!--     </td>
+                                    </tr>
+                                </table> -->
+
+                                <!-- BEGIN SECTION 1-->
+                                <!-- <table  align='center' style='width: 755px; height: auto; background: #fff;overflow: wrap;'>
+                                    <tr>
+                                        <td> -->
+                                            <div class='header_sub' >
+                                                <table style="width: 755px; height: auto;background: #575757; margin-bottom: 5px;color: #f1f1f1;">
+                                                    <tr > 
+                                                        <td >
+                                                            <h2>ELIGIBILITY </h2>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <table class='tp01' cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 11px; margin-bottom: 10px;">
+                                                    <tr style='border: 1px solid #ccc;background: #EAEAEA;'>
+                                                        <td style='padding-left: 20px; height: 30px;' colspan="2"><strong><center>Evidence of Skills</center></strong></td>
+                                                        <td width='300px'><strong>Other Remarks</td>
+                                                    </tr>
+                                                    <tr style='border: 1px solid #ccc;'>
+                                                        <td style='padding-left: 20px; height: 30px;'><strong>Education</strong></td>
+                                                        <td width='300px'></td>
+                                                        <td style='color:#666'>Text</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style='padding-left: 20px; height: 30px;'><strong>Skill</strong></td>
+                                                        <td></td>
+                                                        <td style='color:#666'>Text</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style='padding-left: 20px; height: 30px;'><strong>Exprerience</strong></td>
+                                                        <td ></td>
+                                                        <td style='color:#666'>Text</td>
+                                                    </tr>
+                                                </table>
+
+                                            </div>
+                                       <!--  </td>
+                                    </tr>
+                                </table> -->
+
+                                <!-- BEGIN SECTION 2-->
+                               <!--  <table  align='center' style='width: 755px; height: auto; background: #fff;overflow: wrap;'>
+                                    <tr>
+                                        <td> -->
+                                            <div class='header_sub' >
+                                                <table style="width: 755px; background: #575757; margin-bottom: 5px;overflow: wrap;color: #f1f1f1;">
+                                                    <tr > 
+                                                        <td >
+                                                            <h2>SUITABILITY</h2>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <table class='tp01' cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 11px; margin-bottom: 10px;overflow: wrap;">
+                                                    <tr style='border: 1px solid #ccc;background: #EAEAEA;'>
+                                                        <td style='padding-left: 20px; height: 30px;' colspan="2"><strong><center>Evidence of Skills</center></strong></td>
+                                                        <td width='300px'><strong>Other Remarks</td>
+                                                    </tr>
+                                                    <tr style='border: 1px solid #ccc;'>
+                                                        <td style='padding-left: 20px; height: 30px;'><strong>Education</strong></td>
+                                                        <td width='300px'></td>
+                                                        <td style='color:#666'>Text</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style='padding-left: 20px; height: 30px;'><strong>Skill</strong></td>
+                                                        <td></td>
+                                                        <td style='color:#666'>Text</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style='padding-left: 20px; height: 30px;'><strong>Exprerience</strong></td>
+                                                        <td ></td>
+                                                        <td style='color:#666'>Text</td>
+                                                    </tr>
+                                                </table>
+
+                                            </div>
+                                       <!--  </td>
+                                    </tr>
+                                </table> -->
+
+                                <!-- BEGIN SECTION 3-->
+                               <!--  <table  align='center' style='width: 755px; height: auto; background: #fff;overflow: wrap;'>
+                                    <tr>
+                                        <td> -->
+                                            <div class='header_sub' >
+                                                <table style="width: 755px; background: #575757; margin-bottom: 5px;overflow: wrap;color: #f1f1f1;">
+                                                    <tr > 
+                                                        <td >
+                                                            <h2>FUNCTIONAL</h2>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <table class='tp01' cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 11px; margin-bottom: 10px;overflow: wrap;">
+                                                    <tr>
+                                                        <td style='padding-left: 20px; height: 30px;'><strong>Competency</strong></td>
+                                                        <td >Interviewer 1</td>
+                                                        <td>Interviewer 2</td>
+                                                        <td>Interviewer 3</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style='padding-left: 20px; height: 30px;'>1.</td>
+                                                        <td ></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style='padding-left: 20px; height: 30px;'>2.</td>
+                                                        <td ></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style='padding-left: 20px; height: 30px;'>3.</td>
+                                                        <td ></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style='padding-left: 20px; height: 30px;'>4.</td>
+                                                        <td ></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style='padding-left: 20px; height: 30px;'>5.</td>
+                                                        <td ></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
+                                                </table>
+
+                                            </div>
+                                        <!-- </td>
+                                    </tr>
+                                </table> -->
+
+                                <!-- BEGIN SECTION 4-->
+                                <!-- <table  align='center' style='width: 755px; height: auto; background: #fff;overflow: wrap;'>
+                                    <tr>
+                                        <td> -->
+                                            <div class='header_sub' >
+                                                <table style="width: 755px; background: #575757; margin-bottom: 5px;overflow: wrap;color: #f1f1f1;">
+                                                    <tr > 
+                                                        <td >
+                                                            <h2>OVERALL ASSESSMENT</h2>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <table class='tp01' cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 11px; margin-bottom: 10px;overflow: wrap;">
+                                                    <tr>
+                                                        <td style='padding-left: 20px; height: 100px;' width="100%"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style='padding-left: 20px;' width="100%">Salary Expectation:&nbsp;{{desired_salary}}</td>
+                                                    </tr>
+                                                </table>
+
+                                            </div>
+                                        <!-- </td>
+                                    </tr>
+                                </table> -->
+
+                                <!-- BEGIN SECTION 3-->
+                               <!--  <table  align='center' style='width: 755px; height: auto; background: #fff;overflow: wrap;'>
+                                    <tr>
+                                        <td> -->
+                                            <div class='header_sub' >
+                                                <table style="width: 755px; background: #575757; margin-bottom: 5px;overflow: wrap;color: #f1f1f1;">
+                                                    <tr > 
+                                                        <td >
+                                                            <h2>RECOMMENDATION</h2>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <table class='tp01' cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 11px; margin-bottom: 10px;overflow: wrap;">
+                                                    <tr>
+                                                        <td style='padding: 0 0 20px 0; height: 50px; font-weight:bold;'><center>Interviewer 1</center></td>
+                                                        <td style='padding: 0 0 20px 0; height: 50px; font-weight:bold;'><center>Interviewer 2</center></td>
+                                                        <td style='padding: 0 0 20px 0; height: 50px; font-weight:bold;'><center>Interviewer 3</center></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style='padding: 20px 0 0 0; height: 50px;'><center>Name & Signature</center></td>
+                                                        <td style='padding: 20px 0 0 0; height: 50px;'><center>Name & Signature</center></td>
+                                                        <td style='padding: 20px 0 0 0; height: 50px;'><center>Name & Signature</center></td>
+                                                    </tr>
+                                            
+                                                </table>
+
+                                            </div>
+                                     <!--    </td>
+                                    </tr>
+                                </table> -->
+
+
+<!-- 
+                            </td>
+                        </tr> 
+                        
+                    </table>
+
+                </td>
+            </tr> 
+        </table>  -->
+    </body>
+<!-- BEGIN BODY -->
+</html>

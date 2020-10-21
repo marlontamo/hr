@@ -1,0 +1,4 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["edit_cached_query"] = 'SELECT `ww_users_assignment`.`assignment_id` as record_id, `ww_users_assignment`.`created_on` as "users_assignment.created_on", `ww_users_assignment`.`created_by` as "users_assignment.created_by", `ww_users_assignment`.`modified_on` as "users_assignment.modified_on", `ww_users_assignment`.`modified_by` as "users_assignment.modified_by", ww_users_assignment.status_id as "users_assignment.status_id", ww_users_assignment.assignment_code as "users_assignment.assignment_code", ww_users_assignment.assignment as "users_assignment.assignment"
+FROM (`ww_users_assignment`)
+WHERE `ww_users_assignment`.`assignment_id` = "{$record_id}"';

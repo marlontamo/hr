@@ -1,0 +1,6 @@
+2017-11-23 12:47:40 --> authentication --> login --> login -->  --> 
+2017-11-23 12:48:17 --> users --> update --> hash --> $2a$08$3H6KlWXpGWu4Z.H1ubsumuvh3zqV0wc667J3LZ6fBVXN7R2K7T0L2 --> $2a$08$Ei6PY9Ios5WxTXUVsIwKWu1jQpT5y6gKrrzMrU6uTG2UrLHyU37EC
+2017-11-23 12:48:17 --> users --> update --> active --> 1 --> 1 else 0
+2017-11-23 12:59:06 --> authentication --> logout --> logout -->  --> 
+2017-11-23 14:00:12 --> authentication --> login --> login -->  --> 
+2017-11-23 14:10:48 --> authentication --> logout --> logout -->  --> 

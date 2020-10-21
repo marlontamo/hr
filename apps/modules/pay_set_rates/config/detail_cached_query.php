@@ -1,0 +1,4 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["detail_cached_query"] = 'SELECT `ww_users_pay_set_rates`.`pay_set_rates_id` as record_id, `ww_users_pay_set_rates`.`created_on` as "users_pay_set_rates.created_on", `ww_users_pay_set_rates`.`created_by` as "users_pay_set_rates.created_by", `ww_users_pay_set_rates`.`modified_on` as "users_pay_set_rates.modified_on", `ww_users_pay_set_rates`.`modified_by` as "users_pay_set_rates.modified_by", ww_users_pay_set_rates.pay_set_rates as "users_pay_set_rates.pay_set_rates", ww_users_pay_set_rates.pay_set_rates_code as "users_pay_set_rates.pay_set_rates_code", ww_users_pay_set_rates.status_id as "users_pay_set_rates.status_id"
+FROM (`ww_users_pay_set_rates`)
+WHERE `ww_users_pay_set_rates`.`pay_set_rates_id` = "{$record_id}"';

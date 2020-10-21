@@ -1,0 +1,395 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html lang="en">
+    <!-- BEGIN HEAD-->
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title></title>
+        <style>
+            body
+            {
+                
+
+            font-family:Arial;
+            font-size: 10px;
+
+            
+            }
+
+
+            td
+            {
+                
+                padding:0;
+            }
+            .header h2
+            {
+                padding-left: 20px;
+                padding-right: 20px;
+                padding-top: 20px;
+                font-size: 18px;
+            }
+
+            .header h3
+            {
+                padding-bottom: 15px;
+                padding-left: 20px;
+                padding-right: 20px;
+                font-size: 12px;
+                color: #666666;
+            }
+
+            .np1
+            {
+                color: #666;
+                font-size: 14px;
+                margin: -18px 18px 0;
+            }
+
+            .mp1
+            {
+                float: right;
+                margin: 0 22px 0 0;
+            }
+
+            .header_sub
+            {
+                width: 755px;
+                margin: 5px 0 0;
+                border-radius: 5px 5px 0 0;
+            }
+
+                .header_sub h2
+                {
+                    padding: 10px;
+                    font-size: 12px;
+                    color: #f1f1f1;
+                    margin: -3px 3px 0 0;
+                    height: 10px;
+                }
+
+            #f1
+            {
+                padding-top: 10px;
+            }
+
+            #ip1
+            {
+                width: 100%;
+                text-align: justify;
+                font-size: 12px;
+                color: #333;
+            }
+
+                #ip1 h3
+                {
+                    font-size: 12px;
+                }
+
+            .im1
+            {
+                float: right;
+                margin: -40px 0 0 0;
+                font-size: 8px;
+            }
+
+            .alfin
+            {
+                margin-left: 18px;
+                width: 300px;
+                color: #2b2b2b;
+                width: 400px;
+                font-size: 13px;
+                background: url("/images/bg.widget.png") repeat scroll;
+                border: 0.3px solid #b6b6b6;
+            }
+
+                .p th
+                {
+                    font-size: 12px;
+                    width: 140px;
+                }
+
+                .prdt tr
+                {
+                    background: #fff;
+                }
+
+            .espaco
+            {
+                height: 5px;
+            }
+
+            #borderrightCF
+            {
+                border-right: 1px solid #ccc;
+            }
+
+            .alfin
+            {
+                padding: 10px 20px 10px;
+                font-size: 10px;
+                border-bottom: 1px solid #f1f1f1;
+            }
+
+            .alrsp
+            {
+                margin: -18px 0px 0;
+                font-size: 10px;
+            }
+
+                .alrsp span
+                {
+                    color: #000;
+                    text-decoration: underline;
+                    margin: 0 5px;
+                }
+
+            .albr
+            {
+                padding: 10px 0 0 0;
+            }
+
+            .iwg
+            {
+                font-size: 9px;
+                color: #0A73C3;
+                width: 200px;
+                text-align: justify;
+            }
+
+            .tp01
+            {
+                border-collapse: collapse;
+            }
+
+                .tp01 th
+                {
+                    color: white;
+                    border: 1px solid #e4e4e4;
+                }
+
+                .tp01 td, .myTable th
+                {
+                    padding: 5px;
+                    border: 1px solid #e4e4e4;
+                }
+            .auto-style1
+            {
+                height: 30px;
+                width: 566px;
+            }
+            .auto-style3
+            {
+                width: 900px;
+            }
+        </style>
+    </head>
+    <!-- END HEAD -->
+    <!-- BEGIN BODY -->
+    <body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" style="-webkit-font-smoothing: antialiased; width: 100% !important; -webkit-text-size-adjust: none;">
+
+        <!-- <table width="100%" cellpadding="0" cellspacing="0" border="0" style="padding: 20px 0 20px 0">
+            <tr>
+                <td width="100%">
+
+                    <table width="755" cellpadding="0" cellspacing="0" border="0" align="center" class="table">
+                        <tr>
+                            <td width="755" class="cell" style="padding: 0 40px;"> -->
+                                <!-- BEGIN HEADER CONTAINER -->
+                              <!--   <table align="center" style="width: 755px; height: auto; background: #fff; margin-bottom: 10px;">
+                                    <tr style="border: 1px solid #ccc;">
+                                        <td class="auto-style3"> -->
+                                            <table align="center" style="width: 755px; height: auto; background: #fff; margin-bottom: 10px;">
+                                                <tr>
+                                                    <td style="width: 200px;">
+                                                        <img src="assets/img/hdi_resource-logo.png" style="width: 160px;">
+                                                    </td>
+                                                    <td >
+                                                        <div class="header">
+                                                            <h2>Pre-employment Checklist</h2>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        <!-- </td>
+                                        <td> -->
+                                            <table>
+                                                <tr>
+                                                    <td style="padding-left: 20px; " class="auto-style1">
+                                                        <div class="mp1">
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        <!-- </td>
+                                    </tr>
+                                </table> -->
+
+
+                                <!-- BEGIN SECTION 1-->
+                                <table cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 11px; margin-bottom: 20px;">
+                                    <tr>
+                                        <td style=' height: 30px; width: 380px;'><strong>NAME:</strong>
+                                            <span style="float:right; padding-right:10px;">{{recipients}}</span></td>
+                                        <td ><strong>START DATE:</strong><span style="float:right; padding-right:10px;"> {{start_date}}</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 20px; width: 380px;'><strong>SUBSIDIARY:</strong>
+                                            <span style="float:right; padding-right:10px;">{{company_code}}</span></td>
+                                        <td ><strong>DEPARTMENT:</strong><span style="float:right; padding-right:10px;"> {{department}}</span></td>
+                                    </tr>
+                                </table>
+
+
+                                <p style=""></p>
+
+                                <table cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 11px; margin-bottom: 20px;">
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px; font-size: 11px;' colspan="2"><strong>The following must be submitted on or before your first day of work:</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px;'><input type="checkbox"></td>
+                                        <td >Signed copy of the job offer sheet</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px;'><input type="checkbox"></td>
+                                        <td >Court Clearance (MTC and RTC)</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px;'><input type="checkbox"></td>
+                                        <td >2 pcs 1 x 1 ID photo</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px;'><input type="checkbox"></td>
+                                        <td >1 pc 2 x 2 ID photo</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px;'><input type="checkbox"></td>
+                                        <td >NBI Clearance and photocopy</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px;'><input type="checkbox"></td>
+                                        <td >Transcript of Records/Diploma (1 photocopy each)</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px;'><input type="checkbox"></td>
+                                        <td >BIR Form 1905 - accomplished and duly received by previous employer's RDO </td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px;'><input type="checkbox"></td>
+                                        <td >Accomplished BIR Form 2305</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px;'><input type="checkbox"></td>
+                                        <td >Accomplished PhilHealth PMRF </td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px;'><input type="checkbox"></td>
+                                        <td >Accomplished Pag-Ibig RTMRLD Form</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px;'><input type="checkbox"></td>
+                                        <td >Accomplished Bank Forms for Payroll</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px;'><input type="checkbox"></td>
+                                        <td >Accomplished ID Form</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px;'><input type="checkbox"></td>
+                                        <td >Accomplished Generali Pilipinas (GTLI) Form </td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px;'><input type="checkbox"></td>
+                                        <td >2 photocopies of the following (with signature on copies, present original upon submission)</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px;'><input type="checkbox"></td>
+                                        <td >SSS digitized ID, E1, or E6 </td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px;'><input type="checkbox"></td>
+                                        <td >TIN Card, if any</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px;'><input type="checkbox"></td>
+                                        <td >Philhealth Card or Number, if any</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px;'><input type="checkbox"></td>
+                                        <td >Pag-Ibig MID number</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px;'><input type="checkbox"></td>
+                                        <td >Birth certificate (NSO-certified)</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px;'><input type="checkbox"></td>
+                                        <td >Marriage contract (NSO-certified), if married</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px;'><input type="checkbox"></td>
+                                        <td >Birth certificate of children (NSO-certified), if any </td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px;'><input type="checkbox"></td>
+                                        <td >2 Valid ID, with signature on the photocopies</td>
+                                    </tr>
+
+                                </table>
+
+                                <table cellpadding='0' cellspacing='0' border='0' align='center' width='100%' style=" font-size: 11px; margin-bottom: 20px;">
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px; font-size: 11px;' colspan="2"><strong>The following must be submitted on or before your first day of work:</strong></td>
+                                        <td style=' height: 20px; width: 30px; font-size: 11px;'><strong>Status and Date of Submission</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px;'><input type="checkbox"></td>
+                                        <td style="width: 450px;">Signed copy of the job offer sheet</td>
+                                        <td style="border-bottom:1px solid #999999; width: 300px;">&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px;'><input type="checkbox"></td>
+                                        <td style="width: 450px;">Completed PPE form signed by the clinic</td>
+                                        <td style="border-bottom:1px solid #999999; width: 300px;">&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px;'><input type="checkbox"></td>
+                                        <td style="width: 450px;">BIR Form 2316, if employed within the year</td>
+                                        <td style="border-bottom:1px solid #999999; width: 300px;">&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                        <td style=' height: 20px; width: 30px;'><input type="checkbox"></td>
+                                        <td style="width: 450px; padding-right: 20px;">Certificate of employment from previous employer (if closed, submit Undertaking/Affidavit attesting that it ceased operations, you do not have no derogatory record and cleared of all accountabilities)</td>
+                                        <td style="border-bottom:1px solid #999999; width: 300px;">&nbsp;</td>
+                                    </tr>
+                                </table>
+                                <br>
+
+                                <p style="font-size: 11px; font-style:italic;">Failure to complete pre-employment requirements within the given time frame will be subject to proper management action.</p>
+
+                                <table cellpadding='0' cellspacing='0' border='0' width='250px' style=" font-size: 11px; margin: 30px 0 20px 0;">
+
+                                    <tr>
+                                        <td style='height: 30px;'><center>{{recipients}}</center></td>
+                                    </tr>
+                                    <tr>
+                                        <td style='height: 30px; border-top: 1px solid #000000;'><strong><center>
+                                            {{position}}</center></td>
+                                    </tr>
+                                </table>
+
+                                
+<!-- 
+                            </td>
+                        </tr> 
+                        
+                    </table>
+
+                </td>
+            </tr> 
+        </table>  -->
+    </body>
+<!-- BEGIN BODY -->
+</html>

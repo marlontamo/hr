@@ -1,0 +1,4 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["edit_cached_query"] = 'SELECT `ww_users_coordinator`.`coordinator_id` as record_id, `ww_users_coordinator`.`created_on` as "users_coordinator.created_on", `ww_users_coordinator`.`created_by` as "users_coordinator.created_by", `ww_users_coordinator`.`modified_on` as "users_coordinator.modified_on", `ww_users_coordinator`.`modified_by` as "users_coordinator.modified_by", ww_users_coordinator.company_id as "users_coordinator.company_id", ww_users_coordinator.branch_id as "users_coordinator.branch_id", ww_users_coordinator.user_id as "users_coordinator.user_id", ww_users_coordinator.coordinator_user_id as "users_coordinator.coordinator_user_id"
+FROM (`ww_users_coordinator`)
+WHERE `ww_users_coordinator`.`coordinator_id` = "{$record_id}"';

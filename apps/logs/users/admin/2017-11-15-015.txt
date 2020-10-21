@@ -1,0 +1,135 @@
+2017-11-15 09:54:47 --> profiles --> edit --> grant -->  --> on
+2017-11-15 09:54:47 --> profiles --> edit --> profile_id -->  --> 24
+2017-11-15 09:54:47 --> profiles --> edit --> mod_id -->  --> 43
+2017-11-15 09:54:47 --> profiles --> edit --> action_id -->  --> 1
+2017-11-15 09:54:47 --> profiles --> edit --> grant -->  --> on
+2017-11-15 09:54:47 --> profiles --> edit --> profile_id -->  --> 24
+2017-11-15 09:54:47 --> profiles --> edit --> mod_id -->  --> 43
+2017-11-15 09:54:47 --> profiles --> edit --> action_id -->  --> 2
+2017-11-15 09:54:47 --> profiles --> edit --> grant -->  --> on
+2017-11-15 09:54:47 --> profiles --> edit --> profile_id -->  --> 24
+2017-11-15 09:54:47 --> profiles --> edit --> mod_id -->  --> 43
+2017-11-15 09:54:47 --> profiles --> edit --> action_id -->  --> 3
+2017-11-15 09:54:47 --> profiles --> edit --> grant -->  --> on
+2017-11-15 09:54:47 --> profiles --> edit --> profile_id -->  --> 24
+2017-11-15 09:54:47 --> profiles --> edit --> mod_id -->  --> 43
+2017-11-15 09:54:47 --> profiles --> edit --> action_id -->  --> 4
+2017-11-15 09:54:47 --> profiles --> edit --> grant -->  --> on
+2017-11-15 09:54:47 --> profiles --> edit --> profile_id -->  --> 24
+2017-11-15 09:54:47 --> profiles --> edit --> mod_id -->  --> 43
+2017-11-15 09:54:47 --> profiles --> edit --> action_id -->  --> 5
+2017-11-15 09:54:47 --> profiles --> edit --> grant -->  --> on
+2017-11-15 09:54:47 --> profiles --> edit --> profile_id -->  --> 24
+2017-11-15 09:54:47 --> profiles --> edit --> mod_id -->  --> 43
+2017-11-15 09:54:47 --> profiles --> edit --> action_id -->  --> 6
+2017-11-15 09:54:47 --> profiles --> edit --> grant -->  --> on
+2017-11-15 09:54:47 --> profiles --> edit --> profile_id -->  --> 24
+2017-11-15 09:54:47 --> profiles --> edit --> mod_id -->  --> 43
+2017-11-15 09:54:47 --> profiles --> edit --> action_id -->  --> 7
+2017-11-15 09:54:47 --> profiles --> edit --> grant -->  --> on
+2017-11-15 09:54:47 --> profiles --> edit --> profile_id -->  --> 24
+2017-11-15 09:54:47 --> profiles --> edit --> mod_id -->  --> 43
+2017-11-15 09:54:47 --> profiles --> edit --> action_id -->  --> 8
+2017-11-15 09:54:47 --> profiles --> edit --> grant -->  --> on
+2017-11-15 09:54:47 --> profiles --> edit --> profile_id -->  --> 24
+2017-11-15 09:54:47 --> profiles --> edit --> mod_id -->  --> 143
+2017-11-15 09:54:47 --> profiles --> edit --> action_id -->  --> 1
+2017-11-15 09:54:47 --> profiles --> edit --> grant -->  --> on
+2017-11-15 09:54:47 --> profiles --> edit --> profile_id -->  --> 24
+2017-11-15 09:54:47 --> profiles --> edit --> mod_id -->  --> 143
+2017-11-15 09:54:47 --> profiles --> edit --> action_id -->  --> 2
+2017-11-15 09:54:47 --> profiles --> edit --> grant -->  --> on
+2017-11-15 09:54:47 --> profiles --> edit --> profile_id -->  --> 24
+2017-11-15 09:54:47 --> profiles --> edit --> mod_id -->  --> 143
+2017-11-15 09:54:47 --> profiles --> edit --> action_id -->  --> 3
+2017-11-15 09:54:47 --> profiles --> edit --> grant -->  --> on
+2017-11-15 09:54:47 --> profiles --> edit --> profile_id -->  --> 24
+2017-11-15 09:54:47 --> profiles --> edit --> mod_id -->  --> 143
+2017-11-15 09:54:47 --> profiles --> edit --> action_id -->  --> 4
+2017-11-15 09:54:47 --> profiles --> edit --> grant -->  --> on
+2017-11-15 09:54:47 --> profiles --> edit --> profile_id -->  --> 24
+2017-11-15 09:54:47 --> profiles --> edit --> mod_id -->  --> 143
+2017-11-15 09:54:47 --> profiles --> edit --> action_id -->  --> 5
+2017-11-15 09:54:47 --> profiles --> edit --> grant -->  --> on
+2017-11-15 09:55:28 --> roles --> insert --> role -->  --> ICT Admin
+2017-11-15 09:57:43 --> roles --> update --> profile_id -->  --> 5,12,14,24
+2017-11-15 09:57:43 --> roles --> update --> description -->  --> ICT Administrator
+2017-11-15 09:58:17 --> authentication --> logout --> logout -->  --> 
+2017-11-15 09:58:33 --> authentication --> login --> login -->  --> 
+2017-11-15 02:09:51 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+2017-11-15 02:09:51 --> applicants --> insert --> recruit_id -->  --> 1
+2017-11-15 02:09:51 --> applicants --> insert --> key_id -->  --> 69
+2017-11-15 02:09:51 --> applicants --> insert --> key -->  --> skill-name
+2017-11-15 02:09:51 --> applicants --> insert --> sequence -->  --> 1
+2017-11-15 02:09:51 --> applicants --> insert --> key_name -->  --> Name
+2017-11-15 02:09:51 --> applicants --> insert --> key_value -->  --> Magsasaka
+2017-11-15 02:09:51 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+2017-11-15 02:09:51 --> applicants --> insert --> recruit_id -->  --> 1
+2017-11-15 02:09:51 --> applicants --> insert --> key_id -->  --> 71
+2017-11-15 02:09:51 --> applicants --> insert --> key -->  --> skill-level
+2017-11-15 02:09:51 --> applicants --> insert --> sequence -->  --> 1
+2017-11-15 02:09:51 --> applicants --> insert --> key_name -->  --> Proficiency Level
+2017-11-15 02:09:51 --> applicants --> insert --> key_value -->  --> Advance
+2017-11-15 02:09:51 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+2017-11-15 02:09:51 --> applicants --> insert --> recruit_id -->  --> 1
+2017-11-15 02:09:51 --> applicants --> insert --> key_id -->  --> 72
+2017-11-15 02:09:51 --> applicants --> insert --> key -->  --> skill-remarks
+2017-11-15 02:09:51 --> applicants --> insert --> sequence -->  --> 1
+2017-11-15 02:09:51 --> applicants --> insert --> key_name -->  --> Remarks
+2017-11-15 02:09:51 --> applicants --> insert --> key_value -->  --> test
+2017-11-15 02:10:01 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+2017-11-15 02:10:01 --> applicants --> insert --> recruit_id -->  --> 1
+2017-11-15 02:10:01 --> applicants --> insert --> key_id -->  --> 33
+2017-11-15 02:10:01 --> applicants --> insert --> key -->  --> education-type
+2017-11-15 02:10:01 --> applicants --> insert --> sequence -->  --> 1
+2017-11-15 02:10:01 --> applicants --> insert --> key_name -->  --> Type
+2017-11-15 02:10:01 --> applicants --> insert --> key_value -->  --> Graduate Studies
+2017-11-15 02:10:01 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+2017-11-15 02:10:01 --> applicants --> insert --> recruit_id -->  --> 1
+2017-11-15 02:10:01 --> applicants --> insert --> key_id -->  --> 34
+2017-11-15 02:10:01 --> applicants --> insert --> key -->  --> education-school
+2017-11-15 02:10:01 --> applicants --> insert --> sequence -->  --> 1
+2017-11-15 02:10:01 --> applicants --> insert --> key_name -->  --> School
+2017-11-15 02:10:01 --> applicants --> insert --> key_value -->  --> fggsdfd
+2017-11-15 02:10:01 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+2017-11-15 02:10:01 --> applicants --> insert --> recruit_id -->  --> 1
+2017-11-15 02:10:01 --> applicants --> insert --> key_id -->  --> 35
+2017-11-15 02:10:01 --> applicants --> insert --> key -->  --> education-year-from
+2017-11-15 02:10:01 --> applicants --> insert --> sequence -->  --> 1
+2017-11-15 02:10:01 --> applicants --> insert --> key_name -->  --> Year From
+2017-11-15 02:10:01 --> applicants --> insert --> key_value -->  --> 1990
+2017-11-15 02:10:01 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+2017-11-15 02:10:01 --> applicants --> insert --> recruit_id -->  --> 1
+2017-11-15 02:10:01 --> applicants --> insert --> key_id -->  --> 36
+2017-11-15 02:10:01 --> applicants --> insert --> key -->  --> education-year-to
+2017-11-15 02:10:01 --> applicants --> insert --> sequence -->  --> 1
+2017-11-15 02:10:01 --> applicants --> insert --> key_name -->  --> Year To
+2017-11-15 02:10:01 --> applicants --> insert --> key_value -->  --> 1994
+2017-11-15 02:10:01 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+2017-11-15 02:10:01 --> applicants --> insert --> recruit_id -->  --> 1
+2017-11-15 02:10:01 --> applicants --> insert --> key_id -->  --> 37
+2017-11-15 02:10:01 --> applicants --> insert --> key -->  --> education-degree
+2017-11-15 02:10:01 --> applicants --> insert --> sequence -->  --> 1
+2017-11-15 02:10:01 --> applicants --> insert --> key_name -->  --> Degree
+2017-11-15 02:10:01 --> applicants --> insert --> key_value -->  --> bs
+2017-11-15 02:10:01 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+2017-11-15 02:10:01 --> applicants --> insert --> recruit_id -->  --> 1
+2017-11-15 02:10:01 --> applicants --> insert --> key_id -->  --> 38
+2017-11-15 02:10:01 --> applicants --> insert --> key -->  --> education-status
+2017-11-15 02:10:01 --> applicants --> insert --> sequence -->  --> 1
+2017-11-15 02:10:01 --> applicants --> insert --> key_name -->  --> Status
+2017-11-15 02:10:01 --> applicants --> insert --> key_value -->  --> Graduated
+2017-11-15 02:10:01 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+2017-11-15 02:10:01 --> applicants --> insert --> recruit_id -->  --> 1
+2017-11-15 02:10:01 --> applicants --> insert --> key_id -->  --> 180
+2017-11-15 02:10:01 --> applicants --> insert --> key -->  --> education-lastsem-attended
+2017-11-15 02:10:01 --> applicants --> insert --> sequence -->  --> 1
+2017-11-15 02:10:01 --> applicants --> insert --> key_name -->  --> Last SY and Sem
+2017-11-15 02:10:01 --> applicants --> delete --> recruitment_personal_history - recruit_id --> 1 --> 
+2017-11-15 02:10:01 --> applicants --> insert --> recruit_id -->  --> 1
+2017-11-15 02:10:01 --> applicants --> insert --> key_id -->  --> 131
+2017-11-15 02:10:01 --> applicants --> insert --> key -->  --> education-honors_awards
+2017-11-15 02:10:01 --> applicants --> insert --> sequence -->  --> 1
+2017-11-15 02:10:01 --> applicants --> insert --> key_name -->  --> Honors/Awards
+2017-11-15 02:10:01 --> applicants --> insert --> key_value -->  --> first honor
+2017-11-15 10:26:27 --> users --> update --> hash --> $2a$08$WetxQC5dhEHZP5kFVBsxTeLg4yzSNiYzj3K0Ux/EFlnhKvgwX0.rO --> $2a$08$6dzvkd.8d.FL7nB/aaWabOvPr8uhvEx1uBBioPNPMMCGWApx6aQGu

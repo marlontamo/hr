@@ -1,0 +1,27 @@
+<?php
+$lang['disciplinary_admin'] = array(
+	'da_list' => 'Disciplinary Action List',
+	'da' => 'Disciplinary Action',
+	'sanctions' => 'Sanction',
+	'sanctions_details' => 'Sanction Details',
+	'note_sanctions' => 'This section contains sanction details.',
+	'employee_name' => 'Employee Name',
+	'involved' => 'Involved Employee/s',
+	'offense' => 'Offense',
+	'date_sent' => 'Date Sent',
+	'status' => 'Status',
+	'complainants' => 'Complainants',
+	'date_time_offense' => 'Date and Time of Offense',
+	'attachments' => 'Attachments',
+	'select_file' => 'Select File',
+	'details_offense' => 'Details of Offense',
+	'witnesses' => 'Witnesses',
+	'location' => 'Location',
+	'details_violation' => 'Details of Violation',
+	'damages' => 'Damages done (If any)',
+	'suspend_from' => 'Suspended From',
+	'suspend_to' => 'Suspended To',
+	'suspension' => 'Suspension',
+	'payment_damage' => 'Payment for Damages',
+	'days' => 'day/s'
+);

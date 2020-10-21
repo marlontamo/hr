@@ -1,0 +1,12 @@
+LAPERA, NORMAN (00252) --> 2017-11-29 07:07:59 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-11-29 14:33:33 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-29 16:04:33 --> authentication --> login --> login -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-11-29 16:06:05 --> authentication --> login --> login -->  --> 
+PEREZ, LORIE ANN (32905) --> 2017-11-29 16:08:20 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-29 16:08:28 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-29 16:20:11 --> authentication --> logout --> logout -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-29 16:31:00 --> authentication --> login --> login -->  --> 
+GARCES, JOCELYN (00451) --> 2017-11-29 16:42:31 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-11-29 08:45:42 --> report_generator --> update --> roles --> 1,2,8 --> 1,2,8,24
+DE LEON, LISSA (30991) --> 2017-11-29 16:57:21 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2017-11-29 17:01:18 --> authentication --> logout --> logout -->  --> 

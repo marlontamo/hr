@@ -1,0 +1,117 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+
+$config['fields'] = array();
+$config['fields'][1]['resources_request.status'] = array(
+	'f_id' => 7,
+	'fg_id' => 1,
+	'label' => 'Status',
+	'description' => '',
+	'table' => 'resources_request',
+	'column' => 'status',
+	'uitype_id' => 1,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 7,
+	'datatype' => 'required',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][1]['resources_request.request_status_id'] = array(
+	'f_id' => 6,
+	'fg_id' => 1,
+	'label' => 'Status',
+	'description' => '',
+	'table' => 'resources_request',
+	'column' => 'request_status_id',
+	'uitype_id' => 1,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 6,
+	'datatype' => 'required',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][1]['resources_request.user_id'] = array(
+	'f_id' => 5,
+	'fg_id' => 1,
+	'label' => 'User',
+	'description' => '',
+	'table' => 'resources_request',
+	'column' => 'user_id',
+	'uitype_id' => 4,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 5,
+	'datatype' => '',
+	'active' => '1',
+	'encrypt' => 0,
+	'searchable' => array(
+		'type_id' => '1',
+		'table' => 'users',
+		'multiple' => 0,
+		'group_by' => '',
+		'label' => 'full_name',
+		'value' => 'user_id',
+		'textual_value_column' => ''
+	)
+);
+$config['fields'][1]['resources_request_upload.upload_id'] = array(
+	'f_id' => 4,
+	'fg_id' => 1,
+	'label' => 'Attachments',
+	'description' => '',
+	'table' => 'resources_request_upload',
+	'column' => 'upload_id',
+	'uitype_id' => 9,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 4,
+	'datatype' => '',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][1]['resources_request.reason'] = array(
+	'f_id' => 3,
+	'fg_id' => 1,
+	'label' => 'Reason',
+	'description' => '',
+	'table' => 'resources_request',
+	'column' => 'reason',
+	'uitype_id' => 2,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 3,
+	'datatype' => 'required',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][1]['resources_request.date_needed'] = array(
+	'f_id' => 2,
+	'fg_id' => 1,
+	'label' => 'Date Needed',
+	'description' => '',
+	'table' => 'resources_request',
+	'column' => 'date_needed',
+	'uitype_id' => 6,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 2,
+	'datatype' => 'required',
+	'active' => '1',
+	'encrypt' => 0
+);
+$config['fields'][1]['resources_request.request'] = array(
+	'f_id' => 1,
+	'fg_id' => 1,
+	'label' => 'Request Item',
+	'description' => '',
+	'table' => 'resources_request',
+	'column' => 'request',
+	'uitype_id' => 1,
+	'display_id' => 3,
+	'quick_edit' => 1,
+	'sequence' => 1,
+	'datatype' => 'required',
+	'active' => '1',
+	'encrypt' => 0
+);

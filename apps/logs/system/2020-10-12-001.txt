@@ -1,0 +1,16 @@
+Admin, Teemworx (admin) --> 2020-10-12 09:23:27 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2020-10-12 09:32:48 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2020-10-12 14:27:19 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2020-10-12 15:00:40 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2020-10-12 15:16:14 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2020-10-12 15:16:54 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2020-10-12 15:18:04 --> authentication --> logout --> logout -->  --> 
+sanchez, claudio (33735) --> 2020-10-12 15:18:16 --> authentication --> login --> login -->  --> 
+sanchez, claudio (33735) --> 2020-10-12 15:26:36 --> authentication --> login --> login -->  --> 
+sanchez, claudio (33735) --> 2020-10-12 15:26:37 --> authentication --> login --> login -->  --> 
+sanchez, claudio (33735) --> 2020-10-12 15:34:19 --> authentication --> logout --> logout -->  --> 
+TAMO, MARLON (33866) --> 2020-10-12 15:34:32 --> authentication --> login --> login -->  --> 
+TAMO, MARLON (33866) --> 2020-10-12 15:34:32 --> authentication --> login --> login -->  --> 
+TAMO, MARLON (33866) --> 2020-10-12 15:43:27 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2020-10-12 15:43:47 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2020-10-12 16:19:17 --> authentication --> login --> login -->  --> 

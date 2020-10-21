@@ -1,0 +1,4 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["edit_cached_query"] = 'SELECT `ww_training_competency`.`competency_id` as record_id, `ww_training_competency`.`created_on` as "training_competency.created_on", `ww_training_competency`.`created_by` as "training_competency.created_by", `ww_training_competency`.`modified_on` as "training_competency.modified_on", `ww_training_competency`.`modified_by` as "training_competency.modified_by", ww_training_competency.description as "training_competency.description", ww_training_competency.competency_code as "training_competency.competency_code", ww_training_competency.competency as "training_competency.competency"
+FROM (`ww_training_competency`)
+WHERE `ww_training_competency`.`competency_id` = "{$record_id}"';

@@ -1,0 +1,23 @@
+REDAON, ROSEMARIE (93601) --> 2017-10-31 10:33:46 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-10-31 10:35:22 --> authentication --> logout --> logout -->  --> 
+VILLAMOR, ARNEL (33047) --> 2017-10-31 10:35:38 --> authentication --> login --> login -->  --> 
+VILLAMOR, ARNEL (33047) --> 2017-10-31 10:35:46 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-10-31 10:35:57 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2017-10-31 10:38:15 --> authentication --> logout --> logout -->  --> 
+DE CASTRO, CHRISTINA ELENA (01713) --> 2017-10-31 10:38:22 --> authentication --> login --> login -->  --> 
+DE CASTRO, CHRISTINA ELENA (01713) --> 2017-10-31 10:41:16 --> authentication --> logout --> logout -->  --> 
+FUENTEBELLA JR., EDUARDO (32765) --> 2017-10-31 10:41:31 --> authentication --> login --> login -->  --> 
+FUENTEBELLA JR., EDUARDO (32765) --> 2017-10-31 10:42:24 --> authentication --> logout --> logout -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2017-10-31 10:42:34 --> authentication --> login --> login -->  --> 
+LLOREN, CAMILLE JELA MAE (33013) --> 2017-10-31 10:46:12 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-10-31 10:46:18 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-10-31 10:53:47 --> authentication --> logout --> logout -->  --> 
+FUENTEBELLA JR., EDUARDO (32765) --> 2017-10-31 10:58:35 --> authentication --> login --> login -->  --> 
+FUENTEBELLA JR., EDUARDO (32765) --> 2017-10-31 11:26:50 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-10-31 11:27:00 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-10-31 11:33:26 --> authentication --> logout --> logout -->  --> 
+FUENTEBELLA JR., EDUARDO (32765) --> 2017-10-31 12:01:31 --> authentication --> login --> login -->  --> 
+FUENTEBELLA JR., EDUARDO (32765) --> 2017-10-31 12:06:51 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-31 12:07:11 --> authentication --> login --> login -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-31 12:20:00 --> authentication --> logout --> logout -->  --> 
+POLONAN, MARIA LEE (31002) --> 2017-10-31 12:20:07 --> authentication --> login --> login -->  --> 

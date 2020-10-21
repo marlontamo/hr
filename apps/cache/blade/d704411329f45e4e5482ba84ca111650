@@ -1,0 +1,14 @@
+<?php echo $__env->make('edit/page_styles', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
+	<div class="portlet">
+		<div class="portlet-body form">
+			<form class="form-horizontal">
+				<input type="hidden" id="record_id" name="record_id" value="<?php echo $record_id; ?>">
+				<?php echo $__env->make('generate/param_form', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
+				<?php echo $__env->make('buttons/param_form', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
+			</form>
+       	</div>  		
+	</div>
+<?php echo $__env->make('edit/page_plugins', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
+<?php echo $__env->make('edit/page_scripts', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?> 
+<script type="text/javascript" src="<?php echo theme_path(); ?>modules/report_generator/generate.js"></script> 
+<script type="text/javascript" src="<?php echo theme_path(); ?>modules/report_generator/report_generator.js"></script> 

@@ -1,0 +1,3 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["list_cached_query"] = 'SELECT `ww_business_reqion`.`region_id` as record_id, `ww_business_reqion`.`created_on` as "business_reqion_created_on", `ww_business_reqion`.`created_by` as "business_reqion_created_by", `ww_business_reqion`.`modified_on` as "business_reqion_modified_on", `ww_business_reqion`.`modified_by` as "business_reqion_modified_by"
+FROM (`ww_business_reqion`)';

@@ -1,0 +1,8 @@
+DE LEON, LISSA (30991) --> 2017-11-06 12:08:35 --> applicant_monitoring --> insert --> checklist_id -->  --> 28
+DE LEON, LISSA (30991) --> 2017-11-06 12:08:35 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-06 12:08:35 --> applicant_monitoring --> insert --> process_id -->  --> 3
+DE LEON, LISSA (30991) --> 2017-11-06 12:08:35 --> applicant_monitoring --> insert --> checklist_id -->  --> 29
+DE LEON, LISSA (30991) --> 2017-11-06 12:08:35 --> applicant_monitoring --> insert --> submitted -->  --> 0
+DE LEON, LISSA (30991) --> 2017-11-06 13:35:45 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2017-11-06 13:36:09 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2017-11-06 13:52:49 --> authentication --> logout --> logout -->  --> 

@@ -1,0 +1,4 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["edit_cached_query"] = 'SELECT `ww_payroll_transaction_class`.`transaction_class_id` as record_id, `ww_payroll_transaction_class`.`created_on` as "payroll_transaction_class.created_on", `ww_payroll_transaction_class`.`created_by` as "payroll_transaction_class.created_by", `ww_payroll_transaction_class`.`modified_on` as "payroll_transaction_class.modified_on", `ww_payroll_transaction_class`.`modified_by` as "payroll_transaction_class.modified_by", ww_payroll_transaction_class.transaction_class_code as "payroll_transaction_class.transaction_class_code", ww_payroll_transaction_class.transaction_class as "payroll_transaction_class.transaction_class", ww_payroll_transaction_class.description as "payroll_transaction_class.description"
+FROM (`ww_payroll_transaction_class`)
+WHERE `ww_payroll_transaction_class`.`transaction_class_id` = "{$record_id}"';

@@ -1,0 +1,1 @@
+<script type="text/javascript" src="{{ theme_path() }}modules/change_request/lists.js"></script>

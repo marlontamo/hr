@@ -1,0 +1,3 @@
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+$config["list_cached_query"] = 'SELECT `ww_approver_class`.`approver_class_id` as record_id, `ww_approver_class`.`created_on` as "approver_class_created_on", `ww_approver_class`.`created_by` as "approver_class_created_by", `ww_approver_class`.`modified_on` as "approver_class_modified_on", `ww_approver_class`.`modified_by` as "approver_class_modified_by"
+FROM (`ww_approver_class`)';

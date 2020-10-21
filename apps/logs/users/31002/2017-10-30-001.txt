@@ -1,0 +1,21 @@
+2017-10-30 11:28:41 --> authentication --> login --> login -->  --> 
+2017-10-30 11:30:13 --> users --> update --> active --> 0 --> 1
+2017-10-30 11:30:44 --> authentication --> logout --> logout -->  --> 
+2017-10-30 11:38:28 --> authentication --> login --> login -->  --> 
+2017-10-30 11:38:44 --> authentication --> logout --> logout -->  --> 
+2017-10-30 11:46:30 --> authentication --> login --> login -->  --> 
+2017-10-30 11:46:49 --> authentication --> logout --> logout -->  --> 
+2017-10-30 11:59:03 --> authentication --> login --> login -->  --> 
+2017-10-30 12:01:37 --> authentication --> logout --> logout -->  --> 
+2017-10-30 12:42:17 --> authentication --> login --> login -->  --> 
+2017-10-30 12:57:23 --> authentication --> login --> login -->  --> 
+2017-10-30 12:58:52 --> authentication --> logout --> logout -->  --> 
+2017-10-30 12:59:23 --> authentication --> login --> login -->  --> 
+2017-10-30 14:23:57 --> authentication --> logout --> logout -->  --> 
+2017-10-30 21:04:22 --> authentication --> logout --> logout -->  --> 
+2017-10-30 21:19:33 --> authentication --> login --> login -->  --> 
+2017-10-30 21:40:30 --> authentication --> logout --> logout -->  --> 
+2017-10-30 23:24:11 --> authentication --> login --> login -->  --> 
+2017-10-30 23:28:39 --> authentication --> logout --> logout -->  --> 
+2017-10-30 23:32:37 --> authentication --> login --> login -->  --> 
+2017-10-30 23:35:50 --> authentication --> logout --> logout -->  --> 

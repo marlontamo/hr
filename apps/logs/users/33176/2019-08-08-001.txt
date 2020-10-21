@@ -1,0 +1,77 @@
+2019-08-08 14:29:28 --> authentication --> login --> login -->  --> 
+2019-08-08 17:40:47 --> memo --> insert --> memo_type_id -->  --> 5
+2019-08-08 17:40:47 --> memo --> insert --> apply_to_id -->  --> 2
+2019-08-08 17:40:47 --> memo --> insert --> memo_title -->  --> AUGUST 2019 HOLIDAYS
+2019-08-08 17:40:47 --> memo --> insert --> publish_from -->  --> 2019-08-08
+2019-08-08 17:40:47 --> memo --> insert --> publish_to -->  --> 2019-08-31
+2019-08-08 17:40:47 --> memo --> insert --> publish -->  --> 1
+2019-08-08 17:40:47 --> memo --> insert --> comments -->  --> 1
+2019-08-08 17:40:47 --> memo --> insert --> email -->  --> 1
+2019-08-08 17:40:47 --> memo --> insert --> memo_body -->  --> <p>TO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ALL CONCERNED</p>
+
+<p>FROM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ABHI - HRD DEPARTMENT</p>
+
+<div>
+<p><strong>RE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AUGUST 2019 HOLIDAY SCHEDULES</strong></p>
+
+<p>DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 08 August 2019</p>
+</div>
+
+<p>&nbsp;</p>
+
+<p>Praise God!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Please be informed of the holiday schedules for August 2019:</p>
+
+<p>&nbsp;</p>
+
+<p><strong>August 12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Regular Holiday</p>
+
+<p style="margin-left:36.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Proclamation No. 789, s. 2019</em></p>
+
+<p style="margin-left:36.0pt;"><em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</em><em>Eid&rsquo;l Adha (Feast of Sacrifice)</em></p>
+
+<p style="margin-left:144.0pt;">&nbsp;</p>
+
+<p><strong>August 21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Special Non-Working Holiday</p>
+
+<p><em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ninoy Aquino Day</em></p>
+
+<p style="margin-left:108.0pt;">&nbsp;</p>
+
+<p><strong>August 26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Regular Holiday</p>
+
+<p style="margin-left:36.0pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<em>National Heroes Day</em></p>
+
+<p>&nbsp;</p>
+
+<p>All employees who will render work on the said dates shall have corresponding overtime pay.</p>
+
+<p>&nbsp;</p>
+
+<p>For Head Office employees (other departments/units with 8AM-6PM schedules from M-TH and 8AM-5PM on Friday, work schedule on August 16, 23 and 30 shall be from 8AM&nbsp;to 6PM.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Thank you and God bless.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>NELSON C. CHAVEZ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></p>
+
+<p><em>HRD Manager&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</em></p>
+2019-08-08 17:40:47 --> memo --> insert --> attachment -->  --> uploads/memo/08.08.19_AUGUST%202019%20HOLIDAYS.jpg
+2019-08-08 17:45:12 --> memo --> update --> publish --> 1 --> 0
+2019-08-08 17:45:12 --> memo --> update --> comments --> 1 --> 1 else 0
+2019-08-08 17:45:12 --> memo --> update --> email --> 1 --> 1 else 0
+2019-08-08 17:45:18 --> memo --> update --> publish --> 0 --> 1
+2019-08-08 17:45:18 --> memo --> update --> comments --> 1 --> 1 else 0
+2019-08-08 17:45:18 --> memo --> update --> email --> 1 --> 1 else 0

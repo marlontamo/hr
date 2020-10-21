@@ -1,0 +1,9 @@
+DE LEON, LISSA (30991) --> 2018-05-01 21:02:43 --> authentication --> login --> login -->  --> 
+DE LEON, LISSA (30991) --> 2018-05-01 21:04:17 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2018-05-01 21:04:31 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2018-05-01 21:05:47 --> authentication --> logout --> logout -->  --> 
+Admin, Teemworx (admin) --> 2018-05-01 21:06:10 --> authentication --> login --> login -->  --> 
+Admin, Teemworx (admin) --> 2018-05-01 21:07:47 --> authentication --> logout --> logout -->  --> 
+REDAON, ROSEMARIE (93601) --> 2018-05-01 21:08:03 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2018-05-01 21:20:32 --> authentication --> login --> login -->  --> 
+REDAON, ROSEMARIE (93601) --> 2018-05-01 22:21:13 --> authentication --> logout --> logout -->  --> 
