@@ -18,9 +18,9 @@
  *
  */
 	if ($_SERVER['HTTP_HOST'] == 'localhost') {
-		$env = 'development';
+		$env = 'production';
 	} else {
-		$env = 'development';
+		$env = 'production';
 	}
 	
 	define('ENVIRONMENT', $env);

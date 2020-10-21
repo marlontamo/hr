@@ -282,8 +282,9 @@ class MY_PrivateController extends MY_Controller
 		if( date_default_timezone_get() != $user['timezone']  ) $data['localize_time'] = true;
 
 		$data['business_group'] = $this->session->userdata('business_group');
-		$data['chatroomid'] = $data['business_group'][$this->session->userdata('current_db')]->group_id;
-
+		$data['business_group']['current_db'] = $this->session->userdata('current_db');
+		$data['chatroomid'] = $data['business_group']['current_db'];
+		 
 		//load menu
 		$role_menu_path = APPPATH . 'views/menu/' . $this->session->userdata('current_db');
 		$role_menu = $role_menu_path .'/'. $user['role_id'] .'.blade.php';
@@ -637,9 +638,14 @@ class MY_PrivateController extends MY_Controller
 		if( $new || $record_check === true )
 		{
 			$result = $this->mod->_get( 'edit', $this->record_id );
+			echo "<pre>";
+			print_r($result);
+			echo "</pre>";
+			die();
 			if( $new )
 			{
-				$field_lists = $result->list_fields();
+
+				$field_lists = $result;
 				foreach( $field_lists as $field )
 				{
 					$data['record'][$field] = '';

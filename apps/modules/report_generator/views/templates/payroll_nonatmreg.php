@@ -216,7 +216,8 @@
                 $tot_amount += $row['Amount'];
                 $gtot_amount += $row['Amount'];
                 $count++;
-                $emp_count++;                
+                $emp_count++;  
+				$cnt_line++;				
             }
         }
         else{
@@ -298,6 +299,7 @@
             $gtot_amount += $row['Amount'];
             $count++;
             $emp_count++;
+			$cnt_line++;
         }        
     endforeach;
     if($count != 50 )

@@ -14,6 +14,7 @@
         <?php
         }
 
+        $overtime = 0;
         $userID = $value->{'User Id'};
         $salary = $this->db->query($query." AND `group` = 'Earnings' AND `type` = 'salary' AND user_id = ".$value->{'User Id'}.' ORDER BY transaction_label, transaction_class_code' )->result();
         //debug($this->db->last_query()); die();
@@ -72,7 +73,7 @@
                                             IFNULL( ROUND( SUM( (  CASE WHEN ( `group` = 'earnings' AND transaction_type_id = 1 ) THEN 1 ELSE 0 END ) * amount ),2),0) AS ytd_earning,
                                             IFNULL( ROUND( SUM( (  CASE WHEN ( `group` = 'deductions' AND `type` != 'government' ) THEN 1 ELSE 0 END ) * amount ),2),0) AS ytd_deduction,
                                             IFNULL( ROUND( SUM( (  CASE WHEN ( `group` = 'deductions' AND `type` = 'government' AND transaction_code != 'whtax') THEN 1 ELSE 0 END ) * amount ),2),0) AS ytd_contri
-                                        FROM payroll_payslip
+                                        FROM payroll_payslip_riofil
                                         WHERE user_id = ".$value->{'User Id'}." AND payroll_date <= '".$value->{'Payroll Date'}."' AND YEAR(payroll_date) = ".date("Y",strtotime($value->{'Payroll Date'})) )->row();
 
                 $ytd_time_record_summary = $this->db->query("SELECT
@@ -241,7 +242,7 @@
                             }
                         }
 
-                        if(isset($overtime)){ 
+                        if(isset($overtime) && $overtime > 0){
                             foreach($overtime as $ot){ 
                                 if ($ot->{'Nd Hrs'} > 0){
                         ?>

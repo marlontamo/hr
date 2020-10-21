@@ -265,11 +265,10 @@ class Report_generator extends MY_PrivateController
             case 'AUTHORITY TO DEBIT':
                 $button = array('xls' => 0, 'csv' => 1, 'pdf' => 1, 'txt' => 0);
                 $data['content'] = $this->load->blade('pages.param_form')->with( $this->load->get_cached_vars() )->with('button', $button);
-                break;             
-            case 'IAR':
-            case 'OT':
+                break;      
+            case 'PAR': // Perfect Attendance Report
+            case 'TARDY':          
             case 'PAYROLL REGISTER PRELIMINARY':
-            case 'OTSUMMARY':
                 $button = array('xls' => 0, 'csv' => 1, 'pdf' => 0, 'txt' => 1);
                 $data['content'] = $this->load->blade('pages.param_form')->with( $this->load->get_cached_vars() )->with('button', $button);
                 break;
@@ -285,20 +284,9 @@ class Report_generator extends MY_PrivateController
                 $button = array('xls' => 1, 'csv' => 1, 'pdf' => 0, 'txt' => 1);
                 $data['content'] = $this->load->blade('pages.param_form')->with( $this->load->get_cached_vars() )->with('button', $button);
                 break;
-            case 'BIR1604CF 7.1':
-                $button = array('xls' => 1, 'csv' => 1, 'pdf' => 1, 'txt' => 0);
-                $data['content'] = $this->load->blade('pages.param_form')->with( $this->load->get_cached_vars() )->with('button', $button);
-                break;               
-            case 'BIR1604CF 7.3':
-                $button = array('xls' => 1, 'csv' => 1, 'pdf' => 1, 'txt' => 0);
-                $data['content'] = $this->load->blade('pages.param_form')->with( $this->load->get_cached_vars() )->with('button', $button);
-                break;  
-            case 'BIR1604CF 7.4':
-                $button = array('xls' => 1, 'csv' => 1, 'pdf' => 1, 'txt' => 0);
-                $data['content'] = $this->load->blade('pages.param_form')->with( $this->load->get_cached_vars() )->with('button', $button);
-                break; 
             case 'CONTRI_LOANSUMMARY':
             case 'MONTHLYDED':
+            case 'Journal Voucher':
             case 'Payslip OSI':
             case 'Payslip Bayleaf':
                 $button = array('xls' => 1, 'csv' => 1, 'pdf' => 0, 'txt' => 1);
@@ -318,10 +306,6 @@ class Report_generator extends MY_PrivateController
                 break;
             case 'Journal Headers Bayleaf':
                 $button = array('xls' => 0, 'csv' => 1, 'pdf' => 1, 'txt' => 1);
-                $data['content'] = $this->load->blade('pages.param_form')->with( $this->load->get_cached_vars() )->with('button', $button);
-                break;
-            case 'Journal Voucher':
-                $button = array('xls' => 0, 'csv' => 1, 'pdf' => 0, 'txt' => 1);
                 $data['content'] = $this->load->blade('pages.param_form')->with( $this->load->get_cached_vars() )->with('button', $button);
                 break;
             case 'EMPLOYMENT_APPLICATION':
@@ -510,8 +494,6 @@ class Report_generator extends MY_PrivateController
                 $button = array('xls' => 0, 'csv' => 1, 'pdf' => 1, 'txt' => 1);
                 $data['content'] = $this->load->blade('pages.param_form_custom')->with( $this->load->get_cached_vars() )->with('button', $button);
                 break;
-            case 'PAR': // Perfect Attendance Report
-            case 'TARDY':                   
             case 'Time Record Schedule History':
                 $button = array('xls' => 1, 'csv' => 1, 'pdf' => 0, 'txt' => 1);
                 $data['content'] = $this->load->blade('pages.param_form')->with( $this->load->get_cached_vars() )->with('button', $button);
@@ -1037,8 +1019,7 @@ class Report_generator extends MY_PrivateController
             $this->_ajax_return();
         }
 
-        ini_set('memory_limit', '1024M');   
-        ini_set('max_execution_time', 1800);
+        ini_set('memory_limit', "512M");
         $report = $this->mod->get_report( $post['record_id'] );
         $this->load->vars( $report );
         
@@ -1187,8 +1168,7 @@ class Report_generator extends MY_PrivateController
 
         $result = $this->db->query( $query );
 
-        //debug($this->db->last_query());die();
-
+        // debug($result);
         if( isset( $_POST['get_result'] ) )
         {
             return $result;
@@ -1330,8 +1310,7 @@ class Report_generator extends MY_PrivateController
             $this->_ajax_return();
         }	
 
-        ini_set('memory_limit', '1024M');   
-        ini_set('max_execution_time', 1800);
+        ini_set('memory_limit', "512M");
         $report = $this->mod->get_report( $this->input->post( 'record_id' ) );
         $this->load->vars( $report );
         $this->load->library('parser');
@@ -1342,7 +1321,7 @@ class Report_generator extends MY_PrivateController
         $query = $this->mod->export_query( $report,  $filter);
 
         $result = $this->db->query($query);
-        
+
         //vars for the header and footer template
         $user = $this->config->item('user');
         $params['vars']['date'] = date('M d, Y');
@@ -1356,7 +1335,7 @@ class Report_generator extends MY_PrivateController
                 switch ( $this->input->post( 'record_id' ) ) {
                     
                     default:
-                        $filename = $this->mod->export_excel( $report['main'], $report['columns'], $result, $complete_filter);
+                        $filename = $this->mod->export_excel( $report['main'], $report['columns'], $result );
                         break;
                 }
             }
@@ -1398,7 +1377,7 @@ class Report_generator extends MY_PrivateController
                         $filename = $this->export_pdf_attendance_adjustment( $query, $report['main'] );
                         break;
                     default:
-                        $filename = $this->mod->export_pdf( $report['main'], $report['columns'], $result, $complete_filter );
+                        $filename = $this->mod->export_pdf( $report['main'], $report['columns'], $result );
                         break;
                 }
             }
@@ -1861,7 +1840,7 @@ class Report_generator extends MY_PrivateController
                         $zipname = date('Y-m-d_Hi').'-coc.zip';
                     break;
                     case 'bir2316':
-                        $path = 'uploads/reports/BIR231 6/pdf/';
+                        $path = 'uploads/reports/BIR2316/pdf/';
                         $zipname = date('Y-m-d_Hi').'-bir2316.zip';
                     break;
                 }
@@ -1914,7 +1893,7 @@ class Report_generator extends MY_PrivateController
         $pdf->SetFontSize(8,true);
         $pdf->SetMargins(5, 5, 5);
         $pdf->AddPage('P','FOLIO',false);
-        $background = 'uploads/payroll_report/BIR_Form_2316_new.jpg';
+        $background = 'uploads/payroll_report/BIR_Form_2316.jpg';
         $pdf->SetAutoPageBreak(false, 0);
         $pdf->Image($background, 0, 0, 215.9, 330.2, 'JPG', '', '', false, 100, '', false, false, 0, false, 0, false);
 
@@ -1940,46 +1919,47 @@ class Report_generator extends MY_PrivateController
             // $html = $this->load->view("templates/bir_2316", $vars, true);
             // $this->load->helper('file');
 
-                //1 period
+                //period
                 //Year
-                $line = 39;
-
                 $year_dt = $post['pay_year']; 
                 if(!empty($year_dt))
                 {
-                    $yr_m_x = 38;   
+                    $line = 30;
+                    $yr_m_x = 43.5;   
                     //$year_dt = str_replace('-', '', $year_dt);
                     for($yr_m_s = 0 ; $yr_m_s <= strlen($year_dt); $yr_m_s++)
                     {
                         $yr_m_sub = substr($year_dt,$yr_m_s,1);
                         $pdf->MultiCell(10, 10, $yr_m_sub, 0, 'C', false, 0, $yr_m_x, $line, true, 0, false, false, 0, 'T', true);                   
-                        $yr_m_x = $yr_m_x + 6.5;
+                        $yr_m_x = $yr_m_x + 4;
                     }
                 }
                 $date_from = $birData['month_from'];
-                //2 From
+                //From
                 if(!empty($date_from))
                 {
-                    $fr_m_x = 134;   
+                    $line = 30;
+                    $fr_m_x = 141.5;   
                     $date_from = str_replace('-', '', $date_from);
                     for($fr_m_s = 0 ; $fr_m_s <= strlen($date_from); $fr_m_s++)
                     {
                         $fr_m_sub = substr($date_from,$fr_m_s,1);
                         $pdf->MultiCell(10, 10, $fr_m_sub, 0, 'C', false, 0, $fr_m_x, $line, true, 0, false, false, 0, 'T', true);                   
-                        $fr_m_x = $fr_m_x + 6.5;
+                        $fr_m_x = $fr_m_x + 3.5;
                     }
                 }
-                //2 To
+                //To
                 $date_to = $birData['month_to'];
                 if(!empty($date_to))
                 {
-                    $to_m_x = 180.5;   
+                    $line = 30;
+                    $to_m_x = 181.5;   
                     $date_to = str_replace('-', '', $date_to);
                     for($to_m_s = 0 ; $to_m_s <= strlen($date_to); $to_m_s++)
                     {
                         $to_m_sub = substr($date_to,$to_m_s,1);
                         $pdf->MultiCell(10, 10, $to_m_sub, 0, 'C', false, 0, $to_m_x, $line, true, 0, false, false, 0, 'T', true);   
-                        $to_m_x = $to_m_x + 6.5;
+                        $to_m_x = $to_m_x + 3.5;
                     }
                 }
 
@@ -1990,48 +1970,32 @@ class Report_generator extends MY_PrivateController
                 $birth_date = $birData['birth_date'];
                 $civil_status = $birData['civil_status_id'];
                 
-            //3 Tin ID
+            //Tin ID
                 if(!empty($tin_id))
                 {
-                    $line += 10;
-                    $tin_id_x = 22.5;
+                    $line = 40;
+                    $tin_id_x = 43.5;
                     $tin_id = str_replace("-", "", $tin_id);
                     for($tin_s = 0 ; $tin_s <= strlen($tin_id); $tin_s++)
                     {
                         $tin_id_sub = substr($tin_id, $tin_s,1);
                         if( in_array($tin_s, array(3, 6, 9)) ){
                             $pdf->MultiCell(10, 10, ' ', 0, 'C', false, 0, $tin_id_x, $line, true, 0, false, false, 0, 'T', true);  
-                            $tin_id_x = $tin_id_x + 3.5;
+                            $tin_id_x = $tin_id_x + 3.95;
                             $pdf->MultiCell(10, 10, $tin_id_sub, 0, 'C', false, 0, $tin_id_x, $line, true, 0, false, false, 0, 'T', true);  
                         }else{
                             $pdf->MultiCell(10, 10, $tin_id_sub, 0, 'C', false, 0, $tin_id_x, $line, true, 0, false, false, 0, 'T', true);  
                         } 
-                        $tin_id_x = $tin_id_x + 5;
+                        $tin_id_x = $tin_id_x + 3.95;
                     } 
                 }
-            //4 employee name
-                $line += 9.5;
-                $name_x = 11;
+            //employee name
+                $line = 49;
+                $name_x = 18;
                 $pdf->MultiCell(83, 10, $emp_name, 0, 'L', false, 0, $name_x, $line, true, 0, false, false, 0, 'T', true);   
-
-            //5 RDO Code
-                $rdo_code = $birData['rdo'];
-                
-                if(!empty($rdo_code))
-                {
-                    //$line = 49;
-                    $rdo_code_x = 88;
-                    for($rdo_s = 0; $rdo_s <= strlen($rdo_code); $rdo_s++)
-                    {
-                        $rdo_code_sub = substr($rdo_code, $rdo_s,1);
-                        $pdf->MultiCell(10, 10, $rdo_code_sub, 0, 'C', false, 0, $rdo_code_x, $line, true, 0, false, false, 0, 'T', true);   
-                        $rdo_code_x = $rdo_code_x + 5;
-                    }
-                }
-
-            //6 permanent/registered address
-                $line += 8;
-                $regadd_x = 11;
+            //permanent/registered address
+                $line = 57.7;
+                $regadd_x = 18;
                 if(strlen($reg_add) > 40){
                     $pdf->SetFontSize(7);
                     $pdf->MultiCell(75, 10, $reg_add, 0, 'L', false, 0, $regadd_x, $line, true, 0, false, false, 0, 'T', true); 
@@ -2040,38 +2004,39 @@ class Report_generator extends MY_PrivateController
                 else{
                     $pdf->MultiCell(75, 10, $reg_add, 0, 'L', false, 0, $regadd_x, $line, true, 0, false, false, 0, 'T', true);   
                 }
-            //6A ZIP Code
+            //ZIP Code 6A
                 if(!empty($zip_code))
                 {
-                    $line += 2;
-                    $zip_code_x = 87;
+                    $line = 57.7;
+                    $zip_code_x = 89.5;
                     for($zip_s = 0; $zip_s <= strlen($zip_code); $zip_s++ )
-                    { 
+                    {
                         $zip_code_sub = substr($zip_code, $zip_s,1);
                         $pdf->MultiCell(10, 10,  $zip_code_sub, 0, 'C', false, 0, $zip_code_x, $line, true, 0, false, false, 0, 'T', true);   
-                        $zip_code_x = $zip_code_x + 4.5;
+                        $zip_code_x = $zip_code_x + 4;
                     }
                 }
-            //7 Birth Date
+            //Birth Date
                 // ******** BEGIN ******** //
                 //for MM/DD
                     if(!empty($birth_date))
                     {
-                        $line += 29;
-                        $bday_x = 8;
+                        $line = 83.2;
+                        $bday_x = 14.9;
                         $birth_date = str_replace("-", "", $birth_date);
                         for($birth_date_s = 4; $birth_date_s <= strlen($birth_date); $birth_date_s++)
                         {
                             $birth_date_sub = substr($birth_date, $birth_date_s, 1);
                             $pdf->MultiCell(10, 10, $birth_date_sub , 0, 'C', false, 0, $bday_x, $line, true, 0, false, false, 0, 'T', true);   
-                            $bday_x = $bday_x + 5;
+                            $bday_x = $bday_x + 4.3;
                         }
                     }
                 //for Year
                     $birth_date_yr = date('Y',strtotime($birth_date));
                     if(!empty($birth_date_yr))
                     {
-                        $bday_x = 26.5;
+                        $line = 83.2;
+                        $bday_x = 32.5;
                         for($birth_date_s = 0; $birth_date_s <= strlen($birth_date_yr); $birth_date_s++)
                         {
                             $birth_date_sub_yr = substr($birth_date_yr, $birth_date_s, 1);
@@ -2080,138 +2045,165 @@ class Report_generator extends MY_PrivateController
                         }
                     }
                 // ********* END ********* //
+            //Exempt Status
+                if(!empty($civil_status))
+                {
+                    //$civil_status = 'M';
+                    switch ($civil_status)
+                    {
+                        case 1: //single
+                            $line = 91.15;
+                            $cs_x = 32;
+                            $pdf->MultiCell(10, 10, 'x', 0, 'C', false, 0, $cs_x, $line, true, 0, false, false, 0, 'T', true);   
+                            break;
+                        
+                        case 2: //married
+                            $line = 91.15;
+                            $cs_x = 61.8;
+                            $pdf->MultiCell(10, 10, 'x', 0, 'C', false, 0, $cs_x, $line, true, 0, false, false, 0, 'T', true);   
+                            break;
+                        
+                        default:
+                            $pdf->MultiCell(10, 10, ' ', 0, 'C', false, 0, $cs_x, $line, true, 0, false, false, 0, 'T', true);   
+                            break;
+                    }
+                }
 
-                //9 statutory minimum wage rate per day
+            //RDO Code
+                $rdo_code = $birData['rdo'];
+                
+                if(!empty($rdo_code))
+                {
+                    $line = 49;
+                    $rdo_code_x = 90;
+                    for($rdo_s = 0; $rdo_s <= strlen($rdo_code); $rdo_s++)
+                    {
+                        $rdo_code_sub = substr($rdo_code, $rdo_s,1);
+                        $pdf->MultiCell(10, 10, $rdo_code_sub, 0, 'C', false, 0, $rdo_code_x, $line, true, 0, false, false, 0, 'T', true);   
+                        $rdo_code_x = $rdo_code_x + 5.8;
+                    }
+                }
+
+            // DEPENDENT DETAILS        
+                // ******** BEGIN ******** //
+                $depend_res[0]['name'] = $birData['dep_name1'];
+                $depend_res[0]['birth_date'] = $birData['dep_bday1'];
+                $depend_res[1]['name'] = $birData['dep_name2'];
+                $depend_res[1]['birth_date'] = $birData['dep_bday2'];
+                $depend_res[2]['name'] = $birData['dep_name3'];
+                $depend_res[2]['birth_date'] = $birData['dep_bday3'];
+                $depend_res[3]['name'] = $birData['dep_name4'];
+                $depend_res[3]['birth_date'] = $birData['dep_bday4'];
+                foreach ($depend_res as $depends) {
+                    $line = 105.4;
+                    $depend_x = 18;
+                    $pdf->MultiCell(70, 10, $depends['name'], 0, 'L', false, 0, $depend_x, $line, true, 0, false, false, 0, 'T', true);           
+
+                    //dependent birth day
+                    $depend_birht_date = $depends['birth_date']; 
+                   
+                    //MM-DD
+                    
+                    if(strtotime($depend_birht_date))
+                    {
+                        if(!empty($depend_birht_date))
+                        {
+                            $line = 105.4;
+                            $depend_x = 72.6;   
+                            $depend_birht_date = str_replace("-", "", $depend_birht_date);
+                            for($depend_bday_s = 4; $depend_bday_s <= strlen($depend_birht_date); $depend_bday_s++)
+                            {
+                                $depend_bday_sub = substr($depend_birht_date, $depend_bday_s, 1);
+                                $pdf->MultiCell(10, 10, $depend_bday_sub , 0, 'C', false, 0, $depend_x, $line, true, 0, false, false, 0, 'T', true);   
+                                $depend_x = $depend_x + 4.1;
+                            }
+                        }
+                    
+                        //yearf
+                        $depend_bday_year1 = date('Y', strtotime($depend_birht_date));
+                        if(!empty($depend_bday_year1))
+                        {
+                            $line = 105.4;
+                            $depend_x = 89.5;   
+                            for($depend_bday_s = 0; $depend_bday_s <= strlen($depend_bday_year1); $depend_bday_s++)
+                            {
+                                $depend_bday_sub_y1 = substr($depend_bday_year1, $depend_bday_s, 1);
+                                $pdf->MultiCell(10, 10, $depend_bday_sub_y1 , 0, 'C', false, 0, $depend_x, $line, true, 0, false, false, 0, 'T', true);   
+                                $depend_x = $depend_x + 4.1;
+                            }
+                        }
+                    }
+                }
+                // ********* END ********* //
+
+                //statutory minimum wage rate per day
+
                 $min_wage_rate_per_day = $birData['minwage_day']; 
-                $line += 7;
-                $min_wage_x = 72.6;
+                $line = 122;
+                $min_wage_x = 74.6;
                 $pdf->MultiCell(35, 10, $min_wage_rate_per_day, 0, 'R', false, 0, $min_wage_x, $line, true, 0, false, false, 0, 'T', true);   
                 
-                //10 statutory minimum wage rate per month
+                //statutory minimum wage rate per month
 
                 $min_wage_rate_per_month = $birData['minwage_month']; 
-                $line += 6.5;
-                $min_wage_x = 72.6;
+                $line = 127.5;
+                $min_wage_x = 74.6;
                 $pdf->MultiCell(35, 10, $min_wage_rate_per_month, 0, 'R', false, 0, $min_wage_x, $line, true, 0, false, false, 0, 'T', true);  
 
 
-            //PART II EMPLOYERS INFO (PRESENT)
+            // PART II EMPLOYERS INFO
                 //******** START ********//
-				
-				
-				//12 employer TIN (Current)
+
                 if(!empty($birData['comp_tin']))
                     {
-                        $line += 16;
-                        $tin_id_x = 22.5;
+                        $line = 142;
+                        $tin_id_x = 43.5;
                         $employer_tin = str_replace("-", " ", $birData['comp_tin']);
                         for($tin_s = 0 ; $tin_s <= strlen($employer_tin); $tin_s++)
                         {
-                            if( in_array($tin_s, array(3, 6, 9)) ){
-                                $employer_tin_sub = substr($employer_tin, $tin_s,1);
-                                $pdf->MultiCell(10, 10, $employer_tin_sub, 0, 'C', false, 0, $tin_id_x, $line, true, 0, false, false, 0, 'T', true);   
-                                $tin_id_x = $tin_id_x + 3.8;
-                            }else{
-                                $employer_tin_sub = substr($employer_tin, $tin_s,1);
-                                $pdf->MultiCell(10, 10, $employer_tin_sub, 0, 'C', false, 0, $tin_id_x, $line, true, 0, false, false, 0, 'T', true);   
-                                $tin_id_x = $tin_id_x + 4.95;
-                            } 
+                            $employer_tin_sub = substr($employer_tin, $tin_s,1);
+                            $pdf->MultiCell(10, 10, $employer_tin_sub, 0, 'C', false, 0, $tin_id_x, $line, true, 0, false, false, 0, 'T', true);   
+                            $tin_id_x = $tin_id_x + 3.95;
                         }
                         // $pdf->MultiCell(10, 10,"0", 0, 'C', false, 0, 91.7, $line, true, 0, false, false, 0, 'T', true);   
                         // $pdf->MultiCell(10, 10,"0", 0, 'C', false, 0, 95, $line, true, 0, false, false, 0, 'T', true);   
                         // $pdf->MultiCell(10, 10,"0", 0, 'C', false, 0, 98.5, $line, true, 0, false, false, 0, 'T', true);   
                         
                     }
-                //$reg_company = get_registered_company();
-                $company = $birData['company'];
-/*                if(is_array($reg_company)) {
+                $reg_company = get_registered_company();
+                if(is_array($reg_company)) {
                     $company = $reg_company['registered_company'];
-                }*/
-				
-				//13 employer name(current)
-                $line += 9;
-                $pdf->MultiCell(100, 10, $company, 0, 'L', false, 0, 10, $line, true, 0, false, false, 0, 'T', true);  
+                }
+                $line = 150.5;
+                $pdf->MultiCell(100, 10, $company, 0, 'L', false, 0, 17, $line, true, 0, false, false, 0, 'T', true);  
 
-				//14 employer address(current)
                 $company_address = $birData['comp_address']; 
                 $company_zipcode = str_pad($birData['comp_zipcode'],4,"0",STR_PAD_LEFT); 
-                $line += 10;
+                $line = 159.5;
                 if(strlen($company_address) > 40){
                     $pdf->SetFontSize(6.5);
-                    $pdf->MultiCell(78, 10, $company_address, 0, 'L', false, 0, 10, $line, true, 0, false, false, 0, 'T', true); 
+                    $pdf->MultiCell(78, 10, $company_address, 0, 'L', false, 0, 17, $line, true, 0, false, false, 0, 'T', true); 
                     $pdf->SetFontSize(10);
                 }
                 else{
-                    $pdf->MultiCell(50, 10, $company_address, 0, 'L', false, 0, 10, $line, true, 0, false, false, 0, 'T', true); 
+                    $pdf->MultiCell(50, 10, $company_address, 0, 'L', false, 0, 17, $line, true, 0, false, false, 0, 'T', true); 
                 }
-				
-				//14A employer zipcode(current)
-                $company_zipcode_x = 89;
+
+                $company_zipcode_x = 92.5;
                     for($tin_s = 0 ; $tin_s <= strlen($company_zipcode); $tin_s++)
                     {
                         $company_zipcode_sub = substr($company_zipcode, $tin_s,1);
-                        $pdf->MultiCell(50, 10, $company_zipcode_sub, 0, 'L', false, 0, $company_zipcode_x.$line, $line, true, 0, false, false, 0, 'T', true); 
-                        $company_zipcode_x = $company_zipcode_x + 4.7;
+                        $pdf->MultiCell(50, 10, $company_zipcode_sub, 0, 'L', false, 0, $company_zipcode_x, $line, true, 0, false, false, 0, 'T', true); 
+                        $company_zipcode_x = $company_zipcode_x + 3.95;
                     }
                 
                 //********  END  ********//
-				
-
-			//Part III - Employer Information (Previous)
-			
-			$qprev = "SELECT *
-						FROM ww_payroll_partners_previous_employer
-						WHERE user_id = {$user_id}";
-			$rprev = $this->db->query($qprev);
-			if($rprev && $rprev->num_rows() > 0){
-				$prevEmp = $rprev->row_array();
-				
-				//16 Previous TIN
-				$prev_tin = $prevEmp['tin'];
-                if(!empty($prev_tin))
-                {
-					
-                    $line += 17;
-                    $prevtin_id_x = 22.5;
-                    $prev_tin = str_replace("-", "", $prev_tin);
-                    for($tin_s = 0 ; $tin_s <= strlen($prev_tin); $tin_s++)
-                    {
-                        $prevtin_id_sub = substr($prev_tin, $tin_s,1);
-                        if( in_array($tin_s, array(3, 6, 9)) ){
-                            $pdf->MultiCell(10, 10, ' ', 0, 'C', false, 0, $prevtin_id_x, $line, true, 0, false, false, 0, 'T', true);  
-                            $prevtin_id_x = $prevtin_id_x + 3.5;
-                            $pdf->MultiCell(10, 10, $prevtin_id_sub, 0, 'C', false, 0, $prevtin_id_x, $line, true, 0, false, false, 0, 'T', true);  
-                        }else{
-                            $pdf->MultiCell(10, 10, $prevtin_id_sub, 0, 'C', false, 0, $prevtin_id_x, $line, true, 0, false, false, 0, 'T', true);  
-                        } 
-                        $prevtin_id_x = $prevtin_id_x + 5;
-                    } 
-					$line -= 17;
-                }
-				
-				//17 Previous Employer Name
-				$line += 27;
-				$pdf->SetFontSize(8);
-				$pdf->MultiCell(100, 10, $prevEmp['company_name'], 0, 'L', false, 0, 10, $line, true, 0, false, false, 0, 'T', true);  
-				
-				//18 Previous Employer Address
-				$line += 10;
-				$pdf->SetFontSize(6.5);
-				$pdf->MultiCell(100, 10, $prevEmp['address'], 0, 'L', false, 0, 10, $line, true, 0, false, false, 0, 'T', true);  
-				$pdf->SetFontSize(10);
-				
-				//18A Previous zip code
-				
-				$line -= 27;
-				$line -= 9;
-			}
-
-
+            
             //Part IV-A SUMMARY
             
             //******** START ********//
 
-                $item_x = 63;
+                $item_x = 64;
             // get value
 
                 // bonus : not included  if the paydate was January 15
@@ -2243,7 +2235,6 @@ class Report_generator extends MY_PrivateController
                 $item_32 = $birData['item32'];
                 $item_34 = $birData['item34'];
                 $item_39 = $birData['item39'];
-                $item_40 = $birData['item40'];
                 $item_38 = $birData['item38'];
                 $item_41 = $birData['item41'];
                 $item_42 = $birData['item42'];
@@ -2258,74 +2249,50 @@ class Report_generator extends MY_PrivateController
                 $item_28 = $birData['item28'];
 
                 // check if minimum wage earner
-                $item_29 = $birData['item29']; //24 taxdue
-                $item_30A = $birData['item30A']; //25A wtax
-                $item_31 = $birData['item31']; //  Tax Refund
+                $item_29 = $birData['item29'];
+                $item_30A = $birData['item30A'];
+                $item_31 = $birData['item31'];
 
-				// yester override
-				$item_29 = $birData['item29']; // taxdue
-                $item_30A = $birData['item30A']; // wtax
-                $item_31 = $birData['item31']; //  Tax Refund
-				
-				
-				
-			// IS TAXABLE?????? IF BELOW 250k OR NOT
-				$isTaxable = false;
-				if($item_55 > 250000){
-					$isTaxable = true;
-				}
-				
-				
-            //19 Item #21 = > Item #55 = Item #42 + Item #51 + Item #53 //19 GROSS COMPENSATION
-                $line += 46;
+            // Item #21 = > Item #55 = Item #42 + Item #51 + Item #53
+                $line = 198.5;
                 $pdf->MultiCell(45, 10, ( $item_21 != "" ? number_format( $item_21 ,2,'.',',') : "0.00") , 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-            //20 Item #22 = > Item #41 = Item #37 + Item #39 //20 LESS: TOTAL NON-TAXABLE
-                $line += 7.2;
-				if(!$isTaxable){
-					$item_22 = $item_21;
-				}
+            // Item #22 = > Item #41 = Item #37 + Item #39 
+                $line = 203.5;
                 $pdf->MultiCell(45, 10, ( $item_22 != "" ? number_format( $item_22 ,2,'.',','): "0.00") , 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-            //21 Item #23 = Item #55 //21 TAXABLE COMPENSATION INCOME FROM PRESENT
-                $line += 7.2;
-				if(!$isTaxable){
-					$item_23 = 0;
-				}
+            // Item #23 = Item #55
+                $line = 209;
                 $pdf->MultiCell(45, 10, ( $item_23 != "" ? number_format( $item_23 ,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-            //22 Item #24 = Previous Employer Tax
+            // Item #24 = Previous Employer Tax
                 $item24_val = ""; 
-                $line += 7.2;
+                $line = 213.8;
                 $pdf->MultiCell(45, 10, ( $item24_val != "" ? number_format($item24_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-            //23 Item #25 = Item #23 - Item #24
-				if(!$isTaxable){
-					$item_25 = 0;
-				}
-                $line += 7.2;
+            // Item #25 = Item #23 - Item #24
+                $line = 219;
                 $pdf->MultiCell(45, 10, ( $item_25 != "" ? number_format( $item_25 ,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-
+            // Item #26 = Exemption
+                $line = 224.4;
+                $pdf->MultiCell(45, 10, ( $item_26 != "" ? number_format( $item_26 ,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
+            // Item #27 = 
+                $item27_val = ""; 
+                $line = 229.4;
+                $pdf->MultiCell(45, 10, ( $item27_val != "" ? number_format($item27_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
+            // Item #28 = Item 25 - Item 26
+                $line = 234.6;
+                $pdf->MultiCell(45, 10, ( $item_28 != "" ? number_format( $item_28 ,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
+            
             // Withheld Tax will be equal to Tax Due
-			
-            //24 Item #29 = Tax Due
-                $line += 7.2;
+            // Item #29 = Tax Due
+                $line = 239.8;
                 $pdf->MultiCell(45, 10, ( $item_29 != "" ? number_format( $item_29 ,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-            //25A Item #30A = Present Employer WTAX
-                $line += 7.2;
-				if(!$isTaxable){
-					$item_30A = 0;
-				} else {
-					$item_30A = $item_29;
-				}
+            // Item #30A = Present Employer WTAX
+                $line = 246.8;
                 $pdf->MultiCell(45, 10, ( $item_30A != "" ? number_format( $item_30A ,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-            //25B Item #30B = Previous Employer WTAX
+            // Item #30B = Previous Employer WTAX
                 $item30B_val = ""; 
-                $line += 7.2;
+                $line = 252.2;
                 $pdf->MultiCell(45, 10, ( $item30B_val != "" ? number_format($item30B_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-            //26 Item #31 = Tax Refund
-                $line += 7.2;
-				if(!$isTaxable){
-					$item_31 = 0;
-				} else {
-					$item_31 = $item_29;
-				}
+            // Item #31 = Tax Refund
+                $line = 257.8;
                 $pdf->MultiCell(45, 10, ( $item_31 != "" ? number_format( $item_31 ,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
             //********* END *********//   7914093
 
@@ -2335,156 +2302,103 @@ class Report_generator extends MY_PrivateController
 
             // A. Non-Taxable/Exempt Compensation Income
 
-                $item_x = 165;
-            //27 Item #32
-                $line = 55.6;
-				
-				if($isTaxable){
-					$pdf->MultiCell(45, 10, ( $item_32 != "" ? number_format($item_32,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-				} else {
-					$pdf->MultiCell(45, 10, ( $item_55 != "" ? number_format($item_55,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-				
-				}
-
-		   //28 Item #33
+                $item_x = 155;
+            // Item #32
+                $line = 49.6;
+                $pdf->MultiCell(45, 10, ( $item_32 != "" ? number_format($item_32,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
+            // Item #33
                 $item33_val = ""; 
-                $line += 7;
+                $line = 60;
                 $pdf->MultiCell(45, 10, ( $item33_val != "" ? number_format($item33_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-            //29 Item #34
-                $line += 7;
+            // Item #34
+                $line = 67.2;
                 $pdf->MultiCell(45, 10, ( $item_34 != "" ? number_format($item_34,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-            //30 Item #35
+            // Item #35
                 $item35_val = ""; 
-                $line += 7.5;
+                $line = 73.9;
                 $pdf->MultiCell(45, 10, ( $item35_val != "" ? number_format($item35_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-            //31 Item #36
+            // Item #36
                 $item36_val = ""; 
-                $line += 7.5;
+                $line = 81.5;
                 $pdf->MultiCell(45, 10, ( $item36_val != "" ? number_format($item36_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-            //32 Item #37 = 13th Month Pay
-                $line += 7.5;
+            // Item #37 = 13th Month Pay
+                $line = 87.8;
                 $pdf->MultiCell(45, 10, ( $item_37 != "" ? number_format( $item_37 ,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-            //33 Item #38 = De Minimis Benefits
-                $line += 7;
+            // Item #38 = De Minimis Benefits
+                $line = 96.5;
                 $pdf->MultiCell(45, 10, ( $item_38 != "" ? number_format( $item_38 ,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-            //34 Item #39 = Gov't Contribution
-                $line += 7;
+            // Item #39 = Gov't Contribution
+                $line = 106.3;
                 $pdf->MultiCell(45, 10, ( $item_39 != "" ? number_format( $item_39 ,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-            //35 Item #40
-                $line += 7;
-                $pdf->MultiCell(45, 10, ( $item_40 != "" ? number_format($item_40,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-            //36 Item #41 = Item #37 - Item #39
-                $line += 7;
-				if($isTaxable){
-					$pdf->MultiCell(45, 10, ( $item_41 != "" ? number_format( $item_41 ,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);
-				} else {
-					$pdf->MultiCell(45, 10, ( $item_21 != "" ? number_format( $item_21 ,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);
-				}
-				
-				
-			// B. TAXABLE COMPENSATION INCOME REGULAR
-			
-			
-			
-			
-			
-            //37 Item #42 = Total Basic Salary
-                $line += 12.5;
-				if($isTaxable){
-					$pdf->MultiCell(45, 10, ( $item_42 != "" ? number_format( $item_42 ,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-				}
-			//38 Item #43 = Representation
+            // Item #40
+                $item40_val = ""; 
+                $line = 118.8;
+                $pdf->MultiCell(45, 10, ( $item40_val != "" ? number_format($item40_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
+            // Item #41 = Item #37 - Item #39
+                $line = 128;
+                $pdf->MultiCell(45, 10, ( $item_41 != "" ? number_format( $item_41 ,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
+            // B. TAXABLE COMPENSATION INCOME REGULAR
+            // Item #42 = Total Basic Salary
+                $line = 144.9;
+                $pdf->MultiCell(45, 10, ( $item_42 != "" ? number_format( $item_42 ,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
+            // Item #43
                 $item43_val = ""; 
-                $line += 7;
-				if($isTaxable){
-					$pdf->MultiCell(45, 10, ( $item43_val != "" ? number_format($item43_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-				}
-			//39 Item #44 = Transportation
+                $line = 152;
+                $pdf->MultiCell(45, 10, ( $item43_val != "" ? number_format($item43_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
+            // Item #44
                 $item44_val = ""; 
-                $line += 7;
-				if($isTaxable){
-					$pdf->MultiCell(45, 10, ( $item44_val != "" ? number_format($item44_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-				}
-			//40 Item #45 COLA
-                $item45 = $birData['item45']; 
-                $line += 7;
-				if($isTaxable){
-					$pdf->MultiCell(45, 10, ( $item45 != "" ? number_format($item45,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-				}
-			//41 Item #46 = Fixed Housing Allowance
+                $line = 159.1;
+                $pdf->MultiCell(45, 10, ( $item44_val != "" ? number_format($item44_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
+            // Item #45
+                $item45_val = ""; 
+                $line = 165.5;
+                $pdf->MultiCell(45, 10, ( $item45_val != "" ? number_format($item45_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
+            // Item #46
                 $item46_val = ""; 
-                $line += 7;
-				if($isTaxable){
-					$pdf->MultiCell(45, 10, ( $item46_val != "" ? number_format($item46_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-				}
-			//42A Item #47A
-                $item47A = $birData['item47A'];
-                $line += 11;
-				if($isTaxable){
-					$pdf->MultiCell(45, 10, 'Tempo Allowance', 0, 'R', false, 0, 104, $line, true, 0, false, false, 0, 'T', true);   
-					$pdf->MultiCell(45, 10, ( $item47A != "" ? number_format($item47A,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-				}
-		   //42B Item #47B
-                $item47B = $birData['item47B']; 
-                $line += 7;
-				if($isTaxable){
-					$pdf->MultiCell(46, 10, 'Service Allowance', 0, 'R', false, 0, 104, $line, true, 0, false, false, 0, 'T', true);   
-					$pdf->MultiCell(45, 10, ( $item47B != "" ? number_format($item47B,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-				}
-			//43 Item #48
+                $line = 172.1;
+                $pdf->MultiCell(45, 10, ( $item46_val != "" ? number_format($item46_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
+            // Item #47A
+                $item47A_val = ""; 
+                $line = 181;
+                $pdf->MultiCell(45, 10, ( $item47A_val != "" ? number_format($item47A_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
+            // Item #47B
+                $item47B_val = ""; 
+                $line = 187.8;
+                $pdf->MultiCell(45, 10, ( $item47B_val != "" ? number_format($item47B_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
+            // Item #48
                 $item48_val = ""; 
-                $line += 10;
-				if($isTaxable){
-					$pdf->MultiCell(45, 10, ( $item48_val != "" ? number_format($item48_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-				}
-			//44 Item #49
+                $line = 196.2;
+                $pdf->MultiCell(45, 10, ( $item48_val != "" ? number_format($item48_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
+            // Item #49
                 $item49_val = ""; 
-                $line += 7;
-				if($isTaxable){
-					$pdf->MultiCell(45, 10, ( $item49_val != "" ? number_format($item49_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-				}
-			//45 Item #50
+                $line = 203.7;
+                $pdf->MultiCell(45, 10, ( $item49_val != "" ? number_format($item49_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
+            // Item #50
                 $item50_val = ""; 
-                $line += 7;
-				if($isTaxable){
-					$pdf->MultiCell(45, 10, ( $item50_val != "" ? number_format($item50_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-				}
-		   //46 Item #51 = 13th Month > 30K
-                $line += 7;
-				if($isTaxable){
-					$pdf->MultiCell(45, 10, ( $item_51 != "" ? number_format( $item_51 ,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-				}
-			//47 Item #52
+                $line = 211.6;
+                $pdf->MultiCell(45, 10, ( $item50_val != "" ? number_format($item50_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
+            // Item #51 = 13th Month > 30K
+                $line = 219.1;
+                $pdf->MultiCell(45, 10, ( $item_51 != "" ? number_format( $item_51 ,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
+            // Item #52
                 $item52_val = ""; 
-                $line += 7;
-				if($isTaxable){
-					$pdf->MultiCell(45, 10, ( $item52_val != "" ? number_format($item52_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-				}
-			//48 Item #53 = Overtime
-                $line += 7;
-				if($isTaxable){
-					$pdf->MultiCell(45, 10, ( $item_53 != "" ? number_format( $item_53,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-				}
-			//49A Item #54A
+                $line = 227.6;
+                $pdf->MultiCell(45, 10, ( $item52_val != "" ? number_format($item52_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
+            // Item #53 = Overtime
+                $line = 234.9;
+                $pdf->MultiCell(45, 10, ( $item_53 != "" ? number_format( $item_53,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
+            // Item #54A
                 $item54A_val = ""; 
-                $line += 11;
-				if($isTaxable){
-					$pdf->MultiCell(45, 10, ( $item54A_val != "" ? number_format($item54A_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-				}
-			//49B Item #54B
+                $line = 245.1;
+                $pdf->MultiCell(45, 10, ( $item54A_val != "" ? number_format($item54A_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
+            // Item #54B
                 $item54B_val = ""; 
-                $line += 7.5;
-				if($isTaxable){
-					$pdf->MultiCell(45, 10, ( $item54B_val != "" ? number_format($item54B_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-				}
-			
-			//50 = TOTAL TAXABLE COMPENSATION INCOME
-			// Item #55 = Item #42 + Item #51 + Item #53
-                $line += 7.5;
-				if($isTaxable){
-					$pdf->MultiCell(45, 10, ( $item_55 != "" ? number_format( $item_55 ,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
-				}
-				
+                $line = 250.9;
+                $pdf->MultiCell(45, 10, ( $item54B_val != "" ? number_format($item54B_val,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
+            // Item #55 = Item #42 + Item #51 + Item #53
+                $line = 257.2;
+                $pdf->MultiCell(45, 10, ( $item_55 != "" ? number_format( $item_55 ,2,'.',',') : "0.00" ), 0, 'R', false, 0, $item_x, $line, true, 0, false, false, 0, 'T', true);   
+
             //********* END *********//   
 
          // SIGNATURE
@@ -2503,15 +2417,15 @@ class Report_generator extends MY_PrivateController
                 $pdf->MultiCell(70, 10, $authorized_name, 0, 'C', false, 0, 29, $line, true, 0, false, false, 0, 'T', true);  
             
             //item 57
-                $line = 278.5;
+                $line = 274.5;
                 $pdf->MultiCell(70, 10, $emp_name, 0, 'C', false, 0, 29, $line, true, 0, false, false, 0, 'T', true);  
 
              //item 58
-                $line = 308.5;
+                $line = 297.2;
                 $pdf->MultiCell(70, 10, $authorized_name, 0, 'C', false, 0, 29, $line, true, 0, false, false, 0, 'T', true); 
 
             //item 59
-                $line = 314;
+                $line = 304.5;
                 $pdf->MultiCell(60, 10, $emp_name, 0, 'C', false, 0, 124.8, $line, true, 0, false, false, 0, 'T', true);  
 
 
@@ -2634,4 +2548,3 @@ class Report_generator extends MY_PrivateController
         $this->_ajax_return();  
     }
 }
-

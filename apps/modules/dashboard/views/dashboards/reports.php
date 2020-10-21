@@ -71,18 +71,20 @@
 
 <script>
 	function get_param_form( report_id )
-	{
+	{   let rut = "http://localhost/hris/";
+	    let datum ='record_id='+report_id ;
 		$.blockUI({ message: loading_message(), 
 			onBlock: function(){
 				$.ajax({
+					
 					url: '{{ get_mod_route('report_generator') }}/get_param_form',
 					type:"POST",
 					dataType: "json",
-					data: 'record_id='+report_id,
+					data: datum,
 					async: false,
 					success: function ( response ) {
 						handle_ajax_message( response.message );
-
+                                 console.log(response);
 						if( typeof(response.quick_edit_form) != 'undefined' )
 						{
 							$('.modal-container').html(response.quick_edit_form);

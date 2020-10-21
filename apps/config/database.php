@@ -48,9 +48,9 @@
 $active_group = 'local';
 $active_record = TRUE;
 
-$db['local']['hostname'] = '192.0.100.21';
-$db['local']['username'] = 'emplopad';
-$db['local']['password'] = 'Passw0rd';
+$db['local']['hostname'] = 'localhost';
+$db['local']['username'] = 'root';
+$db['local']['password'] = '';
 $db['local']['database'] = 'emplopad';
 $db['local']['dbdriver'] = 'mysqli';
 $db['local']['dbprefix'] = 'ww_';
